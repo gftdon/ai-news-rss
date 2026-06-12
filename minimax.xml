@@ -5,7 +5,14 @@
     <link>https://www.minimax.io/blog</link>
     <description>Latest posts from MiniMax Blog</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:01:06 GMT</lastBuildDate>
+    <item>
+      <title>MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Evolutionary Search</title>
+      <link>https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</link>
+      <description>In the M3 release post, we reported the performance of the M3 model on two international mathematical olympiad benchmarks: IMO 2025 and USAMO 2026. With the MaxProof framework, M3 exceeded the human gold-medal threshold on both. This article further elaborates on our technical path toward advancing mathematical proof capabilities, including base model enhancement, verifier alignment, refinement capability building, and the design of the test-time scaling framework MaxProof.</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</guid>
+    </item>
     <item>
       <title>MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All in One Model</title>
       <link>https://www.minimax.io/blog/minimax-m3</link>
