@@ -23,6 +23,7 @@ const scrapers = {
   'meta-ai': require('./scrapers/meta-ai'),
   qwen: require('./scrapers/qwen'),
   deepseek: require('./scrapers/deepseek'),
+  'openai-research': require('./scrapers/openai-research'),
 };
 
 const OUTPUT_DIR = path.join(__dirname, 'public');
