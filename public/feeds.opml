@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>AI News RSS Feed Hub</title>
+    <dateCreated>2026-06-11T00:00:00Z</dateCreated>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Official RSS Feeds" title="Official RSS Feeds">
+      <outline type="rss" text="OpenAI News" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news" description="ข่าวเปิดตัวโมเดล/ผลิตภัณฑ์ทางการ"/>
+      <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="https://blog.google/technology/ai/rss/" htmlUrl="https://blog.google/technology/ai/" description="ข่าว Google / DeepMind"/>
+      <outline type="rss" text="Hugging Face Blog" title="Hugging Face Blog" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" description="โมเดลและเครื่องมือ open-source"/>
+      <outline type="rss" text="MarkTechPost" title="MarkTechPost" xmlUrl="https://www.marktechpost.com/feed/" htmlUrl="https://www.marktechpost.com" description="สรุปเปเปอร์/ข่าวเร็ว อัปเดตหลายครั้งต่อวัน"/>
+      <outline type="rss" text="MIT Technology Review — AI" title="MIT Technology Review — AI" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed/" htmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/" description="บทวิเคราะห์เชิงนโยบาย/อุตสาหกรรม"/>
+      <outline type="rss" text="The Verge — AI" title="The Verge — AI" xmlUrl="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" htmlUrl="https://www.theverge.com/ai-artificial-intelligence" description="ข่าว AI ฝั่ง consumer"/>
+      <outline type="rss" text="Ahead of AI (Sebastian Raschka)" title="Ahead of AI (Sebastian Raschka)" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com" description="เจาะลึกสถาปัตยกรรม LLM"/>
+      <outline type="rss" text="The Gradient" title="The Gradient" xmlUrl="https://thegradient.pub/rss/" htmlUrl="https://thegradient.pub" description="บทความ long-form (ออกไม่บ่อย)"/>
+      <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai" description="สรุปข่าวรายสัปดาห์ + podcast"/>
+      <outline type="rss" text="arXiv cs.AI" title="arXiv cs.AI" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://arxiv.org/list/cs.AI/recent" description="งานวิจัยต้นทาง (ปริมาณเยอะมาก)"/>
+    </outline>
+    <outline text="RSSHub Feeds" title="RSSHub Feeds">
+      <outline type="rss" text="Anthropic News" title="Anthropic News" xmlUrl="https://rsshub.rssforever.com/anthropic/news" htmlUrl="https://www.anthropic.com/news" description="ข่าวเปิดตัว Claude และ research"/>
+      <outline type="rss" text="Qwen Research" title="Qwen Research" xmlUrl="https://hub.slarker.me/qwen/blog/en-US" htmlUrl="https://qwen.ai/research" description="งานวิจัยจาก Alibaba Qwen team"/>
+      <outline type="rss" text="Meta AI Blog" title="Meta AI Blog" xmlUrl="https://hub.slarker.me/meta/ai/blog" htmlUrl="https://ai.meta.com/blog/" description="งานวิจัยจาก Meta FAIR / Llama team"/>
+      <outline type="rss" text="OpenAI Research" title="OpenAI Research" xmlUrl="https://rsshub.rssforever.com/openai/research" htmlUrl="https://openai.com/research/" description="เปเปอร์และงานวิจัยจาก OpenAI"/>
+    </outline>
+    <outline text="Custom Scrapers (GitHub Pages)" title="Custom Scrapers (GitHub Pages)">
+      <outline type="rss" text="Kimi / Moonshot AI" title="Kimi / Moonshot AI" xmlUrl="kimi.xml" htmlUrl="https://www.kimi.com/blog/" description="บล็อกจาก Kimi AI (Moonshot)"/>
+      <outline type="rss" text="MiniMax AI" title="MiniMax AI" xmlUrl="minimax.xml" htmlUrl="https://www.minimax.io/blog" description="บล็อกจาก MiniMax (Hailuo AI)"/>
+      <outline type="rss" text="ByteDance Seed" title="ByteDance Seed" xmlUrl="seed.xml" htmlUrl="https://seed.bytedance.com/en/blog" description="งานวิจัย AI จาก ByteDance Seed"/>
+      <outline type="rss" text="Kling AI" title="Kling AI" xmlUrl="kling.xml" htmlUrl="https://klingai.com/release-note/release-history" description="Release notes จาก Kling AI (video gen)"/>
+    </outline>
+  </body>
+</opml>
