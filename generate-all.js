@@ -24,6 +24,7 @@ const scrapers = {
   qwen: require('./scrapers/qwen'),
   deepseek: require('./scrapers/deepseek'),
   'openai-research': require('./scrapers/openai-research'),
+  'github-trending': require('./scrapers/github-trending'),
 };
 
 const OUTPUT_DIR = path.join(__dirname, 'public');
