@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MiniMax Blog</title>
+    <link>https://www.minimax.io/blog</link>
+    <description>Latest posts from MiniMax Blog</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:16:35 GMT</lastBuildDate>
+    <item>
+      <title>MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All in One Model</title>
+      <link>https://www.minimax.io/blog/minimax-m3</link>
+      <description>M3 reaches frontier capability on coding and agentic tasks, introduces the brand-new MSA (MiniMax Sparse Attention) supporting up to 1M context, and is a natively multimodal model. It is the only domestic model combining all three Frontier essentials and will be the only open-source one in this class.</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m3</guid>
+    </item>
+    <item>
+      <title>MiniMax Agent Team: Built for Long-Running Tasks and Continuous Evolution</title>
+      <link>https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953</link>
+      <description>Today we are introducing the overall upgrade of MiniMax Agent. We have given the upgraded Agent a new name: Mavis — MiniMax as a Jarvis, your AI butler.</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953</guid>
+    </item>
+    <item>
+      <title>Why Can&apos;t the MiniMax LLM Say &quot;Ma Jiaqi&quot;? Internal Investigation of Sparse Token Forgetting</title>
+      <link>https://www.minimax.io/blog/sparse-token-forgetting</link>
+      <description>The MiniMax M2 series has attracted widespread attention from the developer community. This article presents our internal investigation into the sparse token forgetting phenomenon.</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/sparse-token-forgetting</guid>
+    </item>
+    <item>
+      <title>MiniMax M2.7: Early Echoes of Self-Evolution</title>
+      <link>https://www.minimax.io/blog/minimax-m27</link>
+      <description>M2.7 is MiniMax&apos;s first model deeply participating in its own evolution, excelling at software engineering, professional work, and entertainment with native Agent Teams and self-evolving capabilities.</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m27</guid>
+    </item>
+    <item>
+      <title>Forge: Scalable Agent RL Framework and Algorithm</title>
+      <link>https://www.minimax.io/blog/forge-scalable-agent-rl-en-1779896141</link>
+      <description>Scaling reinforcement learning for real-world agents runs into a three-way conflict: system throughput, training stability, and agent flexibility all pull in different directions, and that tension has</description>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/forge-scalable-agent-rl-en-1779896141</guid>
+    </item>
+    <item>
+      <title>MiniMax M2.5: Built for Real-World Productivity.</title>
+      <link>https://www.minimax.io/blog/minimax-m25</link>
+      <description>MiniMax M2.5: Built for Real-World Productivity.</description>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m25</guid>
+    </item>
+    <item>
+      <title>A Deep Dive into the MiniMax-M2-her</title>
+      <link>https://www.minimax.io/blog/minimax-m2-her</link>
+      <description>Worlds to Dream, Stories to Live. How we built a Role-Play Agent for the production usage. This year marks our third year optimizing Role-Play in Talkie / Xingye. Three years is long enough for a pro</description>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m2-her</guid>
+    </item>
+    <item>
+      <title>MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks</title>
+      <link>https://www.minimax.io/blog/minimax-m21</link>
+      <description>MiniMax M2.1 delivers industry-leading multi-language programming capabilities across Rust, Java, Go, C++, TypeScript and more, with enhanced mobile development, aesthetic web design, concise responses, and robust Agent framework generalization.</description>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m21</guid>
+    </item>
+    <item>
+      <title>MiniMax M2 &amp; Agent: Ingenious in Simplicity</title>
+      <link>https://www.minimax.io/blog/minimax-m2-en-1748600000</link>
+      <description>MiniMax launches and open-sources M2, an agent-first model delivering top-tier coding, tool use, and deep search at 8% of Claude Sonnet&apos;s price with 2x speed. Free API and Agent product available.</description>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m2-en-1748600000</guid>
+    </item>
+  </channel>
+</rss>

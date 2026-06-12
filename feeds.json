@@ -1,0 +1,128 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "htmlUrl": "https://openai.com/news",
+    "category": "official",
+    "description": "ข่าวเปิดตัวโมเดล/ผลิตภัณฑ์ทางการ"
+  },
+  {
+    "name": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/rss/",
+    "htmlUrl": "https://blog.google/technology/ai/",
+    "category": "official",
+    "description": "ข่าว Google / DeepMind"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "htmlUrl": "https://huggingface.co/blog",
+    "category": "official",
+    "description": "โมเดลและเครื่องมือ open-source"
+  },
+  {
+    "name": "MarkTechPost",
+    "url": "https://www.marktechpost.com/feed/",
+    "htmlUrl": "https://www.marktechpost.com",
+    "category": "official",
+    "description": "สรุปเปเปอร์/ข่าวเร็ว อัปเดตหลายครั้งต่อวัน"
+  },
+  {
+    "name": "MIT Technology Review — AI",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    "htmlUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "category": "official",
+    "description": "บทวิเคราะห์เชิงนโยบาย/อุตสาหกรรม"
+  },
+  {
+    "name": "The Verge — AI",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "htmlUrl": "https://www.theverge.com/ai-artificial-intelligence",
+    "category": "official",
+    "description": "ข่าว AI ฝั่ง consumer"
+  },
+  {
+    "name": "Ahead of AI (Sebastian Raschka)",
+    "url": "https://magazine.sebastianraschka.com/feed",
+    "htmlUrl": "https://magazine.sebastianraschka.com",
+    "category": "official",
+    "description": "เจาะลึกสถาปัตยกรรม LLM"
+  },
+  {
+    "name": "The Gradient",
+    "url": "https://thegradient.pub/rss/",
+    "htmlUrl": "https://thegradient.pub",
+    "category": "official",
+    "description": "บทความ long-form (ออกไม่บ่อย)"
+  },
+  {
+    "name": "Last Week in AI",
+    "url": "https://lastweekin.ai/feed",
+    "htmlUrl": "https://lastweekin.ai",
+    "category": "official",
+    "description": "สรุปข่าวรายสัปดาห์ + podcast"
+  },
+  {
+    "name": "arXiv cs.AI",
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "htmlUrl": "https://arxiv.org/list/cs.AI/recent",
+    "category": "official",
+    "description": "งานวิจัยต้นทาง (ปริมาณเยอะมาก)"
+  },
+  {
+    "name": "Anthropic News",
+    "url": "https://rsshub.rssforever.com/anthropic/news",
+    "htmlUrl": "https://www.anthropic.com/news",
+    "category": "rsshub",
+    "description": "ข่าวเปิดตัว Claude และ research"
+  },
+  {
+    "name": "Qwen Research",
+    "url": "https://hub.slarker.me/qwen/blog/en-US",
+    "htmlUrl": "https://qwen.ai/research",
+    "category": "rsshub",
+    "description": "งานวิจัยจาก Alibaba Qwen team"
+  },
+  {
+    "name": "Meta AI Blog",
+    "url": "https://hub.slarker.me/meta/ai/blog",
+    "htmlUrl": "https://ai.meta.com/blog/",
+    "category": "rsshub",
+    "description": "งานวิจัยจาก Meta FAIR / Llama team"
+  },
+  {
+    "name": "OpenAI Research",
+    "url": "https://rsshub.rssforever.com/openai/research",
+    "htmlUrl": "https://openai.com/research/",
+    "category": "rsshub",
+    "description": "เปเปอร์และงานวิจัยจาก OpenAI"
+  },
+  {
+    "name": "Kimi / Moonshot AI",
+    "url": "kimi.xml",
+    "htmlUrl": "https://www.kimi.com/blog/",
+    "category": "custom",
+    "description": "บล็อกจาก Kimi AI (Moonshot)"
+  },
+  {
+    "name": "MiniMax AI",
+    "url": "minimax.xml",
+    "htmlUrl": "https://www.minimax.io/blog",
+    "category": "custom",
+    "description": "บล็อกจาก MiniMax (Hailuo AI)"
+  },
+  {
+    "name": "ByteDance Seed",
+    "url": "seed.xml",
+    "htmlUrl": "https://seed.bytedance.com/en/blog",
+    "category": "custom",
+    "description": "งานวิจัย AI จาก ByteDance Seed"
+  },
+  {
+    "name": "Kling AI",
+    "url": "kling.xml",
+    "htmlUrl": "https://klingai.com/release-note/release-history",
+    "category": "custom",
+    "description": "Release notes จาก Kling AI (video gen)"
+  }
+]

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Kimi AI Research</title>
+    <link>https://www.kimi.com/blog/</link>
+    <description>Latest research articles from Kimi / Moonshot AI</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:16:35 GMT</lastBuildDate>
+    <item>
+      <title>Kimi K2.6</title>
+      <link>https://www.kimi.com/blog/kimi-k2-6</link>
+      <description>Advancing Open-Source Coding</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.kimi.com/blog/kimi-k2-6</guid>
+    </item>
+    <item>
+      <title>Agent Swarm</title>
+      <link>https://www.kimi.com/blog/agent-swarm</link>
+      <description>Agent Swarm</description>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.kimi.com/blog/agent-swarm</guid>
+    </item>
+    <item>
+      <title>WorldVQA</title>
+      <link>https://www.kimi.com/blog/worldvqa</link>
+      <description>WorldVQA</description>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.kimi.com/blog/worldvqa</guid>
+    </item>
+    <item>
+      <title>Kimi K2.5</title>
+      <link>https://www.kimi.com/blog/kimi-k2-5</link>
+      <description>Kimi K2.5</description>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.kimi.com/blog/kimi-k2-5</guid>
+    </item>
+    <item>
+      <title>Kimi Vendor Verifier</title>
+      <link>https://www.kimi.com/blog/kimi-vendor-verifier</link>
+      <description>Kimi Vendor Verifier</description>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.kimi.com/blog/kimi-vendor-verifier</guid>
+    </item>
+    <item>
+      <title>Kimi K2 Thinking</title>
+      <link>https://www.kimi.com/blog/kimi-k2-thinking</link>
+      <description>Kimi K2 Thinking</description>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.kimi.com/blog/kimi-k2-thinking</guid>
+    </item>
+    <item>
+      <title>Kimi-K2-Instruct-0905</title>
+      <link>https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905</link>
+      <description>Kimi-K2-Instruct-0905</description>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905</guid>
+    </item>
+    <item>
+      <title>Kimi K2</title>
+      <link>https://www.kimi.com/blog/kimi-k2</link>
+      <description>Kimi K2</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.kimi.com/blog/kimi-k2</guid>
+    </item>
+    <item>
+      <title>Kimi-Researcher</title>
+      <link>https://moonshotai.github.io/Kimi-Researcher/</link>
+      <description>Kimi-Researcher</description>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://moonshotai.github.io/Kimi-Researcher/</guid>
+    </item>
+    <item>
+      <title>Kimi-Dev</title>
+      <link>https://github.com/MoonshotAI/Kimi-Dev</link>
+      <description>Kimi-Dev</description>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MoonshotAI/Kimi-Dev</guid>
+    </item>
+    <item>
+      <title>Kimi-Audio</title>
+      <link>https://github.com/MoonshotAI/Kimi-Audio</link>
+      <description>Kimi-Audio</description>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MoonshotAI/Kimi-Audio</guid>
+    </item>
+    <item>
+      <title>Kimina-Prover Preview</title>
+      <link>https://github.com/MoonshotAI/Kimina-Prover-Preview</link>
+      <description>Kimina-Prover Preview</description>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MoonshotAI/Kimina-Prover-Preview</guid>
+    </item>
+    <item>
+      <title>Kimi-VL</title>
+      <link>https://github.com/MoonshotAI/Kimi-VL</link>
+      <description>Kimi-VL</description>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MoonshotAI/Kimi-VL</guid>
+    </item>
+    <item>
+      <title>Muon is Scalable for LLM Training</title>
+      <link>https://github.com/MoonshotAI/Moonlight</link>
+      <description>Muon is Scalable for LLM Training</description>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MoonshotAI/Moonlight</guid>
+    </item>
+    <item>
+      <title>MoBA: Mixture of Block Attention for Long-Context LLMs</title>
+      <link>https://github.com/MoonshotAI/MoBA</link>
+      <description>MoBA: Mixture of Block Attention for Long-Context LLMs</description>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MoonshotAI/MoBA</guid>
+    </item>
+    <item>
+      <title>Kimi K1.5: Scaling Reinforcement Learning with LLMs</title>
+      <link>https://github.com/MoonshotAI/Kimi-k1.5</link>
+      <description>Kimi K1.5: Scaling Reinforcement Learning with LLMs</description>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MoonshotAI/Kimi-k1.5</guid>
+    </item>
+    <item>
+      <title>Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving</title>
+      <link>https://github.com/kvcache-ai/Mooncake/</link>
+      <description>Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving</description>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/kvcache-ai/Mooncake/</guid>
+    </item>
+  </channel>
+</rss>
