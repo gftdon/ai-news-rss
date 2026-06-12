@@ -19,6 +19,10 @@ const scrapers = {
   minimax: require('./scrapers/minimax'),
   seed: require('./scrapers/seed'),
   kling: require('./scrapers/kling'),
+  anthropic: require('./scrapers/anthropic'),
+  'meta-ai': require('./scrapers/meta-ai'),
+  qwen: require('./scrapers/qwen'),
+  deepseek: require('./scrapers/deepseek'),
 };
 
 const OUTPUT_DIR = path.join(__dirname, 'public');
