@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI News RSS Feed Hub — 18 Sources</title>
-  <meta name="description" content="Curated collection of 18 AI news RSS feeds — official feeds, RSSHub mirrors, and custom scrapers. One-click OPML import for your feed reader.">
+  <meta name="description" content="Curated collection of 18 AI news RSS feeds — official feeds and custom scrapers. One-click OPML import for your feed reader. Updated every hour.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
@@ -146,7 +146,6 @@
     }
 
     .section-icon.green { background: rgba(52, 211, 153, 0.1); }
-    .section-icon.amber { background: rgba(251, 191, 36, 0.1); }
     .section-icon.rose  { background: rgba(251, 113, 133, 0.1); }
 
     .section-title {
@@ -188,6 +187,16 @@
       font-size: 0.95rem;
       font-weight: 600;
       margin-bottom: 0.25rem;
+    }
+
+    .feed-name a {
+      color: var(--text);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .feed-name a:hover {
+      color: var(--accent);
     }
 
     .feed-desc {
@@ -250,7 +259,7 @@
     <header>
       <div class="badge">📡 18 AI News Sources</div>
       <h1>AI News RSS Feed Hub</h1>
-      <p class="subtitle">Curated collection of RSS feeds from top AI labs, research blogs, and news outlets. Updated every 6 hours.</p>
+      <p class="subtitle">Curated collection of RSS feeds from top AI labs, research blogs, and news outlets. Updated every hour via GitHub Actions.</p>
       <div class="actions">
         <a href="feeds.opml" class="btn btn-primary" download>
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
@@ -274,7 +283,7 @@
       </div>
       <div class="feed-grid">
         <div class="feed-card">
-          <div class="feed-name">OpenAI News</div>
+          <div class="feed-name"><a href="https://openai.com/news" target="_blank" rel="noopener">OpenAI News</a></div>
           <div class="feed-desc">ข่าวเปิดตัวโมเดล/ผลิตภัณฑ์ทางการ</div>
           <a class="feed-link" href="https://openai.com/news/rss.xml">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -282,7 +291,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">Google AI Blog</div>
+          <div class="feed-name"><a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google AI Blog</a></div>
           <div class="feed-desc">ข่าว Google / DeepMind</div>
           <a class="feed-link" href="https://blog.google/technology/ai/rss/">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -290,7 +299,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">Hugging Face Blog</div>
+          <div class="feed-name"><a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face Blog</a></div>
           <div class="feed-desc">โมเดลและเครื่องมือ open-source</div>
           <a class="feed-link" href="https://huggingface.co/blog/feed.xml">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -298,7 +307,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">MarkTechPost</div>
+          <div class="feed-name"><a href="https://www.marktechpost.com" target="_blank" rel="noopener">MarkTechPost</a></div>
           <div class="feed-desc">สรุปเปเปอร์/ข่าวเร็ว อัปเดตหลายครั้ง/วัน</div>
           <a class="feed-link" href="https://www.marktechpost.com/feed/">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -306,7 +315,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">MIT Technology Review — AI</div>
+          <div class="feed-name"><a href="https://www.technologyreview.com/topic/artificial-intelligence/" target="_blank" rel="noopener">MIT Technology Review — AI</a></div>
           <div class="feed-desc">บทวิเคราะห์เชิงนโยบาย/อุตสาหกรรม</div>
           <a class="feed-link" href="https://www.technologyreview.com/topic/artificial-intelligence/feed/">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -314,7 +323,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">The Verge — AI</div>
+          <div class="feed-name"><a href="https://www.theverge.com/ai-artificial-intelligence" target="_blank" rel="noopener">The Verge — AI</a></div>
           <div class="feed-desc">ข่าว AI ฝั่ง consumer</div>
           <a class="feed-link" href="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -322,7 +331,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">Ahead of AI</div>
+          <div class="feed-name"><a href="https://magazine.sebastianraschka.com" target="_blank" rel="noopener">Ahead of AI</a></div>
           <div class="feed-desc">เจาะลึกสถาปัตยกรรม LLM (Sebastian Raschka)</div>
           <a class="feed-link" href="https://magazine.sebastianraschka.com/feed">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -330,7 +339,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">The Gradient</div>
+          <div class="feed-name"><a href="https://thegradient.pub" target="_blank" rel="noopener">The Gradient</a></div>
           <div class="feed-desc">บทความ long-form (ออกไม่บ่อย)</div>
           <a class="feed-link" href="https://thegradient.pub/rss/">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -338,7 +347,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">Last Week in AI</div>
+          <div class="feed-name"><a href="https://lastweekin.ai" target="_blank" rel="noopener">Last Week in AI</a></div>
           <div class="feed-desc">สรุปข่าวรายสัปดาห์ + podcast</div>
           <a class="feed-link" href="https://lastweekin.ai/feed">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -346,7 +355,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">arXiv cs.AI</div>
+          <div class="feed-name"><a href="https://arxiv.org/list/cs.AI/recent" target="_blank" rel="noopener">arXiv cs.AI</a></div>
           <div class="feed-desc">งานวิจัยต้นทาง (ปริมาณเยอะมาก)</div>
           <a class="feed-link" href="https://rss.arxiv.org/rss/cs.AI">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -356,63 +365,50 @@
       </div>
     </section>
 
-    <!-- Group B: RSSHub Feeds -->
-    <section class="section">
-      <div class="section-header">
-        <div class="section-icon amber">🔄</div>
-        <div>
-          <div class="section-title">RSSHub Feeds</div>
-          <div class="section-count">4 sources — via community RSSHub instances</div>
-        </div>
-      </div>
-      <div class="feed-grid">
-        <div class="feed-card">
-          <div class="feed-name">Anthropic News</div>
-          <div class="feed-desc">ข่าวเปิดตัว Claude และ research</div>
-          <a class="feed-link" href="https://rsshub.rssforever.com/anthropic/news">
-            <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
-            Subscribe
-          </a>
-        </div>
-        <div class="feed-card">
-          <div class="feed-name">Qwen Research</div>
-          <div class="feed-desc">งานวิจัยจาก Alibaba Qwen team</div>
-          <a class="feed-link" href="https://hub.slarker.me/qwen/blog/en-US">
-            <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
-            Subscribe
-          </a>
-        </div>
-        <div class="feed-card">
-          <div class="feed-name">Meta AI Blog</div>
-          <div class="feed-desc">งานวิจัยจาก Meta FAIR / Llama team</div>
-          <a class="feed-link" href="https://hub.slarker.me/meta/ai/blog">
-            <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
-            Subscribe
-          </a>
-        </div>
-        <div class="feed-card">
-          <div class="feed-name">OpenAI Research</div>
-          <div class="feed-desc">เปเปอร์และงานวิจัยจาก OpenAI</div>
-          <a class="feed-link" href="https://rsshub.rssforever.com/openai/research">
-            <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
-            Subscribe
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- Group C: Custom Scrapers -->
+    <!-- Group B: Custom Scrapers (self-hosted) -->
     <section class="section">
       <div class="section-header">
         <div class="section-icon rose">⚙️</div>
         <div>
-          <div class="section-title">Custom Scrapers</div>
-          <div class="section-count">4 sources — self-hosted, updated every 6 hours via GitHub Actions</div>
+          <div class="section-title">Custom Scrapers (Self-hosted)</div>
+          <div class="section-count">8 sources — hosted on GitHub Pages, updated every hour via GitHub Actions</div>
         </div>
       </div>
       <div class="feed-grid">
         <div class="feed-card">
-          <div class="feed-name">Kimi / Moonshot AI</div>
+          <div class="feed-name"><a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic News</a></div>
+          <div class="feed-desc">ข่าวเปิดตัว Claude และ research</div>
+          <a class="feed-link" href="anthropic.xml">
+            <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
+            Subscribe
+          </a>
+        </div>
+        <div class="feed-card">
+          <div class="feed-name"><a href="https://ai.meta.com/blog/" target="_blank" rel="noopener">Meta AI Blog</a></div>
+          <div class="feed-desc">งานวิจัยจาก Meta FAIR / Llama team</div>
+          <a class="feed-link" href="meta-ai.xml">
+            <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
+            Subscribe
+          </a>
+        </div>
+        <div class="feed-card">
+          <div class="feed-name"><a href="https://qwen.ai/research" target="_blank" rel="noopener">Qwen AI Research</a></div>
+          <div class="feed-desc">งานวิจัยจาก Alibaba Qwen team</div>
+          <a class="feed-link" href="qwen.xml">
+            <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
+            Subscribe
+          </a>
+        </div>
+        <div class="feed-card">
+          <div class="feed-name"><a href="https://github.com/deepseek-ai" target="_blank" rel="noopener">DeepSeek AI</a></div>
+          <div class="feed-desc">Model releases จาก DeepSeek</div>
+          <a class="feed-link" href="deepseek.xml">
+            <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
+            Subscribe
+          </a>
+        </div>
+        <div class="feed-card">
+          <div class="feed-name"><a href="https://www.kimi.com/blog/" target="_blank" rel="noopener">Kimi / Moonshot AI</a></div>
           <div class="feed-desc">บล็อกจาก Kimi AI (Moonshot)</div>
           <a class="feed-link" href="kimi.xml">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -420,7 +416,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">MiniMax AI</div>
+          <div class="feed-name"><a href="https://www.minimax.io/blog" target="_blank" rel="noopener">MiniMax AI</a></div>
           <div class="feed-desc">บล็อกจาก MiniMax (Hailuo AI)</div>
           <a class="feed-link" href="minimax.xml">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -428,7 +424,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">ByteDance Seed</div>
+          <div class="feed-name"><a href="https://seed.bytedance.com" target="_blank" rel="noopener">ByteDance Seed</a></div>
           <div class="feed-desc">งานวิจัย AI จาก ByteDance Seed</div>
           <a class="feed-link" href="seed.xml">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -436,7 +432,7 @@
           </a>
         </div>
         <div class="feed-card">
-          <div class="feed-name">Kling AI</div>
+          <div class="feed-name"><a href="https://klingai.com/release-note/release-history" target="_blank" rel="noopener">Kling AI</a></div>
           <div class="feed-desc">Release notes จาก Kling AI (video gen)</div>
           <a class="feed-link" href="kling.xml">
             <svg viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 110 4.36 2.18 2.18 0 010-4.36M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z"/></svg>
@@ -447,7 +443,7 @@
     </section>
 
     <footer>
-      <p>Feeds generated automatically via GitHub Actions • <a href="https://github.com">Source on GitHub</a></p>
+      <p>Feeds generated automatically every hour via GitHub Actions • <a href="https://github.com/gftdon/ai-news-rss">Source on GitHub</a></p>
     </footer>
   </div>
 </body>
