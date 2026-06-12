@@ -5,111 +5,111 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:39:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 20:16:34 GMT</lastBuildDate>
+    <item>
+      <title>Openai Baselines Acktr A2c</title>
+      <link>https://openai.com/index/openai-baselines-acktr-a2c/</link>
+      <description>OpenAI research/release: Openai Baselines Acktr A2c</description>
+      <pubDate>Fri, 12 Jun 2026 19:12:06 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-baselines-acktr-a2c/</guid>
+    </item>
+    <item>
+      <title>Whisper</title>
+      <link>https://openai.com/index/whisper/</link>
+      <description>OpenAI research/release: Whisper</description>
+      <pubDate>Fri, 12 Jun 2026 19:12:04 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/whisper/</guid>
+    </item>
     <item>
       <title>Faster Physics In Python</title>
       <link>https://openai.com/index/faster-physics-in-python/</link>
       <description>OpenAI research/release: Faster Physics In Python</description>
-      <pubDate>Fri, 12 Jun 2026 14:15:04 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 19:12:03 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/faster-physics-in-python/</guid>
-    </item>
-    <item>
-      <title>Block Sparse Gpu Kernels</title>
-      <link>https://openai.com/index/block-sparse-gpu-kernels/</link>
-      <description>OpenAI research/release: Block Sparse Gpu Kernels</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/block-sparse-gpu-kernels/</guid>
-    </item>
-    <item>
-      <title>Universe</title>
-      <link>https://openai.com/index/universe/</link>
-      <description>OpenAI research/release: Universe</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/universe/</guid>
     </item>
     <item>
       <title>Openai Baselines PPO</title>
       <link>https://openai.com/index/openai-baselines-ppo/</link>
       <description>OpenAI research/release: Openai Baselines PPO</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:48 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 19:12:01 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-baselines-ppo/</guid>
     </item>
     <item>
-      <title>Safety Gym</title>
-      <link>https://openai.com/index/safety-gym/</link>
-      <description>OpenAI research/release: Safety Gym</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:43 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/safety-gym/</guid>
-    </item>
-    <item>
-      <title>Openai Baselines Acktr A2c</title>
-      <link>https://openai.com/index/openai-baselines-acktr-a2c/</link>
-      <description>OpenAI research/release: Openai Baselines Acktr A2c</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:38 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-baselines-acktr-a2c/</guid>
-    </item>
-    <item>
-      <title>Roboschool</title>
-      <link>https://openai.com/index/roboschool/</link>
-      <description>OpenAI research/release: Roboschool</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:37 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/roboschool/</guid>
-    </item>
-    <item>
-      <title>Openai Baselines DQN</title>
-      <link>https://openai.com/index/openai-baselines-dqn/</link>
-      <description>OpenAI research/release: Openai Baselines DQN</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:34 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-baselines-dqn/</guid>
+      <title>Block Sparse Gpu Kernels</title>
+      <link>https://openai.com/index/block-sparse-gpu-kernels/</link>
+      <description>OpenAI research/release: Block Sparse Gpu Kernels</description>
+      <pubDate>Fri, 12 Jun 2026 19:11:58 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/block-sparse-gpu-kernels/</guid>
     </item>
     <item>
       <title>Openai Gym Beta</title>
       <link>https://openai.com/index/openai-gym-beta/</link>
       <description>OpenAI research/release: Openai Gym Beta</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:17 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 19:11:49 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-gym-beta/</guid>
     </item>
     <item>
       <title>Gym Retro</title>
       <link>https://openai.com/index/gym-retro/</link>
       <description>OpenAI research/release: Gym Retro</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:16 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 19:11:45 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gym-retro/</guid>
     </item>
     <item>
-      <title>Whisper</title>
-      <link>https://openai.com/index/whisper/</link>
-      <description>OpenAI research/release: Whisper</description>
-      <pubDate>Fri, 12 Jun 2026 14:13:11 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/whisper/</guid>
+      <title>Openai o1 Mini Advancing Cost Efficient Reasoning</title>
+      <link>https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/</link>
+      <description>OpenAI research/release: Openai o1 Mini Advancing Cost Efficient Reasoning</description>
+      <pubDate>Fri, 12 Jun 2026 19:11:44 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/</guid>
+    </item>
+    <item>
+      <title>Universe</title>
+      <link>https://openai.com/index/universe/</link>
+      <description>OpenAI research/release: Universe</description>
+      <pubDate>Fri, 12 Jun 2026 19:11:44 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/universe/</guid>
+    </item>
+    <item>
+      <title>Openai Baselines DQN</title>
+      <link>https://openai.com/index/openai-baselines-dqn/</link>
+      <description>OpenAI research/release: Openai Baselines DQN</description>
+      <pubDate>Fri, 12 Jun 2026 19:11:44 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-baselines-dqn/</guid>
+    </item>
+    <item>
+      <title>Roboschool</title>
+      <link>https://openai.com/index/roboschool/</link>
+      <description>OpenAI research/release: Roboschool</description>
+      <pubDate>Fri, 12 Jun 2026 19:11:43 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/roboschool/</guid>
+    </item>
+    <item>
+      <title>Safety Gym</title>
+      <link>https://openai.com/index/safety-gym/</link>
+      <description>OpenAI research/release: Safety Gym</description>
+      <pubDate>Fri, 12 Jun 2026 19:11:43 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/safety-gym/</guid>
+    </item>
+    <item>
+      <title>Triton</title>
+      <link>https://openai.com/index/triton/</link>
+      <description>OpenAI research/release: Triton</description>
+      <pubDate>Fri, 12 Jun 2026 19:11:36 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/triton/</guid>
     </item>
     <item>
       <title>Procgen Benchmark</title>
       <link>https://openai.com/index/procgen-benchmark/</link>
       <description>OpenAI research/release: Procgen Benchmark</description>
-      <pubDate>Fri, 12 Jun 2026 14:12:44 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 19:11:34 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/procgen-benchmark/</guid>
     </item>
     <item>
       <title>Jukebox</title>
       <link>https://openai.com/index/jukebox/</link>
       <description>OpenAI research/release: Jukebox</description>
-      <pubDate>Fri, 12 Jun 2026 14:12:40 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 19:11:34 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/jukebox/</guid>
-    </item>
-    <item>
-      <title>Openai o1 Mini Advancing Cost Efficient Reasoning</title>
-      <link>https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/</link>
-      <description>OpenAI research/release: Openai o1 Mini Advancing Cost Efficient Reasoning</description>
-      <pubDate>Fri, 12 Jun 2026 14:12:39 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/</guid>
-    </item>
-    <item>
-      <title>Triton</title>
-      <link>https://openai.com/index/triton/</link>
-      <description>OpenAI research/release: Triton</description>
-      <pubDate>Fri, 12 Jun 2026 14:12:37 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/triton/</guid>
     </item>
     <item>
       <title>Introducing New Capabilities To GPT Rosalind</title>
