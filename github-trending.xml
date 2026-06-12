@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Trending (Daily)</title>
+    <link>https://github.com/trending?since=daily</link>
+    <description>Daily trending repositories on GitHub</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jun 2026 10:07:22 GMT</lastBuildDate>
+    <item>
+      <title>apple/container [Swift] — 2,430 stars today</title>
+      <link>https://github.com/apple/container</link>
+      <description>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. (2,430 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/apple/container</guid>
+    </item>
+    <item>
+      <title>addyosmani/agent-skills [Shell] — 3,278 stars today</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <description>[Shell] Production-grade engineering skills for AI coding agents. (3,278 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
+    </item>
+    <item>
+      <title>maziyarpanahi/openmed [Python] — 426 stars today</title>
+      <link>https://github.com/maziyarpanahi/openmed</link>
+      <description>[Python] open-source healthcare ai (426 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/maziyarpanahi/openmed</guid>
+    </item>
+    <item>
+      <title>phuryn/pm-skills — 1,978 stars today</title>
+      <link>https://github.com/phuryn/pm-skills</link>
+      <description>PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. (1,978 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/phuryn/pm-skills</guid>
+    </item>
+    <item>
+      <title>NVIDIA/SkillSpector [Python] — 319 stars today</title>
+      <link>https://github.com/NVIDIA/SkillSpector</link>
+      <description>[Python] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. (319 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/NVIDIA/SkillSpector</guid>
+    </item>
+    <item>
+      <title>soxoj/maigret [Python] — 661 stars today</title>
+      <link>https://github.com/soxoj/maigret</link>
+      <description>[Python] 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites (661 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/soxoj/maigret</guid>
+    </item>
+    <item>
+      <title>x1xhlol/system-prompts-and-models-of-ai-tools — 368 stars today</title>
+      <link>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</link>
+      <description>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (368 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
+    </item>
+    <item>
+      <title>refactoringhq/tolaria [TypeScript] — 604 stars today</title>
+      <link>https://github.com/refactoringhq/tolaria</link>
+      <description>[TypeScript] Desktop app to manage markdown knowledge bases (604 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/refactoringhq/tolaria</guid>
+    </item>
+    <item>
+      <title>obra/superpowers [Shell] — 1,322 stars today</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (1,322 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+    </item>
+    <item>
+      <title>restic/restic [Go] — 61 stars today</title>
+      <link>https://github.com/restic/restic</link>
+      <description>[Go] Fast, secure, efficient backup program (61 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/restic/restic</guid>
+    </item>
+    <item>
+      <title>msitarzewski/agency-agents [Shell] — 1,599 stars today</title>
+      <link>https://github.com/msitarzewski/agency-agents</link>
+      <description>[Shell] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1,599 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
+    </item>
+    <item>
+      <title>masterking32/MasterDnsVPN [Go] — 507 stars today</title>
+      <link>https://github.com/masterking32/MasterDnsVPN</link>
+      <description>[Go] Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. (507 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/masterking32/MasterDnsVPN</guid>
+    </item>
+    <item>
+      <title>chatwoot/chatwoot [Ruby] — 67 stars today</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>[Ruby] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (67 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/chatwoot/chatwoot</guid>
+    </item>
+    <item>
+      <title>kenn-io/agentsview [Go] — 114 stars today</title>
+      <link>https://github.com/kenn-io/agentsview</link>
+      <description>[Go] Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! (114 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/kenn-io/agentsview</guid>
+    </item>
+    <item>
+      <title>alchaincyf/zhangxuefeng-skill — 89 stars today</title>
+      <link>https://github.com/alchaincyf/zhangxuefeng-skill</link>
+      <description>张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 (89 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/alchaincyf/zhangxuefeng-skill</guid>
+    </item>
+    <item>
+      <title>TapXWorld/ChinaTextbook [Roff] — 88 stars today</title>
+      <link>https://github.com/TapXWorld/ChinaTextbook</link>
+      <description>[Roff] 所有小初高、大学PDF教材。 (88 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/TapXWorld/ChinaTextbook</guid>
+    </item>
+    <item>
+      <title>hexo-ai/sia [Python] — 199 stars today</title>
+      <link>https://github.com/hexo-ai/sia</link>
+      <description>[Python] SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task. (199 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/hexo-ai/sia</guid>
+    </item>
+    <item>
+      <title>mattermost/mattermost [TypeScript] — 53 stars today</title>
+      <link>https://github.com/mattermost/mattermost</link>
+      <description>[TypeScript] Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. (53 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mattermost/mattermost</guid>
+    </item>
+    <item>
+      <title>bannedbook/fanqiang [Kotlin] — 161 stars today</title>
+      <link>https://github.com/bannedbook/fanqiang</link>
+      <description>[Kotlin] 翻墙-科学上网 (161 stars today)</description>
+      <pubDate>Fri, 12 Jun 2026 10:07:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/bannedbook/fanqiang</guid>
+    </item>
+  </channel>
+</rss>
