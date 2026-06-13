@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:22:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 05:23:39 GMT</lastBuildDate>
+    <item>
+      <title>Introducing New Capabilities To GPT Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
+      <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
+      <pubDate>Sat, 13 Jun 2026 00:33:26 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+    </item>
+    <item>
+      <title>GPT 5 Safe Completions</title>
+      <link>https://openai.com/index/gpt-5-safe-completions/</link>
+      <description>OpenAI research/release: GPT 5 Safe Completions</description>
+      <pubDate>Sat, 13 Jun 2026 00:33:16 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-safe-completions/</guid>
+    </item>
     <item>
       <title>Openai Gym Beta</title>
       <link>https://openai.com/index/openai-gym-beta/</link>
@@ -112,13 +126,6 @@
       <guid isPermaLink="true">https://openai.com/index/safety-gym/</guid>
     </item>
     <item>
-      <title>Introducing New Capabilities To GPT Rosalind</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
-      <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
-      <pubDate>Fri, 12 Jun 2026 09:53:25 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
-    </item>
-    <item>
       <title>GPT OSS Safeguard Technical Report</title>
       <link>https://openai.com/index/gpt-oss-safeguard-technical-report/</link>
       <description>OpenAI research/release: GPT OSS Safeguard Technical Report</description>
@@ -138,13 +145,6 @@
       <description>OpenAI research/release: Introducing GPT 5 3 Codex</description>
       <pubDate>Wed, 10 Jun 2026 17:59:40 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex/</guid>
-    </item>
-    <item>
-      <title>Introducing o3 And o4 Mini</title>
-      <link>https://openai.com/index/introducing-o3-and-o4-mini/</link>
-      <description>OpenAI research/release: Introducing o3 And o4 Mini</description>
-      <pubDate>Wed, 10 Jun 2026 16:51:29 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-o3-and-o4-mini/</guid>
     </item>
   </channel>
 </rss>
