@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:53:53 GMT</lastBuildDate>
+    <item>
+      <title>Computer Using Agent</title>
+      <link>https://openai.com/index/computer-using-agent/</link>
+      <description>OpenAI research/release: Computer Using Agent</description>
+      <pubDate>Sun, 14 Jun 2026 04:34:44 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/computer-using-agent/</guid>
+    </item>
     <item>
       <title>Gym Retro</title>
       <link>https://openai.com/index/gym-retro/</link>
@@ -138,13 +145,6 @@
       <description>OpenAI research/release: Introducing Indqa</description>
       <pubDate>Thu, 11 Jun 2026 07:37:17 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-indqa/</guid>
-    </item>
-    <item>
-      <title>Introducing GPT 5 3 Codex</title>
-      <link>https://openai.com/index/introducing-gpt-5-3-codex/</link>
-      <description>OpenAI research/release: Introducing GPT 5 3 Codex</description>
-      <pubDate>Wed, 10 Jun 2026 17:59:40 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex/</guid>
     </item>
   </channel>
 </rss>
