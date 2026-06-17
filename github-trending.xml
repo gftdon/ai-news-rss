@@ -5,97 +5,146 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 06:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:53:31 GMT</lastBuildDate>
     <item>
-      <title>freeCodeCamp/freeCodeCamp [TypeScript] — 633 stars today</title>
-      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
-      <description>[TypeScript] freeCodeCamp.org&apos;s open-source codebase and curriculum. Learn math, programming, and computer science for free. (633 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/freeCodeCamp/freeCodeCamp</guid>
-    </item>
-    <item>
-      <title>swc-project/swc [Rust] — 20 stars today</title>
-      <link>https://github.com/swc-project/swc</link>
-      <description>Rust-based platform for the Web (20 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/swc-project/swc</guid>
-    </item>
-    <item>
-      <title>teslamate-org/teslamate [Elixir] — 215 stars today</title>
-      <link>https://github.com/teslamate-org/teslamate</link>
-      <description>[Elixir] A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] (215 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/teslamate-org/teslamate</guid>
-    </item>
-    <item>
-      <title>iptv-org/iptv [TypeScript] — 1,197 stars today</title>
-      <link>https://github.com/iptv-org/iptv</link>
-      <description>[TypeScript] Collection of publicly available IPTV channels from all over the world (1,197 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/iptv-org/iptv</guid>
-    </item>
-    <item>
-      <title>puppeteer/puppeteer [TypeScript] — 56 stars today</title>
-      <link>https://github.com/puppeteer/puppeteer</link>
-      <description>[TypeScript] JavaScript API for Chrome and Firefox (56 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/puppeteer/puppeteer</guid>
-    </item>
-    <item>
-      <title>meshery/meshery [TypeScript] — 228 stars today</title>
-      <link>https://github.com/meshery/meshery</link>
-      <description>[TypeScript] Meshery, the cloud native manager (228 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/meshery/meshery</guid>
-    </item>
-    <item>
-      <title>cypress-io/cypress [TypeScript] — 13 stars today</title>
-      <link>https://github.com/cypress-io/cypress</link>
-      <description>[TypeScript] Fast, easy and reliable testing for anything that runs in a browser. (13 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cypress-io/cypress</guid>
-    </item>
-    <item>
-      <title>music-assistant/server [Python] — 157 stars today</title>
-      <link>https://github.com/music-assistant/server</link>
-      <description>[Python] Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. (157 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/music-assistant/server</guid>
-    </item>
-    <item>
-      <title>Universal-Debloater-Alliance/universal-android-debloater-next-generation [Rust] — 146 stars today</title>
-      <link>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</link>
-      <description>Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. (146 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</guid>
-    </item>
-    <item>
-      <title>OpenBMB/VoxCPM [Python] — 408 stars today</title>
-      <link>https://github.com/OpenBMB/VoxCPM</link>
-      <description>[Python] VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning (408 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/OpenBMB/VoxCPM</guid>
-    </item>
-    <item>
-      <title>alibaba/zvec [C++] — 156 stars today</title>
-      <link>https://github.com/alibaba/zvec</link>
-      <description>[C++] A lightweight, lightning-fast, in-process vector database (156 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/alibaba/zvec</guid>
-    </item>
-    <item>
-      <title>rmyndharis/OpenWA [TypeScript] — 185 stars today</title>
-      <link>https://github.com/rmyndharis/OpenWA</link>
-      <description>[TypeScript] Free, Open Source, Self-Hosted WhatsApp API Gateway (185 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/rmyndharis/OpenWA</guid>
+      <title>DeusData/codebase-memory-mcp [C] — 367 stars today</title>
+      <link>https://github.com/DeusData/codebase-memory-mcp</link>
+      <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (367 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/DeusData/codebase-memory-mcp</guid>
     </item>
     <item>
       <title>n0-computer/iroh [Rust] — 334 stars today</title>
       <link>https://github.com/n0-computer/iroh</link>
       <description>IP addresses break, dial keys instead. Modular networking stack in Rust. (334 stars today)</description>
-      <pubDate>Wed, 17 Jun 2026 06:18:59 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/n0-computer/iroh</guid>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach [Python] — 2,025 stars today</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (2,025 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
+    </item>
+    <item>
+      <title>meshery/meshery [TypeScript] — 228 stars today</title>
+      <link>https://github.com/meshery/meshery</link>
+      <description>[TypeScript] Meshery, the cloud native manager (228 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/meshery/meshery</guid>
+    </item>
+    <item>
+      <title>obra/superpowers [Shell] — 1,109 stars today</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (1,109 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+    </item>
+    <item>
+      <title>google-research/timesfm [Python] — 84 stars today</title>
+      <link>https://github.com/google-research/timesfm</link>
+      <description>[Python] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. (84 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/google-research/timesfm</guid>
+    </item>
+    <item>
+      <title>RocketChat/Rocket.Chat [TypeScript] — 15 stars today</title>
+      <link>https://github.com/RocketChat/Rocket.Chat</link>
+      <description>[TypeScript] The Secure CommsOS™ for mission-critical operations (15 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/RocketChat/Rocket.Chat</guid>
+    </item>
+    <item>
+      <title>continuedev/continue [TypeScript] — 38 stars today</title>
+      <link>https://github.com/continuedev/continue</link>
+      <description>[TypeScript] open-source coding agent (38 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/continuedev/continue</guid>
+    </item>
+    <item>
+      <title>penpot/penpot [Clojure] — 94 stars today</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>[Clojure] Penpot: The open-source design tool for design and code collaboration (94 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/penpot/penpot</guid>
+    </item>
+    <item>
+      <title>krahets/hello-algo [Java] — 516 stars today</title>
+      <link>https://github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 (516 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/krahets/hello-algo</guid>
+    </item>
+    <item>
+      <title>Universal-Debloater-Alliance/universal-android-debloater-next-generation [Rust] — 146 stars today</title>
+      <link>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</link>
+      <description>Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. (146 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</guid>
+    </item>
+    <item>
+      <title>mattpocock/skills [Shell] — 1,849 stars today</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>[Shell] Skills for Real Engineers. Straight from my .claude directory. (1,849 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+    </item>
+    <item>
+      <title>yairm210/Unciv [Kotlin] — 25 stars today</title>
+      <link>https://github.com/yairm210/Unciv</link>
+      <description>[Kotlin] Open-source Android/Desktop remake of Civ V (25 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/yairm210/Unciv</guid>
+    </item>
+    <item>
+      <title>freeCodeCamp/freeCodeCamp [TypeScript] — 633 stars today</title>
+      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
+      <description>[TypeScript] freeCodeCamp.org&apos;s open-source codebase and curriculum. Learn math, programming, and computer science for free. (633 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/freeCodeCamp/freeCodeCamp</guid>
+    </item>
+    <item>
+      <title>bytedance/UI-TARS-desktop [TypeScript] — 148 stars today</title>
+      <link>https://github.com/bytedance/UI-TARS-desktop</link>
+      <description>[TypeScript] The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra (148 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/bytedance/UI-TARS-desktop</guid>
+    </item>
+    <item>
+      <title>nautechsystems/nautilus_trader [Rust] — 86 stars today</title>
+      <link>https://github.com/nautechsystems/nautilus_trader</link>
+      <description>Production-grade Rust-native trading engine with deterministic event-driven architecture (86 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/nautechsystems/nautilus_trader</guid>
+    </item>
+    <item>
+      <title>chatwoot/chatwoot [Ruby] — 400 stars today</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>[Ruby] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (400 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/chatwoot/chatwoot</guid>
+    </item>
+    <item>
+      <title>calesthio/OpenMontage [Python] — 71 stars today</title>
+      <link>https://github.com/calesthio/OpenMontage</link>
+      <description>[Python] World&apos;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. (71 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/calesthio/OpenMontage</guid>
+    </item>
+    <item>
+      <title>alexzhang13/rlm [Python] — 37 stars today</title>
+      <link>https://github.com/alexzhang13/rlm</link>
+      <description>[Python] General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. (37 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/alexzhang13/rlm</guid>
+    </item>
+    <item>
+      <title>makeplane/plane [TypeScript] — 68 stars today</title>
+      <link>https://github.com/makeplane/plane</link>
+      <description>[TypeScript] 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. (68 stars today)</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/makeplane/plane</guid>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,14 @@
     <link>https://klingai.com/release-note/release-history</link>
     <description>Latest release notes and updates from Kling AI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 06:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:53:42 GMT</lastBuildDate>
+    <item>
+      <title>可灵 3.0 系列模型迎来升级！</title>
+      <link>https://klingai.com/release-note/release-history#2026-06-17</link>
+      <description>可灵 3.0 系列模型迎来升级！ • 可灵 3.0 Turbo 正式发布，可灵 3.0 Omni 视频编辑能力升级。</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://klingai.com/release-note/release-history#2026-06-17</guid>
+    </item>
     <item>
       <title>可灵AI支持原生4K直出，媲美院线级质感！</title>
       <link>https://klingai.com/release-note/release-history#2026-04-23</link>
@@ -61,13 +68,6 @@
       <description>可灵视频 2.6「动作控制」全新上线！—— 动作表情，轻松模仿 • 全新升级的动作控制 ，30 秒高难度动作一镜到底，肢体动作、表情、口型、手势全面掌控！</description>
       <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://klingai.com/release-note/release-history#2025-12-17</guid>
-    </item>
-    <item>
-      <title>可灵视频 2.6 新增「音色控制」功能！</title>
-      <link>https://klingai.com/release-note/release-history#2025-12-16</link>
-      <description>可灵视频 2.6 新增「音色控制」功能！ • 解锁声音控制新维度，解决音色一致性问题：你的专属声线，为你的角色献声</description>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://klingai.com/release-note/release-history#2025-12-16</guid>
     </item>
   </channel>
 </rss>
