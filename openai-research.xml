@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 21:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 23:42:32 GMT</lastBuildDate>
     <item>
       <title>Introducing New Capabilities To GPT Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
       <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
-      <pubDate>Wed, 17 Jun 2026 20:38:09 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 23:42:32 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+    </item>
+    <item>
+      <title>GPT 5 Safe Completions</title>
+      <link>https://openai.com/index/gpt-5-safe-completions/</link>
+      <description>OpenAI research/release: GPT 5 Safe Completions</description>
+      <pubDate>Wed, 17 Jun 2026 23:36:43 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-safe-completions/</guid>
     </item>
     <item>
       <title>Chatgpt Memory Dreaming</title>
@@ -138,13 +145,6 @@
       <description>OpenAI research/release: Learning To Reason With Llms</description>
       <pubDate>Sun, 14 Jun 2026 07:17:09 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/learning-to-reason-with-llms/</guid>
-    </item>
-    <item>
-      <title>New Chatgpt Images Is Here</title>
-      <link>https://openai.com/index/new-chatgpt-images-is-here/</link>
-      <description>OpenAI research/release: New Chatgpt Images Is Here</description>
-      <pubDate>Sun, 14 Jun 2026 06:37:26 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/new-chatgpt-images-is-here/</guid>
     </item>
   </channel>
 </rss>
