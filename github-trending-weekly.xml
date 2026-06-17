@@ -5,145 +5,145 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 22:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:21:39 GMT</lastBuildDate>
     <item>
-      <title>apple/container [Swift] — 10,541 stars this week</title>
+      <title>apple/container [Swift] — 10,896 stars this week</title>
       <link>https://github.com/apple/container</link>
-      <description>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. (10,541 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. (10,896 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/apple/container</guid>
     </item>
     <item>
-      <title>NVIDIA/SkillSpector [Python] — 4,633 stars this week</title>
+      <title>NVIDIA/SkillSpector [Python] — 5,190 stars this week</title>
       <link>https://github.com/NVIDIA/SkillSpector</link>
-      <description>[Python] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. (4,633 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[Python] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. (5,190 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/NVIDIA/SkillSpector</guid>
     </item>
     <item>
-      <title>phuryn/pm-skills — 6,117 stars this week</title>
+      <title>phuryn/pm-skills — 5,775 stars this week</title>
       <link>https://github.com/phuryn/pm-skills</link>
-      <description>PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. (6,117 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. (5,775 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/phuryn/pm-skills</guid>
     </item>
     <item>
-      <title>addyosmani/agent-skills [Shell] — 11,088 stars this week</title>
+      <title>addyosmani/agent-skills [Shell] — 11,431 stars this week</title>
       <link>https://github.com/addyosmani/agent-skills</link>
-      <description>[Shell] Production-grade engineering skills for AI coding agents. (11,088 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[Shell] Production-grade engineering skills for AI coding agents. (11,431 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
-      <title>iptv-org/iptv [TypeScript] — 5,351 stars this week</title>
+      <title>iptv-org/iptv [TypeScript] — 6,246 stars this week</title>
       <link>https://github.com/iptv-org/iptv</link>
-      <description>[TypeScript] Collection of publicly available IPTV channels from all over the world (5,351 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[TypeScript] Collection of publicly available IPTV channels from all over the world (6,246 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iptv-org/iptv</guid>
     </item>
     <item>
-      <title>mvanhorn/last30days-skill [Python] — 9,676 stars this week</title>
+      <title>mvanhorn/last30days-skill [Python] — 7,226 stars this week</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>[Python] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (9,676 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[Python] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (7,226 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
     </item>
     <item>
-      <title>chopratejas/headroom [Python] — 10,660 stars this week</title>
+      <title>chopratejas/headroom [Python] — 9,766 stars this week</title>
       <link>https://github.com/chopratejas/headroom</link>
-      <description>[Python] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (10,660 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[Python] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (9,766 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/chopratejas/headroom</guid>
     </item>
     <item>
-      <title>Panniantong/Agent-Reach [Python] — 5,873 stars this week</title>
+      <title>Panniantong/Agent-Reach [Python] — 6,427 stars this week</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (5,873 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (6,427 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
     </item>
     <item>
-      <title>asgeirtj/system_prompts_leaks [JavaScript] — 935 stars this week</title>
+      <title>asgeirtj/system_prompts_leaks [JavaScript] — 1,220 stars this week</title>
       <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (935 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (1,220 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
     </item>
     <item>
-      <title>music-assistant/server [Python] — 710 stars this week</title>
+      <title>music-assistant/server [Python] — 865 stars this week</title>
       <link>https://github.com/music-assistant/server</link>
-      <description>[Python] Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. (710 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[Python] Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. (865 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/music-assistant/server</guid>
     </item>
     <item>
-      <title>refactoringhq/tolaria [TypeScript] — 3,179 stars this week</title>
+      <title>refactoringhq/tolaria [TypeScript] — 2,537 stars this week</title>
       <link>https://github.com/refactoringhq/tolaria</link>
-      <description>[TypeScript] Desktop app to manage markdown knowledge bases (3,179 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[TypeScript] Desktop app to manage markdown knowledge bases (2,537 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/refactoringhq/tolaria</guid>
     </item>
     <item>
-      <title>lfnovo/open-notebook [TypeScript] — 3,025 stars this week</title>
+      <title>lfnovo/open-notebook [TypeScript] — 2,873 stars this week</title>
       <link>https://github.com/lfnovo/open-notebook</link>
-      <description>[TypeScript] An Open Source implementation of Notebook LM with more flexibility and features (3,025 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[TypeScript] An Open Source implementation of Notebook LM with more flexibility and features (2,873 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/lfnovo/open-notebook</guid>
     </item>
     <item>
-      <title>microsoft/PowerToys [C] — 1,129 stars this week</title>
+      <title>microsoft/PowerToys [C] — 1,181 stars this week</title>
       <link>https://github.com/microsoft/PowerToys</link>
-      <description>[C] Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows (1,129 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[C] Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows (1,181 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/microsoft/PowerToys</guid>
     </item>
     <item>
-      <title>meshery/meshery [TypeScript] — 306 stars this week</title>
+      <title>meshery/meshery [TypeScript] — 488 stars this week</title>
       <link>https://github.com/meshery/meshery</link>
-      <description>[TypeScript] Meshery, the cloud native manager (306 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[TypeScript] Meshery, the cloud native manager (488 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/meshery/meshery</guid>
     </item>
     <item>
-      <title>mattermost/mattermost [TypeScript] — 853 stars this week</title>
+      <title>mattermost/mattermost [TypeScript] — 918 stars this week</title>
       <link>https://github.com/mattermost/mattermost</link>
-      <description>[TypeScript] Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. (853 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[TypeScript] Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. (918 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattermost/mattermost</guid>
     </item>
     <item>
-      <title>chatwoot/chatwoot [Ruby] — 1,472 stars this week</title>
+      <title>chatwoot/chatwoot [Ruby] — 1,930 stars this week</title>
       <link>https://github.com/chatwoot/chatwoot</link>
-      <description>[Ruby] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (1,472 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[Ruby] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (1,930 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/chatwoot/chatwoot</guid>
     </item>
     <item>
-      <title>LMCache/LMCache [Python] — 673 stars this week</title>
+      <title>LMCache/LMCache [Python] — 709 stars this week</title>
       <link>https://github.com/LMCache/LMCache</link>
-      <description>[Python] LMCache: Supercharge Your LLM with the Fastest KV Cache Layer (673 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[Python] LMCache: Supercharge Your LLM with the Fastest KV Cache Layer (709 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/LMCache/LMCache</guid>
     </item>
     <item>
-      <title>ml-explore/mlx [C++] — 380 stars this week</title>
+      <title>ml-explore/mlx [C++] — 336 stars this week</title>
       <link>https://github.com/ml-explore/mlx</link>
-      <description>[C++] MLX: An array framework for Apple silicon (380 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>[C++] MLX: An array framework for Apple silicon (336 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ml-explore/mlx</guid>
     </item>
     <item>
       <title>pytest-dev/pytest [Python] — 240 stars this week</title>
       <link>https://github.com/pytest-dev/pytest</link>
       <description>[Python] The pytest framework makes it easy to write small tests, yet scales to support complex functional testing (240 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pytest-dev/pytest</guid>
     </item>
     <item>
-      <title>x1xhlol/system-prompts-and-models-of-ai-tools — 1,668 stars this week</title>
+      <title>x1xhlol/system-prompts-and-models-of-ai-tools — 1,731 stars this week</title>
       <link>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</link>
-      <description>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (1,668 stars this week)</description>
-      <pubDate>Tue, 16 Jun 2026 22:17:12 GMT</pubDate>
+      <description>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (1,731 stars this week)</description>
+      <pubDate>Wed, 17 Jun 2026 00:21:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
     </item>
   </channel>
