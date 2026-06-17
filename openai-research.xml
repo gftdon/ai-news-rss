@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 18:25:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:12:34 GMT</lastBuildDate>
+    <item>
+      <title>Introducing New Capabilities To GPT Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
+      <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
+      <pubDate>Wed, 17 Jun 2026 20:38:09 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+    </item>
     <item>
       <title>Chatgpt Memory Dreaming</title>
       <link>https://openai.com/index/chatgpt-memory-dreaming/</link>
@@ -117,13 +124,6 @@
       <description>OpenAI research/release: Procgen Benchmark</description>
       <pubDate>Tue, 16 Jun 2026 22:28:01 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/procgen-benchmark/</guid>
-    </item>
-    <item>
-      <title>Introducing New Capabilities To GPT Rosalind</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
-      <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
-      <pubDate>Tue, 16 Jun 2026 14:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
     </item>
     <item>
       <title>Introducing GPT OSS Safeguard</title>
