@@ -5,159 +5,159 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 01:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:12:56 GMT</lastBuildDate>
     <item>
       <title>NVIDIA/SkillSpector [Python] — 5,505 stars this week</title>
       <link>https://github.com/NVIDIA/SkillSpector</link>
       <description>[Python] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. (5,505 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/NVIDIA/SkillSpector</guid>
     </item>
     <item>
       <title>addyosmani/agent-skills [Shell] — 9,285 stars this week</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[Shell] Production-grade engineering skills for AI coding agents. (9,285 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
       <title>iptv-org/iptv [TypeScript] — 7,899 stars this week</title>
       <link>https://github.com/iptv-org/iptv</link>
       <description>[TypeScript] Collection of publicly available IPTV channels from all over the world (7,899 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iptv-org/iptv</guid>
     </item>
     <item>
       <title>apple/container [Swift] — 7,671 stars this week</title>
       <link>https://github.com/apple/container</link>
       <description>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. (7,671 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/apple/container</guid>
     </item>
     <item>
       <title>phuryn/pm-skills — 3,663 stars this week</title>
       <link>https://github.com/phuryn/pm-skills</link>
       <description>PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. (3,663 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/phuryn/pm-skills</guid>
     </item>
     <item>
       <title>Panniantong/Agent-Reach [Python] — 7,856 stars this week</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
       <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (7,856 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
     </item>
     <item>
       <title>kenn-io/agentsview [Go] — 1,382 stars this week</title>
       <link>https://github.com/kenn-io/agentsview</link>
       <description>[Go] Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. (1,382 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/kenn-io/agentsview</guid>
     </item>
     <item>
       <title>chopratejas/headroom [Python] — 10,159 stars this week</title>
       <link>https://github.com/chopratejas/headroom</link>
       <description>[Python] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (10,159 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/chopratejas/headroom</guid>
     </item>
     <item>
       <title>DeusData/codebase-memory-mcp [C] — 3,244 stars this week</title>
       <link>https://github.com/DeusData/codebase-memory-mcp</link>
       <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (3,244 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/DeusData/codebase-memory-mcp</guid>
     </item>
     <item>
       <title>meshery/meshery [TypeScript] — 848 stars this week</title>
       <link>https://github.com/meshery/meshery</link>
       <description>[TypeScript] Meshery, the cloud native manager (848 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/meshery/meshery</guid>
     </item>
     <item>
       <title>LMCache/LMCache [Python] — 825 stars this week</title>
       <link>https://github.com/LMCache/LMCache</link>
       <description>[Python] LMCache: Supercharge Your LLM with the Fastest KV Cache Layer (825 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/LMCache/LMCache</guid>
     </item>
     <item>
       <title>chatwoot/chatwoot [Ruby] — 2,422 stars this week</title>
       <link>https://github.com/chatwoot/chatwoot</link>
       <description>[Ruby] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (2,422 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/chatwoot/chatwoot</guid>
     </item>
     <item>
       <title>pytest-dev/pytest [Python] — 297 stars this week</title>
       <link>https://github.com/pytest-dev/pytest</link>
       <description>[Python] The pytest framework makes it easy to write small tests, yet scales to support complex functional testing (297 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pytest-dev/pytest</guid>
     </item>
     <item>
       <title>puppeteer/puppeteer [TypeScript] — 593 stars this week</title>
       <link>https://github.com/puppeteer/puppeteer</link>
       <description>[TypeScript] JavaScript API for Chrome and Firefox (593 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/puppeteer/puppeteer</guid>
     </item>
     <item>
       <title>mvanhorn/last30days-skill [Python] — 4,827 stars this week</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
       <description>[Python] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (4,827 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
     </item>
     <item>
       <title>lfnovo/open-notebook [TypeScript] — 2,373 stars this week</title>
       <link>https://github.com/lfnovo/open-notebook</link>
       <description>[TypeScript] An Open Source implementation of Notebook LM with more flexibility and features (2,373 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/lfnovo/open-notebook</guid>
     </item>
     <item>
       <title>freeCodeCamp/freeCodeCamp [TypeScript] — 2,879 stars this week</title>
       <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
       <description>[TypeScript] freeCodeCamp.org&apos;s open-source codebase and curriculum. Learn math, programming, and computer science for free. (2,879 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/freeCodeCamp/freeCodeCamp</guid>
     </item>
     <item>
       <title>microsoft/PowerToys [C] — 1,219 stars this week</title>
       <link>https://github.com/microsoft/PowerToys</link>
       <description>[C] Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows (1,219 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/microsoft/PowerToys</guid>
     </item>
     <item>
       <title>mattermost/mattermost [TypeScript] — 937 stars this week</title>
       <link>https://github.com/mattermost/mattermost</link>
       <description>[TypeScript] Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. (937 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattermost/mattermost</guid>
     </item>
     <item>
       <title>restic/restic [Go] — 541 stars this week</title>
       <link>https://github.com/restic/restic</link>
       <description>[Go] Fast, secure, efficient backup program (541 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/restic/restic</guid>
     </item>
     <item>
       <title>biomejs/biome [Rust] — 147 stars this week</title>
       <link>https://github.com/biomejs/biome</link>
       <description>[Rust] A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (147 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/biomejs/biome</guid>
     </item>
     <item>
       <title>jenkinsci/jenkins [Java] — 74 stars this week</title>
       <link>https://github.com/jenkinsci/jenkins</link>
       <description>[Java] Jenkins automation server (74 stars this week)</description>
-      <pubDate>Fri, 19 Jun 2026 01:48:32 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 07:12:56 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jenkinsci/jenkins</guid>
     </item>
   </channel>
