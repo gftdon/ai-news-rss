@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 18:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:42:36 GMT</lastBuildDate>
     <item>
       <title>Introducing New Capabilities To GPT Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
       <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
-      <pubDate>Fri, 19 Jun 2026 18:47:17 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 20:40:37 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+    </item>
+    <item>
+      <title>Thinking With Images</title>
+      <link>https://openai.com/index/thinking-with-images/</link>
+      <description>OpenAI research/release: Thinking With Images</description>
+      <pubDate>Fri, 19 Jun 2026 20:33:09 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/thinking-with-images/</guid>
     </item>
     <item>
       <title>GPT 5 Safe Completions</title>
@@ -138,13 +145,6 @@
       <description>OpenAI research/release: Block Sparse Gpu Kernels</description>
       <pubDate>Tue, 16 Jun 2026 22:28:02 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/block-sparse-gpu-kernels/</guid>
-    </item>
-    <item>
-      <title>Jukebox</title>
-      <link>https://openai.com/index/jukebox/</link>
-      <description>OpenAI research/release: Jukebox</description>
-      <pubDate>Tue, 16 Jun 2026 22:28:01 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/jukebox/</guid>
     </item>
   </channel>
 </rss>
