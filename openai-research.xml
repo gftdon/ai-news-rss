@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 09:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 12:00:21 GMT</lastBuildDate>
+    <item>
+      <title>Sharing The Latest Model Spec</title>
+      <link>https://openai.com/index/sharing-the-latest-model-spec/</link>
+      <description>OpenAI research/release: Sharing The Latest Model Spec</description>
+      <pubDate>Sat, 20 Jun 2026 10:31:11 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/sharing-the-latest-model-spec/</guid>
+    </item>
     <item>
       <title>Computer Using Agent</title>
       <link>https://openai.com/index/computer-using-agent/</link>
@@ -138,13 +145,6 @@
       <description>OpenAI research/release: Openai Baselines DQN</description>
       <pubDate>Tue, 16 Jun 2026 22:28:03 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-baselines-dqn/</guid>
-    </item>
-    <item>
-      <title>Openai Baselines Acktr A2c</title>
-      <link>https://openai.com/index/openai-baselines-acktr-a2c/</link>
-      <description>OpenAI research/release: Openai Baselines Acktr A2c</description>
-      <pubDate>Tue, 16 Jun 2026 22:28:03 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-baselines-acktr-a2c/</guid>
     </item>
   </channel>
 </rss>
