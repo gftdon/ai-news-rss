@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 18:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 20:18:50 GMT</lastBuildDate>
+    <item>
+      <title>Introducing New Capabilities To GPT Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
+      <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
+      <pubDate>Sat, 20 Jun 2026 18:26:03 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+    </item>
     <item>
       <title>Sharing The Latest Model Spec</title>
       <link>https://openai.com/index/sharing-the-latest-model-spec/</link>
@@ -19,13 +26,6 @@
       <description>OpenAI research/release: Computer Using Agent</description>
       <pubDate>Sat, 20 Jun 2026 08:53:09 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/computer-using-agent/</guid>
-    </item>
-    <item>
-      <title>Introducing New Capabilities To GPT Rosalind</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
-      <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
-      <pubDate>Fri, 19 Jun 2026 20:40:37 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
     </item>
     <item>
       <title>Thinking With Images</title>
