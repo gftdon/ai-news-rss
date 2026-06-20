@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 05:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 09:24:06 GMT</lastBuildDate>
+    <item>
+      <title>Computer Using Agent</title>
+      <link>https://openai.com/index/computer-using-agent/</link>
+      <description>OpenAI research/release: Computer Using Agent</description>
+      <pubDate>Sat, 20 Jun 2026 08:53:09 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/computer-using-agent/</guid>
+    </item>
     <item>
       <title>Introducing New Capabilities To GPT Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
@@ -138,13 +145,6 @@
       <description>OpenAI research/release: Openai Baselines Acktr A2c</description>
       <pubDate>Tue, 16 Jun 2026 22:28:03 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-baselines-acktr-a2c/</guid>
-    </item>
-    <item>
-      <title>Block Sparse Gpu Kernels</title>
-      <link>https://openai.com/index/block-sparse-gpu-kernels/</link>
-      <description>OpenAI research/release: Block Sparse Gpu Kernels</description>
-      <pubDate>Tue, 16 Jun 2026 22:28:02 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/block-sparse-gpu-kernels/</guid>
     </item>
   </channel>
 </rss>
