@@ -5,117 +5,117 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 13:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 15:57:02 GMT</lastBuildDate>
     <item>
       <title>palmier-io/palmier-pro [Swift] — 1,829 stars today</title>
       <link>https://github.com/palmier-io/palmier-pro</link>
       <description>[Swift] macOS video editor built for AI (1,829 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/palmier-io/palmier-pro</guid>
     </item>
     <item>
       <title>calesthio/OpenMontage [Python] — 993 stars today</title>
       <link>https://github.com/calesthio/OpenMontage</link>
       <description>[Python] World&apos;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. (993 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/calesthio/OpenMontage</guid>
     </item>
     <item>
       <title>chopratejas/headroom [Python] — 2,617 stars today</title>
       <link>https://github.com/chopratejas/headroom</link>
       <description>[Python] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (2,617 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/chopratejas/headroom</guid>
     </item>
     <item>
       <title>tursodatabase/turso [Rust] — 543 stars today</title>
       <link>https://github.com/tursodatabase/turso</link>
       <description>[Rust] Turso is an in-process SQL database, compatible with SQLite. (543 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tursodatabase/turso</guid>
     </item>
     <item>
       <title>penpot/penpot [Clojure] — 1,131 stars today</title>
       <link>https://github.com/penpot/penpot</link>
       <description>[Clojure] Penpot: The open-source design tool for design and code collaboration (1,131 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/penpot/penpot</guid>
     </item>
     <item>
       <title>ZhuLinsen/daily_stock_analysis [Python] — 519 stars today</title>
       <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
       <description>[Python] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (519 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
     </item>
     <item>
       <title>koala73/worldmonitor [TypeScript] — 633 stars today</title>
       <link>https://github.com/koala73/worldmonitor</link>
       <description>[TypeScript] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (633 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/koala73/worldmonitor</guid>
     </item>
     <item>
       <title>bytedance/deer-flow [Python] — 415 stars today</title>
       <link>https://github.com/bytedance/deer-flow</link>
       <description>[Python] An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. (415 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
     </item>
     <item>
       <title>DeusData/codebase-memory-mcp [C] — 1,029 stars today</title>
       <link>https://github.com/DeusData/codebase-memory-mcp</link>
       <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1,029 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/DeusData/codebase-memory-mcp</guid>
     </item>
     <item>
-      <title>mukul975/Anthropic-Cybersecurity-Skills [Python] — 343 stars today</title>
+      <title>mukul975/Anthropic-Cybersecurity-Skills [Python] — 445 stars today</title>
       <link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link>
-      <description>[Python] 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0 (343 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <description>[Python] 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0 (445 stars today)</description>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mukul975/Anthropic-Cybersecurity-Skills</guid>
     </item>
     <item>
-      <title>mikumifa/biliTickerBuy [Python] — 164 stars today</title>
+      <title>mikumifa/biliTickerBuy [Python] — 56 stars today</title>
       <link>https://github.com/mikumifa/biliTickerBuy</link>
-      <description>[Python] b站会员购购票辅助工具 (164 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <description>[Python] b站会员购购票辅助工具 (56 stars today)</description>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mikumifa/biliTickerBuy</guid>
     </item>
     <item>
       <title>smicallef/spiderfoot [Python] — 288 stars today</title>
       <link>https://github.com/smicallef/spiderfoot</link>
       <description>[Python] SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. (288 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/smicallef/spiderfoot</guid>
     </item>
     <item>
       <title>topoteretes/cognee [Python] — 361 stars today</title>
       <link>https://github.com/topoteretes/cognee</link>
       <description>[Python] Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. (361 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/topoteretes/cognee</guid>
     </item>
     <item>
       <title>byoungd/English-level-up-tips — 121 stars today</title>
       <link>https://github.com/byoungd/English-level-up-tips</link>
       <description>An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语 (121 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/byoungd/English-level-up-tips</guid>
     </item>
     <item>
       <title>asgeirtj/system_prompts_leaks [JavaScript] — 352 stars today</title>
       <link>https://github.com/asgeirtj/system_prompts_leaks</link>
       <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (352 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
     </item>
     <item>
       <title>mattpocock/skills [Shell] — 1,441 stars today</title>
       <link>https://github.com/mattpocock/skills</link>
       <description>[Shell] Skills for Real Engineers. Straight from my .claude directory. (1,441 stars today)</description>
-      <pubDate>Sun, 21 Jun 2026 13:10:50 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 15:57:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
   </channel>
