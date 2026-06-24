@@ -5,152 +5,152 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 23:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:57:35 GMT</lastBuildDate>
     <item>
-      <title>DeusData/codebase-memory-mcp [C] — 7,560 stars this week</title>
+      <title>DeusData/codebase-memory-mcp [C] — 8,536 stars this week</title>
       <link>https://github.com/DeusData/codebase-memory-mcp</link>
-      <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (7,560 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (8,536 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/DeusData/codebase-memory-mcp</guid>
     </item>
     <item>
-      <title>calesthio/OpenMontage [Python] — 6,089 stars this week</title>
+      <title>calesthio/OpenMontage [Python] — 9,410 stars this week</title>
       <link>https://github.com/calesthio/OpenMontage</link>
-      <description>[Python] World&apos;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. (6,089 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Python] World&apos;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. (9,410 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/calesthio/OpenMontage</guid>
     </item>
     <item>
-      <title>google-research/timesfm [Python] — 4,259 stars this week</title>
+      <title>google-research/timesfm [Python] — 4,376 stars this week</title>
       <link>https://github.com/google-research/timesfm</link>
-      <description>[Python] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. (4,259 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Python] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. (4,376 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/google-research/timesfm</guid>
     </item>
     <item>
-      <title>Panniantong/Agent-Reach [Python] — 8,108 stars this week</title>
+      <title>Panniantong/Agent-Reach [Python] — 6,915 stars this week</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (8,108 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (6,915 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
     </item>
     <item>
-      <title>n0-computer/iroh [Rust] — 1,806 stars this week</title>
+      <title>n0-computer/iroh [Rust] — 1,531 stars this week</title>
       <link>https://github.com/n0-computer/iroh</link>
-      <description>IP addresses break, dial keys instead. Modular networking stack in Rust. (1,806 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>IP addresses break, dial keys instead. Modular networking stack in Rust. (1,531 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/n0-computer/iroh</guid>
     </item>
     <item>
-      <title>asgeirtj/system_prompts_leaks [JavaScript] — 2,612 stars this week</title>
+      <title>asgeirtj/system_prompts_leaks [JavaScript] — 2,681 stars this week</title>
       <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (2,612 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (2,681 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
     </item>
     <item>
-      <title>koala73/worldmonitor [TypeScript] — 2,090 stars this week</title>
+      <title>koala73/worldmonitor [TypeScript] — 2,309 stars this week</title>
       <link>https://github.com/koala73/worldmonitor</link>
-      <description>[TypeScript] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2,090 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2,309 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/koala73/worldmonitor</guid>
     </item>
     <item>
-      <title>iptv-org/iptv [TypeScript] — 5,017 stars this week</title>
+      <title>iptv-org/iptv [TypeScript] — 4,378 stars this week</title>
       <link>https://github.com/iptv-org/iptv</link>
-      <description>[TypeScript] Collection of publicly available IPTV channels from all over the world (5,017 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] Collection of publicly available IPTV channels from all over the world (4,378 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iptv-org/iptv</guid>
     </item>
     <item>
-      <title>penpot/penpot [Clojure] — 2,983 stars this week</title>
+      <title>penpot/penpot [Clojure] — 3,423 stars this week</title>
       <link>https://github.com/penpot/penpot</link>
-      <description>[Clojure] Penpot: The open-source design tool for design and code collaboration (2,983 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Clojure] Penpot: The open-source design tool for design and code collaboration (3,423 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/penpot/penpot</guid>
     </item>
     <item>
-      <title>withastro/flue [TypeScript] — 1,413 stars this week</title>
+      <title>withastro/flue [TypeScript] — 1,489 stars this week</title>
       <link>https://github.com/withastro/flue</link>
-      <description>[TypeScript] The sandbox agent framework. (1,413 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] The sandbox agent framework. (1,489 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/withastro/flue</guid>
     </item>
     <item>
-      <title>OpenCut-app/OpenCut [TypeScript] — 3,097 stars this week</title>
+      <title>OpenCut-app/OpenCut [TypeScript] — 3,283 stars this week</title>
       <link>https://github.com/OpenCut-app/OpenCut</link>
-      <description>[TypeScript] The open-source CapCut alternative (3,097 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] The open-source CapCut alternative (3,283 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/OpenCut-app/OpenCut</guid>
     </item>
     <item>
-      <title>NVIDIA/SkillSpector [Python] — 3,302 stars this week</title>
+      <title>NVIDIA/SkillSpector [Python] — 2,849 stars this week</title>
       <link>https://github.com/NVIDIA/SkillSpector</link>
-      <description>[Python] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. (3,302 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Python] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. (2,849 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/NVIDIA/SkillSpector</guid>
     </item>
     <item>
-      <title>jamiepine/voicebox [TypeScript] — 2,177 stars this week</title>
+      <title>jamiepine/voicebox [TypeScript] — 2,883 stars this week</title>
       <link>https://github.com/jamiepine/voicebox</link>
-      <description>[TypeScript] The open-source AI voice studio. Clone, dictate, create. (2,177 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] The open-source AI voice studio. Clone, dictate, create. (2,883 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jamiepine/voicebox</guid>
     </item>
     <item>
-      <title>mattpocock/skills [Shell] — 11,782 stars this week</title>
+      <title>mattpocock/skills [Shell] — 11,784 stars this week</title>
       <link>https://github.com/mattpocock/skills</link>
-      <description>[Shell] Skills for Real Engineers. Straight from my .claude directory. (11,782 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Shell] Skills for Real Engineers. Straight from my .claude directory. (11,784 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
     <item>
-      <title>Kong/insomnia [TypeScript] — 1,074 stars this week</title>
+      <title>Kong/insomnia [TypeScript] — 1,121 stars this week</title>
       <link>https://github.com/Kong/insomnia</link>
-      <description>[TypeScript] The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. (1,074 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. (1,121 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Kong/insomnia</guid>
     </item>
     <item>
-      <title>makeplane/plane [TypeScript] — 1,696 stars this week</title>
+      <title>makeplane/plane [TypeScript] — 1,804 stars this week</title>
       <link>https://github.com/makeplane/plane</link>
-      <description>[TypeScript] 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. (1,696 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. (1,804 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/makeplane/plane</guid>
     </item>
     <item>
-      <title>Stirling-Tools/Stirling-PDF [Java] — 1,813 stars this week</title>
+      <title>Stirling-Tools/Stirling-PDF [Java] — 2,491 stars this week</title>
       <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
-      <description>[Java] #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere (1,813 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Java] #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere (2,491 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Stirling-Tools/Stirling-PDF</guid>
     </item>
     <item>
-      <title>addyosmani/agent-skills [Shell] — 5,277 stars this week</title>
+      <title>addyosmani/agent-skills [Shell] — 5,073 stars this week</title>
       <link>https://github.com/addyosmani/agent-skills</link>
-      <description>[Shell] Production-grade engineering skills for AI coding agents. (5,277 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Shell] Production-grade engineering skills for AI coding agents. (5,073 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
-      <title>chatwoot/chatwoot [Ruby] — 1,615 stars this week</title>
+      <title>chatwoot/chatwoot [Ruby] — 1,399 stars this week</title>
       <link>https://github.com/chatwoot/chatwoot</link>
-      <description>[Ruby] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (1,615 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[Ruby] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (1,399 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/chatwoot/chatwoot</guid>
     </item>
     <item>
-      <title>stablyai/orca [TypeScript] — 1,123 stars this week</title>
+      <title>stablyai/orca [TypeScript] — 1,216 stars this week</title>
       <link>https://github.com/stablyai/orca</link>
-      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. (1,123 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. (1,216 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
     </item>
     <item>
-      <title>continuedev/continue [TypeScript] — 600 stars this week</title>
+      <title>continuedev/continue [TypeScript] — 620 stars this week</title>
       <link>https://github.com/continuedev/continue</link>
-      <description>[TypeScript] open-source coding agent (600 stars this week)</description>
-      <pubDate>Tue, 23 Jun 2026 23:11:37 GMT</pubDate>
+      <description>[TypeScript] open-source coding agent (620 stars this week)</description>
+      <pubDate>Wed, 24 Jun 2026 03:57:35 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/continuedev/continue</guid>
     </item>
   </channel>
