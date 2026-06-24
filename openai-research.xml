@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 03:57:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:51:10 GMT</lastBuildDate>
     <item>
       <title>Introducing New Capabilities To GPT Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
       <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
-      <pubDate>Tue, 23 Jun 2026 23:54:15 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 04:30:19 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+    </item>
+    <item>
+      <title>GPT 5 Safe Completions</title>
+      <link>https://openai.com/index/gpt-5-safe-completions/</link>
+      <description>OpenAI research/release: GPT 5 Safe Completions</description>
+      <pubDate>Wed, 24 Jun 2026 04:28:04 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-safe-completions/</guid>
     </item>
     <item>
       <title>Introducing GPT 5 5</title>
@@ -19,13 +26,6 @@
       <description>OpenAI research/release: Introducing GPT 5 5</description>
       <pubDate>Tue, 23 Jun 2026 06:31:26 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-5/</guid>
-    </item>
-    <item>
-      <title>GPT 5 Safe Completions</title>
-      <link>https://openai.com/index/gpt-5-safe-completions/</link>
-      <description>OpenAI research/release: GPT 5 Safe Completions</description>
-      <pubDate>Tue, 23 Jun 2026 05:15:58 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-safe-completions/</guid>
     </item>
     <item>
       <title>Sharing The Latest Model Spec</title>
