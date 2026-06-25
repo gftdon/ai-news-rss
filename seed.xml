@@ -5,7 +5,7 @@
     <link>https://seed.bytedance.com/en</link>
     <description>Latest AI research papers from ByteDance Seed</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 05:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:29:23 GMT</lastBuildDate>
     <item>
       <title>Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation</title>
       <link>https://seed.bytedance.com/en/tech/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation</link>
@@ -26,6 +26,13 @@ pipeline of Seed...</description>
       <guid isPermaLink="true">https://seed.bytedance.com/en/tech/not-all-tokens-contribute-equally-to-diffusion-learning</guid>
     </item>
     <item>
+      <title>Hessian-informed machine learning interatomic potential towards bridging theory and experiments</title>
+      <link>https://seed.bytedance.com/en/tech/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments</link>
+      <description>Local curvature of potential energy surfaces is critical for predicting certain experimental observables of molecules and materials from first principles, yet it remains far beyond reach for complex systems. In this work, we introduce a Hessian-informed Machine Learning Interatomic Potential (Hi-MLIP) that captures such curvature reliably, thereby enabling accurate analysis of associated thermodynamic and kinetic phenomena. To make Hessian supervision practically viable, we develop a highly e...</description>
+      <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments</guid>
+    </item>
+    <item>
       <title>TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification</title>
       <link>https://seed.bytedance.com/en/tech/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification</link>
       <description>The dominant paradigm for high-fidelity 3D generation relies on a VAE-Diffusion pipeline, where the VAE&apos;s reconstruction capability sets a firm upper bound on generation quality. A fundamental challenge limiting existing VAEs is the representation mismatch between ground-truth meshes and network predictions: GT meshes have arbitrary, variable topology, while VAEs typically predict fixed-structure implicit fields (\eg, SDF on regular grids). This inherent misalignment prevents establishing exp...</description>
@@ -38,13 +45,6 @@ pipeline of Seed...</description>
       <description>The lack of sufficiently diverse data, coupled with limited data efficiency, remains a major bottleneck for generalist robotic models, yet systematic strategies for collecting and curating such data are not fully explored. Task diversity arises from implicit factors that are sparsely distributed across multiple dimensions and are difficult to define explicitly. To address this challenge, we propose F-ACIL, a heuristic factor-aware compositional iterative learning framework that enables struct...</description>
       <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://seed.bytedance.com/en/tech/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition</guid>
-    </item>
-    <item>
-      <title>Hessian-informed machine learning interatomic potential towards bridging theory and experiments</title>
-      <link>https://seed.bytedance.com/en/tech/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments</link>
-      <description>Local curvature of potential energy surfaces is critical for predicting certain experimental observables of molecules and materials from first principles, yet it remains far beyond reach for complex systems. In this work, we introduce a Hessian-informed Machine Learning Interatomic Potential (Hi-MLIP) that captures such curvature reliably, thereby enabling accurate analysis of associated thermodynamic and kinetic phenomena. To make Hessian supervision practically viable, we develop a highly e...</description>
-      <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments</guid>
     </item>
     <item>
       <title>SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM</title>
@@ -80,55 +80,6 @@ pipeline of Seed...</description>
       <description>Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually diluted by repeated residual updates, making them harder to recover in deeper layers. We introduce mixture-of-depths attention (MoDA), a mechanism that allows each attention head to attend to sequence KV pairs at the current layer and depth KV pairs from preceding layers. We further describe a hardwar...</description>
       <pubDate>Sun, 15 Mar 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://seed.bytedance.com/en/tech/mixture-of-depths-attention</guid>
-    </item>
-    <item>
-      <title>Disentangling Tensor Network States with Deep Neural Network</title>
-      <link>https://seed.bytedance.com/en/tech/disentangling-tensor-network-states-with-deep-neural-network</link>
-      <description>We introduce Neural Tensor Network States (νTNS), a variational many-body wave-function ansatz that integrates deep neural networks with tensor-network architectures. In the νTNS framework, a neural network serves as a disentangler of the wave-function, transforming the physical degrees of freedom into renormalized variables with much less entanglement. The renormalized state is then efficiently encoded by a back-flow tensor network. This construction yields a compact yet highly expressive re...</description>
-      <pubDate>Sat, 14 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/disentangling-tensor-network-states-with-deep-neural-network</guid>
-    </item>
-    <item>
-      <title>Permutation invariant multi-scale full quantum neural network wavefunction</title>
-      <link>https://seed.bytedance.com/en/tech/permutation-invariant-multi-scale-full-quantum-neural-network-wavefunction</link>
-      <description>Solving the intricate quantum behavior of interacting particles is key to unlocking the mysteries of condensed matter, but capturing their complex correlations across different scales remains a monumental challenge. We introduce a neural network framework that overcomes this barrier by modeling the full quantum wavefunction of a system, including electrons, nuclei and muons, directly capturing the full quantum effects beyond the Born-Oppenheimer approximation. The neural network approximates ...</description>
-      <pubDate>Wed, 11 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/permutation-invariant-multi-scale-full-quantum-neural-network-wavefunction</guid>
-    </item>
-    <item>
-      <title>Learn Hard Problems During RL with Reference Guided Fine-tuning</title>
-      <link>https://seed.bytedance.com/en/tech/learn-hard-problems-during-rl-with-reference-guided-fine-tuning</link>
-      <description>Reinforcement learning (RL) for mathematical reasoning can suffer from reward sparsity: for challenging problems, LLM fails to sample any correct trajectories, preventing RL from receiving meaningful positive feedback. At the same time, there often exist human-written reference solutions along with the problem (e.g., problems from AoPS), but directly fine-tuning on these solutions offers no benefit because models often cannot imitate human proofs that lie outside their own reasoning distribut...</description>
-      <pubDate>Wed, 04 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/learn-hard-problems-during-rl-with-reference-guided-fine-tuning</guid>
-    </item>
-    <item>
-      <title>How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning</title>
-      <link>https://seed.bytedance.com/en/tech/how-rl-unlocks-the-aha-moment-in-geometric-interleaved-reasoning</link>
-      <description>Solving complex geometric problems inherently requires interleaved reasoning: a tight alternation between constructing diagrams and performing logical deductions. Although recent Multimodal Large Language Models (MLLMs) have demonstrated strong capabilities in visual generation and plotting, we identify a counter-intuitive and underexplored phenomenon. Naively applying Supervised Fine-Tuning (SFT) on interleaved plot-solution data leads to a substantial degradation in reasoning performance co...</description>
-      <pubDate>Sat, 28 Feb 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/how-rl-unlocks-the-aha-moment-in-geometric-interleaved-reasoning</guid>
-    </item>
-    <item>
-      <title>Does Your Reasoning Model Implicitly Know When to Stop Thinking?</title>
-      <link>https://seed.bytedance.com/en/tech/does-your-reasoning-model-implicitly-know-when-to-stop-thinking</link>
-      <description>Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in substantial redundancy, impairing computational efficiency and causing significant delays in real-time applications. Recent studies show that longer reasoning chains are frequently uncorrelated with correctness and can even be detrimental to accuracy. In a further in-depth analysis of this phenom...</description>
-      <pubDate>Thu, 26 Feb 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/does-your-reasoning-model-implicitly-know-when-to-stop-thinking</guid>
-    </item>
-    <item>
-      <title>Steerable Instruction Following Coding Data Synthesis with Actor-Parametric Schema Co-Evolution</title>
-      <link>https://seed.bytedance.com/en/tech/steerable-instruction-following-coding-data-synthesis-with-actor-parametric-schema-co-evolution</link>
-      <description>Interpreting and following human instructions is a critical capability of large language models (LLMs) in automatic programming. However, synthesizing large-scale instruction-paired coding data remains largely unexplored and is particularly challenging when ensuring logical compatibility among multiple constraints. In this study, we propose IFCodeEvolve, an actor-schema co-evolution framework for instruction following coding data generation. By representing instructions as parametric function...</description>
-      <pubDate>Thu, 26 Feb 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/steerable-instruction-following-coding-data-synthesis-with-actor-parametric-schema-co-evolution</guid>
-    </item>
-    <item>
-      <title>CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation</title>
-      <link>https://seed.bytedance.com/en/tech/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation</link>
-      <description>GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as this http URL for CUDA kernel generation. Existing CUDA code generation approaches either rely on training-free refinement or fine-tune models within fixed multi-turn execution-feedback loops, but both paradigms fail to fund...</description>
-      <pubDate>Thu, 26 Feb 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation</guid>
     </item>
   </channel>
 </rss>
