@@ -5,139 +5,153 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:32:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:38:37 GMT</lastBuildDate>
     <item>
       <title>calesthio/OpenMontage [Python] — 17,249 stars this week</title>
       <link>https://github.com/calesthio/OpenMontage</link>
       <description>[Python] World&apos;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. (17,249 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/calesthio/OpenMontage</guid>
     </item>
     <item>
       <title>DeusData/codebase-memory-mcp [C] — 7,592 stars this week</title>
       <link>https://github.com/DeusData/codebase-memory-mcp</link>
       <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (7,592 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/DeusData/codebase-memory-mcp</guid>
-    </item>
-    <item>
-      <title>BuilderIO/agent-native [TypeScript] — 1,569 stars this week</title>
-      <link>https://github.com/BuilderIO/agent-native</link>
-      <description>[TypeScript] A framework for building agent-native applications. (1,569 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/BuilderIO/agent-native</guid>
     </item>
     <item>
       <title>kunchenguid/no-mistakes [Go] — 1,744 stars this week</title>
       <link>https://github.com/kunchenguid/no-mistakes</link>
       <description>[Go] git push no-mistakes (1,744 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/kunchenguid/no-mistakes</guid>
-    </item>
-    <item>
-      <title>penpot/penpot [Clojure] — 3,560 stars this week</title>
-      <link>https://github.com/penpot/penpot</link>
-      <description>[Clojure] Penpot: The open-source design tool for design and code collaboration (3,560 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/penpot/penpot</guid>
-    </item>
-    <item>
-      <title>ZhuLinsen/daily_stock_analysis [Python] — 6,919 stars this week</title>
-      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
-      <description>[Python] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (6,919 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
-    </item>
-    <item>
-      <title>jamiepine/voicebox [TypeScript] — 3,819 stars this week</title>
-      <link>https://github.com/jamiepine/voicebox</link>
-      <description>[TypeScript] The open-source AI voice studio. Clone, dictate, create. (3,819 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/jamiepine/voicebox</guid>
-    </item>
-    <item>
-      <title>Panniantong/Agent-Reach [Python] — 7,199 stars this week</title>
-      <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (7,199 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
-    </item>
-    <item>
-      <title>koala73/worldmonitor [TypeScript] — 3,170 stars this week</title>
-      <link>https://github.com/koala73/worldmonitor</link>
-      <description>[TypeScript] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (3,170 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/koala73/worldmonitor</guid>
-    </item>
-    <item>
-      <title>stablyai/orca [TypeScript] — 2,398 stars this week</title>
-      <link>https://github.com/stablyai/orca</link>
-      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. (2,398 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
-    </item>
-    <item>
-      <title>mukul975/Anthropic-Cybersecurity-Skills [Python] — 5,109 stars this week</title>
-      <link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link>
-      <description>[Python] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0 (5,109 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mukul975/Anthropic-Cybersecurity-Skills</guid>
-    </item>
-    <item>
-      <title>asgeirtj/system_prompts_leaks [JavaScript] — 2,864 stars this week</title>
-      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (2,864 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
-    </item>
-    <item>
-      <title>interviewstreet/hiring-agent [Python] — 1,727 stars this week</title>
-      <link>https://github.com/interviewstreet/hiring-agent</link>
-      <description>[Python] AI agent to evaluate and score resumes. (1,727 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/interviewstreet/hiring-agent</guid>
     </item>
     <item>
       <title>google-labs-code/design.md [TypeScript] — 4,618 stars this week</title>
       <link>https://github.com/google-labs-code/design.md</link>
       <description>[TypeScript] A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. (4,618 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/google-labs-code/design.md</guid>
+    </item>
+    <item>
+      <title>ZhuLinsen/daily_stock_analysis [Python] — 6,919 stars this week</title>
+      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
+      <description>[Python] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (6,919 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
+    </item>
+    <item>
+      <title>penpot/penpot [Clojure] — 3,560 stars this week</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>[Clojure] Penpot: The open-source design tool for design and code collaboration (3,560 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/penpot/penpot</guid>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach [Python] — 7,199 stars this week</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (7,199 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
+    </item>
+    <item>
+      <title>interviewstreet/hiring-agent [Python] — 1,727 stars this week</title>
+      <link>https://github.com/interviewstreet/hiring-agent</link>
+      <description>[Python] AI agent to evaluate and score resumes. (1,727 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/interviewstreet/hiring-agent</guid>
     </item>
     <item>
       <title>JCodesMore/ai-website-cloner-template [TypeScript] — 3,906 stars this week</title>
       <link>https://github.com/JCodesMore/ai-website-cloner-template</link>
       <description>[TypeScript] Clone any website with one command using AI coding agents (3,906 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/JCodesMore/ai-website-cloner-template</guid>
     </item>
     <item>
-      <title>mattpocock/skills [Shell] — 11,060 stars this week</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <description>[Shell] Skills for Real Engineers. Straight from my .claude directory. (11,060 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <title>jamiepine/voicebox [TypeScript] — 3,819 stars this week</title>
+      <link>https://github.com/jamiepine/voicebox</link>
+      <description>[TypeScript] The open-source AI voice studio. Clone, dictate, create. (3,819 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/jamiepine/voicebox</guid>
+    </item>
+    <item>
+      <title>stablyai/orca [TypeScript] — 2,398 stars this week</title>
+      <link>https://github.com/stablyai/orca</link>
+      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. (2,398 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
+    </item>
+    <item>
+      <title>BuilderIO/agent-native [TypeScript] — 1,569 stars this week</title>
+      <link>https://github.com/BuilderIO/agent-native</link>
+      <description>[TypeScript] A framework for building agent-native applications. (1,569 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/BuilderIO/agent-native</guid>
+    </item>
+    <item>
+      <title>mukul975/Anthropic-Cybersecurity-Skills [Python] — 5,109 stars this week</title>
+      <link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link>
+      <description>[Python] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0 (5,109 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mukul975/Anthropic-Cybersecurity-Skills</guid>
+    </item>
+    <item>
+      <title>koala73/worldmonitor [TypeScript] — 3,170 stars this week</title>
+      <link>https://github.com/koala73/worldmonitor</link>
+      <description>[TypeScript] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (3,170 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/koala73/worldmonitor</guid>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks [JavaScript] — 2,864 stars this week</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (2,864 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
+    </item>
+    <item>
+      <title>simplex-chat/simplex-chat [Haskell] — 551 stars this week</title>
+      <link>https://github.com/simplex-chat/simplex-chat</link>
+      <description>[Haskell] SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! (551 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/simplex-chat/simplex-chat</guid>
     </item>
     <item>
       <title>aws/agent-toolkit-for-aws [Python] — 349 stars this week</title>
       <link>https://github.com/aws/agent-toolkit-for-aws</link>
       <description>[Python] Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS (349 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/aws/agent-toolkit-for-aws</guid>
+    </item>
+    <item>
+      <title>alibaba/page-agent [TypeScript] — 1,551 stars this week</title>
+      <link>https://github.com/alibaba/page-agent</link>
+      <description>[TypeScript] JavaScript in-page GUI agent. Control web interfaces with natural language. (1,551 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/alibaba/page-agent</guid>
+    </item>
+    <item>
+      <title>bytedance/deer-flow [Python] — 3,329 stars this week</title>
+      <link>https://github.com/bytedance/deer-flow</link>
+      <description>[Python] An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. (3,329 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
     </item>
     <item>
       <title>Stirling-Tools/Stirling-PDF [Java] — 3,250 stars this week</title>
       <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
       <description>[Java] #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere (3,250 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Stirling-Tools/Stirling-PDF</guid>
     </item>
     <item>
-      <title>Kong/insomnia [TypeScript] — 981 stars this week</title>
-      <link>https://github.com/Kong/insomnia</link>
-      <description>[TypeScript] The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. (981 stars this week)</description>
-      <pubDate>Sat, 27 Jun 2026 09:32:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Kong/insomnia</guid>
+      <title>topoteretes/cognee [Python] — 5,072 stars this week</title>
+      <link>https://github.com/topoteretes/cognee</link>
+      <description>[Python] Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. (5,072 stars this week)</description>
+      <pubDate>Sat, 27 Jun 2026 11:38:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/topoteretes/cognee</guid>
     </item>
   </channel>
 </rss>

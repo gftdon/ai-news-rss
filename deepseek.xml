@@ -5,34 +5,62 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:32:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:38:37 GMT</lastBuildDate>
     <item>
-      <title>DeepGEMM: nv_dev_950d31a</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
-      <description>nv_dev_950d31a</description>
-      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
+      <title>DeepSpec</title>
+      <link>https://github.com/deepseek-ai/DeepSpec</link>
+      <description>DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms</description>
+      <pubDate>Sat, 27 Jun 2026 04:57:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSpec</guid>
     </item>
     <item>
-      <title>DeepGEMM: nv_dev_67fc648</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
-      <description>nv_dev_67fc648</description>
-      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
+      <title>3FS</title>
+      <link>https://github.com/deepseek-ai/3FS</link>
+      <description> A high-performance distributed file system designed to address the challenges of AI training and inference workloads. </description>
+      <pubDate>Thu, 07 May 2026 09:31:54 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/3FS</guid>
     </item>
     <item>
-      <title>DeepGEMM: nv_dev_c491439</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_c491439</link>
-      <description>nv_dev_c491439</description>
-      <pubDate>Wed, 22 Apr 2026 08:26:51 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_c491439</guid>
+      <title>awesome-deepseek-integration</title>
+      <link>https://github.com/deepseek-ai/awesome-deepseek-integration</link>
+      <description>Integrate the DeepSeek API into popular software</description>
+      <pubDate>Mon, 23 Feb 2026 16:27:47 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/awesome-deepseek-integration</guid>
     </item>
     <item>
-      <title>DeepSeek-R1: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
+      <title>DeepSeek-OCR-2</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR-2</link>
+      <description>Visual Causal Flow</description>
+      <pubDate>Tue, 03 Feb 2026 00:34:18 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR-2</guid>
+    </item>
+    <item>
+      <title>DeepSeek-OCR</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR</link>
+      <description>Contexts Optical Compression</description>
+      <pubDate>Tue, 27 Jan 2026 03:45:14 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR</guid>
+    </item>
+    <item>
+      <title>DeepSeek-Coder</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-Coder</link>
+      <description>DeepSeek Coder: Let the Code Write Itself</description>
+      <pubDate>Tue, 11 Nov 2025 06:44:56 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-Coder</guid>
+    </item>
+    <item>
+      <title>open-infra-index</title>
+      <link>https://github.com/deepseek-ai/open-infra-index</link>
+      <description>Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation</description>
+      <pubDate>Thu, 15 May 2025 02:00:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/open-infra-index</guid>
+    </item>
+    <item>
+      <title>DeepSeek-LLM</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
+      <description>DeepSeek LLM: Let there be answers</description>
+      <pubDate>Sun, 04 Feb 2024 12:22:16 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-LLM</guid>
     </item>
   </channel>
 </rss>
