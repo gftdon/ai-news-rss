@@ -5,7 +5,28 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 19:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 21:09:47 GMT</lastBuildDate>
+    <item>
+      <title>DeepGEMM: nv_dev_950d31a</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
+      <description>nv_dev_950d31a</description>
+      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
+    </item>
+    <item>
+      <title>DeepGEMM: nv_dev_67fc648</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
+      <description>nv_dev_67fc648</description>
+      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
+    </item>
+    <item>
+      <title>DeepGEMM: nv_dev_c491439</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_c491439</link>
+      <description>nv_dev_c491439</description>
+      <pubDate>Wed, 22 Apr 2026 08:26:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_c491439</guid>
+    </item>
     <item>
       <title>DeepSeek-V3: v1.0.0</title>
       <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
