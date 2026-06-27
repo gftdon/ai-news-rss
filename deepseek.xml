@@ -5,7 +5,7 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 13:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 15:19:23 GMT</lastBuildDate>
     <item>
       <title>DeepGEMM: nv_dev_950d31a</title>
       <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
@@ -33,13 +33,6 @@
       <description>This release is created for archival purposes and DOI generation.</description>
       <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
-    </item>
-    <item>
-      <title>DeepSeek-R1: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
     </item>
   </channel>
 </rss>
