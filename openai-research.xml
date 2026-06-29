@@ -5,20 +5,48 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 04:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:51:09 GMT</lastBuildDate>
+    <item>
+      <title>Previewing GPT 5 6 Sol</title>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
+      <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
+      <pubDate>Mon, 29 Jun 2026 08:19:03 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
+    </item>
+    <item>
+      <title>Codex Now Generally Available</title>
+      <link>https://openai.com/index/codex-now-generally-available/</link>
+      <description>OpenAI research/release: Codex Now Generally Available</description>
+      <pubDate>Mon, 29 Jun 2026 05:06:46 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/codex-now-generally-available/</guid>
+    </item>
+    <item>
+      <title>Introducing Upgrades To Codex</title>
+      <link>https://openai.com/index/introducing-upgrades-to-codex/</link>
+      <description>OpenAI research/release: Introducing Upgrades To Codex</description>
+      <pubDate>Mon, 29 Jun 2026 05:06:43 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-upgrades-to-codex/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT 5 2 Codex</title>
+      <link>https://openai.com/index/introducing-gpt-5-2-codex/</link>
+      <description>OpenAI research/release: Introducing GPT 5 2 Codex</description>
+      <pubDate>Mon, 29 Jun 2026 05:06:25 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-2-codex/</guid>
+    </item>
+    <item>
+      <title>GPT 5 1 Codex Max</title>
+      <link>https://openai.com/index/gpt-5-1-codex-max/</link>
+      <description>OpenAI research/release: GPT 5 1 Codex Max</description>
+      <pubDate>Mon, 29 Jun 2026 05:06:22 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-1-codex-max/</guid>
+    </item>
     <item>
       <title>Introducing GPT 5 4</title>
       <link>https://openai.com/index/introducing-gpt-5-4/</link>
       <description>OpenAI research/release: Introducing GPT 5 4</description>
       <pubDate>Mon, 29 Jun 2026 01:15:43 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-4/</guid>
-    </item>
-    <item>
-      <title>Previewing GPT 5 6 Sol</title>
-      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
-      <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
-      <pubDate>Sun, 28 Jun 2026 10:26:02 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
     </item>
     <item>
       <title>Introducing GPT 5 3 Codex</title>
@@ -117,34 +145,6 @@
       <description>OpenAI research/release: Whisper</description>
       <pubDate>Tue, 16 Jun 2026 22:28:23 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/whisper/</guid>
-    </item>
-    <item>
-      <title>Faster Physics In Python</title>
-      <link>https://openai.com/index/faster-physics-in-python/</link>
-      <description>OpenAI research/release: Faster Physics In Python</description>
-      <pubDate>Tue, 16 Jun 2026 22:28:11 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/faster-physics-in-python/</guid>
-    </item>
-    <item>
-      <title>Openai o1 Mini Advancing Cost Efficient Reasoning</title>
-      <link>https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/</link>
-      <description>OpenAI research/release: Openai o1 Mini Advancing Cost Efficient Reasoning</description>
-      <pubDate>Tue, 16 Jun 2026 22:28:10 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/</guid>
-    </item>
-    <item>
-      <title>Safety Gym</title>
-      <link>https://openai.com/index/safety-gym/</link>
-      <description>OpenAI research/release: Safety Gym</description>
-      <pubDate>Tue, 16 Jun 2026 22:28:09 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/safety-gym/</guid>
-    </item>
-    <item>
-      <title>Openai Baselines PPO</title>
-      <link>https://openai.com/index/openai-baselines-ppo/</link>
-      <description>OpenAI research/release: Openai Baselines PPO</description>
-      <pubDate>Tue, 16 Jun 2026 22:28:09 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-baselines-ppo/</guid>
     </item>
   </channel>
 </rss>
