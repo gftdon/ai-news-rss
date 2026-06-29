@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 23:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:19:51 GMT</lastBuildDate>
+    <item>
+      <title>Introducing GPT 5 4</title>
+      <link>https://openai.com/index/introducing-gpt-5-4/</link>
+      <description>OpenAI research/release: Introducing GPT 5 4</description>
+      <pubDate>Mon, 29 Jun 2026 01:15:43 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-4/</guid>
+    </item>
     <item>
       <title>Previewing GPT 5 6 Sol</title>
       <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
@@ -138,13 +145,6 @@
       <description>OpenAI research/release: Openai Baselines PPO</description>
       <pubDate>Tue, 16 Jun 2026 22:28:09 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-baselines-ppo/</guid>
-    </item>
-    <item>
-      <title>Roboschool</title>
-      <link>https://openai.com/index/roboschool/</link>
-      <description>OpenAI research/release: Roboschool</description>
-      <pubDate>Tue, 16 Jun 2026 22:28:09 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/roboschool/</guid>
     </item>
   </channel>
 </rss>
