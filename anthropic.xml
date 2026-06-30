@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 18:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:58:16 GMT</lastBuildDate>
     <item>
       <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
       <link>https://www.anthropic.com/news/fable-mythos-access</link>
@@ -21,6 +21,13 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
     </item>
     <item>
+      <title>Claude Science, an AI workbench for scientists, is now available</title>
+      <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
+      <description>[Announcements] Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
+    </item>
+    <item>
       <title>Introducing Claude Tag</title>
       <link>https://www.anthropic.com/news/introducing-claude-tag</link>
       <description>[Product] Claude Tag is a new way for teams to work with Claude.</description>
@@ -28,25 +35,11 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
     </item>
     <item>
-      <title>Expanding Project Glasswing</title>
-      <link>https://www.anthropic.com/news/expanding-project-glasswing</link>
-      <description>[Announcements] We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.</description>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-project-glasswing</guid>
-    </item>
-    <item>
       <title>Introducing Claude Opus 4.8</title>
       <link>https://www.anthropic.com/news/claude-opus-4-8</link>
       <description>[Product] An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-8</guid>
-    </item>
-    <item>
-      <title>Claude Science, an AI workbench for scientists, is now available</title>
-      <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
-      <description>[Announcements] Claude Science, an AI workbench for scientists, is now available</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
     </item>
     <item>
       <title>Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</title>
