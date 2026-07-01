@@ -5,7 +5,7 @@
     <link>https://seed.bytedance.com/en</link>
     <description>Latest AI research papers from ByteDance Seed</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 05:25:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:56:58 GMT</lastBuildDate>
     <item>
       <title>Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation</title>
       <link>https://seed.bytedance.com/en/tech/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation</link>
@@ -33,13 +33,6 @@ pipeline of Seed...</description>
       <guid isPermaLink="true">https://seed.bytedance.com/en/tech/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments</guid>
     </item>
     <item>
-      <title>TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification</title>
-      <link>https://seed.bytedance.com/en/tech/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification</link>
-      <description>The dominant paradigm for high-fidelity 3D generation relies on a VAE-Diffusion pipeline, where the VAE&apos;s reconstruction capability sets a firm upper bound on generation quality. A fundamental challenge limiting existing VAEs is the representation mismatch between ground-truth meshes and network predictions: GT meshes have arbitrary, variable topology, while VAEs typically predict fixed-structure implicit fields (\eg, SDF on regular grids). This inherent misalignment prevents establishing exp...</description>
-      <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification</guid>
-    </item>
-    <item>
       <title>Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition</title>
       <link>https://seed.bytedance.com/en/tech/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition</link>
       <description>The lack of sufficiently diverse data, coupled with limited data efficiency, remains a major bottleneck for generalist robotic models, yet systematic strategies for collecting and curating such data are not fully explored. Task diversity arises from implicit factors that are sparsely distributed across multiple dimensions and are difficult to define explicitly. To address this challenge, we propose F-ACIL, a heuristic factor-aware compositional iterative learning framework that enables struct...</description>
@@ -47,11 +40,11 @@ pipeline of Seed...</description>
       <guid isPermaLink="true">https://seed.bytedance.com/en/tech/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition</guid>
     </item>
     <item>
-      <title>SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM</title>
-      <link>https://seed.bytedance.com/en/tech/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm</link>
-      <description>High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in &quot;sim-ready&quot; interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offer a single-stage path to joint static asset understanding and sim-ready asset generation. However dense voxel-based 3D tokenization yields long...</description>
-      <pubDate>Mon, 23 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm</guid>
+      <title>TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification</title>
+      <link>https://seed.bytedance.com/en/tech/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification</link>
+      <description>The dominant paradigm for high-fidelity 3D generation relies on a VAE-Diffusion pipeline, where the VAE&apos;s reconstruction capability sets a firm upper bound on generation quality. A fundamental challenge limiting existing VAEs is the representation mismatch between ground-truth meshes and network predictions: GT meshes have arbitrary, variable topology, while VAEs typically predict fixed-structure implicit fields (\eg, SDF on regular grids). This inherent misalignment prevents establishing exp...</description>
+      <pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification</guid>
     </item>
     <item>
       <title>UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation</title>
@@ -59,6 +52,13 @@ pipeline of Seed...</description>
       <description>Unified models capable of interleaved generation have emerged as a promising paradigm, with the community increasingly converging on autoregressive modeling for text and flow matching for image generation. To advance this direction, we propose a unified reinforcement learning framework tailored for interleaved generation. We validate our approach on its fundamental unit: a single round of reasoning-driven image generation, where the model first expands the user prompt through reasoning, follo...</description>
       <pubDate>Mon, 23 Mar 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://seed.bytedance.com/en/tech/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation</guid>
+    </item>
+    <item>
+      <title>SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM</title>
+      <link>https://seed.bytedance.com/en/tech/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm</link>
+      <description>High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in &quot;sim-ready&quot; interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offer a single-stage path to joint static asset understanding and sim-ready asset generation. However dense voxel-based 3D tokenization yields long...</description>
+      <pubDate>Mon, 23 Mar 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm</guid>
     </item>
     <item>
       <title>Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit</title>
