@@ -5,7 +5,7 @@
     <link>https://seed.bytedance.com/en</link>
     <description>Latest AI research papers from ByteDance Seed</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:56:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:39:10 GMT</lastBuildDate>
     <item>
       <title>Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation</title>
       <link>https://seed.bytedance.com/en/tech/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation</link>
@@ -17,69 +17,6 @@ and more efficient decoding. For texture and material generation, we replace the
 pipeline of Seed...</description>
       <pubDate>Tue, 21 Apr 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://seed.bytedance.com/en/tech/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation</guid>
-    </item>
-    <item>
-      <title>Not all tokens contribute equally to diffusion learning</title>
-      <link>https://seed.bytedance.com/en/tech/not-all-tokens-contribute-equally-to-diffusion-learning</link>
-      <description>With the rapid development of conditional diffusion models, significant progress has been made in text-to-video generation. However, we observe that these models often neglect semantically important tokens during inference, leading to biased or incomplete generations under classifier-free guidance. We attribute this issue to two key factors: distributional bias caused by the long-tailed token frequency in training data, and spatial misalignment in cross-attention where semantically important ...</description>
-      <pubDate>Tue, 07 Apr 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/not-all-tokens-contribute-equally-to-diffusion-learning</guid>
-    </item>
-    <item>
-      <title>Hessian-informed machine learning interatomic potential towards bridging theory and experiments</title>
-      <link>https://seed.bytedance.com/en/tech/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments</link>
-      <description>Local curvature of potential energy surfaces is critical for predicting certain experimental observables of molecules and materials from first principles, yet it remains far beyond reach for complex systems. In this work, we introduce a Hessian-informed Machine Learning Interatomic Potential (Hi-MLIP) that captures such curvature reliably, thereby enabling accurate analysis of associated thermodynamic and kinetic phenomena. To make Hessian supervision practically viable, we develop a highly e...</description>
-      <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments</guid>
-    </item>
-    <item>
-      <title>Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition</title>
-      <link>https://seed.bytedance.com/en/tech/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition</link>
-      <description>The lack of sufficiently diverse data, coupled with limited data efficiency, remains a major bottleneck for generalist robotic models, yet systematic strategies for collecting and curating such data are not fully explored. Task diversity arises from implicit factors that are sparsely distributed across multiple dimensions and are difficult to define explicitly. To address this challenge, we propose F-ACIL, a heuristic factor-aware compositional iterative learning framework that enables struct...</description>
-      <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition</guid>
-    </item>
-    <item>
-      <title>TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification</title>
-      <link>https://seed.bytedance.com/en/tech/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification</link>
-      <description>The dominant paradigm for high-fidelity 3D generation relies on a VAE-Diffusion pipeline, where the VAE&apos;s reconstruction capability sets a firm upper bound on generation quality. A fundamental challenge limiting existing VAEs is the representation mismatch between ground-truth meshes and network predictions: GT meshes have arbitrary, variable topology, while VAEs typically predict fixed-structure implicit fields (\eg, SDF on regular grids). This inherent misalignment prevents establishing exp...</description>
-      <pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification</guid>
-    </item>
-    <item>
-      <title>UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation</title>
-      <link>https://seed.bytedance.com/en/tech/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation</link>
-      <description>Unified models capable of interleaved generation have emerged as a promising paradigm, with the community increasingly converging on autoregressive modeling for text and flow matching for image generation. To advance this direction, we propose a unified reinforcement learning framework tailored for interleaved generation. We validate our approach on its fundamental unit: a single round of reasoning-driven image generation, where the model first expands the user prompt through reasoning, follo...</description>
-      <pubDate>Mon, 23 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation</guid>
-    </item>
-    <item>
-      <title>SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM</title>
-      <link>https://seed.bytedance.com/en/tech/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm</link>
-      <description>High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in &quot;sim-ready&quot; interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offer a single-stage path to joint static asset understanding and sim-ready asset generation. However dense voxel-based 3D tokenization yields long...</description>
-      <pubDate>Mon, 23 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm</guid>
-    </item>
-    <item>
-      <title>Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit</title>
-      <link>https://seed.bytedance.com/en/tech/development-and-large-scale-benchmarks-of-a-protein-ligand-absolute-binding-free-energy-toolkit</link>
-      <description>Absolute binding free energy (ABFE) calculations offer a theoretically rigorous approach for predicting protein--ligand binding affinities without the scaffold constraints of relative binding free energy (RBFE) perturbations. However, broad adoption of ABFE in high-throughput hit discovery campaigns has been hindered by high computational costs and a lack of large-scale validation. Here, we present Felis, an open-source, automated, and scalable toolkit designed for high-throughput ABFE calcul...</description>
-      <pubDate>Sun, 22 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/development-and-large-scale-benchmarks-of-a-protein-ligand-absolute-binding-free-energy-toolkit</guid>
-    </item>
-    <item>
-      <title>Beyond Token Eviction: Mixed-Dimension Budget Allocation for Efficient KV Cache Compression</title>
-      <link>https://seed.bytedance.com/en/tech/beyond-token-eviction-mixed-dimension-budget-allocation-for-efficient-kv-cache-compression</link>
-      <description>Key-value (KV) caching is widely used to accelerate transformer inference, but its memory cost grows linearly with input length, limiting long-context deployment. Existing token eviction methods reduce memory by discarding less important tokens, which can be viewed as a coarse form of dimensionality reduction that assigns each token either zero or full dimension. We propose MixedDimKV, a mixed-dimension KV cache compression method that allocates dimensions to tokens at a more granular level, ...</description>
-      <pubDate>Fri, 20 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/beyond-token-eviction-mixed-dimension-budget-allocation-for-efficient-kv-cache-compression</guid>
-    </item>
-    <item>
-      <title>Mixture-of-Depths Attention</title>
-      <link>https://seed.bytedance.com/en/tech/mixture-of-depths-attention</link>
-      <description>Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually diluted by repeated residual updates, making them harder to recover in deeper layers. We introduce mixture-of-depths attention (MoDA), a mechanism that allows each attention head to attend to sequence KV pairs at the current layer and depth KV pairs from preceding layers. We further describe a hardwar...</description>
-      <pubDate>Sun, 15 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/tech/mixture-of-depths-attention</guid>
     </item>
   </channel>
 </rss>
