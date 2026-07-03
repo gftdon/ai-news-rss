@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 23:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 03:39:07 GMT</lastBuildDate>
     <item>
       <title>Redeploying Fable 5</title>
       <link>https://www.anthropic.com/news/redeploying-fable-5</link>
@@ -33,6 +33,13 @@
       <description>[Product] Claude Tag is a new way for teams to work with Claude.</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
+    </item>
+    <item>
+      <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
+      <link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
+      <description>[Announcements] More details on Fable 5’s cyber safeguards and our jailbreak framework</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</guid>
     </item>
     <item>
       <title>Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</title>
@@ -68,13 +75,6 @@
       <description>[Announcements] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
-    </item>
-    <item>
-      <title>Introducing Claude Corps</title>
-      <link>https://www.anthropic.com/news/claude-corps</link>
-      <description>[Announcements] Introducing Claude Corps</description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
     </item>
   </channel>
 </rss>
