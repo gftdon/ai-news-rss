@@ -5,62 +5,13 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 19:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 21:12:21 GMT</lastBuildDate>
     <item>
-      <title>DeepSpec</title>
-      <link>https://github.com/deepseek-ai/DeepSpec</link>
-      <description>DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms</description>
-      <pubDate>Tue, 30 Jun 2026 06:42:21 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSpec</guid>
-    </item>
-    <item>
-      <title>awesome-deepseek-integration</title>
-      <link>https://github.com/deepseek-ai/awesome-deepseek-integration</link>
-      <description>Integrate the DeepSeek API into popular software</description>
-      <pubDate>Mon, 23 Feb 2026 16:27:47 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/awesome-deepseek-integration</guid>
-    </item>
-    <item>
-      <title>DeepSeek-Coder-V2</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-Coder-V2</link>
-      <description>DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence</description>
-      <pubDate>Tue, 11 Nov 2025 06:44:45 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-Coder-V2</guid>
-    </item>
-    <item>
-      <title>DeepSeek-VL2</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-VL2</link>
-      <description>DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding</description>
-      <pubDate>Wed, 26 Feb 2025 05:03:42 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-VL2</guid>
-    </item>
-    <item>
-      <title>DeepSeek-VL</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-VL</link>
-      <description>DeepSeek-VL: Towards Real-World Vision-Language Understanding</description>
-      <pubDate>Wed, 24 Apr 2024 05:01:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-VL</guid>
-    </item>
-    <item>
-      <title>DeepSeek-Math</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-Math</link>
-      <description>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</description>
-      <pubDate>Mon, 15 Apr 2024 07:55:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-Math</guid>
-    </item>
-    <item>
-      <title>DeepSeek-LLM</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
-      <description>DeepSeek LLM: Let there be answers</description>
-      <pubDate>Sun, 04 Feb 2024 12:22:16 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-LLM</guid>
-    </item>
-    <item>
-      <title>DeepSeek-MoE</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-MoE</link>
-      <description>DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models</description>
-      <pubDate>Tue, 16 Jan 2024 12:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-MoE</guid>
+      <title>DeepSeek-V3: v1.0.0</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
+      <description>This release is created for archival purposes and DOI generation.</description>
+      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
     </item>
   </channel>
 </rss>
