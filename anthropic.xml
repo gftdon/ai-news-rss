@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 17:46:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:03:39 GMT</lastBuildDate>
     <item>
       <title>Redeploying Fable 5</title>
       <link>https://www.anthropic.com/news/redeploying-fable-5</link>
@@ -33,6 +33,13 @@
       <description>[Product] Claude Tag is a new way for teams to work with Claude.</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
+    </item>
+    <item>
+      <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
+      <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
+      <description>[Case Study] Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/alberta-government-claude-cybersecurity</guid>
     </item>
     <item>
       <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
@@ -68,13 +75,6 @@
       <description>[Announcements] TCS and Anthropic partner to bring Claude to regulated industries</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
-    </item>
-    <item>
-      <title>DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
-      <link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
-      <description>[Announcements] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
     </item>
   </channel>
 </rss>
