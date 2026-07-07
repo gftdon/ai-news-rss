@@ -5,33 +5,33 @@
     <link>https://ai.meta.com/blog/</link>
     <description>Latest AI research and news from Meta</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 04:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:28:00 GMT</lastBuildDate>
     <item>
       <title>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
       <link>https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</link>
       <description>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</description>
-      <pubDate>Tue, 07 Jul 2026 04:56:14 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:28:00 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
     </item>
     <item>
       <title>Scaling How We Build and Test Our Most Advanced AI</title>
       <link>https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/</link>
       <description>Scaling How We Build and Test Our Most Advanced AI</description>
-      <pubDate>Tue, 07 Jul 2026 04:56:14 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:28:00 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/</guid>
     </item>
     <item>
       <title>How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet</title>
       <link>https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/</link>
       <description>How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet</description>
-      <pubDate>Tue, 07 Jul 2026 04:56:14 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:28:00 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/</guid>
     </item>
     <item>
       <title>SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning</title>
       <link>https://ai.meta.com/blog/segment-anything-model-3/</link>
       <description>SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning</description>
-      <pubDate>Tue, 07 Jul 2026 04:56:14 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:28:00 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/segment-anything-model-3/</guid>
     </item>
     <item>
@@ -73,13 +73,6 @@
       <description>Meta&apos;s DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase access to greenspaces.</description>
       <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/forest-research-dino/</guid>
-    </item>
-    <item>
-      <title>Open Source</title>
-      <link>https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/</link>
-      <description>Orakl Oncology aims to accelerate cancer research and drug development by combining experimental, lab-based insights and machine learning.</description>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/</guid>
     </item>
   </channel>
 </rss>
