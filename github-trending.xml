@@ -5,89 +5,96 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 20:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 22:13:29 GMT</lastBuildDate>
+    <item>
+      <title>MadsLorentzen/ai-job-search [TypeScript] — 2,402 stars today</title>
+      <link>https://github.com/MadsLorentzen/ai-job-search</link>
+      <description>[TypeScript] AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. (2,402 stars today)</description>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MadsLorentzen/ai-job-search</guid>
+    </item>
     <item>
       <title>Zackriya-Solutions/meetily [Rust] — 1,781 stars today</title>
       <link>https://github.com/Zackriya-Solutions/meetily</link>
       <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. (1,781 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Zackriya-Solutions/meetily</guid>
     </item>
     <item>
       <title>addyosmani/agent-skills [JavaScript] — 1,311 stars today</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[JavaScript] Production-grade engineering skills for AI coding agents. (1,311 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
       <title>ruvnet/RuView [Rust] — 1,122 stars today</title>
       <link>https://github.com/ruvnet/RuView</link>
       <description>[Rust] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (1,122 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
     </item>
     <item>
       <title>asgeirtj/system_prompts_leaks [JavaScript] — 1,704 stars today</title>
       <link>https://github.com/asgeirtj/system_prompts_leaks</link>
       <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (1,704 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
     </item>
     <item>
       <title>TencentCloud/CubeSandbox [Rust] — 665 stars today</title>
       <link>https://github.com/TencentCloud/CubeSandbox</link>
       <description>[Rust] Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents. (665 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/CubeSandbox</guid>
     </item>
     <item>
       <title>AhmadIbrahiim/Website-downloader [HTML] — 173 stars today</title>
       <link>https://github.com/AhmadIbrahiim/Website-downloader</link>
       <description>[HTML] 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js (173 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/AhmadIbrahiim/Website-downloader</guid>
     </item>
     <item>
       <title>steipete/CodexBar [Swift] — 377 stars today</title>
       <link>https://github.com/steipete/CodexBar</link>
       <description>[Swift] Show usage stats for OpenAI Codex and Claude Code, without having to login. (377 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/steipete/CodexBar</guid>
     </item>
     <item>
       <title>dotnet/skills [C#] — 82 stars today</title>
       <link>https://github.com/dotnet/skills</link>
       <description>Repository for skills to assist AI coding agents with .NET and C# (82 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/dotnet/skills</guid>
     </item>
     <item>
       <title>iOfficeAI/OfficeCLI [C#] — 802 stars today</title>
       <link>https://github.com/iOfficeAI/OfficeCLI</link>
       <description>[C#] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (802 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iOfficeAI/OfficeCLI</guid>
     </item>
     <item>
       <title>bradautomates/claude-video [Python] — 953 stars today</title>
       <link>https://github.com/bradautomates/claude-video</link>
       <description>[Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. (953 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bradautomates/claude-video</guid>
     </item>
     <item>
       <title>kyutai-labs/pocket-tts [Python] — 510 stars today</title>
       <link>https://github.com/kyutai-labs/pocket-tts</link>
       <description>[Python] A TTS that fits in your CPU (and pocket) (510 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/kyutai-labs/pocket-tts</guid>
     </item>
     <item>
       <title>hesreallyhim/awesome-claude-code [Python] — 227 stars today</title>
       <link>https://github.com/hesreallyhim/awesome-claude-code</link>
       <description>[Python] A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins (227 stars today)</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:51 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:13:29 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/hesreallyhim/awesome-claude-code</guid>
     </item>
   </channel>
