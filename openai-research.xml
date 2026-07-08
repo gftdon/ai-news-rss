@@ -5,20 +5,27 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 21:12:14 GMT</lastBuildDate>
-    <item>
-      <title>Introducing GPT Live</title>
-      <link>https://openai.com/index/introducing-gpt-live/</link>
-      <description>OpenAI research/release: Introducing GPT Live</description>
-      <pubDate>Wed, 08 Jul 2026 21:11:02 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live/</guid>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 23:11:50 GMT</lastBuildDate>
     <item>
       <title>Previewing GPT 5 6 Sol</title>
       <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
       <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
-      <pubDate>Wed, 08 Jul 2026 21:05:59 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 23:11:04 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT Live</title>
+      <link>https://openai.com/index/introducing-gpt-live/</link>
+      <description>OpenAI research/release: Introducing GPT Live</description>
+      <pubDate>Wed, 08 Jul 2026 22:59:31 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT 5 5</title>
+      <link>https://openai.com/index/introducing-gpt-5-5/</link>
+      <description>OpenAI research/release: Introducing GPT 5 5</description>
+      <pubDate>Wed, 08 Jul 2026 22:56:34 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-5/</guid>
     </item>
     <item>
       <title>Jukebox</title>
@@ -124,13 +131,6 @@
       <description>OpenAI research/release: Gym Retro</description>
       <pubDate>Wed, 08 Jul 2026 20:01:42 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gym-retro/</guid>
-    </item>
-    <item>
-      <title>Introducing GPT 5 5</title>
-      <link>https://openai.com/index/introducing-gpt-5-5/</link>
-      <description>OpenAI research/release: Introducing GPT 5 5</description>
-      <pubDate>Wed, 08 Jul 2026 20:01:17 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-5/</guid>
     </item>
     <item>
       <title>Codex Now Generally Available</title>
