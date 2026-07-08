@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 04:17:01 GMT</lastBuildDate>
     <item>
       <title>Previewing GPT 5 6 Sol</title>
       <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
       <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
-      <pubDate>Wed, 01 Jul 2026 23:15:29 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 04:13:26 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT 5 5</title>
+      <link>https://openai.com/index/introducing-gpt-5-5/</link>
+      <description>OpenAI research/release: Introducing GPT 5 5</description>
+      <pubDate>Wed, 08 Jul 2026 01:14:12 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-5/</guid>
     </item>
     <item>
       <title>Codex Now Generally Available</title>
@@ -75,13 +82,6 @@
       <description>OpenAI research/release: GPT 5 Safe Completions</description>
       <pubDate>Wed, 24 Jun 2026 04:28:04 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-safe-completions/</guid>
-    </item>
-    <item>
-      <title>Introducing GPT 5 5</title>
-      <link>https://openai.com/index/introducing-gpt-5-5/</link>
-      <description>OpenAI research/release: Introducing GPT 5 5</description>
-      <pubDate>Tue, 23 Jun 2026 06:31:26 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-5/</guid>
     </item>
     <item>
       <title>Sharing The Latest Model Spec</title>
