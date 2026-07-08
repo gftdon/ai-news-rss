@@ -5,117 +5,110 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 17:41:28 GMT</lastBuildDate>
-    <item>
-      <title>MadsLorentzen/ai-job-search [TypeScript] — 5,071 stars today</title>
-      <link>https://github.com/MadsLorentzen/ai-job-search</link>
-      <description>[TypeScript] AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. (5,071 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/MadsLorentzen/ai-job-search</guid>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 19:38:40 GMT</lastBuildDate>
     <item>
       <title>addyosmani/agent-skills [JavaScript] — 1,322 stars today</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[JavaScript] Production-grade engineering skills for AI coding agents. (1,322 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
       <title>ruvnet/RuView [Rust] — 793 stars today</title>
       <link>https://github.com/ruvnet/RuView</link>
       <description>[Rust] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (793 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
     </item>
     <item>
       <title>TencentCloud/TencentDB-Agent-Memory [TypeScript] — 351 stars today</title>
       <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
       <description>[TypeScript] TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. (351 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
     </item>
     <item>
       <title>prisma/prisma [TypeScript] — 30 stars today</title>
       <link>https://github.com/prisma/prisma</link>
       <description>Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (30 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/prisma/prisma</guid>
     </item>
     <item>
       <title>mvanhorn/last30days-skill [Python] — 373 stars today</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
       <description>[Python] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (373 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
     </item>
     <item>
       <title>argoproj/argo-cd [Go] — 20 stars today</title>
       <link>https://github.com/argoproj/argo-cd</link>
       <description>[Go] Declarative Continuous Deployment for Kubernetes (20 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
     </item>
     <item>
       <title>iOfficeAI/OfficeCLI [C#] — 1,712 stars today</title>
       <link>https://github.com/iOfficeAI/OfficeCLI</link>
       <description>[C#] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (1,712 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iOfficeAI/OfficeCLI</guid>
     </item>
     <item>
       <title>asgeirtj/system_prompts_leaks [JavaScript] — 1,226 stars today</title>
       <link>https://github.com/asgeirtj/system_prompts_leaks</link>
       <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (1,226 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
     </item>
     <item>
       <title>obra/superpowers [Shell] — 999 stars today</title>
       <link>https://github.com/obra/superpowers</link>
       <description>[Shell] An agentic skills framework &amp; software development methodology that works. (999 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
     </item>
     <item>
       <title>alibaba/zvec [C++] — 370 stars today</title>
       <link>https://github.com/alibaba/zvec</link>
       <description>[C++] A lightweight, lightning-fast, in-process vector database (370 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/alibaba/zvec</guid>
     </item>
     <item>
       <title>Diolinux/PhotoGIMP [CSS] — 2,031 stars today</title>
       <link>https://github.com/Diolinux/PhotoGIMP</link>
       <description>[CSS] A Patch for GIMP 3+ for Photoshop Users (2,031 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Diolinux/PhotoGIMP</guid>
     </item>
     <item>
       <title>wonderwhy-er/DesktopCommanderMCP [TypeScript] — 20 stars today</title>
       <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
       <description>[TypeScript] This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities (20 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/wonderwhy-er/DesktopCommanderMCP</guid>
     </item>
     <item>
       <title>huxingyi/autoremesher [C++] — 292 stars today</title>
       <link>https://github.com/huxingyi/autoremesher</link>
       <description>[C++] Automatic quad remeshing tool (292 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/huxingyi/autoremesher</guid>
     </item>
     <item>
       <title>bradautomates/claude-video [Python] — 948 stars today</title>
       <link>https://github.com/bradautomates/claude-video</link>
       <description>[Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. (948 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bradautomates/claude-video</guid>
     </item>
     <item>
       <title>TencentCloud/CubeSandbox [Rust] — 555 stars today</title>
       <link>https://github.com/TencentCloud/CubeSandbox</link>
       <description>[Rust] Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents. (555 stars today)</description>
-      <pubDate>Wed, 08 Jul 2026 17:41:28 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 19:38:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/CubeSandbox</guid>
     </item>
   </channel>
