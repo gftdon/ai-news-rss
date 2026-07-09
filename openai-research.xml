@@ -5,20 +5,41 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 16:29:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:52:11 GMT</lastBuildDate>
+    <item>
+      <title>GPT 5 6</title>
+      <link>https://openai.com/index/gpt-5-6/</link>
+      <description>OpenAI research/release: GPT 5 6</description>
+      <pubDate>Thu, 09 Jul 2026 18:27:07 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-6/</guid>
+    </item>
     <item>
       <title>Previewing GPT 5 6 Sol</title>
       <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
       <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
-      <pubDate>Thu, 09 Jul 2026 16:29:51 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 18:06:09 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
     </item>
     <item>
       <title>Introducing GPT Live</title>
       <link>https://openai.com/index/introducing-gpt-live/</link>
       <description>OpenAI research/release: Introducing GPT Live</description>
-      <pubDate>Thu, 09 Jul 2026 16:09:36 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 17:42:05 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT 5 3 Codex</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex/</link>
+      <description>OpenAI research/release: Introducing GPT 5 3 Codex</description>
+      <pubDate>Thu, 09 Jul 2026 17:08:51 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT 5 3 Codex Spark</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex-spark/</link>
+      <description>OpenAI research/release: Introducing GPT 5 3 Codex Spark</description>
+      <pubDate>Thu, 09 Jul 2026 17:08:30 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex-spark/</guid>
     </item>
     <item>
       <title>Introducing GPT 5 5</title>
@@ -124,27 +145,6 @@
       <description>OpenAI research/release: Openai Gym Beta</description>
       <pubDate>Wed, 08 Jul 2026 20:01:44 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-gym-beta/</guid>
-    </item>
-    <item>
-      <title>Gym Retro</title>
-      <link>https://openai.com/index/gym-retro/</link>
-      <description>OpenAI research/release: Gym Retro</description>
-      <pubDate>Wed, 08 Jul 2026 20:01:42 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gym-retro/</guid>
-    </item>
-    <item>
-      <title>Codex Now Generally Available</title>
-      <link>https://openai.com/index/codex-now-generally-available/</link>
-      <description>OpenAI research/release: Codex Now Generally Available</description>
-      <pubDate>Mon, 29 Jun 2026 05:06:46 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/codex-now-generally-available/</guid>
-    </item>
-    <item>
-      <title>Introducing Upgrades To Codex</title>
-      <link>https://openai.com/index/introducing-upgrades-to-codex/</link>
-      <description>OpenAI research/release: Introducing Upgrades To Codex</description>
-      <pubDate>Mon, 29 Jun 2026 05:06:43 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-upgrades-to-codex/</guid>
     </item>
   </channel>
 </rss>
