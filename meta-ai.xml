@@ -5,74 +5,46 @@
     <link>https://ai.meta.com/blog/</link>
     <description>Latest AI research and news from Meta</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 13:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:29:54 GMT</lastBuildDate>
+    <item>
+      <title>Introducing Muse Image and Muse Video</title>
+      <link>https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</link>
+      <description>Introducing Muse Image and Muse Video</description>
+      <pubDate>Thu, 09 Jul 2026 16:29:54 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</guid>
+    </item>
     <item>
       <title>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
       <link>https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</link>
       <description>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</description>
-      <pubDate>Thu, 09 Jul 2026 13:52:30 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 16:29:54 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
     </item>
     <item>
       <title>Scaling How We Build and Test Our Most Advanced AI</title>
       <link>https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/</link>
       <description>Scaling How We Build and Test Our Most Advanced AI</description>
-      <pubDate>Thu, 09 Jul 2026 13:52:30 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 16:29:54 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/</guid>
     </item>
     <item>
       <title>Introducing Muse Spark: Scaling Towards Personal Superintelligence</title>
       <link>https://ai.meta.com/blog/introducing-muse-spark-msl/</link>
       <description>Introducing Muse Spark: Scaling Towards Personal Superintelligence</description>
-      <pubDate>Thu, 09 Jul 2026 13:52:30 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 16:29:54 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-spark-msl/</guid>
     </item>
     <item>
-      <title>How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet</title>
-      <link>https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/</link>
-      <description>How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet</description>
-      <pubDate>Thu, 09 Jul 2026 13:52:30 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/</guid>
-    </item>
-    <item>
-      <title>Introducing Muse Image and Muse Video</title>
-      <link>https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</link>
-      <description>Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context. Muse Video delivers exceptional visual fidelity with native audio support.</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</guid>
+      <title>Introducing Muse Spark 1.1</title>
+      <link>https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</guid>
     </item>
     <item>
       <title>Research</title>
       <link>https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/</guid>
-    </item>
-    <item>
-      <title>Open Source</title>
-      <link>https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/</link>
-      <description>In partnership with the World Resources Institute, today we’re announcing Canopy Height Maps v2 (CHMv2), an open source model, along with world-scale maps generated with the model.</description>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/</guid>
-    </item>
-    <item>
-      <title>Computer Vision</title>
-      <link>https://ai.meta.com/blog/segment-anything-model-3/</link>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.meta.com/blog/segment-anything-model-3/</guid>
-    </item>
-    <item>
-      <title>Four MTIA Chips in Two Years: Scaling AI Experiences for Billions</title>
-      <link>https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/</link>
-      <description>Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges in the industry.</description>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/</guid>
-    </item>
-    <item>
-      <title>Computer Vision</title>
-      <link>https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/</link>
-      <description>By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.</description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/</guid>
     </item>
   </channel>
 </rss>
