@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:52:33 GMT</lastBuildDate>
     <item>
       <title>Redeploying Fable 5</title>
       <link>https://www.anthropic.com/news/redeploying-fable-5</link>
@@ -33,6 +33,13 @@
       <description>[Product] Claude Tag is a new way for teams to work with Claude.</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
+    </item>
+    <item>
+      <title>Introducing a way to reflect on how you use Claude</title>
+      <link>https://www.anthropic.com/news/reflect-with-claude</link>
+      <description>[Announcements] Introducing a way to reflect on how you use Claude</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
     </item>
     <item>
       <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
@@ -68,13 +75,6 @@
       <description>[Announcements] Results from the first Anthropic Public Record</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-public-record</guid>
-    </item>
-    <item>
-      <title>TCS and Anthropic partner to bring Claude to regulated industries</title>
-      <link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
-      <description>[Announcements] TCS and Anthropic partner to bring Claude to regulated industries</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
     </item>
   </channel>
 </rss>
