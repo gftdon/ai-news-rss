@@ -5,104 +5,139 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 08:27:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:56:43 GMT</lastBuildDate>
     <item>
-      <title>SmartlyDressedGames/U3-SDK [C#] — 524 stars today</title>
-      <link>https://github.com/SmartlyDressedGames/U3-SDK</link>
-      <description>[C#] Source code for Unturned, a free open-world zombie survival sandbox game. (524 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/SmartlyDressedGames/U3-SDK</guid>
+      <title>wonderwhy-er/DesktopCommanderMCP [TypeScript] — 185 stars today</title>
+      <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
+      <description>[TypeScript] This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities (185 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/wonderwhy-er/DesktopCommanderMCP</guid>
+    </item>
+    <item>
+      <title>oven-sh/bun [Rust] — 82 stars today</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>[Rust] Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (82 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/oven-sh/bun</guid>
+    </item>
+    <item>
+      <title>abseil/abseil-cpp [C++] — 3 stars today</title>
+      <link>https://github.com/abseil/abseil-cpp</link>
+      <description>Abseil Common Libraries (C++) (3 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/abseil/abseil-cpp</guid>
     </item>
     <item>
       <title>addyosmani/agent-skills [JavaScript] — 2,554 stars today</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[JavaScript] Production-grade engineering skills for AI coding agents. (2,554 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
-      <title>VoltAgent/awesome-design-md — 1,391 stars today</title>
-      <link>https://github.com/VoltAgent/awesome-design-md</link>
-      <description>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1,391 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/VoltAgent/awesome-design-md</guid>
+      <title>jbeder/yaml-cpp [C++] — 65 stars today</title>
+      <link>https://github.com/jbeder/yaml-cpp</link>
+      <description>A YAML parser and emitter in C++ (65 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/jbeder/yaml-cpp</guid>
+    </item>
+    <item>
+      <title>mattpocock/skills [Shell] — 1,728 stars today</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>[Shell] Skills for Real Engineers. Straight from my .claude directory. (1,728 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+    </item>
+    <item>
+      <title>obra/superpowers [Shell] — 1,096 stars today</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (1,096 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+    </item>
+    <item>
+      <title>microsoft/TypeScript [TypeScript] — 166 stars today</title>
+      <link>https://github.com/microsoft/TypeScript</link>
+      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output. (166 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/microsoft/TypeScript</guid>
+    </item>
+    <item>
+      <title>catchorg/Catch2 [C++] — 69 stars today</title>
+      <link>https://github.com/catchorg/Catch2</link>
+      <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) (69 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/catchorg/Catch2</guid>
+    </item>
+    <item>
+      <title>chriskohlhoff/asio [C++] — 87 stars today</title>
+      <link>https://github.com/chriskohlhoff/asio</link>
+      <description>Asio C++ Library (87 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/chriskohlhoff/asio</guid>
+    </item>
+    <item>
+      <title>TencentCloud/TencentDB-Agent-Memory [TypeScript] — 581 stars today</title>
+      <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+      <description>[TypeScript] TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. (581 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
+    </item>
+    <item>
+      <title>davila7/claude-code-templates [Python] — 104 stars today</title>
+      <link>https://github.com/davila7/claude-code-templates</link>
+      <description>[Python] CLI tool for configuring and monitoring Claude Code (104 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/davila7/claude-code-templates</guid>
+    </item>
+    <item>
+      <title>zeux/meshoptimizer [C++] — 86 stars today</title>
+      <link>https://github.com/zeux/meshoptimizer</link>
+      <description>[C++] Mesh optimization library that makes meshes smaller and faster to render (86 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/zeux/meshoptimizer</guid>
+    </item>
+    <item>
+      <title>tailscale/tailscale [Go] — 66 stars today</title>
+      <link>https://github.com/tailscale/tailscale</link>
+      <description>[Go] The easiest, most secure way to use WireGuard and 2FA. (66 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/tailscale/tailscale</guid>
+    </item>
+    <item>
+      <title>google-labs-code/stitch-skills [TypeScript] — 101 stars today</title>
+      <link>https://github.com/google-labs-code/stitch-skills</link>
+      <description>[TypeScript] A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. (101 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/google-labs-code/stitch-skills</guid>
     </item>
     <item>
       <title>iOfficeAI/OfficeCLI [C#] — 1,929 stars today</title>
       <link>https://github.com/iOfficeAI/OfficeCLI</link>
       <description>[C#] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (1,929 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iOfficeAI/OfficeCLI</guid>
     </item>
     <item>
-      <title>wonderwhy-er/DesktopCommanderMCP [TypeScript] — 185 stars today</title>
-      <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
-      <description>[TypeScript] This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities (185 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/wonderwhy-er/DesktopCommanderMCP</guid>
+      <title>hashicorp/terraform [Go] — 168 stars today</title>
+      <link>https://github.com/hashicorp/terraform</link>
+      <description>[Go] Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (168 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/hashicorp/terraform</guid>
     </item>
     <item>
-      <title>anthropics/claude-cookbooks [Jupyter Notebook] — 194 stars today</title>
-      <link>https://github.com/anthropics/claude-cookbooks</link>
-      <description>[Jupyter Notebook] A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (194 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-cookbooks</guid>
+      <title>grpc/grpc [C++] — 68 stars today</title>
+      <link>https://github.com/grpc/grpc</link>
+      <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) (68 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/grpc/grpc</guid>
     </item>
     <item>
-      <title>vxcontrol/pentagi [Go] — 535 stars today</title>
-      <link>https://github.com/vxcontrol/pentagi</link>
-      <description>[Go] Fully autonomous AI Agents system capable of performing complex penetration testing tasks (535 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
-    </item>
-    <item>
-      <title>unclecode/crawl4ai [Python] — 215 stars today</title>
-      <link>https://github.com/unclecode/crawl4ai</link>
-      <description>[Python] 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&apos;t be shy, join here: https://discord.gg/jP8KfhDhyN (215 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/unclecode/crawl4ai</guid>
-    </item>
-    <item>
-      <title>imthenachoman/How-To-Secure-A-Linux-Server — 243 stars today</title>
-      <link>https://github.com/imthenachoman/How-To-Secure-A-Linux-Server</link>
-      <description>An evolving how-to guide for securing a Linux server. (243 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/imthenachoman/How-To-Secure-A-Linux-Server</guid>
-    </item>
-    <item>
-      <title>huxingyi/autoremesher [C++] — 403 stars today</title>
-      <link>https://github.com/huxingyi/autoremesher</link>
-      <description>[C++] Automatic quad remeshing tool (403 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/huxingyi/autoremesher</guid>
-    </item>
-    <item>
-      <title>bradautomates/claude-video [Python] — 718 stars today</title>
-      <link>https://github.com/bradautomates/claude-video</link>
-      <description>[Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. (718 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/bradautomates/claude-video</guid>
-    </item>
-    <item>
-      <title>prisma/prisma [TypeScript] — 376 stars today</title>
-      <link>https://github.com/prisma/prisma</link>
-      <description>Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (376 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/prisma/prisma</guid>
-    </item>
-    <item>
-      <title>kyutai-labs/pocket-tts [Python] — 235 stars today</title>
-      <link>https://github.com/kyutai-labs/pocket-tts</link>
-      <description>[Python] A TTS that fits in your CPU (and pocket) (235 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/kyutai-labs/pocket-tts</guid>
-    </item>
-    <item>
-      <title>asgeirtj/system_prompts_leaks [JavaScript] — 1,125 stars today</title>
-      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (1,125 stars today)</description>
-      <pubDate>Fri, 10 Jul 2026 08:27:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
+      <title>vercel/next.js [JavaScript] — 176 stars today</title>
+      <link>https://github.com/vercel/next.js</link>
+      <description>[JavaScript] The React Framework (176 stars today)</description>
+      <pubDate>Fri, 10 Jul 2026 11:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vercel/next.js</guid>
     </item>
   </channel>
 </rss>

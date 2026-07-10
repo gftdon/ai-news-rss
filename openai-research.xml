@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 08:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:56:42 GMT</lastBuildDate>
     <item>
       <title>GPT 5 6</title>
       <link>https://openai.com/index/gpt-5-6/</link>
       <description>OpenAI research/release: GPT 5 6</description>
-      <pubDate>Fri, 10 Jul 2026 08:11:40 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 11:49:46 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT Live</title>
+      <link>https://openai.com/index/introducing-gpt-live/</link>
+      <description>OpenAI research/release: Introducing GPT Live</description>
+      <pubDate>Fri, 10 Jul 2026 11:34:38 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live/</guid>
     </item>
     <item>
       <title>Previewing GPT 5 6 Sol</title>
@@ -19,13 +26,6 @@
       <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
       <pubDate>Fri, 10 Jul 2026 07:45:15 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
-    </item>
-    <item>
-      <title>Introducing GPT Live</title>
-      <link>https://openai.com/index/introducing-gpt-live/</link>
-      <description>OpenAI research/release: Introducing GPT Live</description>
-      <pubDate>Fri, 10 Jul 2026 03:32:34 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live/</guid>
     </item>
     <item>
       <title>Introducing GPT 5</title>
