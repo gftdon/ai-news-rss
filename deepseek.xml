@@ -5,69 +5,13 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 04:15:27 GMT</lastBuildDate>
     <item>
-      <title>DualPipe</title>
-      <link>https://github.com/deepseek-ai/DualPipe</link>
-      <description>A bidirectional pipeline parallelism algorithm for computation-communication overlap in DeepSeek V3/R1 training.</description>
-      <pubDate>Wed, 14 Jan 2026 06:34:59 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DualPipe</guid>
-    </item>
-    <item>
-      <title>Engram</title>
-      <link>https://github.com/deepseek-ai/Engram</link>
-      <description>Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models</description>
-      <pubDate>Wed, 14 Jan 2026 01:13:02 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/Engram</guid>
-    </item>
-    <item>
-      <title>awesome-deepseek-coder</title>
-      <link>https://github.com/deepseek-ai/awesome-deepseek-coder</link>
-      <description>A curated list of open-source projects related to DeepSeek Coder</description>
-      <pubDate>Tue, 11 Nov 2025 06:45:15 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/awesome-deepseek-coder</guid>
-    </item>
-    <item>
-      <title>ESFT</title>
-      <link>https://github.com/deepseek-ai/ESFT</link>
-      <description>Expert Specialized Fine-Tuning</description>
-      <pubDate>Thu, 22 May 2025 07:47:15 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/ESFT</guid>
-    </item>
-    <item>
-      <title>DreamCraft3D</title>
-      <link>https://github.com/deepseek-ai/DreamCraft3D</link>
-      <description>[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior</description>
-      <pubDate>Tue, 22 Apr 2025 11:09:39 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DreamCraft3D</guid>
-    </item>
-    <item>
-      <title>EPLB</title>
-      <link>https://github.com/deepseek-ai/EPLB</link>
-      <description>Expert Parallelism Load Balancer</description>
-      <pubDate>Mon, 24 Mar 2025 09:17:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/EPLB</guid>
-    </item>
-    <item>
-      <title>DeepSeek-VL</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-VL</link>
-      <description>DeepSeek-VL: Towards Real-World Vision-Language Understanding</description>
-      <pubDate>Wed, 24 Apr 2024 05:01:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-VL</guid>
-    </item>
-    <item>
-      <title>DeepSeek-Math</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-Math</link>
-      <description>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</description>
-      <pubDate>Mon, 15 Apr 2024 07:55:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-Math</guid>
-    </item>
-    <item>
-      <title>DeepSeek-MoE</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-MoE</link>
-      <description>DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models</description>
-      <pubDate>Tue, 16 Jan 2024 12:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-MoE</guid>
+      <title>DeepSeek-V3: v1.0.0</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
+      <description>This release is created for archival purposes and DOI generation.</description>
+      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
     </item>
   </channel>
 </rss>
