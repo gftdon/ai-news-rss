@@ -5,13 +5,6 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 16:07:11 GMT</lastBuildDate>
-    <item>
-      <title>DeepSeek-V3: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 18:02:05 GMT</lastBuildDate>
   </channel>
 </rss>
