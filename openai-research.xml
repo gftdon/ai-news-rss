@@ -5,12 +5,26 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 14:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:16:40 GMT</lastBuildDate>
+    <item>
+      <title>Introducing GPT 5 3 Codex</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex/</link>
+      <description>OpenAI research/release: Introducing GPT 5 3 Codex</description>
+      <pubDate>Mon, 13 Jul 2026 17:12:18 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT 5 3 Codex Spark</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex-spark/</link>
+      <description>OpenAI research/release: Introducing GPT 5 3 Codex Spark</description>
+      <pubDate>Mon, 13 Jul 2026 17:07:32 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex-spark/</guid>
+    </item>
     <item>
       <title>GPT 5 6</title>
       <link>https://openai.com/index/gpt-5-6/</link>
       <description>OpenAI research/release: GPT 5 6</description>
-      <pubDate>Mon, 13 Jul 2026 14:34:26 GMT</pubDate>
+      <pubDate>Mon, 13 Jul 2026 16:36:21 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6/</guid>
     </item>
     <item>
@@ -19,20 +33,6 @@
       <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
       <pubDate>Mon, 13 Jul 2026 14:14:02 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
-    </item>
-    <item>
-      <title>Introducing GPT 5 3 Codex</title>
-      <link>https://openai.com/index/introducing-gpt-5-3-codex/</link>
-      <description>OpenAI research/release: Introducing GPT 5 3 Codex</description>
-      <pubDate>Mon, 13 Jul 2026 13:03:46 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex/</guid>
-    </item>
-    <item>
-      <title>Introducing GPT 5 3 Codex Spark</title>
-      <link>https://openai.com/index/introducing-gpt-5-3-codex-spark/</link>
-      <description>OpenAI research/release: Introducing GPT 5 3 Codex Spark</description>
-      <pubDate>Mon, 13 Jul 2026 13:03:07 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex-spark/</guid>
     </item>
     <item>
       <title>Introducing GPT 5 4</title>
