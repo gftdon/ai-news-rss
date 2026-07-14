@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:53:21 GMT</lastBuildDate>
     <item>
       <title>Inviting hard questions</title>
       <link>https://www.anthropic.com/news/hard-questions</link>
@@ -33,6 +33,13 @@
       <description>[Announcements] Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
+    </item>
+    <item>
+      <title>Anthropic commits $10 million to Canadian AI research</title>
+      <link>https://www.anthropic.com/news/canadian-ai-research</link>
+      <description>[Announcements] Anthropic commits $10 million to Canadian AI research</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/canadian-ai-research</guid>
     </item>
     <item>
       <title>UST is bringing Claude to physical AI</title>
@@ -68,13 +75,6 @@
       <description>[Announcements] More details on Fable 5’s cyber safeguards and our jailbreak framework</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</guid>
-    </item>
-    <item>
-      <title>Introducing Claude Tag</title>
-      <link>https://www.anthropic.com/news/introducing-claude-tag</link>
-      <description>[Product] Introducing Claude Tag</description>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
     </item>
   </channel>
 </rss>
