@@ -5,83 +5,111 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 09:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:27:28 GMT</lastBuildDate>
     <item>
-      <title>OpenCut-app/OpenCut [TypeScript] — 1,229 stars today</title>
-      <link>https://github.com/OpenCut-app/OpenCut</link>
-      <description>[TypeScript] The open-source CapCut alternative (1,229 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/OpenCut-app/OpenCut</guid>
+      <title>Shubhamsaboo/awesome-llm-apps [Python] — 996 stars today</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>[Python] 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship. (996 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
+    </item>
+    <item>
+      <title>mattpocock/skills [Shell] — 1,559 stars today</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>[Shell] Skills for Real Engineers. Straight from my .claude directory. (1,559 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
     <item>
       <title>Dicklesworthstone/destructive_command_guard [Rust] — 1,295 stars today</title>
       <link>https://github.com/Dicklesworthstone/destructive_command_guard</link>
       <description>[Rust] The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. (1,295 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Dicklesworthstone/destructive_command_guard</guid>
     </item>
     <item>
-      <title>HKUDS/Vibe-Trading [Python] — 1,153 stars today</title>
-      <link>https://github.com/HKUDS/Vibe-Trading</link>
-      <description>[Python] &quot;Vibe-Trading: Your Personal Trading Agent&quot; (1,153 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/HKUDS/Vibe-Trading</guid>
+      <title>OpenCut-app/OpenCut [TypeScript] — 1,229 stars today</title>
+      <link>https://github.com/OpenCut-app/OpenCut</link>
+      <description>[TypeScript] The open-source CapCut alternative (1,229 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/OpenCut-app/OpenCut</guid>
     </item>
     <item>
-      <title>moeru-ai/airi [TypeScript] — 78 stars today</title>
-      <link>https://github.com/moeru-ai/airi</link>
-      <description>[TypeScript] 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&apos;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (78 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-    </item>
-    <item>
-      <title>Shubhamsaboo/awesome-llm-apps [Python] — 996 stars today</title>
-      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-      <description>[Python] 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship. (996 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
+      <title>virattt/ai-hedge-fund [Python] — 330 stars today</title>
+      <link>https://github.com/virattt/ai-hedge-fund</link>
+      <description>[Python] An AI Hedge Fund Team (330 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/virattt/ai-hedge-fund</guid>
     </item>
     <item>
       <title>Nutlope/hallmark [CSS] — 794 stars today</title>
       <link>https://github.com/Nutlope/hallmark</link>
       <description>[CSS] Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (794 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
+    </item>
+    <item>
+      <title>HKUDS/Vibe-Trading [Python] — 1,153 stars today</title>
+      <link>https://github.com/HKUDS/Vibe-Trading</link>
+      <description>[Python] &quot;Vibe-Trading: Your Personal Trading Agent&quot; (1,153 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/HKUDS/Vibe-Trading</guid>
     </item>
     <item>
       <title>Raphire/Win11Debloat [PowerShell] — 118 stars today</title>
       <link>https://github.com/Raphire/Win11Debloat</link>
       <description>A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (118 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Raphire/Win11Debloat</guid>
-    </item>
-    <item>
-      <title>Graphify-Labs/graphify [Python] — 1,095 stars today</title>
-      <link>https://github.com/Graphify-Labs/graphify</link>
-      <description>[Python] AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. (1,095 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
     </item>
     <item>
       <title>hasaneyldrm/exercises-dataset [HTML] — 451 stars today</title>
       <link>https://github.com/hasaneyldrm/exercises-dataset</link>
       <description>[HTML] 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (451 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/hasaneyldrm/exercises-dataset</guid>
     </item>
     <item>
-      <title>github/spec-kit [Python] — 543 stars today</title>
-      <link>https://github.com/github/spec-kit</link>
-      <description>[Python] 💫 Toolkit to help you get started with Spec-Driven Development (543 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/github/spec-kit</guid>
+      <title>penpot/penpot [Clojure] — 264 stars today</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>[Clojure] Penpot: The open-source design platform for Product teams that need scalable collaboration. (264 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/penpot/penpot</guid>
     </item>
     <item>
-      <title>coreyhaines31/marketingskills [JavaScript] — 299 stars today</title>
-      <link>https://github.com/coreyhaines31/marketingskills</link>
-      <description>[JavaScript] Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (299 stars today)</description>
-      <pubDate>Tue, 14 Jul 2026 09:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/coreyhaines31/marketingskills</guid>
+      <title>AIEraDev/Clypra [TypeScript] — 66 stars today</title>
+      <link>https://github.com/AIEraDev/Clypra</link>
+      <description>A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities (66 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/AIEraDev/Clypra</guid>
+    </item>
+    <item>
+      <title>par274/sharpemu [C#] — 428 stars today</title>
+      <link>https://github.com/par274/sharpemu</link>
+      <description>[C#] An experimental PlayStation 5 emulator project. (428 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/par274/sharpemu</guid>
+    </item>
+    <item>
+      <title>chenyme/grok2api [Go] — 179 stars today</title>
+      <link>https://github.com/chenyme/grok2api</link>
+      <description>[Go] 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关 (179 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/chenyme/grok2api</guid>
+    </item>
+    <item>
+      <title>Graphify-Labs/graphify [Python] — 1,095 stars today</title>
+      <link>https://github.com/Graphify-Labs/graphify</link>
+      <description>[Python] AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. (1,095 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
+    </item>
+    <item>
+      <title>HenryNdubuaku/maths-cs-ai-compendium [TypeScript] — 69 stars today</title>
+      <link>https://github.com/HenryNdubuaku/maths-cs-ai-compendium</link>
+      <description>[TypeScript] Become a cracked AI/ML Research Engineer (69 stars today)</description>
+      <pubDate>Tue, 14 Jul 2026 11:27:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/HenryNdubuaku/maths-cs-ai-compendium</guid>
     </item>
   </channel>
 </rss>
