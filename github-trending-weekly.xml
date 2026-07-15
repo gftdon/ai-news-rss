@@ -5,145 +5,145 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 22:59:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:39 GMT</lastBuildDate>
     <item>
-      <title>MadsLorentzen/ai-job-search [TypeScript] — 15,420 stars this week</title>
+      <title>MadsLorentzen/ai-job-search [TypeScript] — 13,195 stars this week</title>
       <link>https://github.com/MadsLorentzen/ai-job-search</link>
-      <description>[TypeScript] The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (15,420 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[TypeScript] The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (13,195 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/MadsLorentzen/ai-job-search</guid>
     </item>
     <item>
-      <title>wonderwhy-er/DesktopCommanderMCP [TypeScript] — 1,939 stars this week</title>
+      <title>wonderwhy-er/DesktopCommanderMCP [TypeScript] — 2,009 stars this week</title>
       <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
-      <description>[TypeScript] This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities (1,939 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[TypeScript] This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities (2,009 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/wonderwhy-er/DesktopCommanderMCP</guid>
     </item>
     <item>
-      <title>abseil/abseil-cpp [C++] — 621 stars this week</title>
+      <title>abseil/abseil-cpp [C++] — 637 stars this week</title>
       <link>https://github.com/abseil/abseil-cpp</link>
-      <description>Abseil Common Libraries (C++) (621 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>Abseil Common Libraries (C++) (637 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/abseil/abseil-cpp</guid>
     </item>
     <item>
-      <title>iOfficeAI/OfficeCLI [C#] — 7,596 stars this week</title>
+      <title>iOfficeAI/OfficeCLI [C#] — 7,129 stars this week</title>
       <link>https://github.com/iOfficeAI/OfficeCLI</link>
-      <description>[C#] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (7,596 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[C#] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (7,129 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iOfficeAI/OfficeCLI</guid>
     </item>
     <item>
-      <title>stablyai/orca [TypeScript] — 5,263 stars this week</title>
+      <title>stablyai/orca [TypeScript] — 5,724 stars this week</title>
       <link>https://github.com/stablyai/orca</link>
-      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. (5,263 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. (5,724 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
     </item>
     <item>
-      <title>TencentCloud/CubeSandbox [Rust] — 2,367 stars this week</title>
+      <title>TencentCloud/CubeSandbox [Rust] — 1,944 stars this week</title>
       <link>https://github.com/TencentCloud/CubeSandbox</link>
-      <description>[Rust] Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents. (2,367 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[Rust] Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents. (1,944 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/CubeSandbox</guid>
     </item>
     <item>
-      <title>ogulcancelik/herdr [Rust] — 3,449 stars this week</title>
+      <title>ogulcancelik/herdr [Rust] — 3,115 stars this week</title>
       <link>https://github.com/ogulcancelik/herdr</link>
-      <description>[Rust] agent multiplexer that lives in your terminal. (3,449 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[Rust] agent multiplexer that lives in your terminal. (3,115 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ogulcancelik/herdr</guid>
     </item>
     <item>
-      <title>diegosouzapw/OmniRoute [TypeScript] — 4,345 stars this week</title>
+      <title>diegosouzapw/OmniRoute [TypeScript] — 4,297 stars this week</title>
       <link>https://github.com/diegosouzapw/OmniRoute</link>
-      <description>[TypeScript] Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. (4,345 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[TypeScript] Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. (4,297 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/diegosouzapw/OmniRoute</guid>
     </item>
     <item>
-      <title>openai/codex-plugin-cc [JavaScript] — 2,265 stars this week</title>
+      <title>openai/codex-plugin-cc [JavaScript] — 2,063 stars this week</title>
       <link>https://github.com/openai/codex-plugin-cc</link>
-      <description>[JavaScript] Use Codex from Claude Code to review code or delegate tasks. (2,265 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[JavaScript] Use Codex from Claude Code to review code or delegate tasks. (2,063 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/openai/codex-plugin-cc</guid>
     </item>
     <item>
-      <title>bradautomates/claude-video [Python] — 4,128 stars this week</title>
+      <title>bradautomates/claude-video [Python] — 3,554 stars this week</title>
       <link>https://github.com/bradautomates/claude-video</link>
-      <description>[Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. (4,128 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. (3,554 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bradautomates/claude-video</guid>
     </item>
     <item>
-      <title>tt-a1i/archify [JavaScript] — 1,333 stars this week</title>
+      <title>tt-a1i/archify [JavaScript] — 1,519 stars this week</title>
       <link>https://github.com/tt-a1i/archify</link>
-      <description>[JavaScript] Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export (1,333 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[JavaScript] Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export (1,519 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tt-a1i/archify</guid>
     </item>
     <item>
-      <title>Zackriya-Solutions/meetily [Rust] — 5,392 stars this week</title>
+      <title>Zackriya-Solutions/meetily [Rust] — 4,389 stars this week</title>
       <link>https://github.com/Zackriya-Solutions/meetily</link>
-      <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes (5,392 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes (4,389 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Zackriya-Solutions/meetily</guid>
     </item>
     <item>
-      <title>pbakaus/impeccable [JavaScript] — 2,450 stars this week</title>
+      <title>pbakaus/impeccable [JavaScript] — 2,494 stars this week</title>
       <link>https://github.com/pbakaus/impeccable</link>
-      <description>[JavaScript] The design language that makes your AI harness better at design. (2,450 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[JavaScript] The design language that makes your AI harness better at design. (2,494 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
     </item>
     <item>
-      <title>facebook/astryx [TypeScript] — 2,255 stars this week</title>
+      <title>facebook/astryx [TypeScript] — 2,189 stars this week</title>
       <link>https://github.com/facebook/astryx</link>
-      <description>[TypeScript] An open source design system that&apos;s fully customizable and agent ready (2,255 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[TypeScript] An open source design system that&apos;s fully customizable and agent ready (2,189 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/facebook/astryx</guid>
     </item>
     <item>
-      <title>oven-sh/bun [Rust] — 1,228 stars this week</title>
+      <title>oven-sh/bun [Rust] — 1,257 stars this week</title>
       <link>https://github.com/oven-sh/bun</link>
-      <description>[Rust] Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (1,228 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[Rust] Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (1,257 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/oven-sh/bun</guid>
     </item>
     <item>
-      <title>vxcontrol/pentagi [Go] — 2,199 stars this week</title>
+      <title>vxcontrol/pentagi [Go] — 2,347 stars this week</title>
       <link>https://github.com/vxcontrol/pentagi</link>
-      <description>[Go] Fully autonomous AI Agents system capable of performing complex penetration testing tasks (2,199 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[Go] Fully autonomous AI Agents system capable of performing complex penetration testing tasks (2,347 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
     </item>
     <item>
-      <title>TencentCloud/TencentDB-Agent-Memory [TypeScript] — 2,231 stars this week</title>
+      <title>TencentCloud/TencentDB-Agent-Memory [TypeScript] — 1,790 stars this week</title>
       <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
-      <description>[TypeScript] TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. (2,231 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[TypeScript] TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. (1,790 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
     </item>
     <item>
-      <title>Nutlope/hallmark [CSS] — 1,558 stars this week</title>
+      <title>Nutlope/hallmark [CSS] — 2,274 stars this week</title>
       <link>https://github.com/Nutlope/hallmark</link>
-      <description>[CSS] Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (1,558 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[CSS] Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (2,274 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
     </item>
     <item>
-      <title>argoproj/argo-cd [Go] — 342 stars this week</title>
+      <title>argoproj/argo-cd [Go] — 373 stars this week</title>
       <link>https://github.com/argoproj/argo-cd</link>
-      <description>[Go] Declarative Continuous Deployment for Kubernetes (342 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[Go] Declarative Continuous Deployment for Kubernetes (373 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/argoproj/argo-cd</guid>
     </item>
     <item>
-      <title>Shubhamsaboo/awesome-llm-apps [Python] — 2,860 stars this week</title>
+      <title>Shubhamsaboo/awesome-llm-apps [Python] — 3,827 stars this week</title>
       <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-      <description>[Python] 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship. (2,860 stars this week)</description>
-      <pubDate>Tue, 14 Jul 2026 22:59:35 GMT</pubDate>
+      <description>[Python] 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship. (3,827 stars this week)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
     </item>
   </channel>
