@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 03:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:18:58 GMT</lastBuildDate>
+    <item>
+      <title>GPT 5 6</title>
+      <link>https://openai.com/index/gpt-5-6/</link>
+      <description>OpenAI research/release: GPT 5 6</description>
+      <pubDate>Wed, 15 Jul 2026 05:25:21 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-6/</guid>
+    </item>
     <item>
       <title>Introducing GPT 5 3 Codex</title>
       <link>https://openai.com/index/introducing-gpt-5-3-codex/</link>
@@ -19,13 +26,6 @@
       <description>OpenAI research/release: Introducing GPT 5 3 Codex Spark</description>
       <pubDate>Wed, 15 Jul 2026 01:46:54 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-3-codex-spark/</guid>
-    </item>
-    <item>
-      <title>GPT 5 6</title>
-      <link>https://openai.com/index/gpt-5-6/</link>
-      <description>OpenAI research/release: GPT 5 6</description>
-      <pubDate>Wed, 15 Jul 2026 00:19:54 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-6/</guid>
     </item>
     <item>
       <title>Introducing GPT Live</title>
