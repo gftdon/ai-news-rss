@@ -5,6 +5,62 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:50:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:28:11 GMT</lastBuildDate>
+    <item>
+      <title>DeepGEMM</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM</link>
+      <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
+      <pubDate>Wed, 15 Jul 2026 09:55:23 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM</guid>
+    </item>
+    <item>
+      <title>DeepSpec</title>
+      <link>https://github.com/deepseek-ai/DeepSpec</link>
+      <description>DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms</description>
+      <pubDate>Thu, 09 Jul 2026 04:37:14 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSpec</guid>
+    </item>
+    <item>
+      <title>3FS</title>
+      <link>https://github.com/deepseek-ai/3FS</link>
+      <description> A high-performance distributed file system designed to address the challenges of AI training and inference workloads. </description>
+      <pubDate>Thu, 07 May 2026 09:31:54 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/3FS</guid>
+    </item>
+    <item>
+      <title>awesome-deepseek-integration</title>
+      <link>https://github.com/deepseek-ai/awesome-deepseek-integration</link>
+      <description>Integrate the DeepSeek API into popular software</description>
+      <pubDate>Mon, 23 Feb 2026 16:27:47 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/awesome-deepseek-integration</guid>
+    </item>
+    <item>
+      <title>DeepSeek-OCR-2</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR-2</link>
+      <description>Visual Causal Flow</description>
+      <pubDate>Tue, 03 Feb 2026 00:34:18 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR-2</guid>
+    </item>
+    <item>
+      <title>DeepSeek-OCR</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR</link>
+      <description>Contexts Optical Compression</description>
+      <pubDate>Tue, 27 Jan 2026 03:45:14 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR</guid>
+    </item>
+    <item>
+      <title>DeepSeek-Coder</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-Coder</link>
+      <description>DeepSeek Coder: Let the Code Write Itself</description>
+      <pubDate>Tue, 11 Nov 2025 06:44:56 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-Coder</guid>
+    </item>
+    <item>
+      <title>Janus</title>
+      <link>https://github.com/deepseek-ai/Janus</link>
+      <description>Janus-Series: Unified Multimodal Understanding and Generation Models</description>
+      <pubDate>Sat, 01 Feb 2025 07:58:29 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/Janus</guid>
+    </item>
   </channel>
 </rss>
