@@ -5,13 +5,27 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 09:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:38:07 GMT</lastBuildDate>
     <item>
       <title>GPT 5 6</title>
       <link>https://openai.com/index/gpt-5-6/</link>
       <description>OpenAI research/release: GPT 5 6</description>
-      <pubDate>Wed, 15 Jul 2026 08:33:45 GMT</pubDate>
+      <pubDate>Wed, 15 Jul 2026 11:37:50 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT 5 2</title>
+      <link>https://openai.com/index/introducing-gpt-5-2/</link>
+      <description>OpenAI research/release: Introducing GPT 5 2</description>
+      <pubDate>Wed, 15 Jul 2026 10:46:45 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-2/</guid>
+    </item>
+    <item>
+      <title>Previewing GPT 5 6 Sol</title>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
+      <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
+      <pubDate>Wed, 15 Jul 2026 09:52:20 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
     </item>
     <item>
       <title>Introducing GPT 5 3 Codex</title>
@@ -33,13 +47,6 @@
       <description>OpenAI research/release: Introducing GPT Live</description>
       <pubDate>Tue, 14 Jul 2026 20:43:08 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live/</guid>
-    </item>
-    <item>
-      <title>Previewing GPT 5 6 Sol</title>
-      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
-      <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
-      <pubDate>Mon, 13 Jul 2026 14:14:02 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
     </item>
     <item>
       <title>Introducing GPT 5 4</title>
@@ -138,13 +145,6 @@
       <description>OpenAI research/release: Faster Physics In Python</description>
       <pubDate>Wed, 08 Jul 2026 20:01:57 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/faster-physics-in-python/</guid>
-    </item>
-    <item>
-      <title>Roboschool</title>
-      <link>https://openai.com/index/roboschool/</link>
-      <description>OpenAI research/release: Roboschool</description>
-      <pubDate>Wed, 08 Jul 2026 20:01:49 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/roboschool/</guid>
     </item>
   </channel>
 </rss>
