@@ -5,7 +5,28 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 04:11:46 GMT</lastBuildDate>
+    <item>
+      <title>Introducing New Capabilities To GPT Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</link>
+      <description>OpenAI research/release: Introducing New Capabilities To GPT Rosalind</description>
+      <pubDate>Thu, 16 Jul 2026 02:15:26 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/</guid>
+    </item>
+    <item>
+      <title>GPT 5 Safe Completions</title>
+      <link>https://openai.com/index/gpt-5-safe-completions/</link>
+      <description>OpenAI research/release: GPT 5 Safe Completions</description>
+      <pubDate>Thu, 16 Jul 2026 02:15:10 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-safe-completions/</guid>
+    </item>
+    <item>
+      <title>Introducing GPT 5 4</title>
+      <link>https://openai.com/index/introducing-gpt-5-4/</link>
+      <description>OpenAI research/release: Introducing GPT 5 4</description>
+      <pubDate>Thu, 16 Jul 2026 00:48:57 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-4/</guid>
+    </item>
     <item>
       <title>Introducing o3 And o4 Mini</title>
       <link>https://openai.com/index/introducing-o3-and-o4-mini/</link>
@@ -77,13 +98,6 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live/</guid>
     </item>
     <item>
-      <title>Introducing GPT 5 4</title>
-      <link>https://openai.com/index/introducing-gpt-5-4/</link>
-      <description>OpenAI research/release: Introducing GPT 5 4</description>
-      <pubDate>Fri, 10 Jul 2026 17:56:53 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-5-4/</guid>
-    </item>
-    <item>
       <title>Introducing GPT 5 5</title>
       <link>https://openai.com/index/introducing-gpt-5-5/</link>
       <description>OpenAI research/release: Introducing GPT 5 5</description>
@@ -131,20 +145,6 @@
       <description>OpenAI research/release: Universe</description>
       <pubDate>Wed, 08 Jul 2026 20:02:46 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/universe/</guid>
-    </item>
-    <item>
-      <title>Openai o1 Mini Advancing Cost Efficient Reasoning</title>
-      <link>https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/</link>
-      <description>OpenAI research/release: Openai o1 Mini Advancing Cost Efficient Reasoning</description>
-      <pubDate>Wed, 08 Jul 2026 20:02:44 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/</guid>
-    </item>
-    <item>
-      <title>Block Sparse Gpu Kernels</title>
-      <link>https://openai.com/index/block-sparse-gpu-kernels/</link>
-      <description>OpenAI research/release: Block Sparse Gpu Kernels</description>
-      <pubDate>Wed, 08 Jul 2026 20:02:17 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/block-sparse-gpu-kernels/</guid>
     </item>
   </channel>
 </rss>
