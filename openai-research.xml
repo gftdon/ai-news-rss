@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 07:58:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:41:50 GMT</lastBuildDate>
     <item>
       <title>GPT 5 6</title>
       <link>https://openai.com/index/gpt-5-6/</link>
       <description>OpenAI research/release: GPT 5 6</description>
-      <pubDate>Sat, 18 Jul 2026 05:34:57 GMT</pubDate>
+      <pubDate>Sat, 18 Jul 2026 09:27:57 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6/</guid>
+    </item>
+    <item>
+      <title>Previewing GPT 5 6 Sol</title>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
+      <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
+      <pubDate>Sat, 18 Jul 2026 09:20:47 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
     </item>
     <item>
       <title>Introducing GPT 5 3 Codex</title>
@@ -54,13 +61,6 @@
       <description>OpenAI research/release: Introducing o3 And o4 Mini</description>
       <pubDate>Thu, 16 Jul 2026 00:05:47 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-o3-and-o4-mini/</guid>
-    </item>
-    <item>
-      <title>Previewing GPT 5 6 Sol</title>
-      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
-      <description>OpenAI research/release: Previewing GPT 5 6 Sol</description>
-      <pubDate>Wed, 15 Jul 2026 22:59:03 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
     </item>
     <item>
       <title>Introducing Upgrades To Codex</title>
