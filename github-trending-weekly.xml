@@ -5,110 +5,124 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:09:44 GMT</lastBuildDate>
     <item>
       <title>Nutlope/hallmark [CSS] — 9,193 stars this week</title>
       <link>https://github.com/Nutlope/hallmark</link>
       <description>[CSS] Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (9,193 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
     </item>
     <item>
       <title>OpenCut-app/OpenCut [TypeScript] — 12,743 stars this week</title>
       <link>https://github.com/OpenCut-app/OpenCut</link>
       <description>[TypeScript] The open-source CapCut alternative (12,743 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/OpenCut-app/OpenCut</guid>
     </item>
     <item>
       <title>Shubhamsaboo/awesome-llm-apps [Python] — 6,211 stars this week</title>
       <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
       <description>[Python] 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship. (6,211 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
-    </item>
-    <item>
-      <title>HKUDS/Vibe-Trading [Python] — 5,228 stars this week</title>
-      <link>https://github.com/HKUDS/Vibe-Trading</link>
-      <description>[Python] &quot;Vibe-Trading: Your Personal Trading Agent&quot; (5,228 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/HKUDS/Vibe-Trading</guid>
     </item>
     <item>
       <title>HKUDS/DeepTutor [Python] — 2,375 stars this week</title>
       <link>https://github.com/HKUDS/DeepTutor</link>
       <description>[Python] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. (2,375 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/HKUDS/DeepTutor</guid>
+    </item>
+    <item>
+      <title>HKUDS/Vibe-Trading [Python] — 5,228 stars this week</title>
+      <link>https://github.com/HKUDS/Vibe-Trading</link>
+      <description>[Python] &quot;Vibe-Trading: Your Personal Trading Agent&quot; (5,228 stars this week)</description>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/HKUDS/Vibe-Trading</guid>
+    </item>
+    <item>
+      <title>tirth8205/code-review-graph [Python] — 1,103 stars this week</title>
+      <link>https://github.com/tirth8205/code-review-graph</link>
+      <description>[Python] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. (1,103 stars this week)</description>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/tirth8205/code-review-graph</guid>
+    </item>
+    <item>
+      <title>ibelick/ui-skills [TypeScript] — 1,669 stars this week</title>
+      <link>https://github.com/ibelick/ui-skills</link>
+      <description>[TypeScript] Skills for Design Engineers (1,669 stars this week)</description>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ibelick/ui-skills</guid>
     </item>
     <item>
       <title>mattpocock/skills [Shell] — 10,983 stars this week</title>
       <link>https://github.com/mattpocock/skills</link>
       <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (10,983 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
     <item>
       <title>kangarooking/cangjie-skill [Python] — 1,284 stars this week</title>
       <link>https://github.com/kangarooking/cangjie-skill</link>
       <description>[Python] 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills (1,284 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/kangarooking/cangjie-skill</guid>
     </item>
     <item>
       <title>iOfficeAI/OfficeCLI [C#] — 4,269 stars this week</title>
       <link>https://github.com/iOfficeAI/OfficeCLI</link>
       <description>[C#] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. (4,269 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iOfficeAI/OfficeCLI</guid>
-    </item>
-    <item>
-      <title>ibelick/ui-skills [TypeScript] — 1,669 stars this week</title>
-      <link>https://github.com/ibelick/ui-skills</link>
-      <description>[TypeScript] Skills for Design Engineers (1,669 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ibelick/ui-skills</guid>
     </item>
     <item>
       <title>openai/codex [Rust] — 2,361 stars this week</title>
       <link>https://github.com/openai/codex</link>
       <description>[Rust] Lightweight coding agent that runs in your terminal (2,361 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/openai/codex</guid>
+    </item>
+    <item>
+      <title>MoonshotAI/kimi-cli [Python] — 693 stars this week</title>
+      <link>https://github.com/MoonshotAI/kimi-cli</link>
+      <description>[Python] Kimi Code CLI is your next CLI agent. (693 stars this week)</description>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/MoonshotAI/kimi-cli</guid>
     </item>
     <item>
       <title>openinterpreter/openinterpreter [Rust] — 2,498 stars this week</title>
       <link>https://github.com/openinterpreter/openinterpreter</link>
       <description>[Rust] A coding agent for open models like Kimi K3 (2,498 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/openinterpreter/openinterpreter</guid>
-    </item>
-    <item>
-      <title>tirth8205/code-review-graph [Python] — 1,103 stars this week</title>
-      <link>https://github.com/tirth8205/code-review-graph</link>
-      <description>[Python] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. (1,103 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/tirth8205/code-review-graph</guid>
     </item>
     <item>
       <title>tt-a1i/archify [JavaScript] — 2,103 stars this week</title>
       <link>https://github.com/tt-a1i/archify</link>
       <description>[JavaScript] Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export (2,103 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tt-a1i/archify</guid>
     </item>
     <item>
       <title>earendil-works/pi [TypeScript] — 2,854 stars this week</title>
       <link>https://github.com/earendil-works/pi</link>
       <description>[TypeScript] AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (2,854 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/earendil-works/pi</guid>
+    </item>
+    <item>
+      <title>codecrafters-io/build-your-own-x [Markdown] — 4,592 stars this week</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>[Markdown] Master programming by recreating your favorite technologies from scratch. (4,592 stars this week)</description>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/codecrafters-io/build-your-own-x</guid>
     </item>
     <item>
       <title>anthropics/cwc-workshops [TypeScript] — 317 stars this week</title>
       <link>https://github.com/anthropics/cwc-workshops</link>
       <description>[TypeScript] No description (317 stars this week)</description>
-      <pubDate>Mon, 20 Jul 2026 10:15:15 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 13:09:44 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/cwc-workshops</guid>
     </item>
   </channel>
