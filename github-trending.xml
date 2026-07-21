@@ -5,145 +5,152 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 06:32:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:30:27 GMT</lastBuildDate>
+    <item>
+      <title>bojieli/ai-agent-book [Python] — 4,434 stars today</title>
+      <link>https://github.com/bojieli/ai-agent-book</link>
+      <description>[Python] 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (4,434 stars today)</description>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/bojieli/ai-agent-book</guid>
+    </item>
     <item>
       <title>tirth8205/code-review-graph [Python] — 1,833 stars today</title>
       <link>https://github.com/tirth8205/code-review-graph</link>
       <description>[Python] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. (1,833 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tirth8205/code-review-graph</guid>
     </item>
     <item>
       <title>1jehuang/jcode [Rust] — 568 stars today</title>
       <link>https://github.com/1jehuang/jcode</link>
       <description>[Rust] The most intelligent agent harness for code (568 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/1jehuang/jcode</guid>
     </item>
     <item>
       <title>diegosouzapw/OmniRoute [TypeScript] — 1,107 stars today</title>
       <link>https://github.com/diegosouzapw/OmniRoute</link>
       <description>[TypeScript] Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors. (1,107 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/diegosouzapw/OmniRoute</guid>
     </item>
     <item>
       <title>rohitg00/ai-engineering-from-scratch [Python] — 823 stars today</title>
       <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
       <description>[Python] Learn it. Build it. Ship it for others. (823 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
     </item>
     <item>
       <title>msitarzewski/agency-agents [Shell] — 862 stars today</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
       <description>[Shell] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (862 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
     </item>
     <item>
       <title>kvcache-ai/ktransformers [Python] — 458 stars today</title>
       <link>https://github.com/kvcache-ai/ktransformers</link>
       <description>[Python] A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations (458 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/kvcache-ai/ktransformers</guid>
     </item>
     <item>
       <title>jamiepine/voicebox [TypeScript] — 821 stars today</title>
       <link>https://github.com/jamiepine/voicebox</link>
       <description>[TypeScript] The open-source AI voice studio. Clone, dictate, create. (821 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jamiepine/voicebox</guid>
     </item>
     <item>
       <title>topoteretes/cognee [Python] — 234 stars today</title>
       <link>https://github.com/topoteretes/cognee</link>
       <description>[Python] Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. (234 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/topoteretes/cognee</guid>
     </item>
     <item>
       <title>Robbyant/lingbot-map [Python] — 565 stars today</title>
       <link>https://github.com/Robbyant/lingbot-map</link>
       <description>[Python] A feed-forward 3D foundation model for reconstructing scenes from streaming data (565 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Robbyant/lingbot-map</guid>
     </item>
     <item>
       <title>every-app/open-seo [TypeScript] — 939 stars today</title>
       <link>https://github.com/every-app/open-seo</link>
       <description>[TypeScript] Open source alternative to Semrush and Ahrefs (939 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/every-app/open-seo</guid>
     </item>
     <item>
       <title>MoonshotAI/kimi-cli [Python] — 410 stars today</title>
       <link>https://github.com/MoonshotAI/kimi-cli</link>
       <description>[Python] Kimi Code CLI is your next CLI agent. (410 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/MoonshotAI/kimi-cli</guid>
     </item>
     <item>
       <title>AstrBotDevs/AstrBot [Python] — 317 stars today</title>
       <link>https://github.com/AstrBotDevs/AstrBot</link>
       <description>[Python] AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ (317 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/AstrBotDevs/AstrBot</guid>
     </item>
     <item>
       <title>PrefectHQ/fastmcp [Python] — 96 stars today</title>
       <link>https://github.com/PrefectHQ/fastmcp</link>
       <description>🚀 The fast, Pythonic way to build MCP servers and clients. (96 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/PrefectHQ/fastmcp</guid>
     </item>
     <item>
       <title>KnockOutEZ/wigolo [TypeScript] — 689 stars today</title>
       <link>https://github.com/KnockOutEZ/wigolo</link>
       <description>[TypeScript] The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta. (689 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/KnockOutEZ/wigolo</guid>
     </item>
     <item>
       <title>tokio-rs/topcoat [Rust] — 371 stars today</title>
       <link>https://github.com/tokio-rs/topcoat</link>
       <description>[Rust] A batteries-included framework for building web apps (371 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tokio-rs/topcoat</guid>
     </item>
     <item>
       <title>iptv-org/iptv [TypeScript] — 240 stars today</title>
       <link>https://github.com/iptv-org/iptv</link>
       <description>[TypeScript] Collection of publicly available IPTV channels from all over the world (240 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iptv-org/iptv</guid>
     </item>
     <item>
       <title>oblien/openship [TypeScript] — 1,641 stars today</title>
       <link>https://github.com/oblien/openship</link>
       <description>[TypeScript] Self-hosted deployment platform (1,641 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/oblien/openship</guid>
     </item>
     <item>
       <title>microsoft/Ontology-Playground [TypeScript] — 464 stars today</title>
       <link>https://github.com/microsoft/Ontology-Playground</link>
       <description>[TypeScript] Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static. (464 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/microsoft/Ontology-Playground</guid>
     </item>
     <item>
       <title>handy-computer/transcribe.cpp [C++] — 395 stars today</title>
       <link>https://github.com/handy-computer/transcribe.cpp</link>
       <description>[C++] ggml speech-to-text inference for 16+ model families (395 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/handy-computer/transcribe.cpp</guid>
     </item>
     <item>
       <title>moonshine-ai/moonshine [C++] — 282 stars today</title>
       <link>https://github.com/moonshine-ai/moonshine</link>
       <description>[C++] Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces (282 stars today)</description>
-      <pubDate>Tue, 21 Jul 2026 06:32:41 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 09:30:27 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/moonshine-ai/moonshine</guid>
     </item>
   </channel>
