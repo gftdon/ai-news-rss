@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 06:32:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:29:21 GMT</lastBuildDate>
     <item>
       <title>Inviting hard questions</title>
       <link>https://www.anthropic.com/news/hard-questions</link>
@@ -33,6 +33,13 @@
       <description>[Announcements] Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
+    </item>
+    <item>
+      <title>Anthropic is donating another $20 million to Public First Action</title>
+      <link>https://www.anthropic.com/news/donation-public-first-action</link>
+      <description>[Announcements] Anthropic is donating another $20 million to Public First Action</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/donation-public-first-action</guid>
     </item>
     <item>
       <title>Apply for Anthropic’s AI for Science rare disease research grants</title>
