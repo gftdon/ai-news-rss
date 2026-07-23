@@ -5,20 +5,69 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 10:26:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:25:53 GMT</lastBuildDate>
     <item>
-      <title>DeepSeek-V3: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
+      <title>FlashMLA</title>
+      <link>https://github.com/deepseek-ai/FlashMLA</link>
+      <description>FlashMLA: Efficient Multi-head Latent Attention Kernels</description>
+      <pubDate>Thu, 30 Apr 2026 09:04:01 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/FlashMLA</guid>
     </item>
     <item>
-      <title>DeepSeek-R1: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
+      <title>TileKernels</title>
+      <link>https://github.com/deepseek-ai/TileKernels</link>
+      <description>A kernel library written in tilelang</description>
+      <pubDate>Thu, 23 Apr 2026 10:19:21 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/TileKernels</guid>
+    </item>
+    <item>
+      <title>awesome-deepseek-integration</title>
+      <link>https://github.com/deepseek-ai/awesome-deepseek-integration</link>
+      <description>Integrate the DeepSeek API into popular software</description>
+      <pubDate>Mon, 23 Feb 2026 16:27:47 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/awesome-deepseek-integration</guid>
+    </item>
+    <item>
+      <title>DeepSeek-OCR-2</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR-2</link>
+      <description>Visual Causal Flow</description>
+      <pubDate>Tue, 03 Feb 2026 00:34:18 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR-2</guid>
+    </item>
+    <item>
+      <title>DeepSeek-OCR</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR</link>
+      <description>Contexts Optical Compression</description>
+      <pubDate>Tue, 27 Jan 2026 03:45:14 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR</guid>
+    </item>
+    <item>
+      <title>Engram</title>
+      <link>https://github.com/deepseek-ai/Engram</link>
+      <description>Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models</description>
+      <pubDate>Wed, 14 Jan 2026 01:13:02 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/Engram</guid>
+    </item>
+    <item>
+      <title>DeepSeek-Math</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-Math</link>
+      <description>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</description>
+      <pubDate>Mon, 15 Apr 2024 07:55:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-Math</guid>
+    </item>
+    <item>
+      <title>DeepSeek-LLM</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
+      <description>DeepSeek LLM: Let there be answers</description>
+      <pubDate>Sun, 04 Feb 2024 12:22:16 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-LLM</guid>
+    </item>
+    <item>
+      <title>DeepSeek-MoE</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-MoE</link>
+      <description>DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models</description>
+      <pubDate>Tue, 16 Jan 2024 12:18:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-MoE</guid>
     </item>
   </channel>
 </rss>
