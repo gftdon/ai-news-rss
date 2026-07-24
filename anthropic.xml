@@ -5,7 +5,14 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 16:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 18:21:50 GMT</lastBuildDate>
+    <item>
+      <title>Introducing Claude Opus 5</title>
+      <link>https://www.anthropic.com/news/claude-opus-5</link>
+      <description>[Product] Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
+    </item>
     <item>
       <title>Inviting hard questions</title>
       <link>https://www.anthropic.com/news/hard-questions</link>
@@ -26,13 +33,6 @@
       <description>[Product] Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
-    </item>
-    <item>
-      <title>Claude Science, an AI workbench for scientists, is now available</title>
-      <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
-      <description>[Announcements] Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
     </item>
     <item>
       <title>A research agenda for the Economic Futures Research Fund</title>
@@ -89,13 +89,6 @@
       <description>[Announcements] Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</description>
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
-    </item>
-    <item>
-      <title>Introducing a way to reflect on how you use Claude</title>
-      <link>https://www.anthropic.com/news/reflect-with-claude</link>
-      <description>[Announcements] Introducing a way to reflect on how you use Claude</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
     </item>
   </channel>
 </rss>
