@@ -1,12 +1,21 @@
 /**
  * OpenAI Research / Releases scraper.
  *
- * OpenAI blocks direct page scraping (HTTP 403), but their sitemap is publicly
- * accessible and contains all release/index pages with lastmod dates.
+ * Strategy: Use OpenAI's official news RSS feed (https://openai.com/news/rss.xml),
+ * which covers ~1000 /index/ pages (research, releases, announcements) with
+ * REAL publication dates in <pubDate>.
  *
- * Strategy: Parse the release sitemap XML to extract English-language URLs
- * and their lastmod dates. Derive titles from URL slugs (e.g. /index/gpt-5-4/ → "GPT 5 4").
- * Sort by date descending and return the 20 most recent entries.
+ * Why not the sitemap? The release sitemap (openai.com/sitemap.xml/release/)
+ * has <lastmod> dates, but those reflect the last crawl/modification — e.g.
+ * "Introducing deep research" (published Feb 2, 2025) shows lastmod of today
+ * because OpenAI re-renders pages regularly. The news RSS feed has correct
+ * original publish dates and matches what the website displays.
+ *
+ * Fallback: for /index/ URLs present in the sitemap but absent from the RSS
+ * feed (a handful of legacy pages like /index/gpt-4/), well-known original
+ * publish dates are hardcoded in KNOWN_DATES.
+ *
+ * Direct page scraping is not possible (OpenAI returns HTTP 403 to bots).
  */
 
 'use strict';
@@ -20,7 +29,19 @@ const FEED_META = {
   language: 'en',
 };
 
+const RSS_URL = 'https://openai.com/news/rss.xml';
 const SITEMAP_URL = 'https://openai.com/sitemap.xml/release/';
+const MAX_ITEMS = 20;
+
+/**
+ * Original publish dates for /index/ pages missing from the news RSS feed.
+ */
+const KNOWN_DATES = {
+  'dall-e-2': '2022-04-06',
+  'dall-e-3': '2023-09-20',
+  'gpt-4': '2023-03-14',
+  'introducing-gpt-4-5': '2025-02-27',
+};
 
 /**
  * Turn a slug like "introducing-gpt-5-3-codex" into "Introducing GPT 5 3 Codex"
@@ -39,71 +60,102 @@ function slugToTitle(slug) {
     .replace(/\bPpo\b/g, 'PPO');
 }
 
-async function scrape() {
-  console.log('[openai-research] Fetching sitemap', SITEMAP_URL);
-
-  let xml;
-  try {
-    const res = await fetch(SITEMAP_URL, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; AI-News-RSS/1.0)',
-        'Accept': 'application/xml, text/xml',
-      },
-    });
-    if (!res.ok) {
-      console.error(`[openai-research] HTTP ${res.status}`);
-      return { ...FEED_META, items: [] };
-    }
-    xml = await res.text();
-  } catch (err) {
-    console.error('[openai-research] Failed to fetch sitemap:', err.message);
-    return { ...FEED_META, items: [] };
+async function fetchText(url, accept) {
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (compatible; AI-News-RSS/1.0)',
+      'Accept': accept,
+    },
+  });
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status}`);
   }
+  return res.text();
+}
 
-  const $ = cheerio.load(xml, { xmlMode: true });
+async function scrape() {
+  console.log('[openai-research] Fetching news RSS', RSS_URL);
+
   const items = [];
   const seen = new Set();
 
-  // Each <url> block has <loc> and <lastmod>
-  $('url').each((_i, el) => {
-    const loc = $(el).find('loc').first().text().trim();
-    const lastmod = $(el).find('lastmod').first().text().trim();
+  // 1. Primary source: official news RSS (real publish dates)
+  try {
+    const xml = await fetchText(RSS_URL, 'application/rss+xml, application/xml, text/xml');
+    const $ = cheerio.load(xml, { xmlMode: true });
 
-    // Only English URLs (no locale prefix like /th-TH/)
-    if (!loc || !loc.startsWith('https://openai.com/index/')) return;
-    if (seen.has(loc)) return;
-    seen.add(loc);
+    $('item').each((_i, el) => {
+      const $el = $(el);
+      const link = $el.find('link').first().text().trim();
 
-    // Extract slug from URL
-    const match = loc.match(/\/index\/([^/]+)\/?$/);
-    if (!match) return;
-    const slug = match[1];
+      // Only /index/ pages (research, releases, announcements)
+      if (!link || !link.startsWith('https://openai.com/index/')) return;
+      if (seen.has(link)) return;
+      seen.add(link);
 
-    const title = slugToTitle(slug);
-    const link = loc;
+      const title = $el.find('title').first().text().trim() || slugToTitle(link.split('/').filter(Boolean).pop());
+      const dateStr = $el.find('pubDate').first().text().trim();
+      const description = $el.find('description').first().text().trim();
 
-    let pubDate = new Date();
-    if (lastmod) {
-      const parsed = new Date(lastmod);
-      if (!isNaN(parsed.getTime())) {
-        pubDate = parsed;
+      let pubDate = null;
+      if (dateStr) {
+        const parsed = new Date(dateStr);
+        if (!isNaN(parsed.getTime())) pubDate = parsed;
       }
-    }
+      if (!pubDate) return; // skip items without a usable date
 
-    items.push({
-      title,
-      link,
-      description: `OpenAI research/release: ${title}`,
-      pubDate,
+      items.push({
+        title,
+        link,
+        description: description || `OpenAI research/release: ${title}`,
+        pubDate,
+      });
     });
-  });
+    console.log(`[openai-research] ${items.length} /index/ items from news RSS`);
+  } catch (err) {
+    console.error('[openai-research] Failed to fetch/parse news RSS:', err.message);
+  }
 
-  // Sort by date descending
+  // 2. Fallback: sitemap-only legacy pages with known publish dates
+  try {
+    const xml = await fetchText(SITEMAP_URL, 'application/xml, text/xml');
+    const $ = cheerio.load(xml, { xmlMode: true });
+
+    $('url').each((_i, el) => {
+      const loc = $(el).find('loc').first().text().trim();
+      if (!loc || !loc.startsWith('https://openai.com/index/')) return;
+
+      const match = loc.match(/\/index\/([^/]+)\/?$/);
+      if (!match) return;
+      const slug = match[1];
+
+      const known = KNOWN_DATES[slug];
+      if (!known) return;
+
+      const link = loc.replace(/\/$/, '');
+      if (seen.has(link) || seen.has(loc)) return;
+      seen.add(link);
+
+      const title = slugToTitle(slug);
+      items.push({
+        title,
+        link,
+        description: `OpenAI research/release: ${title}`,
+        pubDate: new Date(known),
+      });
+    });
+  } catch (err) {
+    console.error('[openai-research] Failed to fetch sitemap for fallback:', err.message);
+  }
+
+  // Sort by date descending, keep the most recent
   items.sort((a, b) => b.pubDate - a.pubDate);
-
-  // Return the 20 most recent
-  const recent = items.slice(0, 20);
-  console.log(`[openai-research] Found ${items.length} total, returning ${recent.length} most recent`);
+  const recent = items.slice(0, MAX_ITEMS);
+  console.log(`[openai-research] Returning ${recent.length} most recent (of ${items.length})`);
+  if (recent.length) {
+    console.log(`[openai-research] Newest: ${recent[0].pubDate.toISOString().slice(0, 10)} "${recent[0].title}"`);
+    console.log(`[openai-research] Oldest: ${recent[recent.length - 1].pubDate.toISOString().slice(0, 10)} "${recent[recent.length - 1].title}"`);
+  }
   return { ...FEED_META, items: recent };
 }
 
