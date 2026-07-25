@@ -34,7 +34,7 @@ Generated feeds are written to `public/` (e.g. `public/anthropic.xml`, `public/k
 
 ## Landing Page
 
-`public/index.html` provides a browsable catalog of all 18 AI news feeds (including official RSS and RSSHub sources), with OPML export and JSON catalog.
+`public/index.html` provides a browsable catalog of all 18 AI news feeds (official RSS + self-hosted custom scrapers), with OPML export and JSON catalog.
 
 ## License
 
