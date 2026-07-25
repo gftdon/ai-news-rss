@@ -77,27 +77,6 @@
     "description": "ข่าวเปิดตัว Claude และ research (self-hosted)"
   },
   {
-    "name": "Qwen Research",
-    "url": "https://hub.slarker.me/qwen/blog/en-US",
-    "htmlUrl": "https://qwen.ai/research",
-    "category": "rsshub",
-    "description": "งานวิจัยจาก Alibaba Qwen team"
-  },
-  {
-    "name": "Meta AI Blog",
-    "url": "https://hub.slarker.me/meta/ai/blog",
-    "htmlUrl": "https://ai.meta.com/blog/",
-    "category": "rsshub",
-    "description": "งานวิจัยจาก Meta FAIR / Llama team"
-  },
-  {
-    "name": "OpenAI Research",
-    "url": "https://rsshub.rssforever.com/openai/research",
-    "htmlUrl": "https://openai.com/research/",
-    "category": "rsshub",
-    "description": "เปเปอร์และงานวิจัยจาก OpenAI"
-  },
-  {
     "name": "Kimi / Moonshot AI",
     "url": "kimi.xml",
     "htmlUrl": "https://www.kimi.com/blog/",

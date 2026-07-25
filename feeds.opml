@@ -18,13 +18,8 @@
       <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai" description="สรุปข่าวรายสัปดาห์ + podcast"/>
       <outline type="rss" text="arXiv cs.AI" title="arXiv cs.AI" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://arxiv.org/list/cs.AI/recent" description="งานวิจัยต้นทาง (ปริมาณเยอะมาก)"/>
     </outline>
-    <outline text="RSSHub Feeds" title="RSSHub Feeds">
-      <outline type="rss" text="Anthropic News" title="Anthropic News" xmlUrl="https://gftdon.github.io/ai-news-rss/anthropic.xml" htmlUrl="https://www.anthropic.com/news" description="ข่าวเปิดตัว Claude และ research (self-hosted)"/>
-      <outline type="rss" text="Qwen Research" title="Qwen Research" xmlUrl="https://hub.slarker.me/qwen/blog/en-US" htmlUrl="https://qwen.ai/research" description="งานวิจัยจาก Alibaba Qwen team"/>
-      <outline type="rss" text="Meta AI Blog" title="Meta AI Blog" xmlUrl="https://hub.slarker.me/meta/ai/blog" htmlUrl="https://ai.meta.com/blog/" description="งานวิจัยจาก Meta FAIR / Llama team"/>
-      <outline type="rss" text="OpenAI Research" title="OpenAI Research" xmlUrl="https://rsshub.rssforever.com/openai/research" htmlUrl="https://openai.com/research/" description="เปเปอร์และงานวิจัยจาก OpenAI"/>
-    </outline>
     <outline text="Custom Scrapers (GitHub Pages)" title="Custom Scrapers (GitHub Pages)">
+      <outline type="rss" text="Anthropic News" title="Anthropic News" xmlUrl="anthropic.xml" htmlUrl="https://www.anthropic.com/news" description="ข่าวเปิดตัว Claude และ research"/>
       <outline type="rss" text="Kimi / Moonshot AI" title="Kimi / Moonshot AI" xmlUrl="kimi.xml" htmlUrl="https://www.kimi.com/blog/" description="บล็อกจาก Kimi AI (Moonshot)"/>
       <outline type="rss" text="MiniMax AI" title="MiniMax AI" xmlUrl="minimax.xml" htmlUrl="https://www.minimax.io/blog" description="บล็อกจาก MiniMax (Hailuo AI)"/>
       <outline type="rss" text="ByteDance Seed" title="ByteDance Seed" xmlUrl="seed.xml" htmlUrl="https://seed.bytedance.com/en/blog" description="งานวิจัย AI จาก ByteDance Seed"/>
