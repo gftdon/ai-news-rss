@@ -71,10 +71,10 @@
   },
   {
     "name": "Anthropic News",
-    "url": "https://rsshub.rssforever.com/anthropic/news",
+    "url": "anthropic.xml",
     "htmlUrl": "https://www.anthropic.com/news",
-    "category": "rsshub",
-    "description": "ข่าวเปิดตัว Claude และ research"
+    "category": "custom",
+    "description": "ข่าวเปิดตัว Claude และ research (self-hosted)"
   },
   {
     "name": "Qwen Research",
