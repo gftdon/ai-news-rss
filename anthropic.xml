@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 21:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 23:06:33 GMT</lastBuildDate>
     <item>
       <title>Introducing Claude Opus 5</title>
       <link>https://www.anthropic.com/news/claude-opus-5</link>
@@ -33,6 +33,13 @@
       <description>[Product] Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
+    </item>
+    <item>
+      <title>Our position on open-weights models</title>
+      <link>https://www.anthropic.com/news/position-open-weights-models</link>
+      <description>[Announcements] Our position on open-weights models</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/position-open-weights-models</guid>
     </item>
     <item>
       <title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
