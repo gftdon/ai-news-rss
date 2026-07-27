@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 08:34:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:28:04 GMT</lastBuildDate>
+    <item>
+      <title>How AI is expanding what people do at work</title>
+      <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
+      <description>New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.</description>
+      <pubDate>Mon, 27 Jul 2026 03:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</guid>
+    </item>
     <item>
       <title>Launching Health in ChatGPT</title>
       <link>https://openai.com/index/health-in-chatgpt</link>
@@ -138,13 +145,6 @@
       <description>Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.</description>
       <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
-    </item>
-    <item>
-      <title>GPT-5.6: Frontier intelligence that scales with your ambition</title>
-      <link>https://openai.com/index/gpt-5-6</link>
-      <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-6</guid>
     </item>
   </channel>
 </rss>
