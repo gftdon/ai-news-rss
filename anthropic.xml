@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 12:28:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 15:45:14 GMT</lastBuildDate>
     <item>
       <title>Introducing Claude Opus 5</title>
       <link>https://www.anthropic.com/news/claude-opus-5</link>
@@ -33,6 +33,13 @@
       <description>[Product] Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
+    </item>
+    <item>
+      <title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
+      <link>https://www.anthropic.com/news/cognizant-anthropic</link>
+      <description>[Announcements] Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
     </item>
     <item>
       <title>A research agenda for the Economic Futures Research Fund</title>
@@ -82,13 +89,6 @@
       <description>[Case Study] UST is bringing Claude to physical AI</description>
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/ust-claude</guid>
-    </item>
-    <item>
-      <title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
-      <link>https://www.anthropic.com/news/ben-bernanke</link>
-      <description>[Announcements] Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
     </item>
   </channel>
 </rss>
