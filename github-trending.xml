@@ -5,111 +5,90 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:17:45 GMT</lastBuildDate>
     <item>
-      <title>permissionlesstech/bitchat [Swift] — 2,346 stars today</title>
-      <link>https://github.com/permissionlesstech/bitchat</link>
-      <description>[Swift] bluetooth mesh chat, IRC vibes (2,346 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/permissionlesstech/bitchat</guid>
-    </item>
-    <item>
-      <title>amnezia-vpn/amnezia-client [C++] — 515 stars today</title>
-      <link>https://github.com/amnezia-vpn/amnezia-client</link>
-      <description>[C++] Amnezia VPN Client (Desktop+Mobile) (515 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/amnezia-vpn/amnezia-client</guid>
-    </item>
-    <item>
-      <title>moeru-ai/airi [TypeScript] — 572 stars today</title>
-      <link>https://github.com/moeru-ai/airi</link>
-      <description>[TypeScript] 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&apos;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (572 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-    </item>
-    <item>
-      <title>opengeos/GeoLibre [TypeScript] — 420 stars today</title>
-      <link>https://github.com/opengeos/GeoLibre</link>
-      <description>[TypeScript] A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. (420 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/opengeos/GeoLibre</guid>
-    </item>
-    <item>
-      <title>yorukot/superfile [Go] — 600 stars today</title>
-      <link>https://github.com/yorukot/superfile</link>
-      <description>[Go] Pretty fancy and modern terminal file manager (600 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/yorukot/superfile</guid>
-    </item>
-    <item>
-      <title>NanmiCoder/MediaCrawler [Python] — 362 stars today</title>
-      <link>https://github.com/NanmiCoder/MediaCrawler</link>
-      <description>[Python] 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 (362 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/NanmiCoder/MediaCrawler</guid>
-    </item>
-    <item>
-      <title>pbakaus/impeccable [JavaScript] — 847 stars today</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <description>[JavaScript] The design language that makes your AI harness better at design. (847 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-    </item>
-    <item>
-      <title>shiyu-coder/Kronos [Python] — 441 stars today</title>
-      <link>https://github.com/shiyu-coder/Kronos</link>
-      <description>[Python] Kronos: A Foundation Model for the Language of Financial Markets (441 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
-    </item>
-    <item>
-      <title>alibaba/open-code-review [Go] — 979 stars today</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <description>[Go] Open-source &amp; free — Battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (979 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <title>pascalorg/editor [TypeScript] — 412 stars today</title>
+      <link>https://github.com/pascalorg/editor</link>
+      <description>[TypeScript] Create and share 3D architectural projects. (412 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pascalorg/editor</guid>
     </item>
     <item>
       <title>jenkinsci/jenkins [Java] — 180 stars today</title>
       <link>https://github.com/jenkinsci/jenkins</link>
       <description>[Java] Jenkins automation server (180 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jenkinsci/jenkins</guid>
     </item>
     <item>
-      <title>bradautomates/claude-video [Python] — 434 stars today</title>
+      <title>moeru-ai/airi [TypeScript] — 796 stars today</title>
+      <link>https://github.com/moeru-ai/airi</link>
+      <description>[TypeScript] 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&apos;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (796 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
+    </item>
+    <item>
+      <title>andrewyng/aisuite [Python] — 185 stars today</title>
+      <link>https://github.com/andrewyng/aisuite</link>
+      <description>[Python] Simple, unified interface to multiple Generative AI providers (185 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/andrewyng/aisuite</guid>
+    </item>
+    <item>
+      <title>affaan-m/ECC [JavaScript] — 458 stars today</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (458 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+    </item>
+    <item>
+      <title>huggingface/speech-to-speech [Python] — 177 stars today</title>
+      <link>https://github.com/huggingface/speech-to-speech</link>
+      <description>[Python] Build local voice agents with open-source models (177 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/huggingface/speech-to-speech</guid>
+    </item>
+    <item>
+      <title>virgiliojr94/book-to-skill [Python] — 366 stars today</title>
+      <link>https://github.com/virgiliojr94/book-to-skill</link>
+      <description>[Python] Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. (366 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/virgiliojr94/book-to-skill</guid>
+    </item>
+    <item>
+      <title>opengeos/GeoLibre [TypeScript] — 420 stars today</title>
+      <link>https://github.com/opengeos/GeoLibre</link>
+      <description>[TypeScript] A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. (420 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/opengeos/GeoLibre</guid>
+    </item>
+    <item>
+      <title>paperswithbacktest/awesome-systematic-trading [Python] — 113 stars today</title>
+      <link>https://github.com/paperswithbacktest/awesome-systematic-trading</link>
+      <description>[Python] A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. (113 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/paperswithbacktest/awesome-systematic-trading</guid>
+    </item>
+    <item>
+      <title>microsoft/agent-governance-toolkit [Python] — 17 stars today</title>
+      <link>https://github.com/microsoft/agent-governance-toolkit</link>
+      <description>[Python] AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. (17 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/microsoft/agent-governance-toolkit</guid>
+    </item>
+    <item>
+      <title>yorukot/superfile [Go] — 660 stars today</title>
+      <link>https://github.com/yorukot/superfile</link>
+      <description>[Go] Pretty fancy and modern terminal file manager (660 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/yorukot/superfile</guid>
+    </item>
+    <item>
+      <title>bradautomates/claude-video [Python] — 989 stars today</title>
       <link>https://github.com/bradautomates/claude-video</link>
-      <description>[Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. (434 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
+      <description>[Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. (989 stars today)</description>
+      <pubDate>Tue, 28 Jul 2026 12:17:45 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bradautomates/claude-video</guid>
-    </item>
-    <item>
-      <title>vudovn/ag-kit [TypeScript] — 14 stars today</title>
-      <link>https://github.com/vudovn/ag-kit</link>
-      <description>[TypeScript] No description (14 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/vudovn/ag-kit</guid>
-    </item>
-    <item>
-      <title>apache/cassandra [Java] — 11 stars today</title>
-      <link>https://github.com/apache/cassandra</link>
-      <description>[Java] Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance. (11 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/apache/cassandra</guid>
-    </item>
-    <item>
-      <title>mvanhorn/last30days-skill [Python] — 240 stars today</title>
-      <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>[Python] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (240 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
-    </item>
-    <item>
-      <title>ocornut/imgui [C++] — 51 stars today</title>
-      <link>https://github.com/ocornut/imgui</link>
-      <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies (51 stars today)</description>
-      <pubDate>Tue, 28 Jul 2026 10:13:50 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ocornut/imgui</guid>
     </item>
   </channel>
 </rss>
