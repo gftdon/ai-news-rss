@@ -5,13 +5,27 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:27:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:13:51 GMT</lastBuildDate>
+    <item>
+      <title>DeepEP: Stable release v1.2.1</title>
+      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
+      <description>Stable release v1.2.1</description>
+      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
+    </item>
     <item>
       <title>DeepSeek-V3: v1.0.0</title>
       <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
       <description>This release is created for archival purposes and DOI generation.</description>
       <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
+    </item>
+    <item>
+      <title>DeepSeek-R1: v1.0.0</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
+      <description>This release is created for archival purposes and DOI generation.</description>
+      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
     </item>
   </channel>
 </rss>
