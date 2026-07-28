@@ -25,6 +25,19 @@ const GITHUB_API_URL = 'https://api.github.com/repos/deepseek-ai/DeepSeek-V3/rel
 // DeepSeek's GitHub org
 const GITHUB_ORG_URL = 'https://api.github.com/orgs/deepseek-ai/repos?sort=updated&per_page=10';
 
+// Use a token when available (GitHub Actions provides GITHUB_TOKEN) to raise
+// the API rate limit from 60 req/hr (unauthenticated) to 1,000 req/hr.
+function githubHeaders() {
+  const headers = {
+    'User-Agent': 'AI-News-RSS/1.0',
+    'Accept': 'application/vnd.github.v3+json',
+  };
+  if (process.env.GITHUB_TOKEN) {
+    headers['Authorization'] = `Bearer ${process.env.GITHUB_TOKEN}`;
+  }
+  return headers;
+}
+
 async function scrape() {
   console.log('[deepseek] Fetching from GitHub');
 
@@ -34,10 +47,7 @@ async function scrape() {
   // Strategy 1: Get recent repos with releases from deepseek-ai org
   try {
     const orgRes = await fetch(GITHUB_ORG_URL, {
-      headers: {
-        'User-Agent': 'AI-News-RSS/1.0',
-        'Accept': 'application/vnd.github.v3+json',
-      },
+      headers: githubHeaders(),
     });
 
     if (orgRes.ok) {
@@ -49,10 +59,7 @@ async function scrape() {
           const relRes = await fetch(
             `https://api.github.com/repos/deepseek-ai/${repo.name}/releases?per_page=3`,
             {
-              headers: {
-                'User-Agent': 'AI-News-RSS/1.0',
-                'Accept': 'application/vnd.github.v3+json',
-              },
+              headers: githubHeaders(),
             }
           );
 

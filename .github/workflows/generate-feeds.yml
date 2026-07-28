@@ -2,16 +2,24 @@ name: Generate RSS Feeds
 
 on:
   schedule:
-    # Run every 1 hour
-    - cron: '0 * * * *'
+    # Run every 15 minutes (off-peak minute to reduce GitHub scheduler delays)
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
 
+# Skip a new run if the previous one is still in progress
+concurrency:
+  group: generate-feeds
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Checkout repository
