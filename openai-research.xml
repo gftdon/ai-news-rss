@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 16:38:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 18:00:25 GMT</lastBuildDate>
+    <item>
+      <title>Accelerating scientific discovery with ChatGPT for Academic Researchers</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers</link>
+      <description>OpenAI is giving 100,000 academic researchers free access to ChatGPT&apos;s most advanced AI models to accelerate scientific research, collaboration, and discovery.</description>
+      <pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-for-academic-researchers</guid>
+    </item>
     <item>
       <title>Scientific computing in the age of agentic AI</title>
       <link>https://openai.com/index/scientific-computing-agentic-ai</link>
@@ -138,13 +145,6 @@
       <description>Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.</description>
       <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
-    </item>
-    <item>
-      <title>How Deutsche Telekom is rewiring telecommunications with AI</title>
-      <link>https://openai.com/index/deutsche-telekom</link>
-      <description>How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.</description>
-      <pubDate>Fri, 10 Jul 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/deutsche-telekom</guid>
     </item>
   </channel>
 </rss>
