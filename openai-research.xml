@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 19:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:40:51 GMT</lastBuildDate>
     <item>
       <title>Accelerating scientific discovery with ChatGPT for Academic Researchers</title>
       <link>https://openai.com/index/chatgpt-for-academic-researchers</link>
       <description>OpenAI is giving 100,000 academic researchers free access to ChatGPT&apos;s most advanced AI models to accelerate scientific research, collaboration, and discovery.</description>
       <pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/chatgpt-for-academic-researchers</guid>
+    </item>
+    <item>
+      <title>How GPT-5.6 fuses frontier intelligence with frontier efficiency</title>
+      <link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
+      <description>GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
     </item>
     <item>
       <title>Scientific computing in the age of agentic AI</title>
@@ -138,13 +145,6 @@
       <description>Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.</description>
       <pubDate>Wed, 15 Jul 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/unlocking-self-improvement-gpt-red</guid>
-    </item>
-    <item>
-      <title>How to manage AI investments in the agentic era</title>
-      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
-      <description>Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.</description>
-      <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
     </item>
   </channel>
 </rss>
