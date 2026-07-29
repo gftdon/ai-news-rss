@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 22:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:48:14 GMT</lastBuildDate>
+    <item>
+      <title>How enabling two settings tripled our scores on the ARC-AGI-3 benchmark</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
+      <description>How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.</description>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
+    </item>
     <item>
       <title>Accelerating scientific discovery with ChatGPT for Academic Researchers</title>
       <link>https://openai.com/index/chatgpt-for-academic-researchers</link>
@@ -138,13 +145,6 @@
       <description>OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.</description>
       <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</guid>
-    </item>
-    <item>
-      <title>GPT-Red: Unlocking Self-Improvement for Robustness</title>
-      <link>https://openai.com/index/unlocking-self-improvement-gpt-red</link>
-      <description>Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.</description>
-      <pubDate>Wed, 15 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/unlocking-self-improvement-gpt-red</guid>
     </item>
   </channel>
 </rss>
