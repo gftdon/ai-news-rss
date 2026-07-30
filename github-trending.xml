@@ -5,125 +5,104 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 09:55:55 GMT</lastBuildDate>
-    <item>
-      <title>opengeos/GeoLibre [TypeScript] — 671 stars today</title>
-      <link>https://github.com/opengeos/GeoLibre</link>
-      <description>[TypeScript] A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. (671 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/opengeos/GeoLibre</guid>
-    </item>
-    <item>
-      <title>moeru-ai/airi [TypeScript] — 682 stars today</title>
-      <link>https://github.com/moeru-ai/airi</link>
-      <description>[TypeScript] 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&apos;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (682 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-    </item>
-    <item>
-      <title>affaan-m/ECC [JavaScript] — 857 stars today</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (857 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 12:02:07 GMT</lastBuildDate>
     <item>
       <title>huggingface/speech-to-speech [Python] — 827 stars today</title>
       <link>https://github.com/huggingface/speech-to-speech</link>
       <description>[Python] Build local voice agents with open-source models (827 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/huggingface/speech-to-speech</guid>
     </item>
     <item>
-      <title>1jehuang/jcode [Rust] — 640 stars today</title>
-      <link>https://github.com/1jehuang/jcode</link>
-      <description>[Rust] The most RAM efficient harness (640 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/1jehuang/jcode</guid>
-    </item>
-    <item>
-      <title>grokability/snipe-it [PHP] — 164 stars today</title>
-      <link>https://github.com/grokability/snipe-it</link>
-      <description>[PHP] A free open source IT asset/license management system (164 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/grokability/snipe-it</guid>
-    </item>
-    <item>
-      <title>deepfakes/faceswap [Python] — 166 stars today</title>
-      <link>https://github.com/deepfakes/faceswap</link>
-      <description>[Python] Deepfakes Software For All (166 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepfakes/faceswap</guid>
-    </item>
-    <item>
-      <title>microsoft/VibeVoice [Python] — 336 stars today</title>
-      <link>https://github.com/microsoft/VibeVoice</link>
-      <description>[Python] Open-Source Frontier Voice AI (336 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
-    </item>
-    <item>
-      <title>different-ai/openwork [TypeScript] — 97 stars today</title>
-      <link>https://github.com/different-ai/openwork</link>
-      <description>[TypeScript] The open-source alternative to Claude Cowork (powered by opencode) (97 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/different-ai/openwork</guid>
-    </item>
-    <item>
-      <title>obra/superpowers [Shell] — 616 stars today</title>
-      <link>https://github.com/obra/superpowers</link>
-      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (616 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-    </item>
-    <item>
-      <title>MoonshotAI/FlashKDA [Cuda] — 91 stars today</title>
-      <link>https://github.com/MoonshotAI/FlashKDA</link>
-      <description>[Cuda] FlashKDA: high-performance Kimi Delta Attention kernels (91 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/MoonshotAI/FlashKDA</guid>
-    </item>
-    <item>
-      <title>NanmiCoder/MediaCrawler [Python] — 154 stars today</title>
-      <link>https://github.com/NanmiCoder/MediaCrawler</link>
-      <description>[Python] 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 (154 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/NanmiCoder/MediaCrawler</guid>
-    </item>
-    <item>
-      <title>alibaba/open-code-review [Go] — 359 stars today</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <description>[Go] Open-source &amp; free — Battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (359 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <title>microsoft/AI-For-Beginners [Jupyter Notebook] — 115 stars today</title>
+      <link>https://github.com/microsoft/AI-For-Beginners</link>
+      <description>[Jupyter Notebook] 12 Weeks, 24 Lessons, AI for All! (115 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/microsoft/AI-For-Beginners</guid>
     </item>
     <item>
       <title>paperswithbacktest/awesome-systematic-trading [Python] — 945 stars today</title>
       <link>https://github.com/paperswithbacktest/awesome-systematic-trading</link>
       <description>[Python] A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. (945 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/paperswithbacktest/awesome-systematic-trading</guid>
     </item>
     <item>
-      <title>maderix/ANE [Objective-C] — 22 stars today</title>
-      <link>https://github.com/maderix/ANE</link>
-      <description>[Objective-C] Training neural networks on Apple Neural Engine via reverse-engineered private APIs (22 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/maderix/ANE</guid>
+      <title>different-ai/openwork [TypeScript] — 97 stars today</title>
+      <link>https://github.com/different-ai/openwork</link>
+      <description>[TypeScript] The open-source alternative to Claude Cowork (powered by opencode) (97 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/different-ai/openwork</guid>
+    </item>
+    <item>
+      <title>WhiskeySockets/Baileys [JavaScript] — 12 stars today</title>
+      <link>https://github.com/WhiskeySockets/Baileys</link>
+      <description>Socket-based TS/JavaScript API for WhatsApp Web (12 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/WhiskeySockets/Baileys</guid>
     </item>
     <item>
       <title>pascalorg/editor [TypeScript] — 1,022 stars today</title>
       <link>https://github.com/pascalorg/editor</link>
       <description>[TypeScript] Create and share 3D architectural projects. (1,022 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pascalorg/editor</guid>
     </item>
     <item>
-      <title>virgiliojr94/book-to-skill [Python] — 1,421 stars today</title>
-      <link>https://github.com/virgiliojr94/book-to-skill</link>
-      <description>[Python] Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. (1,421 stars today)</description>
-      <pubDate>Thu, 30 Jul 2026 09:55:55 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/virgiliojr94/book-to-skill</guid>
+      <title>mvanhorn/last30days-skill [Python] — 377 stars today</title>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <description>[Python] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (377 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
+    </item>
+    <item>
+      <title>dotnet/aspnetcore [C#] — 5 stars today</title>
+      <link>https://github.com/dotnet/aspnetcore</link>
+      <description>[C#] ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. (5 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/dotnet/aspnetcore</guid>
+    </item>
+    <item>
+      <title>microsoft/PowerToys [C] — 68 stars today</title>
+      <link>https://github.com/microsoft/PowerToys</link>
+      <description>[C] Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows (68 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/microsoft/PowerToys</guid>
+    </item>
+    <item>
+      <title>ansible/ansible [Python] — 20 stars today</title>
+      <link>https://github.com/ansible/ansible</link>
+      <description>[Python] Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (20 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ansible/ansible</guid>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp [TypeScript] — 73 stars today</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>[TypeScript] Chrome DevTools for coding agents (73 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+    </item>
+    <item>
+      <title>jenkinsci/jenkins [Java] — 180 stars today</title>
+      <link>https://github.com/jenkinsci/jenkins</link>
+      <description>[Java] Jenkins automation server (180 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/jenkinsci/jenkins</guid>
+    </item>
+    <item>
+      <title>agavra/tuicr [Rust] — 338 stars today</title>
+      <link>https://github.com/agavra/tuicr</link>
+      <description>[Rust] a code review TUI with vim keybindings (338 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/agavra/tuicr</guid>
+    </item>
+    <item>
+      <title>affaan-m/ECC [JavaScript] — 857 stars today</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (857 stars today)</description>
+      <pubDate>Thu, 30 Jul 2026 12:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
     </item>
   </channel>
 </rss>
