@@ -5,7 +5,14 @@
     <link>https://www.minimax.io/blog</link>
     <description>Latest posts from MiniMax Blog</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 07:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:12:09 GMT</lastBuildDate>
+    <item>
+      <title>MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities</title>
+      <link>https://www.minimax.io/blog/minimax-h3</link>
+      <description>Today, we&apos;re officially launching MiniMax H3, a general-purpose omni-modal generation model. H3 can jointly understand multimodal contexts spanning text, images, video, and audio. It generates video with native stereo audio at up to 2K resolution and 15 seconds in length.</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3</guid>
+    </item>
     <item>
       <title>MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Evolutionary Search</title>
       <link>https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</link>

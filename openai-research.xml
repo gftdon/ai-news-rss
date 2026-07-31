@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 07:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:12:09 GMT</lastBuildDate>
+    <item>
+      <title>Advancing responsible AI across Europe</title>
+      <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
+      <description>OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.</description>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advancing-responsible-ai-across-europe</guid>
+    </item>
+    <item>
+      <title>Univé builds an AI-ready workforce</title>
+      <link>https://openai.com/index/unive</link>
+      <description>See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.</description>
+      <pubDate>Fri, 31 Jul 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/unive</guid>
+    </item>
     <item>
       <title>Advancing the price-performance frontier with GPT-5.6</title>
       <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
@@ -131,20 +145,6 @@
       <description>Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.</description>
       <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/a-scorecard-for-the-ai-age</guid>
-    </item>
-    <item>
-      <title>Why teens deserve access to safe AI</title>
-      <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
-      <description>Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.</description>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/why-teens-deserve-access-safe-ai</guid>
-    </item>
-    <item>
-      <title>How Codex became a collaborator for OpenAI’s creative team</title>
-      <link>https://openai.com/index/codex-collaborator-creative-team</link>
-      <description>How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.</description>
-      <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/codex-collaborator-creative-team</guid>
     </item>
   </channel>
 </rss>
