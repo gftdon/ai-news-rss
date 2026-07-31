@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 01:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 04:34:50 GMT</lastBuildDate>
     <item>
       <title>Advancing the price-performance frontier with GPT-5.6</title>
       <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
       <description>Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.</description>
       <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
+    </item>
+    <item>
+      <title>How avatarin built a 24/7 retail agent with GPT-Realtime</title>
+      <link>https://openai.com/index/avatarin</link>
+      <description>avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/avatarin</guid>
     </item>
     <item>
       <title>How enabling two settings tripled our scores on the ARC-AGI-3 benchmark</title>
@@ -138,13 +145,6 @@
       <description>How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.</description>
       <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/codex-collaborator-creative-team</guid>
-    </item>
-    <item>
-      <title>How Cars24 scales conversations and builds faster with OpenAI</title>
-      <link>https://openai.com/index/cars24</link>
-      <description>Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/cars24</guid>
     </item>
   </channel>
 </rss>
