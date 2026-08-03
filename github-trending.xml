@@ -5,117 +5,117 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:14:40 GMT</lastBuildDate>
     <item>
-      <title>lyogavin/airllm [Jupyter Notebook] — 819 stars today</title>
+      <title>lyogavin/airllm [Jupyter Notebook] — 1,081 stars today</title>
       <link>https://github.com/lyogavin/airllm</link>
-      <description>[Jupyter Notebook] AirLLM 70B inference with single 4GB GPU (819 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[Jupyter Notebook] AirLLM 70B inference with single 4GB GPU (1,081 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/lyogavin/airllm</guid>
     </item>
     <item>
-      <title>zhaoxuya520/reverse-skill [PowerShell] — 1,141 stars today</title>
+      <title>zhaoxuya520/reverse-skill [PowerShell] — 2,442 stars today</title>
       <link>https://github.com/zhaoxuya520/reverse-skill</link>
-      <description>[PowerShell] Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 (1,141 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[PowerShell] Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 (2,442 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/zhaoxuya520/reverse-skill</guid>
     </item>
     <item>
       <title>firecrawl/pdf-inspector [Rust] — 1,769 stars today</title>
       <link>https://github.com/firecrawl/pdf-inspector</link>
       <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. (1,769 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/firecrawl/pdf-inspector</guid>
     </item>
     <item>
-      <title>esengine/DeepSeek-Reasonix [Go] — 333 stars today</title>
+      <title>esengine/DeepSeek-Reasonix [Go] — 877 stars today</title>
       <link>https://github.com/esengine/DeepSeek-Reasonix</link>
-      <description>[Go] DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. (333 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[Go] DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. (877 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/esengine/DeepSeek-Reasonix</guid>
     </item>
     <item>
-      <title>TencentCloud/TencentDB-Agent-Memory [TypeScript] — 602 stars today</title>
+      <title>TencentCloud/TencentDB-Agent-Memory [TypeScript] — 1,091 stars today</title>
       <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
-      <description>[TypeScript] TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. (602 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[TypeScript] TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. (1,091 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
     </item>
     <item>
-      <title>microsoft/AI-For-Beginners [Jupyter Notebook] — 2,629 stars today</title>
+      <title>microsoft/AI-For-Beginners [Jupyter Notebook] — 1,902 stars today</title>
       <link>https://github.com/microsoft/AI-For-Beginners</link>
-      <description>[Jupyter Notebook] 12 Weeks, 24 Lessons, AI for All! (2,629 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[Jupyter Notebook] 12 Weeks, 24 Lessons, AI for All! (1,902 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/microsoft/AI-For-Beginners</guid>
     </item>
     <item>
-      <title>microsoft/generative-ai-for-beginners [Jupyter Notebook] — 588 stars today</title>
+      <title>microsoft/generative-ai-for-beginners [Jupyter Notebook] — 776 stars today</title>
       <link>https://github.com/microsoft/generative-ai-for-beginners</link>
-      <description>[Jupyter Notebook] 21 Lessons, Get Started Building with Generative AI (588 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[Jupyter Notebook] 21 Lessons, Get Started Building with Generative AI (776 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/microsoft/generative-ai-for-beginners</guid>
     </item>
     <item>
       <title>donnemartin/system-design-primer [Python] — 138 stars today</title>
       <link>https://github.com/donnemartin/system-design-primer</link>
       <description>[Python] Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. (138 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/donnemartin/system-design-primer</guid>
     </item>
     <item>
-      <title>antirez/ds4 [C] — 139 stars today</title>
+      <title>antirez/ds4 [C] — 385 stars today</title>
       <link>https://github.com/antirez/ds4</link>
-      <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm (139 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm (385 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/antirez/ds4</guid>
     </item>
     <item>
       <title>shiyu-coder/Kronos [Python] — 217 stars today</title>
       <link>https://github.com/shiyu-coder/Kronos</link>
       <description>[Python] Kronos: A Foundation Model for the Language of Financial Markets (217 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
     </item>
     <item>
-      <title>Panniantong/Agent-Reach [Python] — 659 stars today</title>
+      <title>Panniantong/Agent-Reach [Python] — 1,052 stars today</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (659 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (1,052 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
     </item>
     <item>
       <title>Alishahryar1/free-claude-code [Python] — 291 stars today</title>
       <link>https://github.com/Alishahryar1/free-claude-code</link>
       <description>[Python] Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported) (291 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Alishahryar1/free-claude-code</guid>
     </item>
     <item>
-      <title>iv-org/invidious [Crystal] — 305 stars today</title>
+      <title>iv-org/invidious [Crystal] — 403 stars today</title>
       <link>https://github.com/iv-org/invidious</link>
-      <description>[Crystal] Invidious is an alternative front-end to YouTube (305 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[Crystal] Invidious is an alternative front-end to YouTube (403 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iv-org/invidious</guid>
     </item>
     <item>
       <title>livekit/agents [Python] — 129 stars today</title>
       <link>https://github.com/livekit/agents</link>
       <description>[Python] A framework for building realtime voice AI agents 🤖🎙️📹 (129 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/livekit/agents</guid>
     </item>
     <item>
-      <title>usekaneo/kaneo [TypeScript] — 496 stars today</title>
+      <title>usekaneo/kaneo [TypeScript] — 663 stars today</title>
       <link>https://github.com/usekaneo/kaneo</link>
-      <description>[TypeScript] 🎯 All you need. Nothing you don&apos;t. Open source project management that works for you, not against you. (496 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <description>[TypeScript] 🎯 All you need. Nothing you don&apos;t. Open source project management that works for you, not against you. (663 stars today)</description>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/usekaneo/kaneo</guid>
     </item>
     <item>
       <title>jamiepine/voicebox [TypeScript] — 225 stars today</title>
       <link>https://github.com/jamiepine/voicebox</link>
       <description>[TypeScript] The open-source AI voice studio. Clone, dictate, create. (225 stars today)</description>
-      <pubDate>Mon, 03 Aug 2026 12:06:44 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 15:14:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jamiepine/voicebox</guid>
     </item>
   </channel>
