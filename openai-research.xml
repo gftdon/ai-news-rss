@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 04:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:20:20 GMT</lastBuildDate>
+    <item>
+      <title>Apple is getting this wrong</title>
+      <link>https://openai.com/index/apple-is-getting-this-wrong</link>
+      <description>OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.</description>
+      <pubDate>Mon, 03 Aug 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/apple-is-getting-this-wrong</guid>
+    </item>
     <item>
       <title>How we built a realtime system for responsive voice AI in six months</title>
       <link>https://openai.com/index/continuous-voice-interaction-with-gpt-live</link>
@@ -138,13 +145,6 @@
       <description>Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.</description>
       <pubDate>Wed, 22 Jul 2026 05:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-openai-presence</guid>
-    </item>
-    <item>
-      <title>NTT DATA Group cuts incident analysis to 30 minutes with Codex</title>
-      <link>https://openai.com/index/ntt-data</link>
-      <description>NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/ntt-data</guid>
     </item>
   </channel>
 </rss>
