@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 16:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:20:17 GMT</lastBuildDate>
+    <item>
+      <title>New ways to learn and teach with ChatGPT Work and Codex</title>
+      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+      <description>Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
+    </item>
     <item>
       <title>Apple is getting this wrong</title>
       <link>https://openai.com/index/apple-is-getting-this-wrong</link>
@@ -138,13 +145,6 @@
       <description>OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.</description>
       <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
-    </item>
-    <item>
-      <title>Introducing OpenAI Presence</title>
-      <link>https://openai.com/index/introducing-openai-presence</link>
-      <description>Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.</description>
-      <pubDate>Wed, 22 Jul 2026 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-openai-presence</guid>
     </item>
   </channel>
 </rss>
