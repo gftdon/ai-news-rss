@@ -5,20 +5,55 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 06:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:10:59 GMT</lastBuildDate>
     <item>
-      <title>DeepEP: Stable release v1.2.1</title>
-      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
-      <description>Stable release v1.2.1</description>
-      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
+      <title>FlashMLA</title>
+      <link>https://github.com/deepseek-ai/FlashMLA</link>
+      <description>FlashMLA: Efficient Multi-head Latent Attention Kernels</description>
+      <pubDate>Tue, 28 Jul 2026 06:18:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/FlashMLA</guid>
     </item>
     <item>
-      <title>DeepSeek-V3: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
+      <title>DeepSpec</title>
+      <link>https://github.com/deepseek-ai/DeepSpec</link>
+      <description>DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms</description>
+      <pubDate>Thu, 09 Jul 2026 04:37:14 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSpec</guid>
+    </item>
+    <item>
+      <title>3FS</title>
+      <link>https://github.com/deepseek-ai/3FS</link>
+      <description> A high-performance distributed file system designed to address the challenges of AI training and inference workloads. </description>
+      <pubDate>Thu, 07 May 2026 09:31:54 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/3FS</guid>
+    </item>
+    <item>
+      <title>awesome-deepseek-integration</title>
+      <link>https://github.com/deepseek-ai/awesome-deepseek-integration</link>
+      <description>Integrate the DeepSeek API into popular software</description>
+      <pubDate>Mon, 23 Feb 2026 16:27:47 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/awesome-deepseek-integration</guid>
+    </item>
+    <item>
+      <title>DeepSeek-OCR-2</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR-2</link>
+      <description>Visual Causal Flow</description>
+      <pubDate>Tue, 03 Feb 2026 00:34:18 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR-2</guid>
+    </item>
+    <item>
+      <title>DeepSeek-Coder</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-Coder</link>
+      <description>DeepSeek Coder: Let the Code Write Itself</description>
+      <pubDate>Tue, 11 Nov 2025 06:44:56 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-Coder</guid>
+    </item>
+    <item>
+      <title>DeepSeek-LLM</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
+      <description>DeepSeek LLM: Let there be answers</description>
+      <pubDate>Sun, 04 Feb 2024 12:22:16 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-LLM</guid>
     </item>
   </channel>
 </rss>
