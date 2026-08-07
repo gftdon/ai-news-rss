@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 16:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:13:07 GMT</lastBuildDate>
+    <item>
+      <title>Responding to the next frontier of critical cyber capabilities</title>
+      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
+      <description>OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.</description>
+      <pubDate>Fri, 07 Aug 2026 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</guid>
+    </item>
     <item>
       <title>How HSP GRUPPE builds AI capabilities for tax advisory</title>
       <link>https://openai.com/index/hsp-gruppe</link>
@@ -138,13 +145,6 @@
       <description>GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.</description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
-    </item>
-    <item>
-      <title>Scientific computing in the age of agentic AI</title>
-      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
-      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
-      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/scientific-computing-agentic-ai</guid>
     </item>
   </channel>
 </rss>
