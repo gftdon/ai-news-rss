@@ -5,7 +5,28 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:58:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:35:11 GMT</lastBuildDate>
+    <item>
+      <title>Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users</title>
+      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
+      <description>ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.</description>
+      <pubDate>Thu, 06 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</guid>
+    </item>
+    <item>
+      <title>Working with the American Psychological Association on youth mental health and AI</title>
+      <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
+      <description>OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.</description>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</guid>
+    </item>
+    <item>
+      <title>From asking to doing: How the world is putting ChatGPT to work</title>
+      <link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
+      <description>New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</guid>
+    </item>
     <item>
       <title>Third-party cyber evaluations involving OpenAI models</title>
       <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
@@ -124,27 +145,6 @@
       <description>New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.</description>
       <pubDate>Mon, 27 Jul 2026 03:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</guid>
-    </item>
-    <item>
-      <title>Launching Health in ChatGPT</title>
-      <link>https://openai.com/index/health-in-chatgpt</link>
-      <description>Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/health-in-chatgpt</guid>
-    </item>
-    <item>
-      <title>Building AI infrastructure with the Effingham County community</title>
-      <link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
-      <description>OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.</description>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</guid>
-    </item>
-    <item>
-      <title>How news organizations are using AI to advance their vital missions</title>
-      <link>https://openai.com/index/how-news-organizations-are-using-ai</link>
-      <description>News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.</description>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/how-news-organizations-are-using-ai</guid>
     </item>
   </channel>
 </rss>
