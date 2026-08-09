@@ -5,131 +5,131 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:54:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:50:06 GMT</lastBuildDate>
     <item>
       <title>firecrawl/pdf-inspector [Rust] — 8,846 stars this week</title>
       <link>https://github.com/firecrawl/pdf-inspector</link>
       <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. (8,846 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/firecrawl/pdf-inspector</guid>
     </item>
     <item>
       <title>zhaoxuya520/reverse-skill [PowerShell] — 9,635 stars this week</title>
       <link>https://github.com/zhaoxuya520/reverse-skill</link>
       <description>[PowerShell] Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 (9,635 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/zhaoxuya520/reverse-skill</guid>
     </item>
     <item>
       <title>TencentCloud/TencentDB-Agent-Memory [TypeScript] — 8,046 stars this week</title>
       <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
       <description>[TypeScript] TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. (8,046 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
     </item>
     <item>
       <title>lyogavin/airllm [Jupyter Notebook] — 5,711 stars this week</title>
       <link>https://github.com/lyogavin/airllm</link>
       <description>[Jupyter Notebook] AirLLM 70B inference with single 4GB GPU (5,711 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/lyogavin/airllm</guid>
     </item>
     <item>
       <title>esengine/DeepSeek-Reasonix [Go] — 4,704 stars this week</title>
       <link>https://github.com/esengine/DeepSeek-Reasonix</link>
       <description>[Go] DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. (4,704 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/esengine/DeepSeek-Reasonix</guid>
     </item>
     <item>
       <title>microsoft/AI-For-Beginners [Jupyter Notebook] — 7,469 stars this week</title>
       <link>https://github.com/microsoft/AI-For-Beginners</link>
       <description>[Jupyter Notebook] 12 Weeks, 24 Lessons, AI for All! (7,469 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/microsoft/AI-For-Beginners</guid>
     </item>
     <item>
       <title>usekaneo/kaneo [TypeScript] — 2,259 stars this week</title>
       <link>https://github.com/usekaneo/kaneo</link>
       <description>[TypeScript] 🎯 All you need. Nothing you don&apos;t. Open source project management that works for you, not against you. (2,259 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/usekaneo/kaneo</guid>
     </item>
     <item>
       <title>virgiliojr94/book-to-skill [Python] — 4,071 stars this week</title>
       <link>https://github.com/virgiliojr94/book-to-skill</link>
       <description>[Python] Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. (4,071 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/virgiliojr94/book-to-skill</guid>
     </item>
     <item>
       <title>google/skills [Python] — 1,143 stars this week</title>
       <link>https://github.com/google/skills</link>
       <description>[Python] Agent Skills for Google products and technologies (1,143 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/google/skills</guid>
     </item>
     <item>
       <title>unclebob/swarm-forge [Clojure] — 504 stars this week</title>
       <link>https://github.com/unclebob/swarm-forge</link>
       <description>[Clojure] A simple tool for coordinating several AI agents. (504 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/unclebob/swarm-forge</guid>
     </item>
     <item>
       <title>iv-org/invidious [Crystal] — 997 stars this week</title>
       <link>https://github.com/iv-org/invidious</link>
       <description>[Crystal] Invidious is an alternative front-end to YouTube (997 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/iv-org/invidious</guid>
     </item>
     <item>
       <title>goauthentik/authentik [Python] — 1,334 stars this week</title>
       <link>https://github.com/goauthentik/authentik</link>
       <description>[Python] The authentication glue you need. (1,334 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/goauthentik/authentik</guid>
     </item>
     <item>
       <title>Comfy-Org/ComfyUI [Python] — 1,778 stars this week</title>
       <link>https://github.com/Comfy-Org/ComfyUI</link>
       <description>[Python] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (1,778 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Comfy-Org/ComfyUI</guid>
     </item>
     <item>
       <title>drawdb-io/drawdb [JavaScript] — 312 stars this week</title>
       <link>https://github.com/drawdb-io/drawdb</link>
       <description>[JavaScript] Free, simple, and intuitive online database diagram editor and SQL generator. (312 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/drawdb-io/drawdb</guid>
     </item>
     <item>
       <title>vitali87/code-graph-rag [Python] — 237 stars this week</title>
       <link>https://github.com/vitali87/code-graph-rag</link>
       <description>[Python] The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs (237 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vitali87/code-graph-rag</guid>
     </item>
     <item>
       <title>livekit/agents [Python] — 1,170 stars this week</title>
       <link>https://github.com/livekit/agents</link>
       <description>[Python] A framework for building realtime voice AI agents 🤖🎙️📹 (1,170 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/livekit/agents</guid>
     </item>
     <item>
       <title>embabel/embabel-agent [Kotlin] — 188 stars this week</title>
       <link>https://github.com/embabel/embabel-agent</link>
       <description>[Kotlin] Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ (188 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/embabel/embabel-agent</guid>
     </item>
     <item>
       <title>donnemartin/system-design-primer [Python] — 2,606 stars this week</title>
       <link>https://github.com/donnemartin/system-design-primer</link>
       <description>[Python] Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. (2,606 stars this week)</description>
-      <pubDate>Sun, 09 Aug 2026 15:54:58 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:50:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/donnemartin/system-design-primer</guid>
     </item>
   </channel>
