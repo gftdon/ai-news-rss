@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:56:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:38:31 GMT</lastBuildDate>
+    <item>
+      <title>Model ML completes finance work more efficiently with GPT-5.6 Sol</title>
+      <link>https://openai.com/index/model-ml</link>
+      <description>Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.</description>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/model-ml</guid>
+    </item>
     <item>
       <title>Responding to the next frontier of critical cyber capabilities</title>
       <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
@@ -138,13 +145,6 @@
       <description>OpenAI is giving 100,000 academic researchers free access to ChatGPT&apos;s most advanced AI models to accelerate scientific research, collaboration, and discovery.</description>
       <pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/chatgpt-for-academic-researchers</guid>
-    </item>
-    <item>
-      <title>How GPT-5.6 fuses frontier intelligence with frontier efficiency</title>
-      <link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
-      <description>GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
     </item>
   </channel>
 </rss>
