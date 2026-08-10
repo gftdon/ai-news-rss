@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 15:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 16:39:11 GMT</lastBuildDate>
+    <item>
+      <title>What building an AI-native finance function taught me</title>
+      <link>https://openai.com/index/building-an-ai-native-finance-function</link>
+      <description>OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.</description>
+      <pubDate>Mon, 10 Aug 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/building-an-ai-native-finance-function</guid>
+    </item>
     <item>
       <title>OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas</title>
       <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
@@ -138,13 +145,6 @@
       <description>avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/avatarin</guid>
-    </item>
-    <item>
-      <title>How enabling two settings tripled our scores on the ARC-AGI-3 benchmark</title>
-      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
-      <description>How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.</description>
-      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
     </item>
   </channel>
 </rss>
