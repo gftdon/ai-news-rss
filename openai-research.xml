@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 16:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:40:35 GMT</lastBuildDate>
     <item>
       <title>What building an AI-native finance function taught me</title>
       <link>https://openai.com/index/building-an-ai-native-finance-function</link>
@@ -26,6 +26,20 @@
       <description>Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.</description>
       <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/model-ml</guid>
+    </item>
+    <item>
+      <title>Putting frontier cyber models in more trusted hands</title>
+      <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
+      <description>Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.</description>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</guid>
+    </item>
+    <item>
+      <title>Premium seats are coming to ChatGPT Business</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <description>Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team&apos;s most demanding work.</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/premium-seats-chatgpt-business</guid>
     </item>
     <item>
       <title>Responding to the next frontier of critical cyber capabilities</title>
@@ -131,20 +145,6 @@
       <description>OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
-    </item>
-    <item>
-      <title>Advancing the price-performance frontier with GPT-5.6</title>
-      <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
-      <description>Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.</description>
-      <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
-    </item>
-    <item>
-      <title>How avatarin built a 24/7 retail agent with GPT-Realtime</title>
-      <link>https://openai.com/index/avatarin</link>
-      <description>avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/avatarin</guid>
     </item>
   </channel>
 </rss>
