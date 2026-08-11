@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 21:28:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:23:23 GMT</lastBuildDate>
     <item>
       <title>Testing ads in ChatGPT</title>
       <link>https://openai.com/index/testing-ads-in-chatgpt</link>
       <description>OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.</description>
       <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
+    </item>
+    <item>
+      <title>Daybreak models are now available on AWS</title>
+      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+      <description>OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.</description>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
     </item>
     <item>
       <title>What building an AI-native finance function taught me</title>
@@ -138,13 +145,6 @@
       <description>Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/circles</guid>
-    </item>
-    <item>
-      <title>Ten advances in mathematics and theoretical computer science</title>
-      <link>https://openai.com/index/ten-advances-in-mathematics</link>
-      <description>OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/ten-advances-in-mathematics</guid>
     </item>
   </channel>
 </rss>
