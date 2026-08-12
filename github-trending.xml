@@ -5,124 +5,131 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 06:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:47:39 GMT</lastBuildDate>
+    <item>
+      <title>cathrynlavery/diagram-design [HTML] — 1,616 stars today</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <description>29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. (1,616 stars today)</description>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
+    </item>
     <item>
       <title>msitarzewski/agency-agents [Shell] — 958 stars today</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
       <description>[Shell] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (958 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
     </item>
     <item>
       <title>semantica-agi/semantica [Python] — 893 stars today</title>
       <link>https://github.com/semantica-agi/semantica</link>
       <description>[Python] Graph-Native Infrastructure for Context and Accountable AI Systems (893 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/semantica-agi/semantica</guid>
     </item>
     <item>
       <title>nvm-sh/nvm [Shell] — 22 stars today</title>
       <link>https://github.com/nvm-sh/nvm</link>
       <description>[Shell] Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (22 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/nvm-sh/nvm</guid>
     </item>
     <item>
       <title>addyosmani/agent-skills [JavaScript] — 578 stars today</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[JavaScript] Production-grade engineering skills for AI coding agents. (578 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
       <title>ZhuLinsen/daily_stock_analysis [Python] — 243 stars today</title>
       <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
       <description>[Python] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (243 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
     </item>
     <item>
       <title>vitali87/code-graph-rag [Python] — 341 stars today</title>
       <link>https://github.com/vitali87/code-graph-rag</link>
       <description>[Python] The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs (341 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vitali87/code-graph-rag</guid>
     </item>
     <item>
       <title>anthropics/skills [Python] — 485 stars today</title>
       <link>https://github.com/anthropics/skills</link>
       <description>[Python] Public repository for Agent Skills (485 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
     </item>
     <item>
       <title>3b1b/manim [Python] — 197 stars today</title>
       <link>https://github.com/3b1b/manim</link>
       <description>[Python] Animation engine for explanatory math videos (197 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/3b1b/manim</guid>
     </item>
     <item>
       <title>HKUDS/DeepTutor [Python] — 812 stars today</title>
       <link>https://github.com/HKUDS/DeepTutor</link>
       <description>[Python] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. (812 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/HKUDS/DeepTutor</guid>
     </item>
     <item>
       <title>stablyai/orca [TypeScript] — 875 stars today</title>
       <link>https://github.com/stablyai/orca</link>
       <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (875 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
     </item>
     <item>
       <title>paperclipai/paperclip [TypeScript] — 748 stars today</title>
       <link>https://github.com/paperclipai/paperclip</link>
       <description>[TypeScript] The open-source app everyone uses to manage agents at work (748 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
     </item>
     <item>
       <title>huggingface/transformers [Python] — 80 stars today</title>
       <link>https://github.com/huggingface/transformers</link>
       <description>[Python] 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. (80 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
     </item>
     <item>
       <title>harveyai/harvey-labs [Python] — 28 stars today</title>
       <link>https://github.com/harveyai/harvey-labs</link>
       <description>[Python] A benchmark built to evaluate and improve agent capabilities for supporting legal work. (28 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/harveyai/harvey-labs</guid>
     </item>
     <item>
       <title>jaywcjlove/awesome-mac [Swift] — 298 stars today</title>
       <link>https://github.com/jaywcjlove/awesome-mac</link>
       <description>[Swift]  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. (298 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jaywcjlove/awesome-mac</guid>
     </item>
     <item>
       <title>calesthio/OpenMontage [Python] — 458 stars today</title>
       <link>https://github.com/calesthio/OpenMontage</link>
       <description>[Python] World&apos;s first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. (458 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/calesthio/OpenMontage</guid>
     </item>
     <item>
       <title>practical-tutorials/project-based-learning [Python] — 401 stars today</title>
       <link>https://github.com/practical-tutorials/project-based-learning</link>
       <description>[Python] Curated list of project-based tutorials (401 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/practical-tutorials/project-based-learning</guid>
     </item>
     <item>
       <title>PrimeIntellect-ai/prime-agent [TypeScript] — 1,138 stars today</title>
       <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
       <description>[TypeScript] A self-improving RLM agent for coding workflows and long-running autonomous tasks. (1,138 stars today)</description>
-      <pubDate>Wed, 12 Aug 2026 06:03:22 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 07:47:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/PrimeIntellect-ai/prime-agent</guid>
     </item>
   </channel>
