@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 19:53:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:59:17 GMT</lastBuildDate>
     <item>
       <title>From assistance to execution: How enterprises put AI to work</title>
       <link>https://openai.com/index/how-enterprises-put-ai-to-work</link>
@@ -49,6 +49,13 @@
       <guid isPermaLink="true">https://openai.com/index/model-ml</guid>
     </item>
     <item>
+      <title>Putting frontier cyber models in more trusted hands</title>
+      <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
+      <description>Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.</description>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</guid>
+    </item>
+    <item>
       <title>Expanding Daybreak as the Cyber Defense Window Narrows</title>
       <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
       <description>Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.</description>
@@ -56,11 +63,11 @@
       <guid isPermaLink="true">https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
     </item>
     <item>
-      <title>Putting frontier cyber models in more trusted hands</title>
-      <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
-      <description>Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.</description>
-      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</guid>
+      <title>Virgin Atlantic sharpens customer journeys with ChatGPT Work</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <description>Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
     </item>
     <item>
       <title>Premium seats are coming to ChatGPT Business</title>
@@ -75,13 +82,6 @@
       <description>The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/zapier</guid>
-    </item>
-    <item>
-      <title>Virgin Atlantic sharpens customer journeys with ChatGPT Work</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <description>Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
     </item>
     <item>
       <title>Responding to the next frontier of critical cyber capabilities</title>
