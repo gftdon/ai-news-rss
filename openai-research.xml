@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 16:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:24:39 GMT</lastBuildDate>
+    <item>
+      <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
+      <link>https://openai.com/index/previewing-ultrafast</link>
+      <description>Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</description>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/previewing-ultrafast</guid>
+    </item>
     <item>
       <title>OpenAI appoints Dali Rajic as Chief Revenue Officer</title>
       <link>https://openai.com/index/dali-rajic-chief-revenue-officer</link>
@@ -138,13 +145,6 @@
       <description>OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.</description>
       <pubDate>Tue, 04 Aug 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</guid>
-    </item>
-    <item>
-      <title>New ways to learn and teach with ChatGPT Work and Codex</title>
-      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
-      <description>Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
     </item>
   </channel>
 </rss>

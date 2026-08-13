@@ -5,7 +5,14 @@
     <link>https://www.minimax.io/blog</link>
     <description>Latest posts from MiniMax Blog</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 16:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:24:40 GMT</lastBuildDate>
+    <item>
+      <title>MiniMax Music 3.0: Next-Generation Open-Weights, Production-Ready &amp; Versatile Music Model</title>
+      <link>https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model</link>
+      <description>Today, we are introducing MiniMax Music 3.0, our next-generation music generation model. Given a creative concept and optional lyrics, the model composes, arranges, performs, and produces a complete s</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model</guid>
+    </item>
     <item>
       <title>MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities</title>
       <link>https://www.minimax.io/blog/minimax-h3</link>
