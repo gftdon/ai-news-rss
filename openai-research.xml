@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 17:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:33:03 GMT</lastBuildDate>
+    <item>
+      <title>The builder’s guide to GPT‑5.6</title>
+      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
+      <description>Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</description>
+      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
+    </item>
     <item>
       <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
       <link>https://openai.com/index/previewing-ultrafast</link>
@@ -138,13 +145,6 @@
       <description>New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.</description>
       <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</guid>
-    </item>
-    <item>
-      <title>Third-party cyber evaluations involving OpenAI models</title>
-      <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
-      <description>OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.</description>
-      <pubDate>Tue, 04 Aug 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</guid>
     </item>
   </channel>
 </rss>
