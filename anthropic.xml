@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 18:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:34:48 GMT</lastBuildDate>
     <item>
       <title>Introducing Claude Opus 5</title>
       <link>https://www.anthropic.com/news/claude-opus-5</link>
@@ -33,6 +33,13 @@
       <description>[Product] Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
+    </item>
+    <item>
+      <title>How Claude’s text watermark works</title>
+      <link>https://www.anthropic.com/news/claude-text-watermark</link>
+      <description>[Announcements] How Claude’s text watermark works</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
     </item>
     <item>
       <title>Improving Fable 5&apos;s biology safeguards</title>
@@ -89,13 +96,6 @@
       <description>[Announcements] Anthropic is donating another $20 million to Public First Action</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/donation-public-first-action</guid>
-    </item>
-    <item>
-      <title>Apply for Anthropic’s AI for Science rare disease research grants</title>
-      <link>https://www.anthropic.com/news/rare-disease-research-grants</link>
-      <description>[Announcements] Apply for Anthropic’s AI for Science rare disease research grants</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/rare-disease-research-grants</guid>
     </item>
   </channel>
 </rss>
