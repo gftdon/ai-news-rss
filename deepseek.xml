@@ -5,48 +5,69 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 07:47:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 08:53:14 GMT</lastBuildDate>
     <item>
-      <title>DeepGEMM: nv_dev_f8e8fb5</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</link>
-      <description>nv_dev_f8e8fb5</description>
-      <pubDate>Mon, 20 Jul 2026 08:52:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</guid>
+      <title>deepseek-harness</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness</link>
+      <description>DeepSeek Harness: Everything is a Plugin.</description>
+      <pubDate>Thu, 13 Aug 2026 13:00:21 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness</guid>
     </item>
     <item>
-      <title>DeepGEMM: nv_dev_950d31a</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
-      <description>nv_dev_950d31a</description>
-      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
+      <title>DeepEP</title>
+      <link>https://github.com/deepseek-ai/DeepEP</link>
+      <description>DeepEP: an efficient expert-parallel communication library</description>
+      <pubDate>Wed, 05 Aug 2026 06:27:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP</guid>
     </item>
     <item>
-      <title>DeepGEMM: nv_dev_67fc648</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
-      <description>nv_dev_67fc648</description>
-      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
+      <title>TileKernels</title>
+      <link>https://github.com/deepseek-ai/TileKernels</link>
+      <description>A kernel library written in tilelang</description>
+      <pubDate>Thu, 23 Apr 2026 10:19:21 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/TileKernels</guid>
     </item>
     <item>
-      <title>DeepEP: Stable release v1.2.1</title>
-      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
-      <description>Stable release v1.2.1</description>
-      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
+      <title>DeepSeek-OCR-2</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR-2</link>
+      <description>Visual Causal Flow</description>
+      <pubDate>Tue, 03 Feb 2026 00:34:18 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR-2</guid>
     </item>
     <item>
-      <title>DeepSeek-V3: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
+      <title>DeepSeek-OCR</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-OCR</link>
+      <description>Contexts Optical Compression</description>
+      <pubDate>Tue, 27 Jan 2026 03:45:14 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR</guid>
     </item>
     <item>
-      <title>DeepSeek-R1: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
+      <title>Engram</title>
+      <link>https://github.com/deepseek-ai/Engram</link>
+      <description>Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models</description>
+      <pubDate>Wed, 14 Jan 2026 01:13:02 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/Engram</guid>
+    </item>
+    <item>
+      <title>LPLB</title>
+      <link>https://github.com/deepseek-ai/LPLB</link>
+      <description>An early research stage expert-parallel load balancer for MoE models based on linear programming.</description>
+      <pubDate>Wed, 19 Nov 2025 07:20:35 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/LPLB</guid>
+    </item>
+    <item>
+      <title>DeepSeek-Coder</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-Coder</link>
+      <description>DeepSeek Coder: Let the Code Write Itself</description>
+      <pubDate>Tue, 11 Nov 2025 06:44:56 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-Coder</guid>
+    </item>
+    <item>
+      <title>ESFT</title>
+      <link>https://github.com/deepseek-ai/ESFT</link>
+      <description>Expert Specialized Fine-Tuning</description>
+      <pubDate>Thu, 22 May 2025 07:47:15 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/ESFT</guid>
     </item>
   </channel>
 </rss>
