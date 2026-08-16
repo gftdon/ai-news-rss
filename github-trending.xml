@@ -5,97 +5,62 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:31:36 GMT</lastBuildDate>
     <item>
       <title>cordiverse/cordis [TypeScript] — 599 stars today</title>
       <link>https://github.com/cordiverse/cordis</link>
       <description>[TypeScript] Meta-Framework of Spatiotemporal Composability (599 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
+      <pubDate>Sun, 16 Aug 2026 11:31:36 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cordiverse/cordis</guid>
     </item>
     <item>
-      <title>cathrynlavery/diagram-design [HTML] — 1,607 stars today</title>
-      <link>https://github.com/cathrynlavery/diagram-design</link>
-      <description>29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. (1,607 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
-    </item>
-    <item>
-      <title>cursor/plugins [TypeScript] — 149 stars today</title>
-      <link>https://github.com/cursor/plugins</link>
-      <description>[TypeScript] Cursor plugin specification and official plugins (149 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
-    </item>
-    <item>
-      <title>cactus-compute/needle [Python] — 547 stars today</title>
-      <link>https://github.com/cactus-compute/needle</link>
-      <description>[Python] 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. (547 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cactus-compute/needle</guid>
+      <title>basecamp/omarchy [Shell] — 225 stars today</title>
+      <link>https://github.com/basecamp/omarchy</link>
+      <description>[Shell] Beautiful, Modern &amp; Opinionated Linux (225 stars today)</description>
+      <pubDate>Sun, 16 Aug 2026 11:31:36 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/basecamp/omarchy</guid>
     </item>
     <item>
       <title>unslothai/unsloth [Python] — 434 stars today</title>
       <link>https://github.com/unslothai/unsloth</link>
       <description>[Python] Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. (434 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
+      <pubDate>Sun, 16 Aug 2026 11:31:36 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
+    </item>
+    <item>
+      <title>OpenCut-app/OpenCut [TypeScript] — 134 stars today</title>
+      <link>https://github.com/OpenCut-app/OpenCut</link>
+      <description>[TypeScript] The open-source CapCut alternative (134 stars today)</description>
+      <pubDate>Sun, 16 Aug 2026 11:31:36 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/OpenCut-app/OpenCut</guid>
+    </item>
+    <item>
+      <title>akitaonrails/ai-memory [Rust] — 41 stars today</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <description>[Rust] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (41 stars today)</description>
+      <pubDate>Sun, 16 Aug 2026 11:31:36 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
     </item>
     <item>
       <title>public-apis/public-apis [Python] — 2,260 stars today</title>
       <link>https://github.com/public-apis/public-apis</link>
       <description>[Python] A collective list of free APIs (2,260 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
+      <pubDate>Sun, 16 Aug 2026 11:31:36 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/public-apis/public-apis</guid>
-    </item>
-    <item>
-      <title>MakazhanAlpamys/Soup [Python] — 297 stars today</title>
-      <link>https://github.com/MakazhanAlpamys/Soup</link>
-      <description>[Python] Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. (297 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/MakazhanAlpamys/Soup</guid>
-    </item>
-    <item>
-      <title>github/spec-kit [Python] — 892 stars today</title>
-      <link>https://github.com/github/spec-kit</link>
-      <description>[Python] 💫 Toolkit to help you get started with Spec-Driven Development (892 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/github/spec-kit</guid>
-    </item>
-    <item>
-      <title>megadose/holehe [Python] — 382 stars today</title>
-      <link>https://github.com/megadose/holehe</link>
-      <description>[Python] holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. (382 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/megadose/holehe</guid>
-    </item>
-    <item>
-      <title>altic-dev/FluidVoice [Swift] — 104 stars today</title>
-      <link>https://github.com/altic-dev/FluidVoice</link>
-      <description>[Swift] Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp (104 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/altic-dev/FluidVoice</guid>
     </item>
     <item>
       <title>ToolJet/ToolJet [JavaScript] — 544 stars today</title>
       <link>https://github.com/ToolJet/ToolJet</link>
       <description>[JavaScript] ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 (544 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
+      <pubDate>Sun, 16 Aug 2026 11:31:36 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ToolJet/ToolJet</guid>
     </item>
     <item>
-      <title>HKUDS/CLI-Anything [Python] — 118 stars today</title>
-      <link>https://github.com/HKUDS/CLI-Anything</link>
-      <description>[Python] &quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/ (118 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
-    </item>
-    <item>
-      <title>citrolabs/ego-lite [JavaScript] — 545 stars today</title>
-      <link>https://github.com/citrolabs/ego-lite</link>
-      <description>[JavaScript] The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. (545 stars today)</description>
-      <pubDate>Sun, 16 Aug 2026 10:58:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/citrolabs/ego-lite</guid>
+      <title>cactus-compute/needle [Python] — 547 stars today</title>
+      <link>https://github.com/cactus-compute/needle</link>
+      <description>[Python] 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. (547 stars today)</description>
+      <pubDate>Sun, 16 Aug 2026 11:31:36 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cactus-compute/needle</guid>
     </item>
   </channel>
 </rss>
