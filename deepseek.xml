@@ -5,55 +5,6 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 14:40:58 GMT</lastBuildDate>
-    <item>
-      <title>deepseek-harness</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness</link>
-      <description>DeepSeek Harness: Everything is a Plugin.</description>
-      <pubDate>Mon, 17 Aug 2026 12:01:58 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness</guid>
-    </item>
-    <item>
-      <title>DeepEP</title>
-      <link>https://github.com/deepseek-ai/DeepEP</link>
-      <description>DeepEP: an efficient expert-parallel communication library</description>
-      <pubDate>Wed, 05 Aug 2026 06:27:08 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP</guid>
-    </item>
-    <item>
-      <title>FlashMLA</title>
-      <link>https://github.com/deepseek-ai/FlashMLA</link>
-      <description>FlashMLA: Efficient Multi-head Latent Attention Kernels</description>
-      <pubDate>Tue, 28 Jul 2026 06:18:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/FlashMLA</guid>
-    </item>
-    <item>
-      <title>awesome-deepseek-integration</title>
-      <link>https://github.com/deepseek-ai/awesome-deepseek-integration</link>
-      <description>Integrate the DeepSeek API into popular software</description>
-      <pubDate>Mon, 23 Feb 2026 16:27:47 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/awesome-deepseek-integration</guid>
-    </item>
-    <item>
-      <title>DeepSeek-OCR-2</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-OCR-2</link>
-      <description>Visual Causal Flow</description>
-      <pubDate>Tue, 03 Feb 2026 00:34:18 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR-2</guid>
-    </item>
-    <item>
-      <title>DeepSeek-OCR</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-OCR</link>
-      <description>Contexts Optical Compression</description>
-      <pubDate>Tue, 27 Jan 2026 03:45:14 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-OCR</guid>
-    </item>
-    <item>
-      <title>DeepSeek-MoE</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-MoE</link>
-      <description>DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models</description>
-      <pubDate>Tue, 16 Jan 2024 12:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-MoE</guid>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 15:12:58 GMT</lastBuildDate>
   </channel>
 </rss>
