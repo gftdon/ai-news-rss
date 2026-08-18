@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:42:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:12:51 GMT</lastBuildDate>
+    <item>
+      <title>Partnering with CodeAI to prepare the first AI generation</title>
+      <link>https://openai.com/index/partnering-with-codeai</link>
+      <description>OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.</description>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/partnering-with-codeai</guid>
+    </item>
+    <item>
+      <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
+      <link>https://openai.com/index/introducing-chatgpt-for-teens</link>
+      <description>ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.</description>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-for-teens</guid>
+    </item>
     <item>
       <title>The Defender’s Window</title>
       <link>https://openai.com/index/the-defenders-window</link>
@@ -131,20 +145,6 @@
       <description>The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/zapier</guid>
-    </item>
-    <item>
-      <title>Responding to the next frontier of critical cyber capabilities</title>
-      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
-      <description>OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.</description>
-      <pubDate>Fri, 07 Aug 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</guid>
-    </item>
-    <item>
-      <title>How HSP GRUPPE builds AI capabilities for tax advisory</title>
-      <link>https://openai.com/index/hsp-gruppe</link>
-      <description>Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.</description>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/hsp-gruppe</guid>
     </item>
   </channel>
 </rss>
