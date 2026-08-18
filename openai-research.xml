@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:56:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:36:47 GMT</lastBuildDate>
+    <item>
+      <title>Strengthening Democratic Oversight in National Security</title>
+      <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
+      <description>OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.</description>
+      <pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/strengthening-democratic-oversight-in-national-security</guid>
+    </item>
     <item>
       <title>Partnering with CodeAI to prepare the first AI generation</title>
       <link>https://openai.com/index/partnering-with-codeai</link>
@@ -138,13 +145,6 @@
       <description>Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.</description>
       <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
-    </item>
-    <item>
-      <title>Premium seats are coming to ChatGPT Business</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <description>Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team&apos;s most demanding work.</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/premium-seats-chatgpt-business</guid>
     </item>
   </channel>
 </rss>
