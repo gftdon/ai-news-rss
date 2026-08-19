@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:27:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:00:12 GMT</lastBuildDate>
+    <item>
+      <title>Offering Zero Data Retention for frontier models</title>
+      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
+      <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.</description>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/offering-zero-data-retention-for-frontier-models</guid>
+    </item>
     <item>
       <title>Replit expands access to software creation with GPT-5.6 Luna</title>
       <link>https://openai.com/index/replit</link>
@@ -138,13 +145,6 @@
       <description>OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.</description>
       <pubDate>Mon, 10 Aug 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/building-an-ai-native-finance-function</guid>
-    </item>
-    <item>
-      <title>OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas</title>
-      <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
-      <description>OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.</description>
-      <pubDate>Mon, 10 Aug 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/responsible-ai-infrastructure-texas</guid>
     </item>
   </channel>
 </rss>
