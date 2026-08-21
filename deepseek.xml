@@ -5,11 +5,31 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:49:29 GMT</lastBuildDate>
     <item>
       <title>deepseek-harness: v0.1.1-rc.1</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.1</link>
-      <description>v0.1.1-rc.1</description>
+      <description>中文(cn-v0.1.1-rc.1) | English(en-v0.1.1-rc.1)
+
+&lt;h3 id=&quot;cn-v0.1.1-rc.1&quot;&gt;新增功能&lt;/h3&gt;
+
+ DeepSeek 适配器新增多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp
+
+ 问题修复
+
+ 修复在输入框的 @ 引用前增删改文本时，潜在的布局问题
+ 修复 Bubblewrap 沙箱内的受限进程可经 /proc/&lt;pid&gt;/root 绕过限制的问题
+
+ 体验优化
+
+ 优化会话 Markdown 表格自适应表现、缓存命中率在 99.x% 时的精度显示、子代理会话标题切换交互
+ ask_user_question 回答内容支持多行输入、自动换行、Shift+Enter 换行
+
+---
+
+&lt;h3 id=&quot;en-v0.1.1-rc.1&quot;&gt;New Features&lt;/h3&gt;
+
+ The DeepSeek adapter adds the multimodal visual understanding m...</description>
       <pubDate>Fri, 21 Aug 2026 07:12:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.1</guid>
     </item>
@@ -70,27 +90,6 @@
  Enable plugins to register their ...</description>
       <pubDate>Mon, 17 Aug 2026 12:01:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.0-rc.7</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_f8e8fb5</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</link>
-      <description>nv_dev_f8e8fb5</description>
-      <pubDate>Mon, 20 Jul 2026 08:52:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_950d31a</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
-      <description>nv_dev_950d31a</description>
-      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_67fc648</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
-      <description>nv_dev_67fc648</description>
-      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
     </item>
     <item>
       <title>DeepSeek-V3: v1.0.0</title>
