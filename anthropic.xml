@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:02:38 GMT</lastBuildDate>
     <item>
       <title>Introducing Claude Opus 5</title>
       <link>https://www.anthropic.com/news/claude-opus-5</link>
@@ -14,18 +14,18 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
     </item>
     <item>
-      <title>Inviting hard questions</title>
-      <link>https://www.anthropic.com/news/hard-questions</link>
-      <description>[Announcements] We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/hard-questions</guid>
+      <title>How Claude’s text watermark works</title>
+      <link>https://www.anthropic.com/news/claude-text-watermark</link>
+      <description>[Announcements] In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
     </item>
     <item>
-      <title>Redeploying Fable 5</title>
-      <link>https://www.anthropic.com/news/redeploying-fable-5</link>
-      <description>[Announcements] Fable 5 returns globally July 1. We&apos;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/redeploying-fable-5</guid>
+      <title>Improving Fable 5&apos;s biology safeguards</title>
+      <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
+      <description>[Product] We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query.</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
     </item>
     <item>
       <title>Introducing Claude Sonnet 5</title>
@@ -33,20 +33,6 @@
       <description>[Product] Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
-    </item>
-    <item>
-      <title>How Claude’s text watermark works</title>
-      <link>https://www.anthropic.com/news/claude-text-watermark</link>
-      <description>[Announcements] How Claude’s text watermark works</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
-    </item>
-    <item>
-      <title>Improving Fable 5&apos;s biology safeguards</title>
-      <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
-      <description>[Product] Improving Fable 5&apos;s biology safeguards</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
     </item>
     <item>
       <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
