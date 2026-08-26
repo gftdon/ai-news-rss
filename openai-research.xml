@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:57:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:17:23 GMT</lastBuildDate>
+    <item>
+      <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.</description>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+    </item>
+    <item>
+      <title>Learning never stops: How AI makes learning continuous</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/learning-never-stops</guid>
+    </item>
     <item>
       <title>How loveholidays is making everyone a builder with Codex</title>
       <link>https://openai.com/index/loveholidays</link>
@@ -131,20 +145,6 @@
       <description>AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.</description>
       <pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/the-defenders-window</guid>
-    </item>
-    <item>
-      <title>OpenAI joins PORTS-Pike project</title>
-      <link>https://openai.com/index/openai-joins-ports-pike-project</link>
-      <description>OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs</description>
-      <pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-joins-ports-pike-project</guid>
-    </item>
-    <item>
-      <title>New policy ideas for the Intelligence Age</title>
-      <link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
-      <description>OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.</description>
-      <pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/new-policy-ideas-for-the-intelligence-age</guid>
     </item>
   </channel>
 </rss>
