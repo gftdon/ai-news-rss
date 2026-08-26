@@ -5,7 +5,7 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:30:02 GMT</lastBuildDate>
     <item>
       <title>deepseek-harness: v0.1.1-rc.2</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.2</link>
@@ -79,13 +79,6 @@ Full Changelog: https://github.com/...</description>
  优化界面操作，涉及侧...</description>
       <pubDate>Wed, 19 Aug 2026 15:37:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.0-rc.8</guid>
-    </item>
-    <item>
-      <title>DeepSeek-V3: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
     </item>
     <item>
       <title>DeepSeek-R1: v1.0.0</title>
