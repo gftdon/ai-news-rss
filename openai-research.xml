@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:02:11 GMT</lastBuildDate>
+    <item>
+      <title>How loveholidays is making everyone a builder with Codex</title>
+      <link>https://openai.com/index/loveholidays</link>
+      <description>Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/loveholidays</guid>
+    </item>
     <item>
       <title>The full stack behind abundant intelligence</title>
       <link>https://openai.com/index/the-full-stack-behind-abundant-intelligence</link>
@@ -138,13 +145,6 @@
       <description>OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.</description>
       <pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/new-policy-ideas-for-the-intelligence-age</guid>
-    </item>
-    <item>
-      <title>The builder’s guide to GPT‑5.6</title>
-      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
-      <description>Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</description>
-      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
     </item>
   </channel>
 </rss>
