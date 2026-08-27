@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 22:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 03:25:28 GMT</lastBuildDate>
     <item>
       <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
@@ -70,11 +70,18 @@
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6-in-kiro</guid>
     </item>
     <item>
-      <title>Introducing AI Futures</title>
+      <title>Introducing Intelligence Age</title>
       <link>https://openai.com/index/introducing-ai-futures</link>
-      <description>Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.</description>
+      <description>Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.</description>
       <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-ai-futures</guid>
+    </item>
+    <item>
+      <title>Introducing Intelligence Age</title>
+      <link>https://openai.com/index/introducing-intelligence-age</link>
+      <description>Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.</description>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-intelligence-age</guid>
     </item>
     <item>
       <title>Stampli cuts launch hours by 68% using ChatGPT Work</title>
@@ -138,13 +145,6 @@
       <description>Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.</description>
       <pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/asana</guid>
-    </item>
-    <item>
-      <title>How NVIDIA scales expertise with ChatGPT Work</title>
-      <link>https://openai.com/index/nvidia/chatgpt-work</link>
-      <description>NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/nvidia/chatgpt-work</guid>
     </item>
   </channel>
 </rss>
