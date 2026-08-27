@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 03:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:37:35 GMT</lastBuildDate>
+    <item>
+      <title>Expanding OpenAI’s presence in Brazil</title>
+      <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
+      <description>OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.</description>
+      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/expanding-our-presence-in-brazil</guid>
+    </item>
     <item>
       <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
@@ -138,13 +145,6 @@
       <description>ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.</description>
       <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/chatgpt-for-teens</guid>
-    </item>
-    <item>
-      <title>Asana cleared 5 years of engineering work in 2 weeks with Codex</title>
-      <link>https://openai.com/index/asana</link>
-      <description>Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/asana</guid>
     </item>
   </channel>
 </rss>
