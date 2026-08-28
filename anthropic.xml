@@ -5,13 +5,13 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:37:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>Introducing Claude Opus 5</title>
-      <link>https://www.anthropic.com/news/claude-opus-5</link>
-      <description>[Product] Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
+      <title>Previewing the Model Hardware Standard</title>
+      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+      <description>[Announcements] We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
     </item>
     <item>
       <title>How Claude’s text watermark works</title>
@@ -21,11 +21,11 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
     </item>
     <item>
-      <title>Improving Fable 5&apos;s biology safeguards</title>
-      <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
-      <description>[Product] We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query.</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
+      <title>Introducing Claude Opus 5</title>
+      <link>https://www.anthropic.com/news/claude-opus-5</link>
+      <description>[Product] Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
     </item>
     <item>
       <title>Introducing Claude Sonnet 5</title>
@@ -35,11 +35,25 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
     </item>
     <item>
+      <title>Expanding our support for scientists</title>
+      <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+      <description>[Announcements] Expanding our support for scientists</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
+    </item>
+    <item>
       <title>Funding better evaluations of AI’s impact on wellbeing</title>
       <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
       <description>[Announcements] Funding better evaluations of AI’s impact on wellbeing</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
+    </item>
+    <item>
+      <title>Improving Fable 5&apos;s biology safeguards</title>
+      <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
+      <description>[Product] Improving Fable 5&apos;s biology safeguards</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
     </item>
     <item>
       <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
@@ -68,20 +82,6 @@
       <description>[Announcements] Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</description>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
-    </item>
-    <item>
-      <title>A research agenda for the Economic Futures Research Fund</title>
-      <link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
-      <description>[Economics] A research agenda for the Economic Futures Research Fund</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/economic-futures-research-fund-agenda</guid>
-    </item>
-    <item>
-      <title>Ask Claude about the Anthropic Economic Index</title>
-      <link>https://www.anthropic.com/news/anthropic-economic-index-connector</link>
-      <description>[Product] Ask Claude about the Anthropic Economic Index</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-economic-index-connector</guid>
     </item>
   </channel>
 </rss>
