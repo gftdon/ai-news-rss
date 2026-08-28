@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:17:33 GMT</lastBuildDate>
+    <item>
+      <title>Supporting Thailand’s next generation of AI startups</title>
+      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
+      <description>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</description>
+      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/supporting-next-generation-ai-startups-thailand</guid>
+    </item>
     <item>
       <title>Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</title>
       <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
@@ -138,13 +145,6 @@
       <description>OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.</description>
       <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/partnering-with-codeai</guid>
-    </item>
-    <item>
-      <title>Pacing model development in an era of cyber-critical capabilities</title>
-      <link>https://openai.com/index/pacing-model-development-cyber-capabilities</link>
-      <description>OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.</description>
-      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/pacing-model-development-cyber-capabilities</guid>
     </item>
   </channel>
 </rss>

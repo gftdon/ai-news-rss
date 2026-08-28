@@ -5,24 +5,23 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:17:35 GMT</lastBuildDate>
     <item>
       <title>deepseek-harness: v0.1.2-alpha.1</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.1</link>
       <description>中文(cn-v0.1.2-alpha.1) | English(en-v0.1.2-alpha.1)
 
-&lt;h3 id=&quot;cn-v0.1.2-alpha.1&quot;&gt;体验优化&lt;/h3&gt;
+&lt;h3 id=&quot;cn-v0.1.2-alpha.1&quot;&gt;新增功能&lt;/h3&gt;
 
- 改善页面初始化加载性能、会话加载传输数据量、优化持久化存储体积
- 优化输入交互：优化 / 与 @ 菜单与标签呈现、切换会话保留问答卡片草稿
- 优化会话交互：支持自动折叠会话过程、支持宽度调节、展示每轮精细用量、新增轮次导航、流式输出时保持代码高亮、优化中英文间距、优化问答卡片呈现
- 优化多模态：图像发送立即回显、上下文压缩计入图像 Token、轨迹视图支持展示图片附件、模型可直接定位已上传图片、压缩耗时过长问题
- 设置支持字号调节、增补插件配置扩展位、补全本地化文本、支持第三方多语言注册
- 子代理支持配置模型，任务可按此指定提供方、模型、推理力度等配置，Claude Code 与 Codex 提供方支持配置模型
-
-&lt;h3&gt;问题修复&lt;/h3&gt;
-
- 修复持久终端系列问题：macOS/Linux 持久 PowerShell 启动误判与输出异常、Linux ...</description>
+ 会话流默认在每个已完成回答前折叠过程内容，并默认折叠的「System prompt」 @07akioni, @lsdsjy
+ 会话流正文宽度可自适应或拖拽调整 @yixiangihsiang
+ 会话流每个已完成回答后可展开查看精确 token 用量 @hypatiamay, @ZiyaZhang
+ 会话视图提供紧凑的回合导航 @LegGasai
+ 统一界面次级文字层级，会话流支持字号调节，Markdown 表格随正文字号缩放 @yixiangihsiang
+ 插件支持在模型设置页添加提供方登录配置 @LegGasai
+ 支持注册第三方语言，并补全多语言文本 @tianyicui, @LegGasai, @imccyu
+ 开启子代理模型选择后，Agent 可在授权范围内选择提供方、模型和推理力度 @Dudu-0223
+ 启动子代理时可指定提供方、模型...</description>
       <pubDate>Thu, 27 Aug 2026 17:06:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.1</guid>
     </item>
@@ -77,32 +76,11 @@ Full Changelog: https://github.com/...</description>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.1</guid>
     </item>
     <item>
-      <title>DeepGEMM: nv_dev_f8e8fb5</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</link>
-      <description>nv_dev_f8e8fb5</description>
-      <pubDate>Mon, 20 Jul 2026 08:52:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_950d31a</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
-      <description>nv_dev_950d31a</description>
-      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_67fc648</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
-      <description>nv_dev_67fc648</description>
-      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
-    </item>
-    <item>
-      <title>DeepEP: Stable release v1.2.1</title>
-      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
-      <description>Stable release v1.2.1</description>
-      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
+      <title>DeepSeek-V3: v1.0.0</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
+      <description>This release is created for archival purposes and DOI generation.</description>
+      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
     </item>
     <item>
       <title>DeepSeek-R1: v1.0.0</title>
