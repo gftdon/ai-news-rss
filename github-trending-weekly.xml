@@ -5,138 +5,138 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:27:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:22:26 GMT</lastBuildDate>
     <item>
-      <title>anthropics/claude-plugins-community [Python] — 2,069 stars this week</title>
+      <title>anthropics/claude-plugins-community [Python] — 2,207 stars this week</title>
       <link>https://github.com/anthropics/claude-plugins-community</link>
-      <description>[Python] Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. (2,069 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Python] Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. (2,207 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-community</guid>
     </item>
     <item>
-      <title>freestylefly/awesome-gpt-image-2 [JavaScript] — 11,300 stars this week</title>
+      <title>freestylefly/awesome-gpt-image-2 [JavaScript] — 12,877 stars this week</title>
       <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
-      <description>[JavaScript] Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 (11,300 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[JavaScript] Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 (12,877 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/freestylefly/awesome-gpt-image-2</guid>
     </item>
     <item>
-      <title>basecamp/omarchy [Shell] — 5,593 stars this week</title>
+      <title>basecamp/omarchy [Shell] — 5,942 stars this week</title>
       <link>https://github.com/basecamp/omarchy</link>
-      <description>[Shell] Beautiful, Modern &amp; Opinionated Linux (5,593 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Shell] Beautiful, Modern &amp; Opinionated Linux (5,942 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/basecamp/omarchy</guid>
     </item>
     <item>
-      <title>openai/codex [Rust] — 12,358 stars this week</title>
+      <title>openai/codex [Rust] — 9,109 stars this week</title>
       <link>https://github.com/openai/codex</link>
-      <description>[Rust] Lightweight coding agent that runs in your terminal (12,358 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Rust] Lightweight coding agent that runs in your terminal (9,109 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/openai/codex</guid>
     </item>
     <item>
-      <title>tt-a1i/archify [JavaScript] — 8,530 stars this week</title>
+      <title>tt-a1i/archify [JavaScript] — 11,099 stars this week</title>
       <link>https://github.com/tt-a1i/archify</link>
-      <description>[JavaScript] Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (8,530 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[JavaScript] Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (11,099 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tt-a1i/archify</guid>
     </item>
     <item>
-      <title>AprilNEA/OpenLogi [Rust] — 5,946 stars this week</title>
+      <title>AprilNEA/OpenLogi [Rust] — 4,825 stars this week</title>
       <link>https://github.com/AprilNEA/OpenLogi</link>
-      <description>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. (5,946 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. (4,825 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/AprilNEA/OpenLogi</guid>
     </item>
     <item>
-      <title>apache/maka [TypeScript] — 1,978 stars this week</title>
+      <title>apache/maka [TypeScript] — 1,918 stars this week</title>
       <link>https://github.com/apache/maka</link>
-      <description>[TypeScript] Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. (1,978 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[TypeScript] Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. (1,918 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/apache/maka</guid>
     </item>
     <item>
-      <title>tashfeenahmed/freellmapi [TypeScript] — 2,014 stars this week</title>
+      <title>tashfeenahmed/freellmapi [TypeScript] — 2,162 stars this week</title>
       <link>https://github.com/tashfeenahmed/freellmapi</link>
-      <description>[TypeScript] 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (2,014 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[TypeScript] 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. (2,162 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tashfeenahmed/freellmapi</guid>
     </item>
     <item>
-      <title>modular/modular [Mojo] — 1,770 stars this week</title>
+      <title>modular/modular [Mojo] — 875 stars this week</title>
       <link>https://github.com/modular/modular</link>
-      <description>The Modular Platform (includes MAX &amp; Mojo) (1,770 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>The Modular Platform (includes MAX &amp; Mojo) (875 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/modular/modular</guid>
     </item>
     <item>
-      <title>cursor/plugins [TypeScript] — 1,732 stars this week</title>
+      <title>cursor/plugins [TypeScript] — 1,594 stars this week</title>
       <link>https://github.com/cursor/plugins</link>
-      <description>[TypeScript] Cursor plugin specification and official plugins (1,732 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[TypeScript] Cursor plugin specification and official plugins (1,594 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
     </item>
     <item>
-      <title>MadsLorentzen/ai-job-search [Python] — 4,706 stars this week</title>
+      <title>MadsLorentzen/ai-job-search [Python] — 4,828 stars this week</title>
       <link>https://github.com/MadsLorentzen/ai-job-search</link>
-      <description>[Python] The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (4,706 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Python] The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (4,828 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/MadsLorentzen/ai-job-search</guid>
     </item>
     <item>
-      <title>tinyhumansai/openhuman [Rust] — 2,178 stars this week</title>
+      <title>tinyhumansai/openhuman [Rust] — 2,353 stars this week</title>
       <link>https://github.com/tinyhumansai/openhuman</link>
-      <description>[Rust] Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. (2,178 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Rust] Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. (2,353 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tinyhumansai/openhuman</guid>
     </item>
     <item>
-      <title>anthropics/claude-plugins-official [Python] — 928 stars this week</title>
+      <title>anthropics/claude-plugins-official [Python] — 1,281 stars this week</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>[Python] Official, Anthropic-managed directory of high quality Claude Code Plugins. (928 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Python] Official, Anthropic-managed directory of high quality Claude Code Plugins. (1,281 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
     </item>
     <item>
-      <title>VoltAgent/awesome-agent-skills — 2,324 stars this week</title>
+      <title>VoltAgent/awesome-agent-skills — 2,372 stars this week</title>
       <link>https://github.com/VoltAgent/awesome-agent-skills</link>
-      <description>A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. (2,324 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. (2,372 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/VoltAgent/awesome-agent-skills</guid>
     </item>
     <item>
-      <title>PostHog/posthog [Python] — 1,511 stars this week</title>
+      <title>PostHog/posthog [Python] — 1,270 stars this week</title>
       <link>https://github.com/PostHog/posthog</link>
-      <description>[Python] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. (1,511 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Python] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. (1,270 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/PostHog/posthog</guid>
     </item>
     <item>
-      <title>rohitg00/ai-engineering-from-scratch [Python] — 2,853 stars this week</title>
+      <title>rohitg00/ai-engineering-from-scratch [Python] — 3,263 stars this week</title>
       <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-      <description>[Python] Learn it. Build it. Ship it for others. (2,853 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Python] Learn it. Build it. Ship it for others. (3,263 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
     </item>
     <item>
-      <title>Alishahryar1/free-claude-code [Python] — 4,657 stars this week</title>
+      <title>Alishahryar1/free-claude-code [Python] — 4,769 stars this week</title>
       <link>https://github.com/Alishahryar1/free-claude-code</link>
-      <description>[Python] Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) (4,657 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[Python] Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) (4,769 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Alishahryar1/free-claude-code</guid>
     </item>
     <item>
-      <title>chaitanyagiri/munder-difflin [JavaScript] — 2,017 stars this week</title>
+      <title>chaitanyagiri/munder-difflin [JavaScript] — 1,853 stars this week</title>
       <link>https://github.com/chaitanyagiri/munder-difflin</link>
-      <description>[JavaScript] local multi-agent harness (2,017 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[JavaScript] local multi-agent harness (1,853 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/chaitanyagiri/munder-difflin</guid>
     </item>
     <item>
-      <title>bookorbit/bookorbit [TypeScript] — 803 stars this week</title>
+      <title>bookorbit/bookorbit [TypeScript] — 806 stars this week</title>
       <link>https://github.com/bookorbit/bookorbit</link>
-      <description>[TypeScript] BookOrbit: Your Reading Space (803 stars this week)</description>
-      <pubDate>Fri, 28 Aug 2026 21:27:45 GMT</pubDate>
+      <description>[TypeScript] BookOrbit: Your Reading Space (806 stars this week)</description>
+      <pubDate>Sat, 29 Aug 2026 03:22:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bookorbit/bookorbit</guid>
     </item>
   </channel>
