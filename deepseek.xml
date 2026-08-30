@@ -5,7 +5,30 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:38:05 GMT</lastBuildDate>
+    <item>
+      <title>deepseek-harness: v0.1.2-alpha.2</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.2</link>
+      <description>中文(cn-v0.1.2-alpha.2) | English(en-v0.1.2-alpha.2)
+
+&lt;h3 id=&quot;cn-v0.1.2-alpha.2&quot;&gt;新增功能&lt;/h3&gt;
+
+ 界面新增显示连接异常状态，支持自动重试和立即重连 @imccyu
+ 会话标题区域支持查看活动的定时计划 @pku-xht
+
+&lt;h3&gt;体验优化&lt;/h3&gt;
+
+ 插件列表按会话插件和全局插件分组，可切换 Agent Preset 查看组合、搜索其他预设 @LegGasai
+ 改善会话与输入界面的菜单显示、滚动条、工具文件链接与 diff 统计 @Yifffan
+ 减少 macOS 和 Linux 加载会话时不必要的文件系统检查 @LegGasai
+ 提升长会话历史和密集实时消息的处理效率 @Dudu-0223
+ 回答末尾显示 token 用量和耗时，点击可查看详细统计 @Yifffan
+ web_search 失败时报告实际端点和错误明细 @CreatixChu
+ 权限分类使用本地化内容显示 @imccyu
+ 调整首页标志的动画效果 @Yi...</description>
+      <pubDate>Sun, 30 Aug 2026 13:52:14 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.2</guid>
+    </item>
     <item>
       <title>deepseek-harness: v0.1.2-alpha.1</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.1</link>
@@ -47,40 +70,6 @@
 Full Changelog: https://github.com/...</description>
       <pubDate>Fri, 21 Aug 2026 12:35:08 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.2</guid>
-    </item>
-    <item>
-      <title>deepseek-harness: v0.1.1-rc.1</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.1</link>
-      <description>中文(cn-v0.1.1-rc.1) | English(en-v0.1.1-rc.1)
-
-&lt;h3 id=&quot;cn-v0.1.1-rc.1&quot;&gt;新增功能&lt;/h3&gt;
-
- DeepSeek 适配器新增多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp
-
- 问题修复
-
- 修复在输入框的 @ 引用前增删改文本时，潜在的布局问题
- 修复 Bubblewrap 沙箱内的受限进程可经 /proc/&lt;pid&gt;/root 绕过限制的问题
-
- 体验优化
-
- 优化会话 Markdown 表格自适应表现、缓存命中率在 99.x% 时的精度显示、子代理会话标题切换交互
- ask_user_question 回答内容支持多行输入、自动换行、Shift+Enter 换行
-
----
-
-&lt;h3 id=&quot;en-v0.1.1-rc.1&quot;&gt;New Features&lt;/h3&gt;
-
- The DeepSeek adapter adds the multimodal visual understanding m...</description>
-      <pubDate>Fri, 21 Aug 2026 07:12:39 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.1</guid>
-    </item>
-    <item>
-      <title>DeepEP: Stable release v1.2.1</title>
-      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
-      <description>Stable release v1.2.1</description>
-      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
     </item>
     <item>
       <title>DeepSeek-V3: v1.0.0</title>
