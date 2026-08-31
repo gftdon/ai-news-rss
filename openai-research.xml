@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 06:59:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:02:40 GMT</lastBuildDate>
+    <item>
+      <title>A milestone in expanding access to AI</title>
+      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+      <description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</description>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+    </item>
     <item>
       <title>Our decision on Cursor following its acquisition by SpaceX</title>
       <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
@@ -138,13 +145,6 @@
       <description>ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.</description>
       <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-across-europe</guid>
-    </item>
-    <item>
-      <title>Strengthening democratic oversight in national security</title>
-      <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
-      <description>OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.</description>
-      <pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/strengthening-democratic-oversight-in-national-security</guid>
     </item>
   </channel>
 </rss>
