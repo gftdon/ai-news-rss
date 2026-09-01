@@ -5,7 +5,30 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:25:51 GMT</lastBuildDate>
+    <item>
+      <title>deepseek-harness: v0.1.2-alpha.4</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.4</link>
+      <description>中文(cn-v0.1.2-alpha.4) | English(en-v0.1.2-alpha.4)
+
+&lt;h3 id=&quot;cn-v0.1.2-alpha.4&quot;&gt;新增功能&lt;/h3&gt;
+
+ 父 Agent 与可持续子 Agent 可通过 send_message 双向传递后续消息，取代单向 report 工具 @Dudu-0223
+
+&lt;h3&gt;体验优化&lt;/h3&gt;
+
+ 自定义模型发现复用 Profile 请求头；模型目录支持搜索和筛选 @LegGasai
+ 界面优化圆角、描边、轮次导航、投影效果 @yixiangihsiang, @LegGasai
+ 改善超长会话在流式回复、界面布局、导航预览场景的渲染开销 @imccyu
+
+&lt;h3&gt;其他变更&lt;/h3&gt;
+
+ Python SDK、Headless、ACP 与自定义 Profile 默认提供 web_fetch @koalazf99
+ Web PTC Mode 默认不再向模型提供通用 workflow 工具 @koalazf99
+ Session.events 被按需...</description>
+      <pubDate>Tue, 01 Sep 2026 15:45:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.4</guid>
+    </item>
     <item>
       <title>deepseek-harness: v0.1.2-alpha.3</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.3</link>
@@ -53,25 +76,6 @@
  调整首页标志的动画效果 @Yi...</description>
       <pubDate>Sun, 30 Aug 2026 13:52:14 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.2</guid>
-    </item>
-    <item>
-      <title>deepseek-harness: v0.1.2-alpha.1</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.1</link>
-      <description>中文(cn-v0.1.2-alpha.1) | English(en-v0.1.2-alpha.1)
-
-&lt;h3 id=&quot;cn-v0.1.2-alpha.1&quot;&gt;新增功能&lt;/h3&gt;
-
- 会话流默认在每个已完成回答前折叠过程内容，并默认折叠的「System prompt」 @07akioni, @lsdsjy
- 会话流正文宽度可自适应或拖拽调整 @yixiangihsiang
- 会话流每个已完成回答后可展开查看精确 token 用量 @hypatiamay, @ZiyaZhang
- 会话视图提供紧凑的回合导航 @LegGasai
- 统一界面次级文字层级，会话流支持字号调节，Markdown 表格随正文字号缩放 @yixiangihsiang
- 插件支持在模型设置页添加提供方登录配置 @LegGasai
- 支持注册第三方语言，并补全多语言文本 @tianyicui, @LegGasai, @imccyu
- 开启子代理模型选择后，Agent 可在授权范围内选择提供方、模型和推理力度 @Dudu-0223
- 启动子代理时可指定提供方、模型...</description>
-      <pubDate>Thu, 27 Aug 2026 17:06:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.1</guid>
     </item>
     <item>
       <title>DeepSeek-V3: v1.0.0</title>

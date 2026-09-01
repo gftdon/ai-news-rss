@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:25:50 GMT</lastBuildDate>
+    <item>
+      <title>How AI-native companies turn workflows into operating capability</title>
+      <link>https://openai.com/index/ai-native-company-workflows</link>
+      <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
+    </item>
+    <item>
+      <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+      <description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.</description>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
+    </item>
     <item>
       <title>OpenAI supports California’s bill to advance youth AI safety</title>
       <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
@@ -131,20 +145,6 @@
       <description>With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/stampli</guid>
-    </item>
-    <item>
-      <title>Offering Zero Data Retention for frontier models</title>
-      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
-      <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.</description>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/offering-zero-data-retention-for-frontier-models</guid>
-    </item>
-    <item>
-      <title>Replit expands access to software creation with GPT-5.6 Luna</title>
-      <link>https://openai.com/index/replit</link>
-      <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/replit</guid>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:25:50 GMT</lastBuildDate>
     <item>
       <title>Previewing the Model Hardware Standard</title>
       <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
@@ -28,11 +28,11 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
     </item>
     <item>
-      <title>Introducing Claude Sonnet 5</title>
-      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
-      <description>[Product] Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
+      <title>Developing Enterprise Frontier Safeguards with our customers</title>
+      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+      <description>[Announcements] Developing Enterprise Frontier Safeguards with our customers</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
     </item>
     <item>
       <title>Improving our alignment and security efforts</title>
@@ -82,13 +82,6 @@
       <description>[Announcements] Our position on open-weights models</description>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/position-open-weights-models</guid>
-    </item>
-    <item>
-      <title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
-      <link>https://www.anthropic.com/news/cognizant-anthropic</link>
-      <description>[Announcements] Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
     </item>
   </channel>
 </rss>
