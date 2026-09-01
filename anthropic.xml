@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:08:58 GMT</lastBuildDate>
     <item>
       <title>Previewing the Model Hardware Standard</title>
       <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
@@ -33,6 +33,13 @@
       <description>[Product] Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
+    </item>
+    <item>
+      <title>Improving our alignment and security efforts</title>
+      <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+      <description>Improving our alignment and security efforts</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
     </item>
     <item>
       <title>Expanding our support for scientists</title>
