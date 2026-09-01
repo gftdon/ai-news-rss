@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 18:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:18:26 GMT</lastBuildDate>
     <item>
       <title>How AI-native companies turn workflows into operating capability</title>
       <link>https://openai.com/index/ai-native-company-workflows</link>
       <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
       <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
+    </item>
+    <item>
+      <title>Path to Astra: critical capabilities and frontier safeguards</title>
+      <link>https://openai.com/index/path-to-astra</link>
+      <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.</description>
+      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
     </item>
     <item>
       <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
@@ -138,13 +145,6 @@
       <description>Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.</description>
       <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-intelligence-age</guid>
-    </item>
-    <item>
-      <title>Stampli cuts launch hours by 68% using ChatGPT Work</title>
-      <link>https://openai.com/index/stampli</link>
-      <description>With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/stampli</guid>
     </item>
   </channel>
 </rss>
