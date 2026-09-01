@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 00:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:21:37 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI supports California’s bill to advance youth AI safety</title>
+      <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
+      <description>OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.</description>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
+    </item>
     <item>
       <title>Polimill builds Japan&apos;s next-generation public AI infrastructure</title>
       <link>https://openai.com/index/polimill</link>
@@ -49,18 +56,18 @@
       <guid isPermaLink="true">https://openai.com/index/expanding-our-presence-in-brazil</guid>
     </item>
     <item>
-      <title>Learning never stops: How AI makes learning continuous</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/learning-never-stops</guid>
-    </item>
-    <item>
       <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.</description>
       <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+    </item>
+    <item>
+      <title>Learning never stops: How AI makes learning continuous</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/learning-never-stops</guid>
     </item>
     <item>
       <title>The Hugging Face incident and the road ahead</title>
@@ -138,13 +145,6 @@
       <description>Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.</description>
       <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/replit</guid>
-    </item>
-    <item>
-      <title>ChatGPT Ads expands across Europe</title>
-      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
-      <description>ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.</description>
-      <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-across-europe</guid>
     </item>
   </channel>
 </rss>
