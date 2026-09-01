@@ -5,118 +5,111 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:18:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:51 GMT</lastBuildDate>
     <item>
-      <title>THU-MAIC/OpenMAIC [TypeScript] — 2,824 stars today</title>
+      <title>Gitlawb/openclaude [TypeScript] — 37 stars today</title>
+      <link>https://github.com/Gitlawb/openclaude</link>
+      <description>[TypeScript] runs anywhere. uses anything (37 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Gitlawb/openclaude</guid>
+    </item>
+    <item>
+      <title>Imbad0202/academic-research-skills [Python] — 161 stars today</title>
+      <link>https://github.com/Imbad0202/academic-research-skills</link>
+      <description>[Python] Academic Research Skills for Claude Code: research → write → review → revise → finalize (161 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Imbad0202/academic-research-skills</guid>
+    </item>
+    <item>
+      <title>THU-MAIC/OpenMAIC [TypeScript] — 3,122 stars today</title>
       <link>https://github.com/THU-MAIC/OpenMAIC</link>
-      <description>[TypeScript] Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (2,824 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
+      <description>[TypeScript] Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (3,122 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/THU-MAIC/OpenMAIC</guid>
     </item>
     <item>
-      <title>tt-a1i/archify [JavaScript] — 3,991 stars today</title>
-      <link>https://github.com/tt-a1i/archify</link>
-      <description>[JavaScript] Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (3,991 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/tt-a1i/archify</guid>
+      <title>iv-org/invidious [Crystal] — 583 stars today</title>
+      <link>https://github.com/iv-org/invidious</link>
+      <description>[Crystal] Invidious is an alternative front-end to YouTube (583 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/iv-org/invidious</guid>
     </item>
     <item>
-      <title>K-Dense-AI/scientific-agent-skills [Python] — 1,980 stars today</title>
-      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-      <description>[Python] Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. (1,980 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/K-Dense-AI/scientific-agent-skills</guid>
-    </item>
-    <item>
-      <title>k1tbyte/Wand-Enhancer [C#] — 582 stars today</title>
-      <link>https://github.com/k1tbyte/Wand-Enhancer</link>
-      <description>[C#] Advanced UX and interoperability extension for Wand (WeMod) app (582 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/k1tbyte/Wand-Enhancer</guid>
-    </item>
-    <item>
-      <title>majd/ipatool [Go] — 373 stars today</title>
-      <link>https://github.com/majd/ipatool</link>
-      <description>[Go] Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. (373 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/majd/ipatool</guid>
-    </item>
-    <item>
-      <title>jingyaogong/minimind [Python] — 495 stars today</title>
+      <title>jingyaogong/minimind [Python] — 1,005 stars today</title>
       <link>https://github.com/jingyaogong/minimind</link>
-      <description>[Python] 🧠 Train a 64M-parameter LLM from scratch in just 2h! (495 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
+      <description>[Python] 🧠 Train a 64M-parameter LLM from scratch in just 2h! (1,005 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jingyaogong/minimind</guid>
     </item>
     <item>
-      <title>Osmantic/ODS [Python] — 77 stars today</title>
-      <link>https://github.com/Osmantic/ODS</link>
-      <description>[Python] Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. (77 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Osmantic/ODS</guid>
+      <title>debpalash/VoiceStudio [Python] — 745 stars today</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (745 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
     </item>
     <item>
-      <title>checkstyle/checkstyle [Java] — 198 stars today</title>
-      <link>https://github.com/checkstyle/checkstyle</link>
-      <description>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. (198 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/checkstyle/checkstyle</guid>
+      <title>3b1b/manim [Python] — 74 stars today</title>
+      <link>https://github.com/3b1b/manim</link>
+      <description>[Python] Animation engine for explanatory math videos (74 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/3b1b/manim</guid>
     </item>
     <item>
-      <title>zhaoxuya520/reverse-skill [PowerShell] — 1,401 stars today</title>
-      <link>https://github.com/zhaoxuya520/reverse-skill</link>
-      <description>[PowerShell] Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 (1,401 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/zhaoxuya520/reverse-skill</guid>
-    </item>
-    <item>
-      <title>affaan-m/ECC [JavaScript] — 512 stars today</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (512 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-    </item>
-    <item>
-      <title>kaifcodec/user-scanner [Python] — 93 stars today</title>
-      <link>https://github.com/kaifcodec/user-scanner</link>
-      <description>[Python] 🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting. (93 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/kaifcodec/user-scanner</guid>
-    </item>
-    <item>
-      <title>every-app/open-seo [TypeScript] — 610 stars today</title>
-      <link>https://github.com/every-app/open-seo</link>
-      <description>[TypeScript] Open source alternative to Semrush and Ahrefs (610 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/every-app/open-seo</guid>
-    </item>
-    <item>
-      <title>p-e-w/heretic [Python] — 537 stars today</title>
-      <link>https://github.com/p-e-w/heretic</link>
-      <description>[Python] Fully automatic censorship removal for language models (537 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
-    </item>
-    <item>
-      <title>handsomestWei/patent-disclosure-skill [Python] — 571 stars today</title>
-      <link>https://github.com/handsomestWei/patent-disclosure-skill</link>
-      <description>[Python] 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 (571 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/handsomestWei/patent-disclosure-skill</guid>
-    </item>
-    <item>
-      <title>firecrawl/pdf-inspector [Rust] — 228 stars today</title>
+      <title>firecrawl/pdf-inspector [Rust] — 545 stars today</title>
       <link>https://github.com/firecrawl/pdf-inspector</link>
-      <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. (228 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
+      <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. (545 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/firecrawl/pdf-inspector</guid>
     </item>
     <item>
-      <title>pollen-robotics/microduck_rl [Python] — 385 stars today</title>
-      <link>https://github.com/pollen-robotics/microduck_rl</link>
-      <description>[Python] RL training environments for Microduck (mjlab) (385 stars today)</description>
-      <pubDate>Tue, 01 Sep 2026 10:18:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck_rl</guid>
+      <title>browser-use/video-use [Python] — 509 stars today</title>
+      <link>https://github.com/browser-use/video-use</link>
+      <description>[Python] Edit videos with coding agents (509 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/browser-use/video-use</guid>
+    </item>
+    <item>
+      <title>K-Dense-AI/scientific-agent-skills [Python] — 914 stars today</title>
+      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
+      <description>[Python] Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. (914 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/K-Dense-AI/scientific-agent-skills</guid>
+    </item>
+    <item>
+      <title>handsomestWei/patent-disclosure-skill [Python] — 502 stars today</title>
+      <link>https://github.com/handsomestWei/patent-disclosure-skill</link>
+      <description>[Python] 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 (502 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/handsomestWei/patent-disclosure-skill</guid>
+    </item>
+    <item>
+      <title>VoltAgent/awesome-design-md — 487 stars today</title>
+      <link>https://github.com/VoltAgent/awesome-design-md</link>
+      <description>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (487 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/VoltAgent/awesome-design-md</guid>
+    </item>
+    <item>
+      <title>averygan/reclip [HTML] — 21 stars today</title>
+      <link>https://github.com/averygan/reclip</link>
+      <description>[HTML] Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. (21 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/averygan/reclip</guid>
+    </item>
+    <item>
+      <title>affaan-m/ECC [JavaScript] — 621 stars today</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (621 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+    </item>
+    <item>
+      <title>unclecode/crawl4ai [Python] — 179 stars today</title>
+      <link>https://github.com/unclecode/crawl4ai</link>
+      <description>[Python] 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&apos;t be shy, join here: https://discord.gg/jP8KfhDhyN (179 stars today)</description>
+      <pubDate>Tue, 01 Sep 2026 15:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/unclecode/crawl4ai</guid>
     </item>
   </channel>
 </rss>
