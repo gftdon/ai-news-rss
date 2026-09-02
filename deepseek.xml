@@ -5,7 +5,28 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 06:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:29:50 GMT</lastBuildDate>
+    <item>
+      <title>deepseek-harness: v0.1.2-alpha.5</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.5</link>
+      <description>中文(cn-v0.1.2-alpha.5) | English(en-v0.1.2-alpha.5)
+
+&lt;h3 id=&quot;cn-v0.1.2-alpha.5&quot;&gt;问题修复&lt;/h3&gt;
+
+ 修复从 0.1.1-rc.2 或 0.1.2-alpha.3 升级时，应用可能启动失败或者会话列表标题丢失的问题 @imccyu
+
+---
+
+&lt;h3 id=&quot;en-v0.1.2-alpha.5&quot;&gt;Bug Fixes&lt;/h3&gt;
+
+ Fix an issue where upgrading from 0.1.1-rc.2 or 0.1.2-alpha.3 could prevent the app from starting or make session titles disappear from the list by @imccyu
+
+---
+
+Full Changelog: https://github.com/deepseek-ai/deepseek-harness/compare/dsh-v0.1.2-alpha.4...dsh-v0...</description>
+      <pubDate>Wed, 02 Sep 2026 10:02:56 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.5</guid>
+    </item>
     <item>
       <title>deepseek-harness: v0.1.2-alpha.4</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.4</link>
@@ -55,34 +76,11 @@
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.3</guid>
     </item>
     <item>
-      <title>deepseek-harness: v0.1.2-alpha.2</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.2</link>
-      <description>中文(cn-v0.1.2-alpha.2) | English(en-v0.1.2-alpha.2)
-
-&lt;h3 id=&quot;cn-v0.1.2-alpha.2&quot;&gt;新增功能&lt;/h3&gt;
-
- 界面新增显示连接异常状态，支持自动重试和立即重连 @imccyu
- 会话标题区域支持查看活动的定时计划 @pku-xht
-
-&lt;h3&gt;体验优化&lt;/h3&gt;
-
- 插件列表按会话插件和全局插件分组，可切换 Agent Preset 查看组合、搜索其他预设 @LegGasai
- 改善会话与输入界面的菜单显示、滚动条、工具文件链接与 diff 统计 @Yifffan
- 减少 macOS 和 Linux 加载会话时不必要的文件系统检查 @LegGasai
- 提升长会话历史和密集实时消息的处理效率 @Dudu-0223
- 回答末尾显示 token 用量和耗时，点击可查看详细统计 @Yifffan
- web_search 失败时报告实际端点和错误明细 @CreatixChu
- 权限分类使用本地化内容显示 @imccyu
- 调整首页标志的动画效果 @Yi...</description>
-      <pubDate>Sun, 30 Aug 2026 13:52:14 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.2</guid>
-    </item>
-    <item>
-      <title>DeepEP: Stable release v1.2.1</title>
-      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
-      <description>Stable release v1.2.1</description>
-      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
+      <title>DeepSeek-V3: v1.0.0</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
+      <description>This release is created for archival purposes and DOI generation.</description>
+      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
     </item>
     <item>
       <title>DeepSeek-R1: v1.0.0</title>
