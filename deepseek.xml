@@ -5,7 +5,26 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:25:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:28:14 GMT</lastBuildDate>
+    <item>
+      <title>deepseek-harness: v0.1.2-rc.1</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-rc.1</link>
+      <description>中文(cn-v0.1.2-rc.1) | English(en-v0.1.2-rc.1)
+
+作为 0.1.2 系列的首个候选版本，本版本汇总了自 v0.1.1-rc.2 以来的主要用户和开发者相关变更。
+
+&lt;h3 id=&quot;cn-v0.1.2-rc.1&quot;&gt;新增功能&lt;/h3&gt;
+
+ 会话流默认在每个已完成回答前折叠过程内容，并默认折叠的「System prompt」 @07akioni, @lsdsjy
+ 会话流正文宽度可自适应或拖拽调整 @yixiangihsiang
+ 回答末尾显示 token 用量和耗时，可展开查看精确用量与详细统计 @hypatiamay, @ZiyaZhang, @Yifffan
+ 会话视图提供覆盖完整历史的回合导航，可预览并跳转尚未载入的轮次 @LegGasai
+ 统一界面次级文字层级，会话流支持字号调节，Markdown 表格随正文字号缩放 @yixiangihsiang
+ 插件支持在模型设置页添加提供方登录配置 @LegGasai
+ 界面支持第三方语言，并统一权限分类和标签的本地化表达 @tianyicu...</description>
+      <pubDate>Thu, 03 Sep 2026 06:06:07 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-rc.1</guid>
+    </item>
     <item>
       <title>deepseek-harness: v0.1.2-alpha.5</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.5</link>
@@ -51,29 +70,11 @@ Full Changelog: https://github.com/deepseek-ai/deepseek-harness/compare/dsh-v0.1
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.4</guid>
     </item>
     <item>
-      <title>deepseek-harness: v0.1.2-alpha.3</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.3</link>
-      <description>中文(cn-v0.1.2-alpha.3) | English(en-v0.1.2-alpha.3)
-
-&lt;h3 id=&quot;cn-v0.1.2-alpha.3&quot;&gt;体验优化&lt;/h3&gt;
-
- 长会话右侧导航支持预览和跳转尚未载入的全部分页轮次 @LegGasai
- 改善长会话渲染的内存开销和代码高亮流畅度 @imccyu, @07akioni
- 优化权限标签多语言表达 @ZiyaZhang
-
-&lt;h3&gt;问题修复&lt;/h3&gt;
-
- 会话运行中追加或排队发送的图片可正确回显并可靠投递；持续子代理的后续消息也支持图片 @CreatixChu
- read_image 可根据文件内容识别并读取没有扩展名的图片附件路径 @CreatixChu
- 命令菜单打开时，Tab 可补全当前高亮的斜杠命令 @mektpoy
- 修复后端卡顿可能造成网络连接被误判为断开的问题 @imccyu
- 修复会话标题中的定时计划列表在窄视口下偏移或越界的问题 @pku-xht
-
-&lt;h3&gt;其他变更&lt;/h3&gt;
-
- 移除可选的 SQLite Session 持久化后...</description>
-      <pubDate>Mon, 31 Aug 2026 16:03:39 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.3</guid>
+      <title>DeepEP: Stable release v1.2.1</title>
+      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
+      <description>Stable release v1.2.1</description>
+      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
     </item>
     <item>
       <title>DeepSeek-V3: v1.0.0</title>
