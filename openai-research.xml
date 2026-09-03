@@ -5,7 +5,35 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:26:13 GMT</lastBuildDate>
+    <item>
+      <title>Daybreak for Frontline Defenders: $1B to protect essential services</title>
+      <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
+      <description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.</description>
+      <pubDate>Thu, 03 Sep 2026 13:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
+    </item>
+    <item>
+      <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.</description>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+    </item>
+    <item>
+      <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.</description>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+    </item>
+    <item>
+      <title>Safety overview: GPT-6 Astra</title>
+      <link>https://openai.com/index/safety-overview-gpt-6-astra</link>
+      <description>GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/safety-overview-gpt-6-astra</guid>
+    </item>
     <item>
       <title>ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT</title>
       <link>https://openai.com/index/atv-big-air-tour</link>
@@ -91,18 +119,18 @@
       <guid isPermaLink="true">https://openai.com/index/expanding-our-presence-in-brazil</guid>
     </item>
     <item>
-      <title>Learning never stops: How AI makes learning continuous</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/learning-never-stops</guid>
-    </item>
-    <item>
       <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.</description>
       <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+    </item>
+    <item>
+      <title>Learning never stops: How AI makes learning continuous</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/learning-never-stops</guid>
     </item>
     <item>
       <title>The Hugging Face incident and the road ahead</title>
@@ -117,34 +145,6 @@
       <description>Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.</description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/loveholidays</guid>
-    </item>
-    <item>
-      <title>The full stack behind abundant intelligence</title>
-      <link>https://openai.com/index/the-full-stack-behind-abundant-intelligence</link>
-      <description>OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.</description>
-      <pubDate>Tue, 25 Aug 2026 07:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/the-full-stack-behind-abundant-intelligence</guid>
-    </item>
-    <item>
-      <title>Jalapeño’s first results show industry-leading speed and efficiency in AI inference</title>
-      <link>https://openai.com/index/jalapeno-first-results</link>
-      <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/jalapeno-first-results</guid>
-    </item>
-    <item>
-      <title>Disrupting a new covert influence campaign from Russia</title>
-      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
-      <description>OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</guid>
-    </item>
-    <item>
-      <title>Introducing the Admin plugin for ChatGPT Work and Codex</title>
-      <link>https://openai.com/index/introducing-admin-plugin</link>
-      <description>Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-admin-plugin</guid>
     </item>
   </channel>
 </rss>
