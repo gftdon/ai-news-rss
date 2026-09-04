@@ -5,7 +5,22 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:29:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:05:29 GMT</lastBuildDate>
+    <item>
+      <title>deepseek-harness: v0.1.3-alpha.1</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.3-alpha.1</link>
+      <description>中文(cn-v0.1.3-alpha.1) | English(en-v0.1.3-alpha.1)
+
+&lt;h3 id=&quot;cn-v0.1.3-alpha.1&quot;&gt;新增功能&lt;/h3&gt;
+
+ Web 支持上传任意类型的通用文件：文件与图片可在同一预览区混排，后台上传支持进度、取消与会话切换续显，模型可通过已保存路径使用现有文件工具按需读取。 @CreatixChu
+ 所有出站网络请求都会遵循启动环境中的 HTTP_PROXY、HTTPS_PROXY、ALL_PROXY 与 NO_PROXY 配置。 @LegGasai
+ Python SDK 新增 macOS x64 runtime wheel，可在 Intel 架构的 Mac 上安装并运行随包 runtime。 @koalazf99
+ read_image 的顶层与 PTC 嵌套工具调用会在 Web 工具卡中直接渲染图片，不再展示原始附件对象。 @Chinesezjc
+ 模型探测新增对自定义模型提供商 models 对象和 Anthropic 原生模型列表的支持，并支持回填模型...</description>
+      <pubDate>Fri, 04 Sep 2026 11:34:32 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.3-alpha.1</guid>
+    </item>
     <item>
       <title>deepseek-harness: v0.1.2-rc.1</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-rc.1</link>
@@ -45,62 +60,11 @@ Full Changelog: https://github.com/deepseek-ai/deepseek-harness/compare/dsh-v0.1
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.5</guid>
     </item>
     <item>
-      <title>deepseek-harness: v0.1.2-alpha.4</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.4</link>
-      <description>中文(cn-v0.1.2-alpha.4) | English(en-v0.1.2-alpha.4)
-
-&lt;h3 id=&quot;cn-v0.1.2-alpha.4&quot;&gt;新增功能&lt;/h3&gt;
-
- 父 Agent 与可持续子 Agent 可通过 send_message 双向传递后续消息，取代单向 report 工具 @Dudu-0223
-
-&lt;h3&gt;体验优化&lt;/h3&gt;
-
- 自定义模型发现复用 Profile 请求头；模型目录支持搜索和筛选 @LegGasai
- 界面优化圆角、描边、轮次导航、投影效果 @yixiangihsiang, @LegGasai
- 改善超长会话在流式回复、界面布局、导航预览场景的渲染开销 @imccyu
-
-&lt;h3&gt;其他变更&lt;/h3&gt;
-
- Python SDK、Headless、ACP 与自定义 Profile 默认提供 web_fetch @koalazf99
- Web PTC Mode 默认不再向模型提供通用 workflow 工具 @koalazf99
- Session.events 被按需...</description>
-      <pubDate>Tue, 01 Sep 2026 15:45:07 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.4</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_f8e8fb5</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</link>
-      <description>nv_dev_f8e8fb5</description>
-      <pubDate>Mon, 20 Jul 2026 08:52:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_950d31a</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
-      <description>nv_dev_950d31a</description>
-      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_67fc648</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
-      <description>nv_dev_67fc648</description>
-      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
-    </item>
-    <item>
       <title>DeepSeek-V3: v1.0.0</title>
       <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
       <description>This release is created for archival purposes and DOI generation.</description>
       <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
-    </item>
-    <item>
-      <title>DeepSeek-R1: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
     </item>
   </channel>
 </rss>
