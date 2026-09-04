@@ -5,7 +5,7 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:13:54 GMT</lastBuildDate>
     <item>
       <title>deepseek-harness: v0.1.2-rc.1</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-rc.1</link>
@@ -13,15 +13,13 @@
 
 作为 0.1.2 系列的首个候选版本，本版本汇总了自 v0.1.1-rc.2 以来的主要用户和开发者相关变更。
 
+&gt; oh-my-dsh 开源社区推出了帮助插件作者随着 DSH 版本升级插件代码的 skill： https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill. 欢迎 DSH 插件作者试用并参与开源共建。oh-my-dsh 与 DeepSeek AI 没有隶属关系，相关项目非 DeepSeek 官方出品。
+
 &lt;h3 id=&quot;cn-v0.1.2-rc.1&quot;&gt;新增功能&lt;/h3&gt;
 
  会话流默认在每个已完成回答前折叠过程内容，并默认折叠的「System prompt」 @07akioni, @lsdsjy
  会话流正文宽度可自适应或拖拽调整 @yixiangihsiang
- 回答末尾显示 token 用量和耗时，可展开查看精确用量与详细统计 @hypatiamay, @ZiyaZhang, @Yifffan
- 会话视图提供覆盖完整历史的回合导航，可预览并跳转尚未载入的轮次 @LegGasai
- 统一界面次级文字层级，会话流支持字号调节，Markdown 表格随正文字号缩放 @yixiangihsiang
- 插件支持在模型设置页添加提供方登录配置 @LegGasai
- 界面支持第三方语言，并统一权限分类和标签的本地化表达 @tianyicu...</description>
+ 回答末尾显示 token 用量和耗时，可展开查看精确用量与详细统计 @hypatiamay, @ZiyaZhang, @Yiff...</description>
       <pubDate>Thu, 03 Sep 2026 06:06:07 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-rc.1</guid>
     </item>
@@ -68,6 +66,34 @@ Full Changelog: https://github.com/deepseek-ai/deepseek-harness/compare/dsh-v0.1
  Session.events 被按需...</description>
       <pubDate>Tue, 01 Sep 2026 15:45:07 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.4</guid>
+    </item>
+    <item>
+      <title>DeepGEMM: nv_dev_f8e8fb5</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</link>
+      <description>nv_dev_f8e8fb5</description>
+      <pubDate>Mon, 20 Jul 2026 08:52:06 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</guid>
+    </item>
+    <item>
+      <title>DeepGEMM: nv_dev_950d31a</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
+      <description>nv_dev_950d31a</description>
+      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
+    </item>
+    <item>
+      <title>DeepGEMM: nv_dev_67fc648</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
+      <description>nv_dev_67fc648</description>
+      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
+    </item>
+    <item>
+      <title>DeepSeek-R1: v1.0.0</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
+      <description>This release is created for archival purposes and DOI generation.</description>
+      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
     </item>
   </channel>
 </rss>
