@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:54:57 GMT</lastBuildDate>
     <item>
       <title>Daybreak for Frontline Defenders: $1B to protect essential services</title>
       <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
@@ -14,18 +14,18 @@
       <guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
     </item>
     <item>
-      <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.</description>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-    </item>
-    <item>
       <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
       <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
       <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.</description>
       <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+    </item>
+    <item>
+      <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.</description>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
     </item>
     <item>
       <title>Safety overview: GPT-6 Astra</title>
@@ -119,18 +119,18 @@
       <guid isPermaLink="true">https://openai.com/index/expanding-our-presence-in-brazil</guid>
     </item>
     <item>
-      <title>Learning never stops: How AI makes learning continuous</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/learning-never-stops</guid>
-    </item>
-    <item>
       <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.</description>
       <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+    </item>
+    <item>
+      <title>Learning never stops: How AI makes learning continuous</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/learning-never-stops</guid>
     </item>
     <item>
       <title>The Hugging Face incident and the road ahead</title>
