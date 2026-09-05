@@ -5,146 +5,153 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:29:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:01:22 GMT</lastBuildDate>
     <item>
       <title>tt-a1i/archify [JavaScript] — 21,896 stars this week</title>
       <link>https://github.com/tt-a1i/archify</link>
       <description>[JavaScript] Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (21,896 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tt-a1i/archify</guid>
     </item>
     <item>
       <title>THU-MAIC/OpenMAIC [TypeScript] — 10,274 stars this week</title>
       <link>https://github.com/THU-MAIC/OpenMAIC</link>
       <description>[TypeScript] Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (10,274 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/THU-MAIC/OpenMAIC</guid>
-    </item>
-    <item>
-      <title>bilawalsidhu/gods-eye-view [JavaScript] — 7,314 stars this week</title>
-      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
-      <description>[JavaScript] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (7,314 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/bilawalsidhu/gods-eye-view</guid>
     </item>
     <item>
       <title>Gitlawb/openclaude [TypeScript] — 1,679 stars this week</title>
       <link>https://github.com/Gitlawb/openclaude</link>
       <description>[TypeScript] runs anywhere. uses anything (1,679 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Gitlawb/openclaude</guid>
     </item>
     <item>
       <title>google-research/timesfm [Python] — 2,653 stars this week</title>
       <link>https://github.com/google-research/timesfm</link>
       <description>[Python] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. (2,653 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/google-research/timesfm</guid>
     </item>
     <item>
       <title>jingyaogong/minimind [Python] — 3,390 stars this week</title>
       <link>https://github.com/jingyaogong/minimind</link>
       <description>[Python] 🧠 Train a 64M-parameter LLM from scratch in just 2h! (3,390 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jingyaogong/minimind</guid>
+    </item>
+    <item>
+      <title>tailscale/tailcat [Go] — 3,762 stars this week</title>
+      <link>https://github.com/tailscale/tailcat</link>
+      <description>[Go] like netcat, but over Tailscale&apos;s data plane, without Tailscale&apos;s control plane (3,762 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/tailscale/tailcat</guid>
     </item>
     <item>
       <title>K-Dense-AI/scientific-agent-skills [Python] — 6,898 stars this week</title>
       <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
       <description>[Python] Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. (6,898 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/K-Dense-AI/scientific-agent-skills</guid>
     </item>
     <item>
       <title>Lakr233/vphone-cli [Swift] — 1,982 stars this week</title>
       <link>https://github.com/Lakr233/vphone-cli</link>
       <description>[Swift] No description (1,982 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Lakr233/vphone-cli</guid>
     </item>
     <item>
       <title>fmtlib/fmt [C++] — 1,671 stars this week</title>
       <link>https://github.com/fmtlib/fmt</link>
       <description>[C++] A modern formatting library (1,671 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/fmtlib/fmt</guid>
-    </item>
-    <item>
-      <title>every-app/open-seo [TypeScript] — 2,950 stars this week</title>
-      <link>https://github.com/every-app/open-seo</link>
-      <description>[TypeScript] Open source alternative to Semrush and Ahrefs (2,950 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/every-app/open-seo</guid>
-    </item>
-    <item>
-      <title>p-e-w/heretic [Python] — 2,065 stars this week</title>
-      <link>https://github.com/p-e-w/heretic</link>
-      <description>[Python] Fully automatic censorship removal for language models (2,065 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
-    </item>
-    <item>
-      <title>colinhacks/zod [TypeScript] — 297 stars this week</title>
-      <link>https://github.com/colinhacks/zod</link>
-      <description>TypeScript-first schema validation with static type inference (297 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/colinhacks/zod</guid>
     </item>
     <item>
       <title>handsomestWei/patent-disclosure-skill [Python] — 1,975 stars this week</title>
       <link>https://github.com/handsomestWei/patent-disclosure-skill</link>
       <description>[Python] 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 (1,975 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/handsomestWei/patent-disclosure-skill</guid>
     </item>
     <item>
       <title>debpalash/VoiceStudio [Python] — 5,150 stars this week</title>
       <link>https://github.com/debpalash/VoiceStudio</link>
       <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (5,150 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
+    </item>
+    <item>
+      <title>magnitudedev/magnitude [TypeScript] — 740 stars this week</title>
+      <link>https://github.com/magnitudedev/magnitude</link>
+      <description>[TypeScript] Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. (740 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/magnitudedev/magnitude</guid>
+    </item>
+    <item>
+      <title>every-app/open-seo [TypeScript] — 2,950 stars this week</title>
+      <link>https://github.com/every-app/open-seo</link>
+      <description>[TypeScript] Open source alternative to Semrush and Ahrefs (2,950 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/every-app/open-seo</guid>
+    </item>
+    <item>
+      <title>bilawalsidhu/gods-eye-view [JavaScript] — 7,314 stars this week</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>[JavaScript] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (7,314 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/bilawalsidhu/gods-eye-view</guid>
     </item>
     <item>
       <title>punkpeye/awesome-mcp-servers — 1,198 stars this week</title>
       <link>https://github.com/punkpeye/awesome-mcp-servers</link>
       <description>A collection of MCP servers. (1,198 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/punkpeye/awesome-mcp-servers</guid>
     </item>
     <item>
-      <title>abi/screenshot-to-code [Python] — 2,372 stars this week</title>
-      <link>https://github.com/abi/screenshot-to-code</link>
-      <description>[Python] Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (2,372 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/abi/screenshot-to-code</guid>
-    </item>
-    <item>
-      <title>ChromeDevTools/chrome-devtools-mcp [TypeScript] — 1,067 stars this week</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>[TypeScript] Chrome DevTools for coding agents (1,067 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <title>p-e-w/heretic [Python] — 2,065 stars this week</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <description>[Python] Fully automatic censorship removal for language models (2,065 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
     </item>
     <item>
       <title>majd/ipatool [Go] — 903 stars this week</title>
       <link>https://github.com/majd/ipatool</link>
       <description>[Go] Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. (903 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/majd/ipatool</guid>
     </item>
     <item>
-      <title>MakazhanAlpamys/Soup [Python] — 1,808 stars this week</title>
-      <link>https://github.com/MakazhanAlpamys/Soup</link>
-      <description>[Python] Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. (1,808 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/MakazhanAlpamys/Soup</guid>
+      <title>affaan-m/ECC [JavaScript] — 4,815 stars this week</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (4,815 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
     </item>
     <item>
-      <title>OpenWhispr/openwhispr [JavaScript] — 794 stars this week</title>
-      <link>https://github.com/OpenWhispr/openwhispr</link>
-      <description>[JavaScript] Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. (794 stars this week)</description>
-      <pubDate>Sat, 05 Sep 2026 09:29:23 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/OpenWhispr/openwhispr</guid>
+      <title>ChromeDevTools/chrome-devtools-mcp [TypeScript] — 1,067 stars this week</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>[TypeScript] Chrome DevTools for coding agents (1,067 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+    </item>
+    <item>
+      <title>checkstyle/checkstyle [Java] — 569 stars this week</title>
+      <link>https://github.com/checkstyle/checkstyle</link>
+      <description>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. (569 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/checkstyle/checkstyle</guid>
+    </item>
+    <item>
+      <title>abi/screenshot-to-code [Python] — 2,372 stars this week</title>
+      <link>https://github.com/abi/screenshot-to-code</link>
+      <description>[Python] Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (2,372 stars this week)</description>
+      <pubDate>Sat, 05 Sep 2026 13:01:22 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/abi/screenshot-to-code</guid>
     </item>
   </channel>
 </rss>
