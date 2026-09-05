@@ -1,3 +1,4 @@
 node_modules/
 *.xml
 !public/feeds.opml
+.mcp.json
