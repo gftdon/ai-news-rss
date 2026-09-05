@@ -20,7 +20,7 @@ Custom scrapers (no native RSS):
 1. **Scrapers** (`scrapers/*.js`) fetch content from each source
 2. **RSS Builder** (`lib/rss-builder.js`) converts scraped data to RSS 2.0 XML
 3. **Orchestrator** (`generate-all.js`) runs all scrapers concurrently via `Promise.allSettled`
-4. **GitHub Actions** (`.github/workflows/generate-feeds.yml`) runs every 15 minutes and deploys to GitHub Pages
+4. **GitHub Actions** (`.github/workflows/generate-feeds.yml`) runs on every push to `main` and on a 15-minute cron (GitHub typically throttles this to every few hours), then deploys to GitHub Pages
 
 ## Local Development
 
