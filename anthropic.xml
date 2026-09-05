@@ -5,27 +5,13 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:01:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:57:14 GMT</lastBuildDate>
     <item>
-      <title>Previewing the Model Hardware Standard</title>
-      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-      <description>[Announcements] We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
-    </item>
-    <item>
-      <title>How Claude’s text watermark works</title>
-      <link>https://www.anthropic.com/news/claude-text-watermark</link>
-      <description>[Announcements] In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
-    </item>
-    <item>
-      <title>Introducing Claude Opus 5</title>
-      <link>https://www.anthropic.com/news/claude-opus-5</link>
-      <description>[Product] Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
+      <title>Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+      <description>Introducing Claude Fable 5.1 and Claude Mythos 5.1</description>
+      <pubDate>Sat, 05 Sep 2026 14:57:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
     </item>
     <item>
       <title>Developing Enterprise Frontier Safeguards with our customers</title>
@@ -42,6 +28,13 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
     </item>
     <item>
+      <title>Previewing the Model Hardware Standard</title>
+      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+      <description>[Announcements] We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
+    </item>
+    <item>
       <title>Expanding our support for scientists</title>
       <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
       <description>[Announcements] Expanding our support for scientists</description>
@@ -54,6 +47,13 @@
       <description>[Announcements] Funding better evaluations of AI’s impact on wellbeing</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
+    </item>
+    <item>
+      <title>How Claude’s text watermark works</title>
+      <link>https://www.anthropic.com/news/claude-text-watermark</link>
+      <description>[Announcements] In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
     </item>
     <item>
       <title>Improving Fable 5&apos;s biology safeguards</title>
@@ -82,6 +82,20 @@
       <description>[Announcements] Our position on open-weights models</description>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/position-open-weights-models</guid>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 5</title>
+      <link>https://www.anthropic.com/news/claude-opus-5</link>
+      <description>[Product] Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
+    </item>
+    <item>
+      <title>The Making of Claude Code</title>
+      <link>https://www.anthropic.com/features/making-of-claude-code</link>
+      <description>[Features] The inside story of how Claude Code went from an internal CLI to Anthropic&apos;s coding agent, told by researchers, engineers and early users who built it.</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/features/making-of-claude-code</guid>
     </item>
   </channel>
 </rss>
