@@ -1,11 +1,12 @@
 {
   "name": "ai-news-rss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RSS feed generator for AI company news (Kimi, MiniMax, Seed/ByteDance, Kling)",
   "main": "generate-all.js",
   "scripts": {
     "generate": "node generate-all.js",
-    "start": "node generate-all.js"
+    "start": "node generate-all.js",
+    "test": "node --test 'test/**/*.test.js'"
   },
   "keywords": [
     "rss",
