@@ -5,7 +5,7 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 04:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:52:26 GMT</lastBuildDate>
     <item>
       <title>deepseek-harness: v0.1.3-alpha.1</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.3-alpha.1</link>
@@ -60,39 +60,18 @@ Full Changelog: https://github.com/deepseek-ai/deepseek-harness/compare/dsh-v0.1
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-alpha.5</guid>
     </item>
     <item>
-      <title>DeepGEMM: nv_dev_f8e8fb5</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</link>
-      <description>nv_dev_f8e8fb5</description>
-      <pubDate>Mon, 20 Jul 2026 08:52:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_950d31a</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
-      <description>nv_dev_950d31a</description>
-      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_67fc648</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
-      <description>nv_dev_67fc648</description>
-      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
-    </item>
-    <item>
-      <title>DeepEP: Stable release v1.2.1</title>
-      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
-      <description>Stable release v1.2.1</description>
-      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
-    </item>
-    <item>
       <title>DeepSeek-V3: v1.0.0</title>
       <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
       <description>This release is created for archival purposes and DOI generation.</description>
       <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
+    </item>
+    <item>
+      <title>DeepSeek-R1: v1.0.0</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
+      <description>This release is created for archival purposes and DOI generation.</description>
+      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
     </item>
   </channel>
 </rss>
