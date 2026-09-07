@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:47:36 GMT</lastBuildDate>
+    <item>
+      <title>Supporting independent journalism in Ukraine</title>
+      <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
+      <description>OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
+    </item>
     <item>
       <title>An Alien Mind</title>
       <link>https://openai.com/index/an-alien-mind</link>
@@ -138,13 +145,6 @@
       <description>OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.</description>
       <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/expanding-our-presence-in-brazil</guid>
-    </item>
-    <item>
-      <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.</description>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
     </item>
   </channel>
 </rss>
