@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:23:37 GMT</lastBuildDate>
+    <item>
+      <title>The Work Now Within Reach</title>
+      <link>https://openai.com/index/the-work-now-within-reach</link>
+      <description>Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.</description>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/the-work-now-within-reach</guid>
+    </item>
+    <item>
+      <title>OpenAI expands initiatives to support journalism from classrooms to newsrooms</title>
+      <link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
+      <description>OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</guid>
+    </item>
     <item>
       <title>Supporting independent journalism in Ukraine</title>
       <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
@@ -35,18 +49,18 @@
       <guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
     </item>
     <item>
-      <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.</description>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-    </item>
-    <item>
       <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
       <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
       <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.</description>
       <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+    </item>
+    <item>
+      <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.</description>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
     </item>
     <item>
       <title>GPT-6 Astra: A new generation of intelligence</title>
@@ -131,20 +145,6 @@
       <description>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</description>
       <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/supporting-next-generation-ai-startups-thailand</guid>
-    </item>
-    <item>
-      <title>Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</title>
-      <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
-      <description>A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.</description>
-      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</guid>
-    </item>
-    <item>
-      <title>Expanding OpenAI’s presence in Brazil</title>
-      <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
-      <description>OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.</description>
-      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/expanding-our-presence-in-brazil</guid>
     </item>
   </channel>
 </rss>
