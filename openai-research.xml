@@ -5,13 +5,34 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:23:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:57:35 GMT</lastBuildDate>
     <item>
       <title>The Work Now Within Reach</title>
       <link>https://openai.com/index/the-work-now-within-reach</link>
       <description>Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.</description>
       <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/the-work-now-within-reach</guid>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Images 2.5</title>
+      <link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
+      <description>ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.</description>
+      <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-images-2-5</guid>
+    </item>
+    <item>
+      <title>On the Navier–Stokes Millennium Prize Problem</title>
+      <link>https://openai.com/index/navier-stokes-solution</link>
+      <description>We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.</description>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/navier-stokes-solution</guid>
+    </item>
+    <item>
+      <title>Funding grants for new research into AI and teen development</title>
+      <link>https://openai.com/index/teen-development-research-grants</link>
+      <description>Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.</description>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/teen-development-research-grants</guid>
     </item>
     <item>
       <title>OpenAI expands initiatives to support journalism from classrooms to newsrooms</title>
@@ -124,27 +145,6 @@
       <description>Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.</description>
       <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/polimill</guid>
-    </item>
-    <item>
-      <title>A milestone in expanding access to AI</title>
-      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
-      <description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</description>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
-    </item>
-    <item>
-      <title>Our decision on Cursor following its acquisition by SpaceX</title>
-      <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-      <description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.</description>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</guid>
-    </item>
-    <item>
-      <title>Supporting Thailand’s next generation of AI startups</title>
-      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
-      <description>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</description>
-      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/supporting-next-generation-ai-startups-thailand</guid>
     </item>
   </channel>
 </rss>
