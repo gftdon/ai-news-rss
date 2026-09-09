@@ -5,125 +5,97 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:46:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:59:20 GMT</lastBuildDate>
     <item>
       <title>ayghri/i-have-adhd [Python] — 656 stars today</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
       <description>[Python] A skill to stop your coding agent from burying the answer. ADHD-friendly output. (656 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ayghri/i-have-adhd</guid>
     </item>
     <item>
-      <title>cathrynlavery/diagram-design [HTML] — 710 stars today</title>
-      <link>https://github.com/cathrynlavery/diagram-design</link>
-      <description>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. (710 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
-    </item>
-    <item>
-      <title>openai/skills [Python] — 490 stars today</title>
-      <link>https://github.com/openai/skills</link>
-      <description>[Python] Skills Catalog for Codex (490 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/openai/skills</guid>
-    </item>
-    <item>
-      <title>affaan-m/ECC [JavaScript] — 1,427 stars today</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1,427 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-    </item>
-    <item>
-      <title>heygen-com/hyperframes [TypeScript] — 2,627 stars today</title>
-      <link>https://github.com/heygen-com/hyperframes</link>
-      <description>[TypeScript] Write HTML. Render video. Built for agents. (2,627 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
-    </item>
-    <item>
-      <title>coreyhaines31/marketingskills [JavaScript] — 666 stars today</title>
-      <link>https://github.com/coreyhaines31/marketingskills</link>
-      <description>[JavaScript] Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (666 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/coreyhaines31/marketingskills</guid>
+      <title>Tencent/teamai-cli [TypeScript] — 1,083 stars today</title>
+      <link>https://github.com/Tencent/teamai-cli</link>
+      <description>[TypeScript] Make Every Team AI Native (1,083 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Tencent/teamai-cli</guid>
     </item>
     <item>
       <title>obra/superpowers [Shell] — 452 stars today</title>
       <link>https://github.com/obra/superpowers</link>
       <description>[Shell] An agentic skills framework &amp; software development methodology that works. (452 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
     </item>
     <item>
-      <title>multica-ai/andrej-karpathy-skills — 333 stars today</title>
-      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
-      <description>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&apos;s observations on LLM coding pitfalls. (333 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/multica-ai/andrej-karpathy-skills</guid>
+      <title>pascalorg/editor [TypeScript] — 442 stars today</title>
+      <link>https://github.com/pascalorg/editor</link>
+      <description>[TypeScript] Create and share 3D architectural projects. (442 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pascalorg/editor</guid>
     </item>
     <item>
-      <title>microsoft/markitdown [Python] — 2,047 stars today</title>
-      <link>https://github.com/microsoft/markitdown</link>
-      <description>Python tool for converting files and office documents to Markdown. (2,047 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/microsoft/markitdown</guid>
+      <title>earthtojake/text-to-cad [Python] — 97 stars today</title>
+      <link>https://github.com/earthtojake/text-to-cad</link>
+      <description>[Python] A library of agent skills for CAD, CAE and CAM (97 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/earthtojake/text-to-cad</guid>
     </item>
     <item>
-      <title>jo-inc/camofox-browser [JavaScript] — 871 stars today</title>
-      <link>https://github.com/jo-inc/camofox-browser</link>
-      <description>[JavaScript] Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. (871 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/jo-inc/camofox-browser</guid>
+      <title>cathrynlavery/diagram-design [HTML] — 710 stars today</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <description>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. (710 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
     </item>
     <item>
-      <title>MoonTechLab/LunaTV [TypeScript] — 505 stars today</title>
-      <link>https://github.com/MoonTechLab/LunaTV</link>
-      <description>[TypeScript] 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 (505 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/MoonTechLab/LunaTV</guid>
-    </item>
-    <item>
-      <title>browser-use/browser-use [Python] — 228 stars today</title>
-      <link>https://github.com/browser-use/browser-use</link>
-      <description>[Python] Agents that use the browser. (228 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/browser-use/browser-use</guid>
-    </item>
-    <item>
-      <title>mksglu/context-mode [TypeScript] — 651 stars today</title>
-      <link>https://github.com/mksglu/context-mode</link>
-      <description>[TypeScript] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. (651 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
-    </item>
-    <item>
-      <title>The-Swarm-Corporation/AutoHedge [Python] — 494 stars today</title>
-      <link>https://github.com/The-Swarm-Corporation/AutoHedge</link>
-      <description>[Python] Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. (494 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/The-Swarm-Corporation/AutoHedge</guid>
+      <title>TauricResearch/TradingAgents [Python] — 506 stars today</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <description>[Python] TradingAgents: Multi-Agents LLM Financial Trading Framework (506 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
     </item>
     <item>
       <title>liquidslr/system-design-notes — 910 stars today</title>
       <link>https://github.com/liquidslr/system-design-notes</link>
       <description>Notes of the book System Desgin Interview - An Insider&apos;s Guide (910 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/liquidslr/system-design-notes</guid>
-    </item>
-    <item>
-      <title>viarotel-org/escrcpy [JavaScript] — 178 stars today</title>
-      <link>https://github.com/viarotel-org/escrcpy</link>
-      <description>[JavaScript] 📱 Display and control your Android device graphically with scrcpy. (178 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/viarotel-org/escrcpy</guid>
     </item>
     <item>
       <title>openai/plugins [JavaScript] — 105 stars today</title>
       <link>https://github.com/openai/plugins</link>
       <description>[JavaScript] OpenAI Plugins (105 stars today)</description>
-      <pubDate>Wed, 09 Sep 2026 06:46:30 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/openai/plugins</guid>
+    </item>
+    <item>
+      <title>freestylefly/awesome-gpt-image-2 [JavaScript] — 612 stars today</title>
+      <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
+      <description>[JavaScript] Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 (612 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/freestylefly/awesome-gpt-image-2</guid>
+    </item>
+    <item>
+      <title>rohitg00/ai-engineering-from-scratch [Python] — 356 stars today</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <description>[Python] Learn it. Build it. Ship it for others. (356 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
+    </item>
+    <item>
+      <title>vastsa/PI-Desktop [TypeScript] — 393 stars today</title>
+      <link>https://github.com/vastsa/PI-Desktop</link>
+      <description>[TypeScript] Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins (393 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vastsa/PI-Desktop</guid>
+    </item>
+    <item>
+      <title>affaan-m/ECC [JavaScript] — 1,427 stars today</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1,427 stars today)</description>
+      <pubDate>Wed, 09 Sep 2026 11:59:20 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
     </item>
   </channel>
 </rss>
