@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:28:33 GMT</lastBuildDate>
+    <item>
+      <title>Paul Christiano joins OpenAI Foundation Board</title>
+      <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
+      <description>Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.</description>
+      <pubDate>Wed, 09 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/paul-christiano-joins-openai-foundation-board</guid>
+    </item>
     <item>
       <title>How GPT-5.6 Sol helps run quantum computing experiments</title>
       <link>https://openai.com/index/codex-quantum-computing-experiments</link>
@@ -138,13 +145,6 @@
       <description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.</description>
       <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
-    </item>
-    <item>
-      <title>How law firm Gilbert + Tobin governs and scales AI with OpenAI</title>
-      <link>https://openai.com/index/gilbert-tobin</link>
-      <description>See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.</description>
-      <pubDate>Tue, 01 Sep 2026 01:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gilbert-tobin</guid>
     </item>
   </channel>
 </rss>
