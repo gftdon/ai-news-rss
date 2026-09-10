@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:40:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:06:52 GMT</lastBuildDate>
     <item>
       <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
       <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
@@ -19,6 +19,13 @@
       <description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.</description>
       <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
+    </item>
+    <item>
+      <title>Introducing ChatGPT for Financial Services</title>
+      <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
+      <description>Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.</description>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-financial-services</guid>
     </item>
     <item>
       <title>Expanding AI access and cyber defense for federal, state, local, and tribal governments</title>
@@ -131,13 +138,6 @@
       <description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.</description>
       <pubDate>Thu, 03 Sep 2026 13:15:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
-    </item>
-    <item>
-      <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.</description>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
     </item>
     <item>
       <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
