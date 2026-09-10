@@ -5,12 +5,12 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:53:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:40:02 GMT</lastBuildDate>
     <item>
       <title>Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
       <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
       <description>Introducing Claude Fable 5.1 and Claude Mythos 5.1</description>
-      <pubDate>Thu, 10 Sep 2026 13:53:55 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 17:40:02 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
     </item>
     <item>
@@ -23,7 +23,7 @@
     <item>
       <title>Improving our alignment and security efforts</title>
       <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
-      <description>[Announcements] Improving our alignment and security efforts</description>
+      <description>[Announcements] On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.</description>
       <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
     </item>
@@ -51,7 +51,7 @@
     <item>
       <title>How Claude’s text watermark works</title>
       <link>https://www.anthropic.com/news/claude-text-watermark</link>
-      <description>[Announcements] In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.</description>
+      <description>[Announcements] How Claude’s text watermark works</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
     </item>
@@ -89,13 +89,6 @@
       <description>[Product] Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
-    </item>
-    <item>
-      <title>The Making of Claude Code</title>
-      <link>https://www.anthropic.com/features/making-of-claude-code</link>
-      <description>[Features] The inside story of how Claude Code went from an internal CLI to Anthropic&apos;s coding agent, told by researchers, engineers and early users who built it.</description>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/features/making-of-claude-code</guid>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,35 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:53:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:40:02 GMT</lastBuildDate>
+    <item>
+      <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
+      <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
+      <description>César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.</description>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
+    </item>
+    <item>
+      <title>Now everyone can put data to work</title>
+      <link>https://openai.com/index/put-data-to-work</link>
+      <description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.</description>
+      <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
+    </item>
+    <item>
+      <title>Expanding AI access and cyber defense for federal, state, local, and tribal governments</title>
+      <link>https://openai.com/index/expanding-ai-access-us-government</link>
+      <description>OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.</description>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/expanding-ai-access-us-government</guid>
+    </item>
+    <item>
+      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+    </item>
     <item>
       <title>Paul Christiano joins OpenAI Foundation Board</title>
       <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
@@ -117,34 +145,6 @@
       <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.</description>
       <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-    </item>
-    <item>
-      <title>GPT-6 Astra: A new generation of intelligence</title>
-      <link>https://openai.com/index/gpt-6-astra</link>
-      <description>Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.</description>
-      <pubDate>Thu, 03 Sep 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-6-astra</guid>
-    </item>
-    <item>
-      <title>Safety overview: GPT-6 Astra</title>
-      <link>https://openai.com/index/safety-overview-gpt-6-astra</link>
-      <description>GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/safety-overview-gpt-6-astra</guid>
-    </item>
-    <item>
-      <title>ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT</title>
-      <link>https://openai.com/index/atv-big-air-tour</link>
-      <description>ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.</description>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/atv-big-air-tour</guid>
-    </item>
-    <item>
-      <title>How AI-native companies turn workflows into operating capability</title>
-      <link>https://openai.com/index/ai-native-company-workflows</link>
-      <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
     </item>
   </channel>
 </rss>

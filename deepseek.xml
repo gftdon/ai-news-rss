@@ -5,7 +5,26 @@
     <link>https://www.deepseek.com</link>
     <description>Latest model releases and news from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:40:04 GMT</lastBuildDate>
+    <item>
+      <title>deepseek-harness: v0.1.5-rc.2</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.2</link>
+      <description>中文(cn-v0.1.5-rc.2) | English(en-v0.1.5-rc.2)
+
+&lt;h3 id=&quot;cn-v0.1.5-rc.2&quot;&gt;体验优化&lt;/h3&gt;
+
+- 优化反馈提交体验：点赞和点踩均通过弹窗确认后提交，提交失败时保留已填写内容并给出提示。@yixiangihsiang
+- 优化交付文件卡片的排版和对话间距，更新代码文件图标，让文件更易辨认、界面更紧凑。@yixiangihsiang
+
+---
+
+&lt;h3 id=&quot;en-v0.1.5-rc.2&quot;&gt;Improvements&lt;/h3&gt;
+
+- Improve feedback submission: both likes and dislikes are confirmed in a dialog before being recorded. If submission fails, show a notice and keep the entered feedback. by @yixiangihsiang
+- Refine delivered-file card layouts and ...</description>
+      <pubDate>Thu, 10 Sep 2026 15:09:34 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.2</guid>
+    </item>
     <item>
       <title>deepseek-harness: v0.1.5-rc.1</title>
       <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.1</link>
@@ -42,47 +61,25 @@
       <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-alpha.2</guid>
     </item>
     <item>
-      <title>deepseek-harness: v0.1.5-alpha.1</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-alpha.1</link>
-      <description>中文(cn-v0.1.5-alpha.1) | English(en-v0.1.5-alpha.1)
-
-&lt;h3 id=&quot;cn-v0.1.5-alpha.1&quot;&gt;新增功能&lt;/h3&gt;
-
-- 支持动态修改系统提示词且不破坏 KV Cache，模型需显式声明支持 @tianyicui
-- 新增实验性右侧 Sidebar，支持多标签、分栏与全屏；聊天文件链接和产出文件支持 Sidebar 打开，并移除原 Detail 面板 @imccyu
-
- 体验优化
-
-- 改善 Web 输入框的菜单层级、提示文字和间距；会话统计改为两个可展开的摘要，分别查看轮次与速度、精确 Token 用量与缓存命中。 @Yifffan
-- 内置斜杠命令说明支持中文，并随界面语言即时更新；切换语言时保留已打开菜单和查询内容。 @Kaige-Gao
-- 可选子代理插件的内置运行时升级至 Codex 0.153.4 和 Claude Code 2.1.263；显式模型配置保持不变，未配置模型时 Codex 使用上游默认值。 @koalazf99
-
- 问题修复
-
-- 修复会...</description>
-      <pubDate>Tue, 08 Sep 2026 16:16:04 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-alpha.1</guid>
+      <title>DeepGEMM: nv_dev_f8e8fb5</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</link>
+      <description>nv_dev_f8e8fb5</description>
+      <pubDate>Mon, 20 Jul 2026 08:52:06 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</guid>
     </item>
     <item>
-      <title>DeepEP: Stable release v1.2.1</title>
-      <link>https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</link>
-      <description>Stable release v1.2.1</description>
-      <pubDate>Tue, 16 Sep 2025 01:48:40 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepEP/releases/tag/v1.2.1</guid>
+      <title>DeepGEMM: nv_dev_950d31a</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
+      <description>nv_dev_950d31a</description>
+      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
     </item>
     <item>
-      <title>DeepSeek-V3: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:46:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3/releases/tag/v1.0.0</guid>
-    </item>
-    <item>
-      <title>DeepSeek-R1: v1.0.0</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</link>
-      <description>This release is created for archival purposes and DOI generation.</description>
-      <pubDate>Fri, 27 Jun 2025 08:39:13 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1/releases/tag/v1.0.0</guid>
+      <title>DeepGEMM: nv_dev_67fc648</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
+      <description>nv_dev_67fc648</description>
+      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
     </item>
   </channel>
 </rss>
