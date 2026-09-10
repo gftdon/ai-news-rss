@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:34:33 GMT</lastBuildDate>
     <item>
       <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
       <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
@@ -33,6 +33,13 @@
       <description>OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.</description>
       <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/expanding-ai-access-us-government</guid>
+    </item>
+    <item>
+      <title>Introducing the Agents API</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
     </item>
     <item>
       <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
@@ -138,13 +145,6 @@
       <description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.</description>
       <pubDate>Thu, 03 Sep 2026 13:15:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
-    </item>
-    <item>
-      <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.</description>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/playco-game-prototyping-with-astra</guid>
     </item>
   </channel>
 </rss>
