@@ -5,13 +5,27 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:09:09 GMT</lastBuildDate>
     <item>
       <title>Paul Christiano joins OpenAI Foundation Board</title>
       <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
       <description>Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.</description>
       <pubDate>Wed, 09 Sep 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/paul-christiano-joins-openai-foundation-board</guid>
+    </item>
+    <item>
+      <title>The AI policy window is open. We need to act.</title>
+      <link>https://openai.com/index/ai-policy-window</link>
+      <description>Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.</description>
+      <pubDate>Wed, 09 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/ai-policy-window</guid>
+    </item>
+    <item>
+      <title>GPT-6 Astra: The next generation in intelligence for work</title>
+      <link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
+      <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.</description>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-astra-next-generation-work</guid>
     </item>
     <item>
       <title>How GPT-5.6 Sol helps run quantum computing experiments</title>
@@ -91,18 +105,18 @@
       <guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
     </item>
     <item>
-      <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.</description>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-    </item>
-    <item>
       <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.</description>
       <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+    </item>
+    <item>
+      <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.</description>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/playco-game-prototyping-with-astra</guid>
     </item>
     <item>
       <title>GPT-6 Astra: A new generation of intelligence</title>
@@ -131,20 +145,6 @@
       <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
       <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
-    </item>
-    <item>
-      <title>Path to Astra: critical capabilities and frontier safeguards</title>
-      <link>https://openai.com/index/path-to-astra</link>
-      <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.</description>
-      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
-    </item>
-    <item>
-      <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
-      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
-      <description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.</description>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
     </item>
   </channel>
 </rss>
