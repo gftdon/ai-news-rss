@@ -2,84 +2,44 @@
 <rss version="2.0">
   <channel>
     <title>DeepSeek AI News</title>
-    <link>https://www.deepseek.com</link>
-    <description>Latest model releases and news from DeepSeek AI</description>
+    <link>https://www.deepseek.com/en/news/</link>
+    <description>Latest research, product updates, and announcements from DeepSeek AI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:32:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:04:39 GMT</lastBuildDate>
     <item>
-      <title>deepseek-harness: v0.1.5-rc.2</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.2</link>
-      <description>中文(cn-v0.1.5-rc.2) | English(en-v0.1.5-rc.2)
-
-&lt;h3 id=&quot;cn-v0.1.5-rc.2&quot;&gt;体验优化&lt;/h3&gt;
-
-- 优化反馈提交体验：点赞和点踩均通过弹窗确认后提交，提交失败时保留已填写内容并给出提示。@yixiangihsiang
-- 优化交付文件卡片的排版和对话间距，更新代码文件图标，让文件更易辨认、界面更紧凑。@yixiangihsiang
-
----
-
-&lt;h3 id=&quot;en-v0.1.5-rc.2&quot;&gt;Improvements&lt;/h3&gt;
-
-- Improve feedback submission: both likes and dislikes are confirmed in a dialog before being recorded. If submission fails, show a notice and keep the entered feedback. by @yixiangihsiang
-- Refine delivered-file card layouts and ...</description>
-      <pubDate>Thu, 10 Sep 2026 15:09:34 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.2</guid>
+      <title>Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.</title>
+      <link>https://www.deepseek.com/en/news/deepseek-v4-1-flash/</link>
+      <description>Introducing the smallest model in our new architecture family, with native visual understanding. Designed for greater capability, faster inference, and higher throughput.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.deepseek.com/en/news/deepseek-v4-1-flash/</guid>
     </item>
     <item>
-      <title>deepseek-harness: v0.1.5-rc.1</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.1</link>
-      <description>中文(cn-v0.1.5-rc.1) | English(en-v0.1.5-rc.1)
-
-作为 0.1.5 系列的首个候选版本，本版本汇总了自 v0.1.2-rc.1 以来的主要用户和开发者相关变更。
-
-&lt;h3 id=&quot;cn-v0.1.5-rc.1&quot;&gt;新增功能&lt;/h3&gt;
-
-- DeepSeek 模型适配器新增 DeepSeek-V41-Flash（deepseek-flash）支持文本、图片及会话历史中的系统提示词更新。新会话默认使用该模型，配置文件显式指定模型时以配置值为准。 @LegGasai
-- Web 支持上传任意类型的通用文件：文件与图片可在同一预览区混排，后台上传支持进度、取消与会话切换续显，模型可通过已保存路径使用现有文件工具按需读取。 @CreatixChu
-- 可继续对话的子代理支持消息排队、编辑、删除、单条或全部 Steer 与停止操作；排队消息发送期间显示“发送中”，并暂不可编辑、删除或 Steer。 @Dudu-0223, @LegGasai
-- 支持动态修改系统提示词且不破坏 KV Cache，模型需显式声...</description>
-      <pubDate>Thu, 10 Sep 2026 03:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.1</guid>
+      <title>DeepSeek-V4 Preview: Entering the Era of Affordable Million-Token Context</title>
+      <link>https://www.deepseek.com/en/news/v4-preview/</link>
+      <description>DeepSeek-V4 Preview is officially live &amp; open-sourced. Welcome to the era of cost-effective 1M context length.</description>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.deepseek.com/en/news/v4-preview/</guid>
     </item>
     <item>
-      <title>deepseek-harness: v0.1.5-alpha.2</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-alpha.2</link>
-      <description>中文(cn-v0.1.5-alpha.2) | English(en-v0.1.5-alpha.2)
-
-&lt;h3 id=&quot;cn-v0.1.5-alpha.2&quot;&gt;新增功能&lt;/h3&gt;
-
-- 右侧 Sidebar 新增常见文档类型预览，支持 Markdown、代码高亮、HTML、PDF 、图片 @imccyu, @Yifffan, @yixiangihsiang, @CreatixChu, @yudshj
-- 支持模型显式在会话中交付文件，并支持在右侧 Sidebar 预览、用默认应用打开、在文件管理器中定位 @yudshj, @CreatixChu
-- /feedback 命令新增支持提交明细反馈内容 @CreatixChu
-
- 问题修复
-
-- 修复模型目录变化后失效的 pi-ai 配置导致整个模型设置入口消失的问题；错误项保留诊断和修复入口 @LegGasai
-- 在发现模型或创建自定义 provider 前校验并规范化 Base URL，并直接提示无效地址。 @turtle2099
-- 修复 Windows Web 界面的原生文件夹选择...</description>
-      <pubDate>Wed, 09 Sep 2026 14:23:10 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-alpha.2</guid>
+      <title>DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models</title>
+      <link>https://www.deepseek.com/en/news/deepseek-v3-2/</link>
+      <description>DeepSeek-V3.2 and V3.2-Speciale launch with world-leading reasoning, thinking in tool-use, and gold-medal performance in IMO, CMO, ICPC &amp; IOI 2025.</description>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.deepseek.com/en/news/deepseek-v3-2/</guid>
     </item>
     <item>
-      <title>DeepGEMM: nv_dev_f8e8fb5</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</link>
-      <description>nv_dev_f8e8fb5</description>
-      <pubDate>Mon, 20 Jul 2026 08:52:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_f8e8fb5</guid>
+      <title>Introducing DeepSeek-V3.2-Exp</title>
+      <link>https://www.deepseek.com/en/news/v3-2-exp/</link>
+      <description>DeepSeek-V3.2-Exp debuts DeepSeek Sparse Attention (DSA) for faster, more efficient training &amp; inference on long context, with API prices cut by 50%+.</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.deepseek.com/en/news/v3-2-exp/</guid>
     </item>
     <item>
-      <title>DeepGEMM: nv_dev_950d31a</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</link>
-      <description>nv_dev_950d31a</description>
-      <pubDate>Tue, 02 Jun 2026 02:21:17 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_950d31a</guid>
-    </item>
-    <item>
-      <title>DeepGEMM: nv_dev_67fc648</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</link>
-      <description>nv_dev_67fc648</description>
-      <pubDate>Wed, 13 May 2026 02:47:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM/releases/tag/nv_dev_67fc648</guid>
+      <title>DeepSeek-V3.1 is now DeepSeek-V3.1-Terminus</title>
+      <link>https://www.deepseek.com/en/news/v3-1-terminus/</link>
+      <description>DeepSeek-V3.1-Terminus improves language consistency, reduces CN/EN mix-ups, and upgrades Code Agent &amp; Search Agent performance.</description>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.deepseek.com/en/news/v3-1-terminus/</guid>
     </item>
   </channel>
 </rss>
