@@ -51,7 +51,38 @@ async function scrape() {
   const items = [];
   const seen = new Set();
 
-  // Strategy 1: Featured cards in the main content
+  // Strategy 1: Featured hero card at the top of the blog page.
+  // The image link and the title link are SEPARATE sibling anchors inside
+  // div._metaAIFeaturedBlogHero__heroContainer, so per-anchor title lookup
+  // misses it — handle the whole container instead.
+  $('[class*="_metaAIFeaturedBlogHero__heroContainer"]').each((_i, el) => {
+    const $card = $(el);
+
+    const href = $card.find('a[href*="ai.meta.com/blog/"]').first().attr('href');
+    if (!href) return;
+
+    const link = href.startsWith('http') ? href : `https://ai.meta.com${href}`;
+    if (seen.has(link)) return;
+
+    // Title link has class _amd2 (e.g. "Introducing Muse Spark 1.1")
+    const title = $card.find('a[class*="_amd2"]').first().text().trim();
+    if (!title || title.length < 5) return;
+
+    // Date like "July 9, 2026" in div._amun
+    let pubDate = new Date();
+    const dateText = $card.find('[class*="_amun"]').first().text().trim();
+    if (dateText) {
+      const parsed = new Date(dateText);
+      if (!isNaN(parsed.getTime())) {
+        pubDate = parsed;
+      }
+    }
+
+    seen.add(link);
+    items.push({ title, link, description: title, pubDate });
+  });
+
+  // Strategy 2: Featured cards in the main content
   // Cards link to ai.meta.com/blog/xxx with titles and dates
   $('a[href*="ai.meta.com/blog/"]').each((_i, el) => {
     const $el = $(el);
@@ -83,7 +114,7 @@ async function scrape() {
     items.push({ title, link, description: title, pubDate: new Date() });
   });
 
-  // Strategy 2: <noscript> fallback blog list
+  // Strategy 3: <noscript> fallback blog list
   $('noscript').each((_i, el) => {
     const noscriptHtml = $(el).html();
     if (!noscriptHtml || !noscriptHtml.includes('ai.meta.com/blog/')) return;
@@ -130,7 +161,7 @@ async function scrape() {
     });
   });
 
-  // Strategy 3: Featured section links with dates
+  // Strategy 4: Featured section links with dates
   $('[class*="_amda"]').each((_i, el) => {
     const $card = $(el);
     const linkEl = $card.find('a[href*="ai.meta.com/blog/"]').first();
