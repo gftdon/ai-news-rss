@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:51:26 GMT</lastBuildDate>
     <item>
       <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
       <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
@@ -35,18 +35,18 @@
       <guid isPermaLink="true">https://openai.com/index/expanding-ai-access-us-government</guid>
     </item>
     <item>
-      <title>Introducing the Agents API</title>
-      <link>https://openai.com/index/introducing-the-agents-api</link>
-      <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
-    </item>
-    <item>
       <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
       <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
       <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+    </item>
+    <item>
+      <title>Introducing the Agents API</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
     </item>
     <item>
       <title>Paul Christiano joins OpenAI Foundation Board</title>
