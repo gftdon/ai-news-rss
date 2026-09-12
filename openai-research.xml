@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:33:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:36:13 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
+      <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
+      <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
+    </item>
+    <item>
+      <title>Cognition helps Devin test its own work with GPT‑6 Astra</title>
+      <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
+      <description>GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.</description>
+      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/cognition-devin-testing-with-astra</guid>
+    </item>
     <item>
       <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
       <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
@@ -131,20 +145,6 @@
       <description>OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.</description>
       <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
-    </item>
-    <item>
-      <title>An Alien Mind</title>
-      <link>https://openai.com/index/an-alien-mind</link>
-      <description>Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.</description>
-      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/an-alien-mind</guid>
-    </item>
-    <item>
-      <title>Research acceleration: The view inside OpenAI</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-      <description>Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.</description>
-      <pubDate>Sun, 06 Sep 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
     </item>
   </channel>
 </rss>
