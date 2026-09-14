@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:34:42 GMT</lastBuildDate>
+    <item>
+      <title>How Fyxer built an AI executive assistant people trust</title>
+      <link>https://openai.com/index/fyxer</link>
+      <description>Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.</description>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/fyxer</guid>
+    </item>
     <item>
       <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -138,13 +145,6 @@
       <description>Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/1password</guid>
-    </item>
-    <item>
-      <title>Supporting independent journalism in Ukraine</title>
-      <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
-      <description>OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
     </item>
   </channel>
 </rss>
