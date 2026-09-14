@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:03:36 GMT</lastBuildDate>
     <item>
       <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -56,18 +56,18 @@
       <guid isPermaLink="true">https://openai.com/index/expanding-ai-access-us-government</guid>
     </item>
     <item>
-      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-    </item>
-    <item>
       <title>Introducing the Agents API</title>
       <link>https://openai.com/index/introducing-the-agents-api</link>
       <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
+    </item>
+    <item>
+      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
     </item>
     <item>
       <title>Paul Christiano joins OpenAI Foundation Board</title>
