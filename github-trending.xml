@@ -5,145 +5,145 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:33:02 GMT</lastBuildDate>
     <item>
-      <title>JustVugg/colibri [C] — 2,233 stars today</title>
+      <title>JustVugg/colibri [C] — 2,173 stars today</title>
       <link>https://github.com/JustVugg/colibri</link>
-      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (2,233 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (2,173 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
     </item>
     <item>
-      <title>alibaba/open-code-review [Go] — 1,796 stars today</title>
+      <title>alibaba/open-code-review [Go] — 1,571 stars today</title>
       <link>https://github.com/alibaba/open-code-review</link>
-      <description>[Go] Fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1,796 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Go] Fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1,571 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
     </item>
     <item>
-      <title>multimodal-art-projection/YuE [Python] — 578 stars today</title>
+      <title>multimodal-art-projection/YuE [Python] — 559 stars today</title>
       <link>https://github.com/multimodal-art-projection/YuE</link>
-      <description>[Python] YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. (578 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. (559 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/multimodal-art-projection/YuE</guid>
     </item>
     <item>
-      <title>debpalash/VoiceStudio [Python] — 2,774 stars today</title>
+      <title>debpalash/VoiceStudio [Python] — 2,776 stars today</title>
       <link>https://github.com/debpalash/VoiceStudio</link>
-      <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2,774 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2,776 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
     </item>
     <item>
-      <title>666ghj/MiroFish [Python] — 524 stars today</title>
+      <title>666ghj/MiroFish [Python] — 560 stars today</title>
       <link>https://github.com/666ghj/MiroFish</link>
-      <description>[Python] A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 (524 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 (560 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
     </item>
     <item>
-      <title>Panniantong/Agent-Reach [Python] — 640 stars today</title>
+      <title>Panniantong/Agent-Reach [Python] — 651 stars today</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (640 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (651 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
     </item>
     <item>
-      <title>asgeirtj/system_prompts_leaks [JavaScript] — 770 stars today</title>
+      <title>asgeirtj/system_prompts_leaks [JavaScript] — 764 stars today</title>
       <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. (770 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[JavaScript] Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. (764 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
     </item>
     <item>
-      <title>rlaope/oh-my-hermes [Python] — 52 stars today</title>
+      <title>rlaope/oh-my-hermes [Python] — 77 stars today</title>
       <link>https://github.com/rlaope/oh-my-hermes</link>
-      <description>[Python] All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages (52 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages (77 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/rlaope/oh-my-hermes</guid>
     </item>
     <item>
-      <title>localsend/localsend [Dart] — 311 stars today</title>
+      <title>localsend/localsend [Dart] — 251 stars today</title>
       <link>https://github.com/localsend/localsend</link>
-      <description>[Dart] An open-source cross-platform alternative to AirDrop (311 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Dart] An open-source cross-platform alternative to AirDrop (251 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/localsend/localsend</guid>
     </item>
     <item>
-      <title>dani-garcia/vaultwarden [Rust] — 110 stars today</title>
+      <title>dani-garcia/vaultwarden [Rust] — 115 stars today</title>
       <link>https://github.com/dani-garcia/vaultwarden</link>
-      <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (110 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (115 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/dani-garcia/vaultwarden</guid>
     </item>
     <item>
-      <title>TauricResearch/TradingAgents [Python] — 756 stars today</title>
+      <title>TauricResearch/TradingAgents [Python] — 745 stars today</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
-      <description>[Python] TradingAgents: Multi-Agents LLM Financial Trading Framework (756 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] TradingAgents: Multi-Agents LLM Financial Trading Framework (745 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
     </item>
     <item>
-      <title>ruvnet/RuView [Rust] — 370 stars today</title>
+      <title>ruvnet/RuView [Rust] — 383 stars today</title>
       <link>https://github.com/ruvnet/RuView</link>
-      <description>[Rust] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (370 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Rust] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (383 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
     </item>
     <item>
-      <title>tech-leads-club/agent-skills [TypeScript] — 506 stars today</title>
+      <title>tech-leads-club/agent-skills [TypeScript] — 512 stars today</title>
       <link>https://github.com/tech-leads-club/agent-skills</link>
-      <description>[TypeScript] The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (506 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[TypeScript] The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (512 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tech-leads-club/agent-skills</guid>
     </item>
     <item>
-      <title>OpenBMB/VoxCPM [Python] — 204 stars today</title>
+      <title>OpenBMB/VoxCPM [Python] — 216 stars today</title>
       <link>https://github.com/OpenBMB/VoxCPM</link>
-      <description>[Python] VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning (204 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning (216 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/OpenBMB/VoxCPM</guid>
     </item>
     <item>
-      <title>huggingface/transformers [Python] — 528 stars today</title>
+      <title>huggingface/transformers [Python] — 536 stars today</title>
       <link>https://github.com/huggingface/transformers</link>
-      <description>[Python] 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. (528 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. (536 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
     </item>
     <item>
-      <title>ever-co/ever-gauzy [TypeScript] — 1,095 stars today</title>
+      <title>ever-co/ever-gauzy [TypeScript] — 1,130 stars today</title>
       <link>https://github.com/ever-co/ever-gauzy</link>
-      <description>[TypeScript] Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co (1,095 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[TypeScript] Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co (1,130 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ever-co/ever-gauzy</guid>
     </item>
     <item>
-      <title>Crosstalk-Solutions/project-nomad [TypeScript] — 26 stars today</title>
+      <title>Crosstalk-Solutions/project-nomad [TypeScript] — 40 stars today</title>
       <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-      <description>[TypeScript] Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. (26 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[TypeScript] Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. (40 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
     </item>
     <item>
-      <title>reconurge/flowsint [TypeScript] — 279 stars today</title>
+      <title>reconurge/flowsint [TypeScript] — 280 stars today</title>
       <link>https://github.com/reconurge/flowsint</link>
-      <description>[TypeScript] A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. (279 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[TypeScript] A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. (280 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/reconurge/flowsint</guid>
     </item>
     <item>
-      <title>peetzweg/opendisplay [Swift] — 258 stars today</title>
+      <title>peetzweg/opendisplay [Swift] — 229 stars today</title>
       <link>https://github.com/peetzweg/opendisplay</link>
-      <description>[Swift] Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input. (258 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Swift] Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input. (229 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/peetzweg/opendisplay</guid>
     </item>
     <item>
-      <title>SnailSploit/Claude-Red [Python] — 606 stars today</title>
+      <title>SnailSploit/Claude-Red [Python] — 579 stars today</title>
       <link>https://github.com/SnailSploit/Claude-Red</link>
-      <description>[Python] claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (606 stars today)</description>
-      <pubDate>Mon, 14 Sep 2026 22:02:16 GMT</pubDate>
+      <description>[Python] claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (579 stars today)</description>
+      <pubDate>Tue, 15 Sep 2026 00:33:02 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/SnailSploit/Claude-Red</guid>
     </item>
   </channel>
