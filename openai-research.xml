@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:58:36 GMT</lastBuildDate>
+    <item>
+      <title>Our framework for reporting model misalignment</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework</link>
+      <description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.</description>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
+    </item>
     <item>
       <title>Helping older adults use AI in everyday life</title>
       <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
@@ -138,13 +145,6 @@
       <description>Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.</description>
       <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/the-work-now-within-reach</guid>
-    </item>
-    <item>
-      <title>Introducing ChatGPT Images 2.5</title>
-      <link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
-      <description>ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.</description>
-      <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-images-2-5</guid>
     </item>
   </channel>
 </rss>
