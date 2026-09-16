@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:56:41 GMT</lastBuildDate>
+    <item>
+      <title>Reimagining advertising with AI</title>
+      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
+      <description>Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.</description>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
+    </item>
     <item>
       <title>How Fyxer built an AI executive assistant people trust</title>
       <link>https://openai.com/index/fyxer</link>
@@ -63,18 +70,18 @@
       <guid isPermaLink="true">https://openai.com/index/expanding-ai-access-us-government</guid>
     </item>
     <item>
-      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-    </item>
-    <item>
       <title>Introducing the Agents API</title>
       <link>https://openai.com/index/introducing-the-agents-api</link>
       <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
+    </item>
+    <item>
+      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
     </item>
     <item>
       <title>Paul Christiano joins OpenAI Foundation Board</title>
@@ -138,13 +145,6 @@
       <description>OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</guid>
-    </item>
-    <item>
-      <title>1Password increases engineering productivity 21% with Codex</title>
-      <link>https://openai.com/index/1password</link>
-      <description>Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/1password</guid>
     </item>
   </channel>
 </rss>
