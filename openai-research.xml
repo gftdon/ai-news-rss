@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:51:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:50:24 GMT</lastBuildDate>
     <item>
       <title>Helping older adults use AI in everyday life</title>
       <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
@@ -19,6 +19,13 @@
       <description>Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.</description>
       <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
+    </item>
+    <item>
+      <title>How to connect AI usage to business value</title>
+      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
+      <description>Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.</description>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
     </item>
     <item>
       <title>How workers are unlocking new ways of working</title>
@@ -84,18 +91,18 @@
       <guid isPermaLink="true">https://openai.com/index/expanding-ai-access-us-government</guid>
     </item>
     <item>
-      <title>Introducing the Agents API</title>
-      <link>https://openai.com/index/introducing-the-agents-api</link>
-      <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
-    </item>
-    <item>
       <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
       <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
       <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+    </item>
+    <item>
+      <title>Introducing the Agents API</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
     </item>
     <item>
       <title>Paul Christiano joins OpenAI Foundation Board</title>
@@ -138,13 +145,6 @@
       <description>ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.</description>
       <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-images-2-5</guid>
-    </item>
-    <item>
-      <title>On the Navier–Stokes Millennium Prize Problem</title>
-      <link>https://openai.com/index/navier-stokes-solution</link>
-      <description>We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.</description>
-      <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/navier-stokes-solution</guid>
     </item>
   </channel>
 </rss>
