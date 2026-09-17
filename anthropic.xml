@@ -5,7 +5,7 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:31:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:43:36 GMT</lastBuildDate>
     <item>
       <title>Introducing the Life Sciences Verification Program</title>
       <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
@@ -37,7 +37,7 @@
     <item>
       <title>Previewing the Model Hardware Standard</title>
       <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-      <description>[Announcements] We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.</description>
+      <description>[Announcements] Previewing the Model Hardware Standard</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
     </item>
@@ -82,13 +82,6 @@
       <description>[Announcements] Investigating three real-world incidents in our cybersecurity evaluations</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</guid>
-    </item>
-    <item>
-      <title>Introducing Claude Opus 5</title>
-      <link>https://www.anthropic.com/news/claude-opus-5</link>
-      <description>[Product] Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-5</guid>
     </item>
   </channel>
 </rss>
