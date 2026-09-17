@@ -5,152 +5,152 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:46:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:41:57 GMT</lastBuildDate>
     <item>
       <title>alibaba/open-code-review [Go] — 3,231 stars today</title>
       <link>https://github.com/alibaba/open-code-review</link>
       <description>[Go] Fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (3,231 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
     </item>
     <item>
       <title>cloudflare/security-audit-skill [JavaScript] — 927 stars today</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (927 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
       <title>JustVugg/colibri [C] — 1,546 stars today</title>
       <link>https://github.com/JustVugg/colibri</link>
       <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1,546 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
     </item>
     <item>
       <title>abue-ammar/tinycast [Swift] — 1,179 stars today</title>
       <link>https://github.com/abue-ammar/tinycast</link>
       <description>[Swift] Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (1,179 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/abue-ammar/tinycast</guid>
     </item>
     <item>
       <title>jamiepine/voicebox [TypeScript] — 417 stars today</title>
       <link>https://github.com/jamiepine/voicebox</link>
       <description>[TypeScript] The open-source AI voice studio. Clone, dictate, create. (417 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jamiepine/voicebox</guid>
     </item>
     <item>
       <title>Lakr233/vphone-cli [Swift] — 547 stars today</title>
       <link>https://github.com/Lakr233/vphone-cli</link>
       <description>[Swift] No description (547 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Lakr233/vphone-cli</guid>
     </item>
     <item>
       <title>anthropics/knowledge-work-plugins [Python] — 110 stars today</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
       <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (110 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
     </item>
     <item>
       <title>ever-co/ever-gauzy [TypeScript] — 778 stars today</title>
       <link>https://github.com/ever-co/ever-gauzy</link>
       <description>[TypeScript] Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co (778 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ever-co/ever-gauzy</guid>
     </item>
     <item>
       <title>ankitects/anki [Rust] — 58 stars today</title>
       <link>https://github.com/ankitects/anki</link>
       <description>[Rust] Anki is a smart spaced repetition flashcard program (58 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ankitects/anki</guid>
     </item>
     <item>
       <title>NationalSecurityAgency/ghidra [Java] — 1,059 stars today</title>
       <link>https://github.com/NationalSecurityAgency/ghidra</link>
       <description>[Java] Ghidra is a software reverse engineering (SRE) framework (1,059 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/NationalSecurityAgency/ghidra</guid>
     </item>
     <item>
       <title>anthropics/claude-code [TypeScript] — 165 stars today</title>
       <link>https://github.com/anthropics/claude-code</link>
       <description>[TypeScript] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (165 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
     </item>
     <item>
       <title>roboflow/supervision [Python] — 260 stars today</title>
       <link>https://github.com/roboflow/supervision</link>
       <description>[Python] We write your reusable computer vision tools. 💜 (260 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/roboflow/supervision</guid>
     </item>
     <item>
       <title>alphaXiv/OpenResearch [Rust] — 1,017 stars today</title>
       <link>https://github.com/alphaXiv/OpenResearch</link>
       <description>[Rust] Turn your coding agents into research agents (1,017 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/alphaXiv/OpenResearch</guid>
     </item>
     <item>
       <title>supabase/supabase [TypeScript] — 120 stars today</title>
       <link>https://github.com/supabase/supabase</link>
       <description>[TypeScript] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (120 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
     </item>
     <item>
       <title>rlaope/oh-my-hermes [Python] — 80 stars today</title>
       <link>https://github.com/rlaope/oh-my-hermes</link>
       <description>[Python] All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages (80 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/rlaope/oh-my-hermes</guid>
     </item>
     <item>
       <title>Tencent/WeKnora [Go] — 1,197 stars today</title>
       <link>https://github.com/Tencent/WeKnora</link>
       <description>[Go] Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (1,197 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
     </item>
     <item>
       <title>SnailSploit/Claude-Red [Python] — 367 stars today</title>
       <link>https://github.com/SnailSploit/Claude-Red</link>
       <description>[Python] claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (367 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/SnailSploit/Claude-Red</guid>
     </item>
     <item>
       <title>multimodal-art-projection/YuE [Python] — 332 stars today</title>
       <link>https://github.com/multimodal-art-projection/YuE</link>
       <description>[Python] YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. (332 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/multimodal-art-projection/YuE</guid>
     </item>
     <item>
       <title>addyosmani/agent-skills [JavaScript] — 658 stars today</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[JavaScript] Production-grade engineering skills for AI coding agents. (658 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
       <title>cline/cline [TypeScript] — 112 stars today</title>
       <link>https://github.com/cline/cline</link>
       <description>[TypeScript] Autonomous coding agent as an SDK, IDE extension, or CLI assistant. (112 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cline/cline</guid>
     </item>
     <item>
       <title>affaan-m/ECC [JavaScript] — 1,057 stars today</title>
       <link>https://github.com/affaan-m/ECC</link>
       <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1,057 stars today)</description>
-      <pubDate>Thu, 17 Sep 2026 04:46:46 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:41:57 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
     </item>
   </channel>
