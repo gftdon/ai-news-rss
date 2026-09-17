@@ -5,7 +5,14 @@
     <link>https://qwen.ai/research</link>
     <description>Latest research and model releases from Qwen (Alibaba Cloud)</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:31:25 GMT</lastBuildDate>
+    <item>
+      <title>Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery.</title>
+      <link>https://qwen.ai/blog?id=qwen3.8-omni-flash</link>
+      <description>Today, we are launching Qwen3.8-Omni-Flash, our next-generation native omnimodal model. Its core objective is to strengthen agent capabilities in real-world productivity scenarios, advancing omnimodal models from “understanding omnimodal content” to “planning tasks, calling tools, and completing ...</description>
+      <pubDate>Fri, 18 Sep 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-omni-flash</guid>
+    </item>
     <item>
       <title>E-Commerce Bench: Long-Horizon Operations, Multi-Dimensional Evaluation</title>
       <link>https://qwen.ai/blog?id=e-commerce-bench</link>
@@ -138,13 +145,6 @@
       <description>Following the launch of Qwen3.6-Plus, we are excited to open-source Qwen3.6-35B-A3B — a sparse yet remarkably capable mixture-of-experts (MoE) model with 35 billion total parameters and only 3 billion active parameters. Despite its efficiency, Qwen3.6-35B-A3B delivers outstanding agentic coding p...</description>
       <pubDate>Wed, 15 Apr 2026 02:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.6-35b-a3b</guid>
-    </item>
-    <item>
-      <title>Qwen3.6-Plus: Towards Real World Agents</title>
-      <link>https://qwen.ai/blog?id=qwen3.6</link>
-      <description>Following the release of the Qwen3.5 series in February, we are thrilled to announce the official launch of Qwen3.6-Plus. Available immediately via our API, this release represents a massive capability upgrade over its predecessor. Most notably, we have drastically enhanced the model&apos;s agentic co...</description>
-      <pubDate>Wed, 01 Apr 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.6</guid>
     </item>
   </channel>
 </rss>

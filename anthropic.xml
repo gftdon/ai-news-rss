@@ -5,7 +5,14 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:31:24 GMT</lastBuildDate>
+    <item>
+      <title>Introducing the Life Sciences Verification Program</title>
+      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+      <description>[Announcements] Introducing the Life Sciences Verification Program</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/life-sciences-verification-program</guid>
+    </item>
     <item>
       <title>Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
       <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
@@ -75,13 +82,6 @@
       <description>[Announcements] Investigating three real-world incidents in our cybersecurity evaluations</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</guid>
-    </item>
-    <item>
-      <title>Our position on open-weights models</title>
-      <link>https://www.anthropic.com/news/position-open-weights-models</link>
-      <description>[Announcements] Our position on open-weights models</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/position-open-weights-models</guid>
     </item>
     <item>
       <title>Introducing Claude Opus 5</title>
