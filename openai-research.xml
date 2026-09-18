@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:38:03 GMT</lastBuildDate>
+    <item>
+      <title>How Cooley is accelerating IPO work with ChatGPT</title>
+      <link>https://openai.com/index/cooley-gopublic</link>
+      <description>Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.</description>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/cooley-gopublic</guid>
+    </item>
     <item>
       <title>Introducing Astra for Law</title>
       <link>https://openai.com/index/astra-for-law</link>
@@ -138,13 +145,6 @@
       <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.</description>
       <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/gpt-6-astra-next-generation-work</guid>
-    </item>
-    <item>
-      <title>How GPT-5.6 Sol helps run quantum computing experiments</title>
-      <link>https://openai.com/index/codex-quantum-computing-experiments</link>
-      <description>See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.</description>
-      <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/codex-quantum-computing-experiments</guid>
     </item>
   </channel>
 </rss>
