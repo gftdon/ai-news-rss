@@ -5,124 +5,124 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:54:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:20:23 GMT</lastBuildDate>
     <item>
-      <title>cloudflare/security-audit-skill [JavaScript] — 3,607 stars today</title>
+      <title>cloudflare/security-audit-skill [JavaScript] — 3,019 stars today</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
-      <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3,607 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3,019 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
-      <title>anthropics/claude-code [TypeScript] — 538 stars today</title>
+      <title>anthropics/claude-code [TypeScript] — 442 stars today</title>
       <link>https://github.com/anthropics/claude-code</link>
-      <description>[TypeScript] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (538 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[TypeScript] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (442 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
     </item>
     <item>
-      <title>alibaba/open-code-review [Go] — 3,286 stars today</title>
+      <title>alibaba/open-code-review [Go] — 2,724 stars today</title>
       <link>https://github.com/alibaba/open-code-review</link>
-      <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (3,286 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (2,724 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
     </item>
     <item>
-      <title>affaan-m/ECC [JavaScript] — 1,171 stars today</title>
+      <title>affaan-m/ECC [JavaScript] — 965 stars today</title>
       <link>https://github.com/affaan-m/ECC</link>
-      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1,171 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (965 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
     </item>
     <item>
-      <title>Tencent/BrowserSkill [TypeScript] — 1,302 stars today</title>
+      <title>Tencent/BrowserSkill [TypeScript] — 1,319 stars today</title>
       <link>https://github.com/Tencent/BrowserSkill</link>
-      <description>[TypeScript] Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. (1,302 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[TypeScript] Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. (1,319 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Tencent/BrowserSkill</guid>
     </item>
     <item>
-      <title>addyosmani/agent-skills [JavaScript] — 680 stars today</title>
+      <title>addyosmani/agent-skills [JavaScript] — 677 stars today</title>
       <link>https://github.com/addyosmani/agent-skills</link>
-      <description>[JavaScript] Production-grade engineering skills for AI coding agents. (680 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[JavaScript] Production-grade engineering skills for AI coding agents. (677 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
-      <title>TencentCloud/Octop [Python] — 367 stars today</title>
+      <title>TencentCloud/Octop [Python] — 571 stars today</title>
       <link>https://github.com/TencentCloud/Octop</link>
-      <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (367 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (571 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/Octop</guid>
     </item>
     <item>
       <title>Fission-AI/OpenSpec [TypeScript] — 298 stars today</title>
       <link>https://github.com/Fission-AI/OpenSpec</link>
       <description>[TypeScript] Spec-driven development (SDD) for AI coding assistants. (298 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Fission-AI/OpenSpec</guid>
     </item>
     <item>
-      <title>ankitects/anki [Rust] — 430 stars today</title>
+      <title>ankitects/anki [Rust] — 177 stars today</title>
       <link>https://github.com/ankitects/anki</link>
-      <description>[Rust] Anki is a smart spaced repetition flashcard program (430 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[Rust] Anki is a smart spaced repetition flashcard program (177 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ankitects/anki</guid>
     </item>
     <item>
-      <title>anthropics/knowledge-work-plugins [Python] — 287 stars today</title>
+      <title>anthropics/knowledge-work-plugins [Python] — 300 stars today</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (287 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (300 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
     </item>
     <item>
       <title>supermemoryai/supermemory [TypeScript] — 140 stars today</title>
       <link>https://github.com/supermemoryai/supermemory</link>
       <description>[TypeScript] Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. (140 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/supermemoryai/supermemory</guid>
     </item>
     <item>
       <title>tradesdontlie/tradingview-mcp [JavaScript] — 64 stars today</title>
       <link>https://github.com/tradesdontlie/tradingview-mcp</link>
       <description>[JavaScript] AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation (64 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tradesdontlie/tradingview-mcp</guid>
     </item>
     <item>
-      <title>rustfs/rustfs [Rust] — 559 stars today</title>
+      <title>rustfs/rustfs [Rust] — 298 stars today</title>
       <link>https://github.com/rustfs/rustfs</link>
-      <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (559 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (298 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/rustfs/rustfs</guid>
     </item>
     <item>
-      <title>supabase/supabase [TypeScript] — 586 stars today</title>
+      <title>supabase/supabase [TypeScript] — 128 stars today</title>
       <link>https://github.com/supabase/supabase</link>
-      <description>[TypeScript] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (586 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[TypeScript] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (128 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
     </item>
     <item>
-      <title>coder/coder [Go] — 145 stars today</title>
+      <title>coder/coder [Go] — 478 stars today</title>
       <link>https://github.com/coder/coder</link>
-      <description>[Go] Secure environments for developers and their agents (145 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <description>[Go] Secure environments for developers and their agents (478 stars today)</description>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/coder/coder</guid>
     </item>
     <item>
       <title>ahmedkhaleel2004/gitdiagram [TypeScript] — 145 stars today</title>
       <link>https://github.com/ahmedkhaleel2004/gitdiagram</link>
       <description>[TypeScript] Free, simple, fast interactive diagrams for any GitHub repository (145 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ahmedkhaleel2004/gitdiagram</guid>
     </item>
     <item>
       <title>asciimoo/hister [Go] — 842 stars today</title>
       <link>https://github.com/asciimoo/hister</link>
       <description>[Go] Your own search engine (842 stars today)</description>
-      <pubDate>Fri, 18 Sep 2026 11:54:26 GMT</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:20:23 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/asciimoo/hister</guid>
     </item>
   </channel>
