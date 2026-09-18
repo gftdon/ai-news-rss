@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 21:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:40:10 GMT</lastBuildDate>
     <item>
       <title>How Cooley is accelerating IPO work with ChatGPT</title>
       <link>https://openai.com/index/cooley-gopublic</link>
@@ -40,6 +40,13 @@
       <description>Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.</description>
       <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
+    </item>
+    <item>
+      <title>Hex turns complex analysis into visual reports with GPT‑6 Astra</title>
+      <link>https://openai.com/index/hex-gpt-6-astra</link>
+      <description>GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.</description>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/hex-gpt-6-astra</guid>
     </item>
     <item>
       <title>How to connect AI usage to business value</title>
@@ -138,13 +145,6 @@
       <description>Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.</description>
       <pubDate>Wed, 09 Sep 2026 13:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/ai-policy-window</guid>
-    </item>
-    <item>
-      <title>GPT-6 Astra: The next generation in intelligence for work</title>
-      <link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
-      <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.</description>
-      <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-6-astra-next-generation-work</guid>
     </item>
   </channel>
 </rss>
