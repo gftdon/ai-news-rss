@@ -5,125 +5,111 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 06:42:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:38:25 GMT</lastBuildDate>
     <item>
       <title>cloudflare/security-audit-skill [JavaScript] — 3,006 stars today</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3,006 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
-      <title>anthropics/claude-code [TypeScript] — 444 stars today</title>
-      <link>https://github.com/anthropics/claude-code</link>
-      <description>[TypeScript] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (444 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-    </item>
-    <item>
-      <title>alibaba/open-code-review [Go] — 2,704 stars today</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (2,704 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
-    </item>
-    <item>
-      <title>affaan-m/ECC [JavaScript] — 958 stars today</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (958 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-    </item>
-    <item>
-      <title>Tencent/BrowserSkill [TypeScript] — 1,306 stars today</title>
-      <link>https://github.com/Tencent/BrowserSkill</link>
-      <description>[TypeScript] Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. (1,306 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Tencent/BrowserSkill</guid>
+      <title>trycua/cua [HTML] — 383 stars today</title>
+      <link>https://github.com/trycua/cua</link>
+      <description>[HTML] Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (383 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/trycua/cua</guid>
     </item>
     <item>
       <title>addyosmani/agent-skills [JavaScript] — 675 stars today</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[JavaScript] Production-grade engineering skills for AI coding agents. (675 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
-    </item>
-    <item>
-      <title>TencentCloud/Octop [Python] — 569 stars today</title>
-      <link>https://github.com/TencentCloud/Octop</link>
-      <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (569 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/TencentCloud/Octop</guid>
-    </item>
-    <item>
-      <title>Fission-AI/OpenSpec [TypeScript] — 296 stars today</title>
-      <link>https://github.com/Fission-AI/OpenSpec</link>
-      <description>[TypeScript] Spec-driven development (SDD) for AI coding assistants. (296 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Fission-AI/OpenSpec</guid>
-    </item>
-    <item>
-      <title>ankitects/anki [Rust] — 174 stars today</title>
-      <link>https://github.com/ankitects/anki</link>
-      <description>[Rust] Anki is a smart spaced repetition flashcard program (174 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ankitects/anki</guid>
-    </item>
-    <item>
-      <title>anthropics/knowledge-work-plugins [Python] — 299 stars today</title>
-      <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (299 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
-    </item>
-    <item>
-      <title>supermemoryai/supermemory [TypeScript] — 140 stars today</title>
-      <link>https://github.com/supermemoryai/supermemory</link>
-      <description>[TypeScript] Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. (140 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/supermemoryai/supermemory</guid>
-    </item>
-    <item>
-      <title>tradesdontlie/tradingview-mcp [JavaScript] — 79 stars today</title>
-      <link>https://github.com/tradesdontlie/tradingview-mcp</link>
-      <description>[JavaScript] AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation (79 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/tradesdontlie/tradingview-mcp</guid>
-    </item>
-    <item>
-      <title>rustfs/rustfs [Rust] — 267 stars today</title>
-      <link>https://github.com/rustfs/rustfs</link>
-      <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (267 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/rustfs/rustfs</guid>
-    </item>
-    <item>
-      <title>supabase/supabase [TypeScript] — 120 stars today</title>
-      <link>https://github.com/supabase/supabase</link>
-      <description>[TypeScript] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (120 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
     </item>
     <item>
       <title>coder/coder [Go] — 478 stars today</title>
       <link>https://github.com/coder/coder</link>
       <description>[Go] Secure environments for developers and their agents (478 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/coder/coder</guid>
     </item>
     <item>
-      <title>ahmedkhaleel2004/gitdiagram [TypeScript] — 152 stars today</title>
-      <link>https://github.com/ahmedkhaleel2004/gitdiagram</link>
-      <description>[TypeScript] Free, simple, fast interactive diagrams for any GitHub repository (152 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ahmedkhaleel2004/gitdiagram</guid>
+      <title>anthropics/claude-code [TypeScript] — 444 stars today</title>
+      <link>https://github.com/anthropics/claude-code</link>
+      <description>[TypeScript] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (444 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
+    </item>
+    <item>
+      <title>Open-Dev-Society/OpenStock [TypeScript] — 477 stars today</title>
+      <link>https://github.com/Open-Dev-Society/OpenStock</link>
+      <description>[TypeScript] OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. (477 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Open-Dev-Society/OpenStock</guid>
+    </item>
+    <item>
+      <title>higgsfield-ai/higgsfield [Jupyter Notebook] — 325 stars today</title>
+      <link>https://github.com/higgsfield-ai/higgsfield</link>
+      <description>[Jupyter Notebook] Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters (325 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/higgsfield-ai/higgsfield</guid>
+    </item>
+    <item>
+      <title>docling-project/docling [Python] — 94 stars today</title>
+      <link>https://github.com/docling-project/docling</link>
+      <description>[Python] Get your documents ready for gen AI (94 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/docling-project/docling</guid>
+    </item>
+    <item>
+      <title>cloudflare/quiche [Rust] — 5 stars today</title>
+      <link>https://github.com/cloudflare/quiche</link>
+      <description>[Rust] 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (5 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cloudflare/quiche</guid>
     </item>
     <item>
       <title>asciimoo/hister [Go] — 889 stars today</title>
       <link>https://github.com/asciimoo/hister</link>
       <description>[Go] Your own search engine (889 stars today)</description>
-      <pubDate>Sat, 19 Sep 2026 06:42:56 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/asciimoo/hister</guid>
+    </item>
+    <item>
+      <title>ruanyf/weekly — 144 stars today</title>
+      <link>https://github.com/ruanyf/weekly</link>
+      <description>科技爱好者周刊，每周五发布 (144 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ruanyf/weekly</guid>
+    </item>
+    <item>
+      <title>ZuodaoTech/everyone-can-use-english [TypeScript] — 31 stars today</title>
+      <link>https://github.com/ZuodaoTech/everyone-can-use-english</link>
+      <description>[TypeScript] 人人都能用英语 (31 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ZuodaoTech/everyone-can-use-english</guid>
+    </item>
+    <item>
+      <title>anthropics/knowledge-work-plugins [Python] — 299 stars today</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (299 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
+    </item>
+    <item>
+      <title>cactus-compute/needle [Python] — 207 stars today</title>
+      <link>https://github.com/cactus-compute/needle</link>
+      <description>[Python] Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers. (207 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cactus-compute/needle</guid>
+    </item>
+    <item>
+      <title>yynxxxxx/Codex-X [Rust] — 64 stars today</title>
+      <link>https://github.com/yynxxxxx/Codex-X</link>
+      <description>[Rust] OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 (64 stars today)</description>
+      <pubDate>Sat, 19 Sep 2026 11:38:25 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/yynxxxxx/Codex-X</guid>
     </item>
   </channel>
 </rss>
