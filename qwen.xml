@@ -5,7 +5,14 @@
     <link>https://qwen.ai/research</link>
     <description>Latest research and model releases from Qwen (Alibaba Cloud)</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:20:35 GMT</lastBuildDate>
+    <item>
+      <title>Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</title>
+      <link>https://qwen.ai/blog?id=qwen-image-2.1</link>
+      <description>We are excited to open-source Qwen-Image-2.1, an image model in the Qwen family that balances generation quality, inference efficiency, and cost. Qwen-Image-2.1 unifies text-to-image generation and image editing in a single model, with just 7B parameters in its visual generation component and nat...</description>
+      <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen-image-2.1</guid>
+    </item>
     <item>
       <title>Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning.</title>
       <link>https://qwen.ai/blog?id=qwen3.8-livetranslate</link>
@@ -138,13 +145,6 @@
       <description>Following the launch of Qwen3.6-Plus and Qwen3.6-35B-A3B, we are excited to open-source Qwen3.6-27B — a dense 27-billion-parameter multimodal model at the scale the community has been asking for most. Still supporting both multimodal thinking and non-thinking modes, Qwen3.6-27B delivers flagship-...</description>
       <pubDate>Wed, 22 Apr 2026 02:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.6-27b</guid>
-    </item>
-    <item>
-      <title>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</title>
-      <link>https://qwen.ai/blog?id=qwen3.6-max-preview</link>
-      <description>Following the release of Qwen3.6-Plus, we are sharing an early preview of our next proprietary model: Qwen3.6-Max-Preview. Compared to Qwen3.6-Plus, this preview release brings stronger world knowledge and instruction following, along with significant agentic coding improvements across a wide ran...</description>
-      <pubDate>Sat, 18 Apr 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.6-max-preview</guid>
     </item>
   </channel>
 </rss>
