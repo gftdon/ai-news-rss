@@ -5,7 +5,28 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 14:21:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 19:38:04 GMT</lastBuildDate>
+    <item>
+      <title>Advisory Group on Mathematics and Artificial Intelligence</title>
+      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
+      <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
+    </item>
+    <item>
+      <title>Building standards for the next phase of AI</title>
+      <link>https://openai.com/index/building-standards-next-phase-ai</link>
+      <description>OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</description>
+      <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/building-standards-next-phase-ai</guid>
+    </item>
+    <item>
+      <title>Expanding OpenAI Academy with new learning paths</title>
+      <link>https://openai.com/index/expanding-openai-academy-with-new-learning-paths</link>
+      <description>Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.</description>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/expanding-openai-academy-with-new-learning-paths</guid>
+    </item>
     <item>
       <title>How V7 gives AI agents institutional memory</title>
       <link>https://openai.com/index/v7</link>
@@ -124,27 +145,6 @@
       <description>Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.</description>
       <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-financial-services</guid>
-    </item>
-    <item>
-      <title>Expanding AI access and cyber defense for federal, state, local, and tribal governments</title>
-      <link>https://openai.com/index/expanding-ai-access-us-government</link>
-      <description>OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.</description>
-      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/expanding-ai-access-us-government</guid>
-    </item>
-    <item>
-      <title>Introducing the Agents API</title>
-      <link>https://openai.com/index/introducing-the-agents-api</link>
-      <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
-    </item>
-    <item>
-      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
     </item>
   </channel>
 </rss>
