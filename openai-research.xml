@@ -5,13 +5,27 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 20:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:02:28 GMT</lastBuildDate>
+    <item>
+      <title>Better prompt caching for GPT-6</title>
+      <link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
+      <description>Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.</description>
+      <pubDate>Tue, 22 Sep 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
+    </item>
     <item>
       <title>Introducing GPT-6 Sol and Luna</title>
       <link>https://openai.com/index/introducing-gpt-6-sol-and-luna</link>
       <description>Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.</description>
       <pubDate>Tue, 22 Sep 2026 18:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-sol-and-luna</guid>
+    </item>
+    <item>
+      <title>Parallel cut research time and cost in half with GPT‑6 Astra</title>
+      <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
+      <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.</description>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
     </item>
     <item>
       <title>Priorities and principles for effective third party assessments</title>
@@ -131,20 +145,6 @@
       <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</description>
       <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
-    </item>
-    <item>
-      <title>Cognition helps Devin test its own work with GPT‑6 Astra</title>
-      <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
-      <description>GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.</description>
-      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/cognition-devin-testing-with-astra</guid>
-    </item>
-    <item>
-      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
-      <description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.</description>
-      <pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
     </item>
   </channel>
 </rss>
