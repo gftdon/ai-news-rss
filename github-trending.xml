@@ -5,90 +5,62 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:45:49 GMT</lastBuildDate>
-    <item>
-      <title>BuilderIO/agent-native [TypeScript] — 607 stars today</title>
-      <link>https://github.com/BuilderIO/agent-native</link>
-      <description>[TypeScript] A framework for building agentic apps (607 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/BuilderIO/agent-native</guid>
-    </item>
-    <item>
-      <title>trycua/cua [HTML] — 609 stars today</title>
-      <link>https://github.com/trycua/cua</link>
-      <description>[HTML] Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (609 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/trycua/cua</guid>
-    </item>
-    <item>
-      <title>Open-Dev-Society/OpenStock [TypeScript] — 844 stars today</title>
-      <link>https://github.com/Open-Dev-Society/OpenStock</link>
-      <description>[TypeScript] OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. (844 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Open-Dev-Society/OpenStock</guid>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory [Rust] — 167 stars today</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <description>[Rust] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (167 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-    </item>
-    <item>
-      <title>coder/coder [Go] — 460 stars today</title>
-      <link>https://github.com/coder/coder</link>
-      <description>[Go] Secure environments for developers and their agents (460 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/coder/coder</guid>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 12:07:01 GMT</lastBuildDate>
     <item>
       <title>anthropics/financial-services [Python] — 424 stars today</title>
       <link>https://github.com/anthropics/financial-services</link>
       <description>[Python] No description (424 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 12:07:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
     </item>
     <item>
-      <title>cloudflare/quiche [Rust] — 32 stars today</title>
-      <link>https://github.com/cloudflare/quiche</link>
-      <description>[Rust] 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (32 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cloudflare/quiche</guid>
+      <title>agent-substrate/substrate [Go] — 498 stars today</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>[Go] Agent Substrate: the core system (498 stars today)</description>
+      <pubDate>Tue, 22 Sep 2026 12:07:01 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+    </item>
+    <item>
+      <title>dream-num/univer [TypeScript] — 202 stars today</title>
+      <link>https://github.com/dream-num/univer</link>
+      <description>[TypeScript] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. (202 stars today)</description>
+      <pubDate>Tue, 22 Sep 2026 12:07:01 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
+    </item>
+    <item>
+      <title>davila7/claude-code-templates [Python] — 33 stars today</title>
+      <link>https://github.com/davila7/claude-code-templates</link>
+      <description>[Python] CLI tool for configuring and monitoring Claude Code (33 stars today)</description>
+      <pubDate>Tue, 22 Sep 2026 12:07:01 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/davila7/claude-code-templates</guid>
+    </item>
+    <item>
+      <title>google/ax [Go] — 2,324 stars today</title>
+      <link>https://github.com/google/ax</link>
+      <description>Google&apos;s open agentic orchestration runtime (2,324 stars today)</description>
+      <pubDate>Tue, 22 Sep 2026 12:07:01 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/google/ax</guid>
     </item>
     <item>
       <title>mvt-project/mvt [Python] — 169 stars today</title>
       <link>https://github.com/mvt-project/mvt</link>
       <description>[Python] MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. (169 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 12:07:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mvt-project/mvt</guid>
     </item>
     <item>
-      <title>zhouxiaoka/autoclip [Python] — 250 stars today</title>
-      <link>https://github.com/zhouxiaoka/autoclip</link>
-      <description>[Python] AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 (250 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:48 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/zhouxiaoka/autoclip</guid>
+      <title>superdesigndev/treg [Python] — 197 stars today</title>
+      <link>https://github.com/superdesigndev/treg</link>
+      <description>[Python] OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (197 stars today)</description>
+      <pubDate>Tue, 22 Sep 2026 12:07:01 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/superdesigndev/treg</guid>
     </item>
     <item>
-      <title>ruanyf/weekly — 182 stars today</title>
-      <link>https://github.com/ruanyf/weekly</link>
-      <description>科技爱好者周刊，每周五发布 (182 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:49 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ruanyf/weekly</guid>
-    </item>
-    <item>
-      <title>Crosstalk-Solutions/project-nomad [TypeScript] — 394 stars today</title>
-      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-      <description>[TypeScript] Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. (394 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:49 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
-    </item>
-    <item>
-      <title>yynxxxxx/Codex-X [Rust] — 50 stars today</title>
-      <link>https://github.com/yynxxxxx/Codex-X</link>
-      <description>[Rust] OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 (50 stars today)</description>
-      <pubDate>Tue, 22 Sep 2026 06:45:49 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/yynxxxxx/Codex-X</guid>
+      <title>browser-use/video-use [Python] — 155 stars today</title>
+      <link>https://github.com/browser-use/video-use</link>
+      <description>[Python] Edit videos with coding agents (155 stars today)</description>
+      <pubDate>Tue, 22 Sep 2026 12:07:01 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/browser-use/video-use</guid>
     </item>
   </channel>
 </rss>
