@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:09:55 GMT</lastBuildDate>
     <item>
-      <title>Advisory Group on Mathematics and Artificial Intelligence</title>
-      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
-      <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
+      <title>Introducing GPT-6 Sol and Luna</title>
+      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna</link>
+      <description>Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.</description>
+      <pubDate>Tue, 22 Sep 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-sol-and-luna</guid>
+    </item>
+    <item>
+      <title>Priorities and principles for effective third party assessments</title>
+      <link>https://openai.com/index/priorities-principles-third-party-assessments</link>
+      <description>OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/priorities-principles-third-party-assessments</guid>
     </item>
     <item>
       <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
@@ -19,6 +26,13 @@
       <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
       <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
+    </item>
+    <item>
+      <title>Advisory Group on Mathematics and Artificial Intelligence</title>
+      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
+      <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
     </item>
     <item>
       <title>Building standards for the next phase of AI</title>
@@ -131,20 +145,6 @@
       <description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.</description>
       <pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
-    </item>
-    <item>
-      <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
-      <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
-      <description>César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.</description>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
-    </item>
-    <item>
-      <title>Now everyone can put data to work</title>
-      <link>https://openai.com/index/put-data-to-work</link>
-      <description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.</description>
-      <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
     </item>
   </channel>
 </rss>
