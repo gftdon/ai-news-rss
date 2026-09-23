@@ -5,62 +5,125 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:37:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:20:51 GMT</lastBuildDate>
     <item>
-      <title>anthropics/financial-services [Python] — 438 stars today</title>
+      <title>anthropics/financial-services [Python] — 665 stars today</title>
       <link>https://github.com/anthropics/financial-services</link>
-      <description>[Python] No description (438 stars today)</description>
-      <pubDate>Wed, 23 Sep 2026 06:37:41 GMT</pubDate>
+      <description>[Python] No description (665 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
     </item>
     <item>
-      <title>agent-substrate/substrate [Go] — 245 stars today</title>
-      <link>https://github.com/agent-substrate/substrate</link>
-      <description>[Go] Agent Substrate: the core system (245 stars today)</description>
-      <pubDate>Wed, 23 Sep 2026 06:37:41 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
-    </item>
-    <item>
-      <title>dream-num/univer [TypeScript] — 255 stars today</title>
-      <link>https://github.com/dream-num/univer</link>
-      <description>[TypeScript] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. (255 stars today)</description>
-      <pubDate>Wed, 23 Sep 2026 06:37:41 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
-    </item>
-    <item>
-      <title>davila7/claude-code-templates [Python] — 64 stars today</title>
-      <link>https://github.com/davila7/claude-code-templates</link>
-      <description>[Python] CLI tool for configuring and monitoring Claude Code (64 stars today)</description>
-      <pubDate>Wed, 23 Sep 2026 06:37:41 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/davila7/claude-code-templates</guid>
-    </item>
-    <item>
-      <title>google/ax [Go] — 2,305 stars today</title>
+      <title>google/ax [Go] — 1,542 stars today</title>
       <link>https://github.com/google/ax</link>
-      <description>Google&apos;s open agentic orchestration runtime (2,305 stars today)</description>
-      <pubDate>Wed, 23 Sep 2026 06:37:41 GMT</pubDate>
+      <description>Google&apos;s open agentic orchestration runtime (1,542 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/google/ax</guid>
     </item>
     <item>
-      <title>mvt-project/mvt [Python] — 441 stars today</title>
-      <link>https://github.com/mvt-project/mvt</link>
-      <description>[Python] MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. (441 stars today)</description>
-      <pubDate>Wed, 23 Sep 2026 06:37:41 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mvt-project/mvt</guid>
+      <title>davila7/claude-code-templates [Python] — 393 stars today</title>
+      <link>https://github.com/davila7/claude-code-templates</link>
+      <description>[Python] CLI tool for configuring and monitoring Claude Code (393 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/davila7/claude-code-templates</guid>
     </item>
     <item>
-      <title>superdesigndev/treg [Python] — 230 stars today</title>
+      <title>BuilderIO/agent-native [TypeScript] — 609 stars today</title>
+      <link>https://github.com/BuilderIO/agent-native</link>
+      <description>[TypeScript] A framework for building agentic apps (609 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/BuilderIO/agent-native</guid>
+    </item>
+    <item>
+      <title>obra/superpowers [Shell] — 528 stars today</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (528 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+    </item>
+    <item>
+      <title>dream-num/univer [TypeScript] — 1,140 stars today</title>
+      <link>https://github.com/dream-num/univer</link>
+      <description>[TypeScript] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. (1,140 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
+    </item>
+    <item>
+      <title>Open-Dev-Society/OpenStock [TypeScript] — 832 stars today</title>
+      <link>https://github.com/Open-Dev-Society/OpenStock</link>
+      <description>[TypeScript] OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. (832 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Open-Dev-Society/OpenStock</guid>
+    </item>
+    <item>
+      <title>agent-substrate/substrate [Go] — 560 stars today</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <description>[Go] Agent Substrate: the core system (560 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
+    </item>
+    <item>
+      <title>strands-agents/harness-sdk [Python] — 96 stars today</title>
+      <link>https://github.com/strands-agents/harness-sdk</link>
+      <description>Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud. (96 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/strands-agents/harness-sdk</guid>
+    </item>
+    <item>
+      <title>HKUDS/CLI-Anything [Python] — 41 stars today</title>
+      <link>https://github.com/HKUDS/CLI-Anything</link>
+      <description>[Python] &quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/ (41 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
+    </item>
+    <item>
+      <title>superdesigndev/treg [Python] — 502 stars today</title>
       <link>https://github.com/superdesigndev/treg</link>
-      <description>[Python] OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (230 stars today)</description>
-      <pubDate>Wed, 23 Sep 2026 06:37:41 GMT</pubDate>
+      <description>[Python] OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (502 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/superdesigndev/treg</guid>
     </item>
     <item>
-      <title>browser-use/video-use [Python] — 191 stars today</title>
+      <title>pbakaus/impeccable [JavaScript] — 287 stars today</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <description>[JavaScript] The design language that makes your AI harness better at design. (287 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+    </item>
+    <item>
+      <title>mvt-project/mvt [Python] — 546 stars today</title>
+      <link>https://github.com/mvt-project/mvt</link>
+      <description>[Python] MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. (546 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mvt-project/mvt</guid>
+    </item>
+    <item>
+      <title>DeusData/codebase-memory-mcp [C] — 201 stars today</title>
+      <link>https://github.com/DeusData/codebase-memory-mcp</link>
+      <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (201 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/DeusData/codebase-memory-mcp</guid>
+    </item>
+    <item>
+      <title>harry7557558/spirula-studio [C++] — 86 stars today</title>
+      <link>https://github.com/harry7557558/spirula-studio</link>
+      <description>[C++] Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA. (86 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/harry7557558/spirula-studio</guid>
+    </item>
+    <item>
+      <title>browser-use/video-use [Python] — 745 stars today</title>
       <link>https://github.com/browser-use/video-use</link>
-      <description>[Python] Edit videos with coding agents (191 stars today)</description>
-      <pubDate>Wed, 23 Sep 2026 06:37:41 GMT</pubDate>
+      <description>[Python] Edit videos with coding agents (745 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/browser-use/video-use</guid>
+    </item>
+    <item>
+      <title>TNT-Likely/PanWatch [Python] — 175 stars today</title>
+      <link>https://github.com/TNT-Likely/PanWatch</link>
+      <description>[Python] 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 (175 stars today)</description>
+      <pubDate>Wed, 23 Sep 2026 12:20:51 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/TNT-Likely/PanWatch</guid>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:20:50 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI extends cyber access to Ukraine for civilian defense</title>
+      <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
+      <description>OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.</description>
+      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
+    </item>
+    <item>
+      <title>Grab and OpenAI bring practical AI skills to Southeast Asia</title>
+      <link>https://openai.com/index/grab-openai-ai-skills-southeast-asia</link>
+      <description>OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/grab-openai-ai-skills-southeast-asia</guid>
+    </item>
     <item>
       <title>Better prompt caching for GPT-6</title>
       <link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
@@ -131,20 +145,6 @@
       <description>New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.</description>
       <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/unlocking-new-ways-of-working</guid>
-    </item>
-    <item>
-      <title>How Fyxer built an AI executive assistant people trust</title>
-      <link>https://openai.com/index/fyxer</link>
-      <description>Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.</description>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/fyxer</guid>
-    </item>
-    <item>
-      <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
-      <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
-      <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
     </item>
   </channel>
 </rss>
