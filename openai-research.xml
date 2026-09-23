@@ -5,14 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:19:27 GMT</lastBuildDate>
-    <item>
-      <title>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
-      <link>https://openai.com/index/ringg</link>
-      <description>Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.</description>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/ringg</guid>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 23:07:06 GMT</lastBuildDate>
     <item>
       <title>Two years of OpenAI Academy</title>
       <link>https://openai.com/index/two-years-of-openai-academy</link>
@@ -26,6 +19,48 @@
       <description>OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.</description>
       <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
+    </item>
+    <item>
+      <title>Sam Altman’s remarks at the United Nations Security Council</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.</description>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+    </item>
+    <item>
+      <title>Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <description>GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.</description>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+    </item>
+    <item>
+      <title>How invideo improves color grading 3x with GPT‑6 Astra</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <description>With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.</description>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+    </item>
+    <item>
+      <title>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
+      <link>https://openai.com/index/ringg</link>
+      <description>Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.</description>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/ringg</guid>
+    </item>
+    <item>
+      <title>Introducing MentalHealthBench</title>
+      <link>https://openai.com/index/introducing-mentalhealthbench</link>
+      <description>MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.</description>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-mentalhealthbench</guid>
+    </item>
+    <item>
+      <title>Airbnb widens access to GPT-6 Astra and OpenAI frontier models</title>
+      <link>https://openai.com/index/airbnb-gpt-6-astra</link>
+      <description>Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.</description>
+      <pubDate>Wed, 23 Sep 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/airbnb-gpt-6-astra</guid>
     </item>
     <item>
       <title>Grab and OpenAI bring practical AI skills to Southeast Asia</title>
@@ -63,18 +98,18 @@
       <guid isPermaLink="true">https://openai.com/index/priorities-principles-third-party-assessments</guid>
     </item>
     <item>
-      <title>Advisory Group on Mathematics and Artificial Intelligence</title>
-      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
-      <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
-    </item>
-    <item>
       <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
       <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
       <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
       <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
+    </item>
+    <item>
+      <title>Advisory Group on Mathematics and Artificial Intelligence</title>
+      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
+      <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
     </item>
     <item>
       <title>Building standards for the next phase of AI</title>
@@ -110,41 +145,6 @@
       <description>Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.</description>
       <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/cooley-gopublic</guid>
-    </item>
-    <item>
-      <title>Introducing Astra for Law</title>
-      <link>https://openai.com/index/astra-for-law</link>
-      <description>OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/astra-for-law</guid>
-    </item>
-    <item>
-      <title>Our framework for reporting model misalignment</title>
-      <link>https://openai.com/index/model-misalignment-reporting-framework</link>
-      <description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.</description>
-      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
-    </item>
-    <item>
-      <title>Helping older adults use AI in everyday life</title>
-      <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
-      <description>OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.</description>
-      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
-    </item>
-    <item>
-      <title>Reimagining advertising with AI</title>
-      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
-      <description>Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.</description>
-      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
-    </item>
-    <item>
-      <title>Hex turns complex analysis into visual reports with GPT‑6 Astra</title>
-      <link>https://openai.com/index/hex-gpt-6-astra</link>
-      <description>GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.</description>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/hex-gpt-6-astra</guid>
     </item>
   </channel>
 </rss>

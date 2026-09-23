@@ -5,7 +5,14 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:19:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:07:05 GMT</lastBuildDate>
+    <item>
+      <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
+      <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+      <description>[Science] Claude discovers a novel enzyme system with CRISPR-like repeats</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
+    </item>
     <item>
       <title>Introducing Claude Opus 5.5</title>
       <link>https://www.anthropic.com/claude-opus-5-5</link>
@@ -82,13 +89,6 @@
       <description>[Product] Improving Fable 5&apos;s biology safeguards</description>
       <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
-    </item>
-    <item>
-      <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
-      <link>https://www.anthropic.com/news/tino-cuellar</link>
-      <description>[Announcements] Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/tino-cuellar</guid>
     </item>
   </channel>
 </rss>
