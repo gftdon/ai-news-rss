@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:19:27 GMT</lastBuildDate>
+    <item>
+      <title>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
+      <link>https://openai.com/index/ringg</link>
+      <description>Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.</description>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/ringg</guid>
+    </item>
+    <item>
+      <title>Two years of OpenAI Academy</title>
+      <link>https://openai.com/index/two-years-of-openai-academy</link>
+      <description>Marking two years of OpenAI Academy and bringing AI skills to even more communities.</description>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/two-years-of-openai-academy</guid>
+    </item>
     <item>
       <title>OpenAI extends cyber access to Ukraine for civilian defense</title>
       <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
@@ -49,18 +63,18 @@
       <guid isPermaLink="true">https://openai.com/index/priorities-principles-third-party-assessments</guid>
     </item>
     <item>
-      <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
-      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
-      <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
-    </item>
-    <item>
       <title>Advisory Group on Mathematics and Artificial Intelligence</title>
       <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
       <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
       <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
+    </item>
+    <item>
+      <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
+      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
+      <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
     </item>
     <item>
       <title>Building standards for the next phase of AI</title>
@@ -131,20 +145,6 @@
       <description>GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.</description>
       <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/hex-gpt-6-astra</guid>
-    </item>
-    <item>
-      <title>How to connect AI usage to business value</title>
-      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
-      <description>Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.</description>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
-    </item>
-    <item>
-      <title>How workers are unlocking new ways of working</title>
-      <link>https://openai.com/index/unlocking-new-ways-of-working</link>
-      <description>New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.</description>
-      <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/unlocking-new-ways-of-working</guid>
     </item>
   </channel>
 </rss>
