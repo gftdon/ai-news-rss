@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 23:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:23:29 GMT</lastBuildDate>
     <item>
       <title>Two years of OpenAI Academy</title>
       <link>https://openai.com/index/two-years-of-openai-academy</link>
@@ -98,18 +98,18 @@
       <guid isPermaLink="true">https://openai.com/index/priorities-principles-third-party-assessments</guid>
     </item>
     <item>
-      <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
-      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
-      <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
-    </item>
-    <item>
       <title>Advisory Group on Mathematics and Artificial Intelligence</title>
       <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
       <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
       <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
+    </item>
+    <item>
+      <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
+      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
+      <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
     </item>
     <item>
       <title>Building standards for the next phase of AI</title>
