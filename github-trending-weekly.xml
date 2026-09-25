@@ -5,145 +5,145 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 23:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 01:53:20 GMT</lastBuildDate>
     <item>
-      <title>anthropics/financial-services [Python] — 1,895 stars this week</title>
+      <title>anthropics/financial-services [Python] — 2,382 stars this week</title>
       <link>https://github.com/anthropics/financial-services</link>
-      <description>[Python] No description (1,895 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Python] No description (2,382 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
     </item>
     <item>
-      <title>alibaba/open-code-review [Go] — 9,833 stars this week</title>
+      <title>alibaba/open-code-review [Go] — 6,920 stars this week</title>
       <link>https://github.com/alibaba/open-code-review</link>
-      <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (9,833 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (6,920 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
     </item>
     <item>
-      <title>anthropics/claude-code [TypeScript] — 2,762 stars this week</title>
+      <title>anthropics/claude-code [TypeScript] — 2,384 stars this week</title>
       <link>https://github.com/anthropics/claude-code</link>
-      <description>[TypeScript] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2,762 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[TypeScript] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2,384 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
     </item>
     <item>
-      <title>affaan-m/ECC [JavaScript] — 6,695 stars this week</title>
+      <title>affaan-m/ECC [JavaScript] — 6,193 stars this week</title>
       <link>https://github.com/affaan-m/ECC</link>
-      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (6,695 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (6,193 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
     </item>
     <item>
-      <title>Tencent/WeKnora [Go] — 4,522 stars this week</title>
+      <title>Tencent/WeKnora [Go] — 3,749 stars this week</title>
       <link>https://github.com/Tencent/WeKnora</link>
-      <description>[Go] Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (4,522 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Go] Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (3,749 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
     </item>
     <item>
-      <title>addyosmani/agent-skills [JavaScript] — 3,867 stars this week</title>
+      <title>addyosmani/agent-skills [JavaScript] — 3,345 stars this week</title>
       <link>https://github.com/addyosmani/agent-skills</link>
-      <description>[JavaScript] Production-grade engineering skills for AI coding agents. (3,867 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[JavaScript] Production-grade engineering skills for AI coding agents. (3,345 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
-      <title>anthropics/knowledge-work-plugins [Python] — 1,358 stars this week</title>
+      <title>anthropics/knowledge-work-plugins [Python] — 1,118 stars this week</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (1,358 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (1,118 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
     </item>
     <item>
-      <title>stablyai/orca [TypeScript] — 6,435 stars this week</title>
+      <title>stablyai/orca [TypeScript] — 6,547 stars this week</title>
       <link>https://github.com/stablyai/orca</link>
-      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (6,435 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (6,547 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
     </item>
     <item>
-      <title>TencentCloud/Octop [Python] — 1,877 stars this week</title>
+      <title>TencentCloud/Octop [Python] — 1,608 stars this week</title>
       <link>https://github.com/TencentCloud/Octop</link>
-      <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (1,877 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (1,608 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/Octop</guid>
     </item>
     <item>
-      <title>davila7/claude-code-templates [Python] — 613 stars this week</title>
+      <title>davila7/claude-code-templates [Python] — 965 stars this week</title>
       <link>https://github.com/davila7/claude-code-templates</link>
-      <description>[Python] CLI tool for configuring and monitoring Claude Code (613 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Python] CLI tool for configuring and monitoring Claude Code (965 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/davila7/claude-code-templates</guid>
     </item>
     <item>
-      <title>JustVugg/colibri [C] — 2,739 stars this week</title>
+      <title>JustVugg/colibri [C] — 2,055 stars this week</title>
       <link>https://github.com/JustVugg/colibri</link>
-      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (2,739 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (2,055 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
     </item>
     <item>
-      <title>vectorize-io/hindsight [Python] — 3,181 stars this week</title>
+      <title>vectorize-io/hindsight [Python] — 3,363 stars this week</title>
       <link>https://github.com/vectorize-io/hindsight</link>
-      <description>[Python] Hindsight: Agent Memory That Learns (3,181 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Python] Hindsight: Agent Memory That Learns (3,363 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
     </item>
     <item>
-      <title>cloudflare/quiche [Rust] — 707 stars this week</title>
+      <title>cloudflare/quiche [Rust] — 741 stars this week</title>
       <link>https://github.com/cloudflare/quiche</link>
-      <description>[Rust] 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (707 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Rust] 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (741 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/quiche</guid>
     </item>
     <item>
-      <title>Fission-AI/OpenSpec [TypeScript] — 1,538 stars this week</title>
+      <title>Fission-AI/OpenSpec [TypeScript] — 1,415 stars this week</title>
       <link>https://github.com/Fission-AI/OpenSpec</link>
-      <description>[TypeScript] Spec-driven development (SDD) for AI coding assistants. (1,538 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[TypeScript] Spec-driven development (SDD) for AI coding assistants. (1,415 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Fission-AI/OpenSpec</guid>
     </item>
     <item>
-      <title>akitaonrails/ai-memory [Rust] — 1,208 stars this week</title>
+      <title>akitaonrails/ai-memory [Rust] — 1,243 stars this week</title>
       <link>https://github.com/akitaonrails/ai-memory</link>
-      <description>[Rust] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (1,208 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Rust] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (1,243 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
     </item>
     <item>
-      <title>pytorch/pytorch [Python] — 196 stars this week</title>
+      <title>pytorch/pytorch [Python] — 228 stars this week</title>
       <link>https://github.com/pytorch/pytorch</link>
-      <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration (196 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration (228 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pytorch/pytorch</guid>
     </item>
     <item>
-      <title>cline/cline [TypeScript] — 1,177 stars this week</title>
+      <title>cline/cline [TypeScript] — 855 stars this week</title>
       <link>https://github.com/cline/cline</link>
-      <description>[TypeScript] Autonomous coding agent as an SDK, IDE extension, or CLI assistant. (1,177 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[TypeScript] Autonomous coding agent as an SDK, IDE extension, or CLI assistant. (855 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cline/cline</guid>
     </item>
     <item>
-      <title>LibreChat-AI/LibreChat [TypeScript] — 949 stars this week</title>
+      <title>LibreChat-AI/LibreChat [TypeScript] — 743 stars this week</title>
       <link>https://github.com/LibreChat-AI/LibreChat</link>
-      <description>[TypeScript] Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active (949 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[TypeScript] Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active (743 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/LibreChat-AI/LibreChat</guid>
     </item>
     <item>
-      <title>superdesigndev/treg [Python] — 1,067 stars this week</title>
+      <title>superdesigndev/treg [Python] — 1,406 stars this week</title>
       <link>https://github.com/superdesigndev/treg</link>
-      <description>[Python] OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (1,067 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Python] OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (1,406 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/superdesigndev/treg</guid>
     </item>
     <item>
-      <title>cilium/cilium [Go] — 447 stars this week</title>
+      <title>cilium/cilium [Go] — 362 stars this week</title>
       <link>https://github.com/cilium/cilium</link>
-      <description>[Go] eBPF-based Networking, Security, and Observability (447 stars this week)</description>
-      <pubDate>Thu, 24 Sep 2026 23:35:03 GMT</pubDate>
+      <description>[Go] eBPF-based Networking, Security, and Observability (362 stars this week)</description>
+      <pubDate>Fri, 25 Sep 2026 01:53:20 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cilium/cilium</guid>
     </item>
   </channel>
