@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:56:01 GMT</lastBuildDate>
+    <item>
+      <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+      <link>https://openai.com/index/proaction</link>
+      <description>With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.</description>
+      <pubDate>Fri, 25 Sep 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/proaction</guid>
+    </item>
     <item>
       <title>Two years of OpenAI Academy</title>
       <link>https://openai.com/index/two-years-of-openai-academy</link>
@@ -138,13 +145,6 @@
       <description>Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.</description>
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/v7</guid>
-    </item>
-    <item>
-      <title>Introducing the Australian Youth Safety Blueprint</title>
-      <link>https://openai.com/index/australian-youth-safety-blueprint</link>
-      <description>OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.</description>
-      <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/australian-youth-safety-blueprint</guid>
     </item>
   </channel>
 </rss>

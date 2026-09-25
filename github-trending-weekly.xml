@@ -5,152 +5,152 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:56:01 GMT</lastBuildDate>
     <item>
       <title>cloudflare/security-audit-skill [JavaScript] — 11,262 stars this week</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (11,262 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
       <title>anthropics/financial-services [Python] — 2,382 stars this week</title>
       <link>https://github.com/anthropics/financial-services</link>
       <description>[Python] No description (2,382 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
     </item>
     <item>
       <title>anthropics/claude-code [TypeScript] — 2,384 stars this week</title>
       <link>https://github.com/anthropics/claude-code</link>
       <description>[TypeScript] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2,384 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
     </item>
     <item>
       <title>alibaba/open-code-review [Go] — 6,920 stars this week</title>
       <link>https://github.com/alibaba/open-code-review</link>
       <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (6,920 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
     </item>
     <item>
       <title>affaan-m/ECC [JavaScript] — 6,193 stars this week</title>
       <link>https://github.com/affaan-m/ECC</link>
       <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (6,193 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
     </item>
     <item>
       <title>Tencent/WeKnora [Go] — 3,749 stars this week</title>
       <link>https://github.com/Tencent/WeKnora</link>
       <description>[Go] Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (3,749 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
     </item>
     <item>
       <title>addyosmani/agent-skills [JavaScript] — 3,345 stars this week</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[JavaScript] Production-grade engineering skills for AI coding agents. (3,345 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
       <title>stablyai/orca [TypeScript] — 6,547 stars this week</title>
       <link>https://github.com/stablyai/orca</link>
       <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (6,547 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
     </item>
     <item>
       <title>vectorize-io/hindsight [Python] — 3,363 stars this week</title>
       <link>https://github.com/vectorize-io/hindsight</link>
       <description>[Python] Hindsight: Agent Memory That Learns (3,363 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
     </item>
     <item>
       <title>anthropics/knowledge-work-plugins [Python] — 1,118 stars this week</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
       <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (1,118 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
     </item>
     <item>
       <title>davila7/claude-code-templates [Python] — 965 stars this week</title>
       <link>https://github.com/davila7/claude-code-templates</link>
       <description>[Python] CLI tool for configuring and monitoring Claude Code (965 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/davila7/claude-code-templates</guid>
     </item>
     <item>
       <title>paperclipai/paperclip [TypeScript] — 2,321 stars this week</title>
       <link>https://github.com/paperclipai/paperclip</link>
       <description>[TypeScript] The open-source app everyone uses to manage agents at work (2,321 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
     </item>
     <item>
       <title>pytorch/pytorch [Python] — 228 stars this week</title>
       <link>https://github.com/pytorch/pytorch</link>
       <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration (228 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pytorch/pytorch</guid>
     </item>
     <item>
       <title>TencentCloud/Octop [Python] — 1,608 stars this week</title>
       <link>https://github.com/TencentCloud/Octop</link>
       <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (1,608 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/Octop</guid>
     </item>
     <item>
       <title>cloudflare/quiche [Rust] — 741 stars this week</title>
       <link>https://github.com/cloudflare/quiche</link>
       <description>[Rust] 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (741 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/quiche</guid>
     </item>
     <item>
       <title>Fission-AI/OpenSpec [TypeScript] — 1,415 stars this week</title>
       <link>https://github.com/Fission-AI/OpenSpec</link>
       <description>[TypeScript] Spec-driven development (SDD) for AI coding assistants. (1,415 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Fission-AI/OpenSpec</guid>
     </item>
     <item>
       <title>HKUDS/CLI-Anything [Python] — 964 stars this week</title>
       <link>https://github.com/HKUDS/CLI-Anything</link>
       <description>[Python] &quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/ (964 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
     </item>
     <item>
       <title>superdesigndev/treg [Python] — 1,406 stars this week</title>
       <link>https://github.com/superdesigndev/treg</link>
       <description>[Python] OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (1,406 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/superdesigndev/treg</guid>
     </item>
     <item>
       <title>cline/cline [TypeScript] — 855 stars this week</title>
       <link>https://github.com/cline/cline</link>
       <description>[TypeScript] Autonomous coding agent as an SDK, IDE extension, or CLI assistant. (855 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cline/cline</guid>
     </item>
     <item>
       <title>odoo/odoo [Python] — 165 stars this week</title>
       <link>https://github.com/odoo/odoo</link>
       <description>[Python] Odoo. Open Source Apps To Grow Your Business. (165 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/odoo/odoo</guid>
     </item>
     <item>
       <title>bojieli/ai-agent-book [Python] — 2,481 stars this week</title>
       <link>https://github.com/bojieli/ai-agent-book</link>
       <description>[Python] 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (2,481 stars this week)</description>
-      <pubDate>Fri, 25 Sep 2026 13:02:19 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 17:56:01 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bojieli/ai-agent-book</guid>
     </item>
   </channel>
