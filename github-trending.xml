@@ -5,118 +5,111 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 09:57:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:25:10 GMT</lastBuildDate>
     <item>
-      <title>paperclipai/paperclip [TypeScript] — 2,109 stars today</title>
+      <title>paperclipai/paperclip [TypeScript] — 2,589 stars today</title>
       <link>https://github.com/paperclipai/paperclip</link>
-      <description>[TypeScript] The open-source app everyone uses to manage agents at work (2,109 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
+      <description>[TypeScript] The open-source app everyone uses to manage agents at work (2,589 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
     </item>
     <item>
-      <title>anthropics/claude-plugins-official [Python] — 83 stars today</title>
-      <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>[Python] Official, Anthropic-managed directory of high quality Claude Code Plugins. (83 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-    </item>
-    <item>
-      <title>vectorize-io/hindsight [Python] — 1,653 stars today</title>
+      <title>vectorize-io/hindsight [Python] — 2,152 stars today</title>
       <link>https://github.com/vectorize-io/hindsight</link>
-      <description>[Python] Hindsight: Agent Memory That Learns (1,653 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
+      <description>[Python] Hindsight: Agent Memory That Learns (2,152 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
     </item>
     <item>
-      <title>obra/superpowers [Shell] — 468 stars today</title>
-      <link>https://github.com/obra/superpowers</link>
-      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (468 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-    </item>
-    <item>
-      <title>mattpocock/skills [Shell] — 583 stars today</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (583 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-    </item>
-    <item>
-      <title>dream-num/univer [TypeScript] — 1,050 stars today</title>
-      <link>https://github.com/dream-num/univer</link>
-      <description>[TypeScript] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. (1,050 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
-    </item>
-    <item>
-      <title>anthropics/skills [Python] — 189 stars today</title>
-      <link>https://github.com/anthropics/skills</link>
-      <description>[Python] Public repository for Agent Skills (189 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
-    </item>
-    <item>
-      <title>androoAGI/starnet [JavaScript] — 93 stars today</title>
-      <link>https://github.com/androoAGI/starnet</link>
-      <description>[JavaScript] A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. (93 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/androoAGI/starnet</guid>
-    </item>
-    <item>
-      <title>derv82/wifit3 [Python] — 183 stars today</title>
-      <link>https://github.com/derv82/wifit3</link>
-      <description>[Python] Wifite but USB-only &amp; cross-platform. (183 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/derv82/wifit3</guid>
-    </item>
-    <item>
-      <title>kelseyhightower/kubernetes-the-hard-way — 119 stars today</title>
-      <link>https://github.com/kelseyhightower/kubernetes-the-hard-way</link>
-      <description>Bootstrap Kubernetes the hard way. No scripts. (119 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/kelseyhightower/kubernetes-the-hard-way</guid>
-    </item>
-    <item>
-      <title>rohitg00/ai-engineering-from-scratch [Python] — 1,177 stars today</title>
-      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-      <description>[Python] Learn it. Build it. Ship it for others. (1,177 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-    </item>
-    <item>
-      <title>shy3130/tick-stock-panel [Python] — 44 stars today</title>
-      <link>https://github.com/shy3130/tick-stock-panel</link>
-      <description>[Python] TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 (44 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/shy3130/tick-stock-panel</guid>
-    </item>
-    <item>
-      <title>google/ax [Go] — 1,379 stars today</title>
-      <link>https://github.com/google/ax</link>
-      <description>Google&apos;s open agentic orchestration runtime (1,379 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/google/ax</guid>
-    </item>
-    <item>
-      <title>NVIDIA/Model-Optimizer [Python] — 359 stars today</title>
+      <title>NVIDIA/Model-Optimizer [Python] — 354 stars today</title>
       <link>https://github.com/NVIDIA/Model-Optimizer</link>
-      <description>[Python] A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. (359 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
+      <description>[Python] A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. (354 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/NVIDIA/Model-Optimizer</guid>
     </item>
     <item>
-      <title>pbakaus/impeccable [JavaScript] — 306 stars today</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <description>[JavaScript] The design language that makes your AI harness better at design. (306 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+      <title>dream-num/univer [TypeScript] — 845 stars today</title>
+      <link>https://github.com/dream-num/univer</link>
+      <description>[TypeScript] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. (845 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
     </item>
     <item>
-      <title>openbao/openbao [Go] — 49 stars today</title>
+      <title>tensorflow/tensorflow [C++] — 31 stars today</title>
+      <link>https://github.com/tensorflow/tensorflow</link>
+      <description>[C++] An Open Source Machine Learning Framework for Everyone (31 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/tensorflow/tensorflow</guid>
+    </item>
+    <item>
+      <title>rohitg00/ai-engineering-from-scratch [Python] — 828 stars today</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <description>[Python] Learn it. Build it. Ship it for others. (828 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
+    </item>
+    <item>
+      <title>openbao/openbao [Go] — 360 stars today</title>
       <link>https://github.com/openbao/openbao</link>
-      <description>[Go] OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (49 stars today)</description>
-      <pubDate>Sat, 26 Sep 2026 09:57:53 GMT</pubDate>
+      <description>[Go] OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (360 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/openbao/openbao</guid>
+    </item>
+    <item>
+      <title>block/buzz [Rust] — 175 stars today</title>
+      <link>https://github.com/block/buzz</link>
+      <description>[Rust] A hive mind communication platform (175 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/block/buzz</guid>
+    </item>
+    <item>
+      <title>microsoft/vscode [TypeScript] — 78 stars today</title>
+      <link>https://github.com/microsoft/vscode</link>
+      <description>[TypeScript] Visual Studio Code (78 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/microsoft/vscode</guid>
+    </item>
+    <item>
+      <title>zhaoxuya520/reverse-skill [PowerShell] — 409 stars today</title>
+      <link>https://github.com/zhaoxuya520/reverse-skill</link>
+      <description>[PowerShell] Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 (409 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/zhaoxuya520/reverse-skill</guid>
+    </item>
+    <item>
+      <title>llvm/llvm-project [LLVM] — 29 stars today</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (29 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/llvm/llvm-project</guid>
+    </item>
+    <item>
+      <title>anthropics/claude-code-action [TypeScript] — 15 stars today</title>
+      <link>https://github.com/anthropics/claude-code-action</link>
+      <description>[TypeScript] No description (15 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code-action</guid>
+    </item>
+    <item>
+      <title>actions/runner-images [PowerShell] — 13 stars today</title>
+      <link>https://github.com/actions/runner-images</link>
+      <description>[PowerShell] GitHub Actions runner images (13 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/actions/runner-images</guid>
+    </item>
+    <item>
+      <title>mobile-next/mobile-mcp [TypeScript] — 143 stars today</title>
+      <link>https://github.com/mobile-next/mobile-mcp</link>
+      <description>[TypeScript] Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) (143 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mobile-next/mobile-mcp</guid>
+    </item>
+    <item>
+      <title>vercel/next.js [JavaScript] — 31 stars today</title>
+      <link>https://github.com/vercel/next.js</link>
+      <description>[JavaScript] The React Framework (31 stars today)</description>
+      <pubDate>Sat, 26 Sep 2026 14:25:10 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vercel/next.js</guid>
     </item>
   </channel>
 </rss>
