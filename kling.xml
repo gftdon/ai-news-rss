@@ -5,7 +5,14 @@
     <link>https://klingai.com/release-note/release-history</link>
     <description>Latest release notes and updates from Kling AI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:04:31 GMT</lastBuildDate>
+    <item>
+      <title>⭐ 重磅</title>
+      <link>https://klingai.com/release-note/release-history#2026-09-28</link>
+      <description>⭐ 重磅 • Kling 4.0 全面升级！ • 全能班底，你和可灵。 • 2026-06-17 • 可灵 3.0 系列模型迎来升级！ • 可灵 3.0 Turbo 正式发布，可灵 3.0 Omni 视频编辑能力升级。 • 2026-04-23 • 可灵AI支持原生4K直出，媲美院线级质感！ • 全球首个原生4K直出的视频模型，可灵AI开启院线级质感时代！ • 2026-03-16</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://klingai.com/release-note/release-history#2026-09-28</guid>
+    </item>
     <item>
       <title>可灵 3.0 系列模型迎来升级！</title>
       <link>https://klingai.com/release-note/release-history#2026-06-17</link>
@@ -61,13 +68,6 @@
       <description>可灵图片 O1 模型文生图全面升级，参考生图一致性保持更佳！ • 可灵图片 O1 模型全面更新，文生图影调出色，画面质量全面提升；图生图场景下参考图保持明显提升。</description>
       <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://klingai.com/release-note/release-history#2026-01-05</guid>
-    </item>
-    <item>
-      <title>可灵视频 2.6「动作控制」全新上线！—— 动作表情，轻松模仿</title>
-      <link>https://klingai.com/release-note/release-history#2025-12-17</link>
-      <description>可灵视频 2.6「动作控制」全新上线！—— 动作表情，轻松模仿 • 全新升级的动作控制 ，30 秒高难度动作一镜到底，肢体动作、表情、口型、手势全面掌控！</description>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://klingai.com/release-note/release-history#2025-12-17</guid>
     </item>
   </channel>
 </rss>
