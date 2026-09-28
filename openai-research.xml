@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 17:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:31:09 GMT</lastBuildDate>
+    <item>
+      <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+      <description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
+    </item>
+    <item>
+      <title>Basis completes a tax workbook 2x faster with GPT-6 Astra</title>
+      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
+      <description>GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/basis-tax-workbook-with-astra</guid>
+    </item>
     <item>
       <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
       <link>https://openai.com/index/proaction</link>
@@ -112,13 +126,6 @@
       <guid isPermaLink="true">https://openai.com/index/priorities-principles-third-party-assessments</guid>
     </item>
     <item>
-      <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
-      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
-      <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
-    </item>
-    <item>
       <title>Advisory Group on Mathematics and Artificial Intelligence</title>
       <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
       <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
@@ -126,25 +133,18 @@
       <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
     </item>
     <item>
+      <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
+      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
+      <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
+    </item>
+    <item>
       <title>Building standards for the next phase of AI</title>
       <link>https://openai.com/index/building-standards-next-phase-ai</link>
       <description>OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</description>
       <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/building-standards-next-phase-ai</guid>
-    </item>
-    <item>
-      <title>Expanding OpenAI Academy with new learning paths</title>
-      <link>https://openai.com/index/expanding-openai-academy-with-new-learning-paths</link>
-      <description>Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.</description>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/expanding-openai-academy-with-new-learning-paths</guid>
-    </item>
-    <item>
-      <title>V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna</title>
-      <link>https://openai.com/index/v7</link>
-      <description>Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/v7</guid>
     </item>
   </channel>
 </rss>

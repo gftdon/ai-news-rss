@@ -5,7 +5,14 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 17:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:31:08 GMT</lastBuildDate>
+    <item>
+      <title>Introducing Claude Sonnet 5.5</title>
+      <link>https://www.anthropic.com/claude-sonnet-5-5</link>
+      <description>[Announcements] A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
+    </item>
     <item>
       <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
       <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
