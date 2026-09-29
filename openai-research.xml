@@ -5,20 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:02:58 GMT</lastBuildDate>
-    <item>
-      <title>DevDay 2026 Recap</title>
-      <link>https://openai.com/index/devday-2026-recap</link>
-      <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.</description>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 23:40:11 GMT</lastBuildDate>
     <item>
       <title>Introducing GPT-6.1 Sol</title>
       <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
       <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.</description>
       <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
+    </item>
+    <item>
+      <title>DevDay 2026 Recap</title>
+      <link>https://openai.com/index/devday-2026-recap</link>
+      <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.</description>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
     </item>
     <item>
       <title>Introducing dots</title>
@@ -77,18 +77,18 @@
       <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
     </item>
     <item>
-      <title>How invideo improves color grading 3x with GPT‑6 Astra</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <description>With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.</description>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-    </item>
-    <item>
       <title>Sam Altman’s remarks at the United Nations Security Council</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.</description>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+    </item>
+    <item>
+      <title>Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <description>GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.</description>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
     </item>
     <item>
       <title>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
@@ -98,11 +98,11 @@
       <guid isPermaLink="true">https://openai.com/index/ringg</guid>
     </item>
     <item>
-      <title>Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <description>GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.</description>
+      <title>How invideo improves color grading 3x with GPT‑6 Astra</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <description>With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.</description>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <guid isPermaLink="true">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
     </item>
     <item>
       <title>Introducing MentalHealthBench</title>
