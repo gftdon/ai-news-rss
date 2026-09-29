@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 22:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:16:51 GMT</lastBuildDate>
+    <item>
+      <title>How we will do better for Australia</title>
+      <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+      <description>OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.</description>
+      <pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
+    </item>
     <item>
       <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
       <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
@@ -42,11 +49,11 @@
       <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
     </item>
     <item>
-      <title>Sam Altman’s remarks at the United Nations Security Council</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.</description>
+      <title>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
+      <link>https://openai.com/index/ringg</link>
+      <description>Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.</description>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <guid isPermaLink="true">https://openai.com/index/ringg</guid>
     </item>
     <item>
       <title>Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
@@ -63,11 +70,11 @@
       <guid isPermaLink="true">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
     </item>
     <item>
-      <title>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
-      <link>https://openai.com/index/ringg</link>
-      <description>Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.</description>
+      <title>Sam Altman’s remarks at the United Nations Security Council</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.</description>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/ringg</guid>
+      <guid isPermaLink="true">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
     </item>
     <item>
       <title>Introducing MentalHealthBench</title>
@@ -126,13 +133,6 @@
       <guid isPermaLink="true">https://openai.com/index/priorities-principles-third-party-assessments</guid>
     </item>
     <item>
-      <title>Advisory Group on Mathematics and Artificial Intelligence</title>
-      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
-      <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
-    </item>
-    <item>
       <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
       <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
       <description>With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</description>
@@ -140,11 +140,11 @@
       <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
     </item>
     <item>
-      <title>Building standards for the next phase of AI</title>
-      <link>https://openai.com/index/building-standards-next-phase-ai</link>
-      <description>OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</description>
-      <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/building-standards-next-phase-ai</guid>
+      <title>Advisory Group on Mathematics and Artificial Intelligence</title>
+      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
+      <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
     </item>
   </channel>
 </rss>
