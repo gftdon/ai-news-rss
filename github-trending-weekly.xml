@@ -5,132 +5,132 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:59:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:52:58 GMT</lastBuildDate>
     <item>
       <title>paperclipai/paperclip [TypeScript] — 12,941 stars this week</title>
       <link>https://github.com/paperclipai/paperclip</link>
       <description>[TypeScript] The open-source app everyone uses to manage agents at work (12,941 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
-    </item>
-    <item>
-      <title>anthropics/financial-services [Python] — 2,114 stars this week</title>
-      <link>https://github.com/anthropics/financial-services</link>
-      <description>[Python] No description (2,114 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
     </item>
     <item>
       <title>vectorize-io/hindsight [Python] — 17,365 stars this week</title>
       <link>https://github.com/vectorize-io/hindsight</link>
       <description>[Python] Hindsight: Agent Memory That Learns (17,365 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
+    </item>
+    <item>
+      <title>anthropics/financial-services [Python] — 2,114 stars this week</title>
+      <link>https://github.com/anthropics/financial-services</link>
+      <description>[Python] No description (2,114 stars this week)</description>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
     </item>
     <item>
       <title>debpalash/VoiceStudio [Python] — 12,722 stars this week</title>
       <link>https://github.com/debpalash/VoiceStudio</link>
       <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (12,722 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
     </item>
     <item>
       <title>rohitg00/ai-engineering-from-scratch [Python] — 5,830 stars this week</title>
       <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
       <description>[Python] Learn it. Build it. Ship it for others. (5,830 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
     </item>
     <item>
       <title>vercel/next.js [JavaScript] — 582 stars this week</title>
       <link>https://github.com/vercel/next.js</link>
       <description>[JavaScript] The React Framework (582 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vercel/next.js</guid>
     </item>
     <item>
       <title>HKUDS/CLI-Anything [Python] — 1,327 stars this week</title>
       <link>https://github.com/HKUDS/CLI-Anything</link>
       <description>[Python] &quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/ (1,327 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
     </item>
     <item>
       <title>davila7/claude-code-templates [Python] — 1,218 stars this week</title>
       <link>https://github.com/davila7/claude-code-templates</link>
       <description>[Python] CLI tool for configuring and monitoring Claude Code (1,218 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/davila7/claude-code-templates</guid>
-    </item>
-    <item>
-      <title>stablyai/orca [TypeScript] — 6,242 stars this week</title>
-      <link>https://github.com/stablyai/orca</link>
-      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (6,242 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
     </item>
     <item>
       <title>pytorch/pytorch [Python] — 399 stars this week</title>
       <link>https://github.com/pytorch/pytorch</link>
       <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration (399 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pytorch/pytorch</guid>
-    </item>
-    <item>
-      <title>Tencent/WeKnora [Go] — 2,397 stars this week</title>
-      <link>https://github.com/Tencent/WeKnora</link>
-      <description>[Go] Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (2,397 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
-    </item>
-    <item>
-      <title>cloudflare/security-audit-skill [JavaScript] — 3,311 stars this week</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3,311 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
       <title>pbakaus/impeccable [JavaScript] — 2,644 stars this week</title>
       <link>https://github.com/pbakaus/impeccable</link>
       <description>[JavaScript] The design language that makes your AI harness better at design. (2,644 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
     </item>
     <item>
       <title>TencentCloud/Octop [Python] — 1,128 stars this week</title>
       <link>https://github.com/TencentCloud/Octop</link>
       <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (1,128 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TencentCloud/Octop</guid>
     </item>
     <item>
-      <title>trycua/cua [HTML] — 1,211 stars this week</title>
-      <link>https://github.com/trycua/cua</link>
-      <description>[HTML] Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. (1,211 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/trycua/cua</guid>
-    </item>
-    <item>
-      <title>PrismML-Eng/Bonsai-demo [Shell] — 210 stars this week</title>
-      <link>https://github.com/PrismML-Eng/Bonsai-demo</link>
-      <description>[Shell] Bonsai Demo (210 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/PrismML-Eng/Bonsai-demo</guid>
+      <title>stablyai/orca [TypeScript] — 6,242 stars this week</title>
+      <link>https://github.com/stablyai/orca</link>
+      <description>[TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (6,242 stars this week)</description>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
     </item>
     <item>
       <title>elastic/elasticsearch [Java] — 169 stars this week</title>
       <link>https://github.com/elastic/elasticsearch</link>
       <description>[Java] Free and Open Source, Distributed, RESTful Search Engine (169 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/elastic/elasticsearch</guid>
+    </item>
+    <item>
+      <title>Tencent/WeKnora [Go] — 2,397 stars this week</title>
+      <link>https://github.com/Tencent/WeKnora</link>
+      <description>[Go] Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (2,397 stars this week)</description>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
     </item>
     <item>
       <title>FxEmbed/FxEmbed [TypeScript] — 502 stars this week</title>
       <link>https://github.com/FxEmbed/FxEmbed</link>
       <description>[TypeScript] Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others (502 stars this week)</description>
-      <pubDate>Wed, 30 Sep 2026 08:59:06 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/FxEmbed/FxEmbed</guid>
+    </item>
+    <item>
+      <title>alirezarezvani/claude-skills [Python] — 707 stars this week</title>
+      <link>https://github.com/alirezarezvani/claude-skills</link>
+      <description>[Python] 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills. (707 stars this week)</description>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/alirezarezvani/claude-skills</guid>
+    </item>
+    <item>
+      <title>dream-num/univer [TypeScript] — 6,666 stars this week</title>
+      <link>https://github.com/dream-num/univer</link>
+      <description>[TypeScript] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. (6,666 stars this week)</description>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
+    </item>
+    <item>
+      <title>anthropics/claude-code-action [TypeScript] — 319 stars this week</title>
+      <link>https://github.com/anthropics/claude-code-action</link>
+      <description>[TypeScript] No description (319 stars this week)</description>
+      <pubDate>Wed, 30 Sep 2026 15:52:58 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code-action</guid>
     </item>
   </channel>
 </rss>
