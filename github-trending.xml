@@ -5,125 +5,111 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:33:40 GMT</lastBuildDate>
     <item>
-      <title>NVIDIA/OpenShell [Rust] — 1,281 stars today</title>
-      <link>https://github.com/NVIDIA/OpenShell</link>
-      <description>[Rust] OpenShell is the safe, private runtime for autonomous AI agents. (1,281 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
-    </item>
-    <item>
-      <title>debpalash/VoiceStudio [Python] — 3,483 stars today</title>
-      <link>https://github.com/debpalash/VoiceStudio</link>
-      <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (3,483 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
-    </item>
-    <item>
-      <title>mvschwarz/openrig [TypeScript] — 624 stars today</title>
-      <link>https://github.com/mvschwarz/openrig</link>
-      <description>[TypeScript] Multi-agent harness that runs Claude Code and Codex together as one system (624 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mvschwarz/openrig</guid>
-    </item>
-    <item>
-      <title>mksglu/context-mode [TypeScript] — 90 stars today</title>
-      <link>https://github.com/mksglu/context-mode</link>
-      <description>[TypeScript] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. (90 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
-    </item>
-    <item>
-      <title>DietrichGebert/ponytail [JavaScript] — 743 stars today</title>
+      <title>DietrichGebert/ponytail [JavaScript] — 1,179 stars today</title>
       <link>https://github.com/DietrichGebert/ponytail</link>
-      <description>[JavaScript] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (743 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
+      <description>[JavaScript] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1,179 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
     </item>
     <item>
-      <title>harry0703/MoneyPrinterTurbo [Python] — 431 stars today</title>
-      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-      <description>[Python] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. (431 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
-    </item>
-    <item>
-      <title>openclaw/openclaw [TypeScript] — 136 stars today</title>
-      <link>https://github.com/openclaw/openclaw</link>
-      <description>[TypeScript] The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 (136 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-    </item>
-    <item>
-      <title>ComposioHQ/awesome-claude-skills [Python] — 123 stars today</title>
-      <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <description>[Python] A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (123 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ComposioHQ/awesome-claude-skills</guid>
-    </item>
-    <item>
-      <title>mattpocock/skills [Shell] — 876 stars today</title>
+      <title>mattpocock/skills [Shell] — 888 stars today</title>
       <link>https://github.com/mattpocock/skills</link>
-      <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (876 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
+      <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (888 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
     <item>
-      <title>heygen-com/hyperframes [TypeScript] — 349 stars today</title>
-      <link>https://github.com/heygen-com/hyperframes</link>
-      <description>[TypeScript] Write HTML. Render video. Built for agents. (349 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
+      <title>NVIDIA/OpenShell [Rust] — 2,503 stars today</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <description>[Rust] OpenShell is the safe, private runtime for autonomous AI agents. (2,503 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
     </item>
     <item>
-      <title>firebase/firebase-ios-sdk [C++] — 8 stars today</title>
+      <title>firebase/firebase-ios-sdk [C++] — 112 stars today</title>
       <link>https://github.com/firebase/firebase-ios-sdk</link>
-      <description>[C++] Firebase SDK for Apple App Development (8 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
+      <description>[C++] Firebase SDK for Apple App Development (112 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/firebase/firebase-ios-sdk</guid>
     </item>
     <item>
-      <title>modelcontextprotocol/servers [TypeScript] — 50 stars today</title>
-      <link>https://github.com/modelcontextprotocol/servers</link>
-      <description>[TypeScript] Model Context Protocol Servers (50 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/modelcontextprotocol/servers</guid>
+      <title>mvschwarz/openrig [TypeScript] — 640 stars today</title>
+      <link>https://github.com/mvschwarz/openrig</link>
+      <description>[TypeScript] Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (640 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mvschwarz/openrig</guid>
     </item>
     <item>
-      <title>byoungd/up [JavaScript] — 743 stars today</title>
-      <link>https://github.com/byoungd/up</link>
-      <description>[JavaScript] An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 (743 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/byoungd/up</guid>
+      <title>cursor/plugins [TypeScript] — 157 stars today</title>
+      <link>https://github.com/cursor/plugins</link>
+      <description>[TypeScript] Cursor plugin specification and official plugins (157 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
     </item>
     <item>
-      <title>colbymchenry/codegraph [C] — 118 stars today</title>
-      <link>https://github.com/colbymchenry/codegraph</link>
-      <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (118 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/colbymchenry/codegraph</guid>
+      <title>obra/superpowers [Shell] — 594 stars today</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (594 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
     </item>
     <item>
-      <title>t8y2/dbx [Rust] — 1,138 stars today</title>
-      <link>https://github.com/t8y2/dbx</link>
-      <description>[Rust] 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 (1,138 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/t8y2/dbx</guid>
+      <title>mksglu/context-mode [TypeScript] — 357 stars today</title>
+      <link>https://github.com/mksglu/context-mode</link>
+      <description>[TypeScript] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. (357 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
     </item>
     <item>
-      <title>NawfalMotii79/PLFM_RADAR [PLSQL] — 263 stars today</title>
-      <link>https://github.com/NawfalMotii79/PLFM_RADAR</link>
-      <description>[PLSQL] Open-source, low-cost 10.5 GHz PLFM phased array RADAR system (263 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/NawfalMotii79/PLFM_RADAR</guid>
+      <title>heygen-com/hyperframes [TypeScript] — 624 stars today</title>
+      <link>https://github.com/heygen-com/hyperframes</link>
+      <description>[TypeScript] Write HTML. Render video. Built for agents. (624 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
     </item>
     <item>
-      <title>VectifyAI/PageIndex [Python] — 1,097 stars today</title>
-      <link>https://github.com/VectifyAI/PageIndex</link>
-      <description>[Python] 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG (1,097 stars today)</description>
-      <pubDate>Thu, 01 Oct 2026 06:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/VectifyAI/PageIndex</guid>
+      <title>earendil-works/pi [TypeScript] — 294 stars today</title>
+      <link>https://github.com/earendil-works/pi</link>
+      <description>[TypeScript] AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (294 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/earendil-works/pi</guid>
+    </item>
+    <item>
+      <title>tile-ai/tilelang [Python] — 157 stars today</title>
+      <link>https://github.com/tile-ai/tilelang</link>
+      <description>[Python] Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels (157 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/tile-ai/tilelang</guid>
+    </item>
+    <item>
+      <title>pablostanley/yoinks [TypeScript] — 356 stars today</title>
+      <link>https://github.com/pablostanley/yoinks</link>
+      <description>[TypeScript] yoink any video from your terminal. no shady ads. (356 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pablostanley/yoinks</guid>
+    </item>
+    <item>
+      <title>HunxByts/GhostTrack [Python] — 635 stars today</title>
+      <link>https://github.com/HunxByts/GhostTrack</link>
+      <description>[Python] Useful tool to track location or mobile number (635 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/HunxByts/GhostTrack</guid>
+    </item>
+    <item>
+      <title>pbakaus/impeccable [JavaScript] — 463 stars today</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <description>[JavaScript] The design language that makes your AI harness better at design. (463 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+    </item>
+    <item>
+      <title>Friedrich-M/UniMate [Python] — 225 stars today</title>
+      <link>https://github.com/Friedrich-M/UniMate</link>
+      <description>[Python] [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons (225 stars today)</description>
+      <pubDate>Thu, 01 Oct 2026 13:33:40 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Friedrich-M/UniMate</guid>
     </item>
   </channel>
 </rss>
