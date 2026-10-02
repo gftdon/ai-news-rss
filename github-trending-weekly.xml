@@ -5,6 +5,125 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 19:56:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:44:31 GMT</lastBuildDate>
+    <item>
+      <title>paperclipai/paperclip [TypeScript] — 14,335 stars this week</title>
+      <link>https://github.com/paperclipai/paperclip</link>
+      <description>[TypeScript] The open-source app everyone uses to manage agents at work (14,335 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
+    </item>
+    <item>
+      <title>vectorize-io/hindsight [Python] — 17,403 stars this week</title>
+      <link>https://github.com/vectorize-io/hindsight</link>
+      <description>[Python] Hindsight: Agent Memory That Learns (17,403 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
+    </item>
+    <item>
+      <title>debpalash/VoiceStudio [Python] — 16,114 stars this week</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (16,114 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
+    </item>
+    <item>
+      <title>rohitg00/ai-engineering-from-scratch [Python] — 6,469 stars this week</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <description>[Python] Learn it. Build it. Ship it for others. (6,469 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
+    </item>
+    <item>
+      <title>flutter/flutter [Dart] — 147 stars this week</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>[Dart] Flutter makes it easy and fast to build beautiful apps for mobile and beyond (147 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/flutter/flutter</guid>
+    </item>
+    <item>
+      <title>pbakaus/impeccable [JavaScript] — 2,704 stars this week</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <description>[JavaScript] The design language that makes your AI harness better at design. (2,704 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+    </item>
+    <item>
+      <title>vercel/next.js [JavaScript] — 624 stars this week</title>
+      <link>https://github.com/vercel/next.js</link>
+      <description>[JavaScript] The React Framework (624 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vercel/next.js</guid>
+    </item>
+    <item>
+      <title>alirezarezvani/claude-skills [Python] — 743 stars this week</title>
+      <link>https://github.com/alirezarezvani/claude-skills</link>
+      <description>[Python] 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills. (743 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/alirezarezvani/claude-skills</guid>
+    </item>
+    <item>
+      <title>heygen-com/hyperframes [TypeScript] — 2,667 stars this week</title>
+      <link>https://github.com/heygen-com/hyperframes</link>
+      <description>[TypeScript] Write HTML. Render video. Built for agents. (2,667 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
+    </item>
+    <item>
+      <title>TencentCloud/Octop [Python] — 1,360 stars this week</title>
+      <link>https://github.com/TencentCloud/Octop</link>
+      <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (1,360 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/TencentCloud/Octop</guid>
+    </item>
+    <item>
+      <title>google/ax [Go] — 2,919 stars this week</title>
+      <link>https://github.com/google/ax</link>
+      <description>Google&apos;s open agentic orchestration runtime (2,919 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/google/ax</guid>
+    </item>
+    <item>
+      <title>anthropics/financial-services [Python] — 1,270 stars this week</title>
+      <link>https://github.com/anthropics/financial-services</link>
+      <description>[Python] No description (1,270 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
+    </item>
+    <item>
+      <title>tile-ai/tilelang [Python] — 481 stars this week</title>
+      <link>https://github.com/tile-ai/tilelang</link>
+      <description>[Python] Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels (481 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/tile-ai/tilelang</guid>
+    </item>
+    <item>
+      <title>anthropics/claude-code-action [TypeScript] — 376 stars this week</title>
+      <link>https://github.com/anthropics/claude-code-action</link>
+      <description>[TypeScript] No description (376 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code-action</guid>
+    </item>
+    <item>
+      <title>pytorch/pytorch [Python] — 376 stars this week</title>
+      <link>https://github.com/pytorch/pytorch</link>
+      <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration (376 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pytorch/pytorch</guid>
+    </item>
+    <item>
+      <title>harry0703/MoneyPrinterTurbo [Python] — 2,548 stars this week</title>
+      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+      <description>[Python] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. (2,548 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
+    </item>
+    <item>
+      <title>pablostanley/yoinks [TypeScript] — 1,069 stars this week</title>
+      <link>https://github.com/pablostanley/yoinks</link>
+      <description>[TypeScript] yoink any video from your terminal. no shady ads. (1,069 stars this week)</description>
+      <pubDate>Fri, 02 Oct 2026 23:44:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pablostanley/yoinks</guid>
+    </item>
   </channel>
 </rss>
