@@ -5,153 +5,90 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:54:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:53:39 GMT</lastBuildDate>
     <item>
-      <title>pbakaus/impeccable [JavaScript] — 4,936 stars this week</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <description>[JavaScript] The design language that makes your AI harness better at design. (4,936 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-    </item>
-    <item>
-      <title>paperclipai/paperclip [TypeScript] — 6,030 stars this week</title>
-      <link>https://github.com/paperclipai/paperclip</link>
-      <description>[TypeScript] The open-source app everyone uses to manage agents at work (6,030 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
-    </item>
-    <item>
-      <title>vectorize-io/hindsight [Python] — 6,565 stars this week</title>
-      <link>https://github.com/vectorize-io/hindsight</link>
-      <description>[Python] Hindsight: Agent Memory That Learns (6,565 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
+      <title>mvschwarz/openrig [TypeScript] — 3,776 stars this week</title>
+      <link>https://github.com/mvschwarz/openrig</link>
+      <description>[TypeScript] Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (3,776 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mvschwarz/openrig</guid>
     </item>
     <item>
       <title>heygen-com/hyperframes [TypeScript] — 3,342 stars this week</title>
       <link>https://github.com/heygen-com/hyperframes</link>
       <description>[TypeScript] Write HTML. Render video. Built for agents. (3,342 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
-    </item>
-    <item>
-      <title>debpalash/VoiceStudio [Python] — 12,036 stars this week</title>
-      <link>https://github.com/debpalash/VoiceStudio</link>
-      <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (12,036 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
-    </item>
-    <item>
-      <title>Panniantong/Agent-Reach [Python] — 5,703 stars this week</title>
-      <link>https://github.com/Panniantong/Agent-Reach</link>
-      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (5,703 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
-    </item>
-    <item>
-      <title>Effect-TS/effect [TypeScript] — 791 stars this week</title>
-      <link>https://github.com/Effect-TS/effect</link>
-      <description>Build production-ready applications in TypeScript (791 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Effect-TS/effect</guid>
-    </item>
-    <item>
-      <title>DietrichGebert/ponytail [JavaScript] — 8,596 stars this week</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <description>[JavaScript] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (8,596 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
-    </item>
-    <item>
-      <title>Gaurav-Gosain/tuios [Go] — 703 stars this week</title>
-      <link>https://github.com/Gaurav-Gosain/tuios</link>
-      <description>[Go] A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. (703 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Gaurav-Gosain/tuios</guid>
-    </item>
-    <item>
-      <title>pingdotgg/t3code [TypeScript] — 1,674 stars this week</title>
-      <link>https://github.com/pingdotgg/t3code</link>
-      <description>[TypeScript] No description (1,674 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
-    </item>
-    <item>
-      <title>rohitg00/ai-engineering-from-scratch [Python] — 4,375 stars this week</title>
-      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-      <description>[Python] Learn it. Build it. Ship it for others. (4,375 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-    </item>
-    <item>
-      <title>alirezarezvani/claude-skills [Python] — 984 stars this week</title>
-      <link>https://github.com/alirezarezvani/claude-skills</link>
-      <description>[Python] 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills. (984 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/alirezarezvani/claude-skills</guid>
-    </item>
-    <item>
-      <title>cloudflare/cloudflare-os [TypeScript] — 663 stars this week</title>
-      <link>https://github.com/cloudflare/cloudflare-os</link>
-      <description>[TypeScript] Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. (663 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cloudflare/cloudflare-os</guid>
-    </item>
-    <item>
-      <title>tile-ai/tilelang [Python] — 922 stars this week</title>
-      <link>https://github.com/tile-ai/tilelang</link>
-      <description>[Python] Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels (922 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/tile-ai/tilelang</guid>
     </item>
     <item>
       <title>cursor/plugins [TypeScript] — 1,042 stars this week</title>
       <link>https://github.com/cursor/plugins</link>
       <description>[TypeScript] Cursor plugin specification and official plugins (1,042 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
     </item>
     <item>
-      <title>TencentCloud/Octop [Python] — 1,416 stars this week</title>
-      <link>https://github.com/TencentCloud/Octop</link>
-      <description>[Python] A smarter, self-hosted AI assistant — multi-user, multi-agent. (1,416 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/TencentCloud/Octop</guid>
+      <title>NVIDIA/OpenShell [Rust] — 5,915 stars this week</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <description>[Rust] OpenShell is the safe, private runtime for autonomous AI agents. (5,915 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
     </item>
     <item>
-      <title>harry0703/MoneyPrinterTurbo [Python] — 2,189 stars this week</title>
-      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-      <description>[Python] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. (2,189 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
+      <title>VectifyAI/PageIndex [Python] — 2,860 stars this week</title>
+      <link>https://github.com/VectifyAI/PageIndex</link>
+      <description>[Python] 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG (2,860 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/VectifyAI/PageIndex</guid>
     </item>
     <item>
-      <title>caddyserver/caddy [Go] — 683 stars this week</title>
-      <link>https://github.com/caddyserver/caddy</link>
-      <description>[Go] Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (683 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
-    </item>
-    <item>
-      <title>msitarzewski/agency-agents [Shell] — 2,116 stars this week</title>
-      <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>[Shell] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2,116 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
+      <title>thedotmack/claude-mem [TypeScript] — 1,759 stars this week</title>
+      <link>https://github.com/thedotmack/claude-mem</link>
+      <description>[TypeScript] Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (1,759 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
     </item>
     <item>
       <title>pablostanley/yoinks [TypeScript] — 2,741 stars this week</title>
       <link>https://github.com/pablostanley/yoinks</link>
       <description>[TypeScript] yoink any video from your terminal. no shady ads. (2,741 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pablostanley/yoinks</guid>
     </item>
     <item>
-      <title>mvschwarz/openrig [TypeScript] — 3,776 stars this week</title>
-      <link>https://github.com/mvschwarz/openrig</link>
-      <description>[TypeScript] Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (3,776 stars this week)</description>
-      <pubDate>Tue, 06 Oct 2026 08:54:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mvschwarz/openrig</guid>
+      <title>HunxByts/GhostTrack [Python] — 1,985 stars this week</title>
+      <link>https://github.com/HunxByts/GhostTrack</link>
+      <description>[Python] Useful tool to track location or mobile number (1,985 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/HunxByts/GhostTrack</guid>
+    </item>
+    <item>
+      <title>DuarteSantos8/openGym [JavaScript] — 2,702 stars this week</title>
+      <link>https://github.com/DuarteSantos8/openGym</link>
+      <description>[JavaScript] Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. (2,702 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/DuarteSantos8/openGym</guid>
+    </item>
+    <item>
+      <title>boykopovar/AnyPS5 [C++] — 2,657 stars this week</title>
+      <link>https://github.com/boykopovar/AnyPS5</link>
+      <description>[C++] Tool for automatic PS5 executables porting to Linux and Windows (2,657 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach [Python] — 5,703 stars this week</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <description>[Python] Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (5,703 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
+    </item>
+    <item>
+      <title>byoungd/up [JavaScript] — 2,827 stars this week</title>
+      <link>https://github.com/byoungd/up</link>
+      <description>[JavaScript] An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 (2,827 stars this week)</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:39 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/byoungd/up</guid>
     </item>
   </channel>
 </rss>
