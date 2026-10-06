@@ -5,7 +5,14 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:56:31 GMT</lastBuildDate>
+    <item>
+      <title>Expanding the Cyber Verification Program</title>
+      <link>https://www.anthropic.com/news/cyber-verification-program</link>
+      <description>[Announcements] Expanding the Cyber Verification Program</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
+    </item>
     <item>
       <title>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
       <link>https://www.anthropic.com/news/claude-frontier-academy</link>
@@ -89,13 +96,6 @@
       <description>[Announcements] Expanding our support for scientists</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
-    </item>
-    <item>
-      <title>Funding better evaluations of AI’s impact on wellbeing</title>
-      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-      <description>[Announcements] Funding better evaluations of AI’s impact on wellbeing</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
     </item>
   </channel>
 </rss>

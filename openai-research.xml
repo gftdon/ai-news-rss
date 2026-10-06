@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:56:31 GMT</lastBuildDate>
+    <item>
+      <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
+      <link>https://openai.com/index/atlassian-partnership</link>
+      <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/atlassian-partnership</guid>
+    </item>
+    <item>
+      <title>Advancing computer use with Ironclad</title>
+      <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
+      <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.</description>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-with-ironclad</guid>
+    </item>
     <item>
       <title>Our approach to EU text provenance rules</title>
       <link>https://openai.com/index/eu-text-provenance</link>
@@ -70,18 +84,18 @@
       <guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
     </item>
     <item>
+      <title>Introducing GPT-6.1 Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+      <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.</description>
+      <pubDate>Tue, 29 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
+    </item>
+    <item>
       <title>DevDay 2026 Recap</title>
       <link>https://openai.com/index/devday-2026-recap</link>
       <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.</description>
       <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
-    </item>
-    <item>
-      <title>Introducing GPT-6.1 Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-      <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.</description>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
     </item>
     <item>
       <title>Introducing dots</title>
@@ -91,18 +105,18 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
     </item>
     <item>
-      <title>How we will do better for Australia</title>
-      <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-      <description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.</description>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-    </item>
-    <item>
       <title>Towards safety cases for frontier AI training</title>
       <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
       <description>Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents</description>
       <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
+    </item>
+    <item>
+      <title>How we will do better for Australia</title>
+      <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+      <description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.</description>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
     </item>
     <item>
       <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
@@ -131,20 +145,6 @@
       <description>Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/wayfair</guid>
-    </item>
-    <item>
-      <title>Two years of OpenAI Academy</title>
-      <link>https://openai.com/index/two-years-of-openai-academy</link>
-      <description>Marking two years of OpenAI Academy and bringing AI skills to even more communities.</description>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/two-years-of-openai-academy</guid>
-    </item>
-    <item>
-      <title>OpenAI extends cyber access to Ukraine for civilian defense</title>
-      <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
-      <description>OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.</description>
-      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
     </item>
   </channel>
 </rss>
