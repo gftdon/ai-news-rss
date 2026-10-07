@@ -5,13 +5,27 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:56:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:38:03 GMT</lastBuildDate>
     <item>
       <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
       <link>https://openai.com/index/atlassian-partnership</link>
       <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
       <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/atlassian-partnership</guid>
+    </item>
+    <item>
+      <title>How Jump Trading is scaling quant research with ChatGPT</title>
+      <link>https://openai.com/index/jump-trading</link>
+      <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.</description>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/jump-trading</guid>
+    </item>
+    <item>
+      <title>Sharing AI progress in mathematics</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+      <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.</description>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
     </item>
     <item>
       <title>Advancing computer use with Ironclad</title>
@@ -87,7 +101,7 @@
       <title>Introducing GPT-6.1 Sol</title>
       <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
       <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.</description>
-      <pubDate>Tue, 29 Sep 2026 17:00:00 GMT</pubDate>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
     </item>
     <item>
@@ -131,20 +145,6 @@
       <description>GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/basis-tax-workbook-with-astra</guid>
-    </item>
-    <item>
-      <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
-      <link>https://openai.com/index/proaction</link>
-      <description>With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.</description>
-      <pubDate>Fri, 25 Sep 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/proaction</guid>
-    </item>
-    <item>
-      <title>Wayfair boosts catalog accuracy and support speed with OpenAI</title>
-      <link>https://openai.com/index/wayfair</link>
-      <description>Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/wayfair</guid>
     </item>
   </channel>
 </rss>
