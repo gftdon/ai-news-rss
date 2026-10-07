@@ -5,7 +5,28 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:56:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:57:21 GMT</lastBuildDate>
+    <item>
+      <title>Helping teens learn, plan, and shape the future of AI</title>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <description>College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.</description>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/teens-learn-and-plan</guid>
+    </item>
+    <item>
+      <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
+      <link>https://openai.com/index/radisson</link>
+      <description>Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.</description>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/radisson</guid>
+    </item>
+    <item>
+      <title>GPT-6 and Intelligent UI for everyone</title>
+      <link>https://openai.com/index/gpt-6-for-everyone</link>
+      <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-for-everyone</guid>
+    </item>
     <item>
       <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
       <link>https://openai.com/index/atlassian-partnership</link>
@@ -98,18 +119,18 @@
       <guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
     </item>
     <item>
-      <title>Introducing GPT-6.1 Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-      <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.</description>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
-    </item>
-    <item>
       <title>DevDay 2026 Recap</title>
       <link>https://openai.com/index/devday-2026-recap</link>
       <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.</description>
       <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
+    </item>
+    <item>
+      <title>Introducing GPT-6.1 Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+      <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.</description>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
     </item>
     <item>
       <title>Introducing dots</title>
@@ -119,32 +140,11 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
     </item>
     <item>
-      <title>Towards safety cases for frontier AI training</title>
-      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
-      <description>Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents</description>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
-    </item>
-    <item>
       <title>How we will do better for Australia</title>
       <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
       <description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.</description>
       <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-    </item>
-    <item>
-      <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-      <description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
-      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
-    </item>
-    <item>
-      <title>Basis completes a tax workbook 2x faster with GPT-6 Astra</title>
-      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
-      <description>GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/basis-tax-workbook-with-astra</guid>
     </item>
   </channel>
 </rss>
