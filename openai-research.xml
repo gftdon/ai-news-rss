@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 19:57:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:09:13 GMT</lastBuildDate>
     <item>
       <title>Helping teens learn, plan, and shape the future of AI</title>
       <link>https://openai.com/index/teens-learn-and-plan</link>
@@ -140,11 +140,11 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
     </item>
     <item>
-      <title>How we will do better for Australia</title>
-      <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-      <description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.</description>
+      <title>Towards safety cases for frontier AI training</title>
+      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
+      <description>Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents</description>
       <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
+      <guid isPermaLink="true">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
     </item>
   </channel>
 </rss>
