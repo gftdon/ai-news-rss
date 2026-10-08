@@ -5,7 +5,28 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:31:45 GMT</lastBuildDate>
+    <item>
+      <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
+      <link>https://openai.com/index/oracle</link>
+      <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/oracle</guid>
+    </item>
+    <item>
+      <title>Pollo AI turns creative ideas into campaigns with OpenAI</title>
+      <link>https://openai.com/index/pollo-ai</link>
+      <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/pollo-ai</guid>
+    </item>
+    <item>
+      <title>Disrupting AI-enabled “false front” operations</title>
+      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
+      <description>OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
+    </item>
     <item>
       <title>Helping teens learn, plan, and shape the future of AI</title>
       <link>https://openai.com/index/teens-learn-and-plan</link>
@@ -119,32 +140,11 @@
       <guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
     </item>
     <item>
-      <title>Introducing GPT-6.1 Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-      <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.</description>
-      <pubDate>Tue, 29 Sep 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
-    </item>
-    <item>
       <title>DevDay 2026 Recap</title>
       <link>https://openai.com/index/devday-2026-recap</link>
       <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.</description>
       <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
-    </item>
-    <item>
-      <title>Introducing dots</title>
-      <link>https://openai.com/index/introducing-dots</link>
-      <description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
-    </item>
-    <item>
-      <title>Towards safety cases for frontier AI training</title>
-      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
-      <description>Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents</description>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
     </item>
   </channel>
 </rss>
