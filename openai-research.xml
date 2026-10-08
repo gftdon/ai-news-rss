@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 19:31:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:57:15 GMT</lastBuildDate>
     <item>
       <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
       <link>https://openai.com/index/oracle</link>
@@ -19,6 +19,13 @@
       <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
       <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/pollo-ai</guid>
+    </item>
+    <item>
+      <title>LegalOn halves Codex costs while maintaining development speed</title>
+      <link>https://openai.com/index/legalon-halves-codex-costs</link>
+      <description>LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.</description>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/legalon-halves-codex-costs</guid>
     </item>
     <item>
       <title>Disrupting AI-enabled “false front” operations</title>
@@ -138,13 +145,6 @@
       <description>OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.</description>
       <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
-    </item>
-    <item>
-      <title>DevDay 2026 Recap</title>
-      <link>https://openai.com/index/devday-2026-recap</link>
-      <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.</description>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
     </item>
   </channel>
 </rss>
