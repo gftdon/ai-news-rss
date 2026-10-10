@@ -5,96 +5,96 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 19:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 22:54:40 GMT</lastBuildDate>
     <item>
       <title>boykopovar/AnyPS5 [C++] — 15,539 stars this week</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
       <description>[C++] Tool for automatic PS5 executables porting to Linux and Windows (15,539 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
     </item>
     <item>
       <title>mattpocock/skills [Shell] — 8,156 stars this week</title>
       <link>https://github.com/mattpocock/skills</link>
       <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (8,156 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
     <item>
       <title>EpicGames/raddebugger [C] — 654 stars this week</title>
       <link>https://github.com/EpicGames/raddebugger</link>
       <description>[C] A native, user-mode, multi-process, graphical debugger. (654 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/EpicGames/raddebugger</guid>
     </item>
     <item>
       <title>thedotmack/claude-mem [TypeScript] — 3,850 stars this week</title>
       <link>https://github.com/thedotmack/claude-mem</link>
       <description>[TypeScript] Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (3,850 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
     </item>
     <item>
       <title>heygen-com/hyperframes [TypeScript] — 4,003 stars this week</title>
       <link>https://github.com/heygen-com/hyperframes</link>
       <description>[TypeScript] Write HTML. Render video. Built for agents. (4,003 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
     </item>
     <item>
       <title>mvschwarz/openrig [TypeScript] — 2,338 stars this week</title>
       <link>https://github.com/mvschwarz/openrig</link>
       <description>[TypeScript] Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (2,338 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mvschwarz/openrig</guid>
     </item>
     <item>
       <title>cursor/plugins [TypeScript] — 1,125 stars this week</title>
       <link>https://github.com/cursor/plugins</link>
       <description>[TypeScript] Cursor plugin specification and official plugins (1,125 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
     </item>
     <item>
       <title>earthtojake/text-to-cad [Python] — 2,125 stars this week</title>
       <link>https://github.com/earthtojake/text-to-cad</link>
       <description>[Python] Give your agent CAD superpowers. (2,125 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/earthtojake/text-to-cad</guid>
     </item>
     <item>
       <title>flutter/flutter [Dart] — 259 stars this week</title>
       <link>https://github.com/flutter/flutter</link>
       <description>[Dart] Flutter makes it easy and fast to build beautiful apps for mobile and beyond (259 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/flutter/flutter</guid>
     </item>
     <item>
       <title>pingdotgg/t3code [TypeScript] — 2,379 stars this week</title>
       <link>https://github.com/pingdotgg/t3code</link>
       <description>[TypeScript] No description (2,379 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
     </item>
     <item>
       <title>ranxianglei/billion-context [TypeScript] — 246 stars this week</title>
       <link>https://github.com/ranxianglei/billion-context</link>
       <description>[TypeScript] A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need (246 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ranxianglei/billion-context</guid>
     </item>
     <item>
       <title>DuarteSantos8/openGym [JavaScript] — 6,749 stars this week</title>
       <link>https://github.com/DuarteSantos8/openGym</link>
       <description>[JavaScript] Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. (6,749 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/DuarteSantos8/openGym</guid>
     </item>
     <item>
       <title>tester-army/e2e [TypeScript] — 6,566 stars this week</title>
       <link>https://github.com/tester-army/e2e</link>
       <description>[TypeScript] Next generation e2e testing framework for web and mobile apps. (6,566 stars this week)</description>
-      <pubDate>Sat, 10 Oct 2026 19:22:51 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 22:54:40 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/tester-army/e2e</guid>
     </item>
   </channel>
