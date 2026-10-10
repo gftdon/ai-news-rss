@@ -5,82 +5,82 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 23:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:26:38 GMT</lastBuildDate>
     <item>
-      <title>morluto/rea [TypeScript] — 15,335 stars today</title>
+      <title>morluto/rea [TypeScript] — 14,927 stars today</title>
       <link>https://github.com/morluto/rea</link>
-      <description>[TypeScript] Reverse engineer anything with agents, from app behavior down to native binaries. (15,335 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>[TypeScript] Reverse engineer anything with agents, from app behavior down to native binaries. (14,927 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/morluto/rea</guid>
     </item>
     <item>
-      <title>boykopovar/AnyPS5 [C++] — 5,925 stars today</title>
+      <title>boykopovar/AnyPS5 [C++] — 5,868 stars today</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
-      <description>[C++] Tool for automatic PS5 executables porting to Linux and Windows (5,925 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>[C++] Tool for automatic PS5 executables porting to Linux and Windows (5,868 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
     </item>
     <item>
-      <title>mattpocock/skills [Shell] — 1,696 stars today</title>
+      <title>mattpocock/skills [Shell] — 1,687 stars today</title>
       <link>https://github.com/mattpocock/skills</link>
-      <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (1,696 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (1,687 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
     <item>
-      <title>cathrynlavery/diagram-design [HTML] — 1,744 stars today</title>
+      <title>cathrynlavery/diagram-design [HTML] — 1,739 stars today</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
-      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. (1,744 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. (1,739 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
     </item>
     <item>
-      <title>alibaba/open-code-review [Go] — 323 stars today</title>
+      <title>alibaba/open-code-review [Go] — 326 stars today</title>
       <link>https://github.com/alibaba/open-code-review</link>
-      <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (323 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (326 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
     </item>
     <item>
-      <title>anthropics/knowledge-work-plugins [Python] — 714 stars today</title>
+      <title>anthropics/knowledge-work-plugins [Python] — 709 stars today</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (714 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (709 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
     </item>
     <item>
       <title>BerriAI/litellm [Python] — 95 stars today</title>
       <link>https://github.com/BerriAI/litellm</link>
       <description>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] (95 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/BerriAI/litellm</guid>
     </item>
     <item>
-      <title>addyosmani/agent-skills [JavaScript] — 523 stars today</title>
+      <title>addyosmani/agent-skills [JavaScript] — 436 stars today</title>
       <link>https://github.com/addyosmani/agent-skills</link>
-      <description>[JavaScript] Production-grade engineering skills for AI coding agents. (523 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>[JavaScript] Production-grade engineering skills for AI coding agents. (436 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
-      <title>storytold/artcraft [Rust] — 3,723 stars today</title>
+      <title>storytold/artcraft [Rust] — 3,752 stars today</title>
       <link>https://github.com/storytold/artcraft</link>
-      <description>[Rust] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (3,723 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>[Rust] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (3,752 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
     </item>
     <item>
-      <title>Robbyant/lingbot-map [Python] — 109 stars today</title>
+      <title>Robbyant/lingbot-map [Python] — 110 stars today</title>
       <link>https://github.com/Robbyant/lingbot-map</link>
-      <description>[Python] [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction (109 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>[Python] [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction (110 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Robbyant/lingbot-map</guid>
     </item>
     <item>
-      <title>twostraws/SwiftUI-Agent-Skill — 88 stars today</title>
+      <title>twostraws/SwiftUI-Agent-Skill — 65 stars today</title>
       <link>https://github.com/twostraws/SwiftUI-Agent-Skill</link>
-      <description>SwiftUI agent skill for Claude Code, Codex, and other AI tools. (88 stars today)</description>
-      <pubDate>Fri, 09 Oct 2026 23:11:49 GMT</pubDate>
+      <description>SwiftUI agent skill for Claude Code, Codex, and other AI tools. (65 stars today)</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/twostraws/SwiftUI-Agent-Skill</guid>
     </item>
   </channel>
