@@ -5,62 +5,69 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:24:55 GMT</lastBuildDate>
     <item>
-      <title>morluto/rea [TypeScript] — 25,599 stars today</title>
+      <title>morluto/rea [TypeScript] — 45,495 stars today</title>
       <link>https://github.com/morluto/rea</link>
-      <description>[TypeScript] Reverse engineer anything with agents, from app behavior down to native binaries. (25,599 stars today)</description>
-      <pubDate>Mon, 12 Oct 2026 09:43:05 GMT</pubDate>
+      <description>[TypeScript] Reverse engineer anything with agents, from app behavior down to native binaries. (45,495 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/morluto/rea</guid>
     </item>
     <item>
-      <title>boykopovar/AnyPS5 [C++] — 3,952 stars today</title>
-      <link>https://github.com/boykopovar/AnyPS5</link>
-      <description>[C++] Tool for automatic PS5 executables porting to Linux and Windows (3,952 stars today)</description>
-      <pubDate>Mon, 12 Oct 2026 09:43:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
-    </item>
-    <item>
-      <title>storytold/artcraft [Rust] — 2,957 stars today</title>
-      <link>https://github.com/storytold/artcraft</link>
-      <description>[Rust] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (2,957 stars today)</description>
-      <pubDate>Mon, 12 Oct 2026 09:43:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
-    </item>
-    <item>
-      <title>cathrynlavery/diagram-design [HTML] — 1,083 stars today</title>
-      <link>https://github.com/cathrynlavery/diagram-design</link>
-      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. (1,083 stars today)</description>
-      <pubDate>Mon, 12 Oct 2026 09:43:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
-    </item>
-    <item>
-      <title>bilawalsidhu/gods-eye-view [JavaScript] — 886 stars today</title>
+      <title>bilawalsidhu/gods-eye-view [JavaScript] — 1,903 stars today</title>
       <link>https://github.com/bilawalsidhu/gods-eye-view</link>
-      <description>[JavaScript] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (886 stars today)</description>
-      <pubDate>Mon, 12 Oct 2026 09:43:05 GMT</pubDate>
+      <description>[JavaScript] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (1,903 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bilawalsidhu/gods-eye-view</guid>
     </item>
     <item>
-      <title>pytorch/pytorch [Python] — 315 stars today</title>
-      <link>https://github.com/pytorch/pytorch</link>
-      <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration (315 stars today)</description>
-      <pubDate>Mon, 12 Oct 2026 09:43:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/pytorch/pytorch</guid>
+      <title>mksglu/context-mode [TypeScript] — 394 stars today</title>
+      <link>https://github.com/mksglu/context-mode</link>
+      <description>[TypeScript] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. (394 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
     </item>
     <item>
-      <title>lyogavin/airllm [Jupyter Notebook] — 548 stars today</title>
+      <title>storytold/artcraft [Rust] — 4,106 stars today</title>
+      <link>https://github.com/storytold/artcraft</link>
+      <description>[Rust] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (4,106 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
+    </item>
+    <item>
+      <title>open-webui/open-webui [Python] — 142 stars today</title>
+      <link>https://github.com/open-webui/open-webui</link>
+      <description>[Python] User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (142 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/open-webui/open-webui</guid>
+    </item>
+    <item>
+      <title>cathrynlavery/diagram-design [HTML] — 2,100 stars today</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. (2,100 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
+    </item>
+    <item>
+      <title>lyogavin/airllm [Jupyter Notebook] — 886 stars today</title>
       <link>https://github.com/lyogavin/airllm</link>
-      <description>[Jupyter Notebook] AirLLM 70B inference with single 4GB GPU (548 stars today)</description>
-      <pubDate>Mon, 12 Oct 2026 09:43:05 GMT</pubDate>
+      <description>[Jupyter Notebook] AirLLM 70B inference with single 4GB GPU (886 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/lyogavin/airllm</guid>
     </item>
     <item>
-      <title>chrislgarry/Apollo-11 [Assembly] — 466 stars today</title>
-      <link>https://github.com/chrislgarry/Apollo-11</link>
-      <description>[Assembly] Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. (466 stars today)</description>
-      <pubDate>Mon, 12 Oct 2026 09:43:05 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/chrislgarry/Apollo-11</guid>
+      <title>microsoft/BitNet [C++] — 134 stars today</title>
+      <link>https://github.com/microsoft/BitNet</link>
+      <description>[C++] Official inference framework for 1-bit LLMs (134 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/microsoft/BitNet</guid>
+    </item>
+    <item>
+      <title>Alishahryar1/free-claude-code [Python] — 705 stars today</title>
+      <link>https://github.com/Alishahryar1/free-claude-code</link>
+      <description>[Python] Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) (705 stars today)</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:55 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Alishahryar1/free-claude-code</guid>
     </item>
   </channel>
 </rss>
