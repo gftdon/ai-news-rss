@@ -5,69 +5,69 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:24:28 GMT</lastBuildDate>
     <item>
-      <title>morluto/rea [TypeScript] — 45,327 stars today</title>
+      <title>morluto/rea [TypeScript] — 54,706 stars today</title>
       <link>https://github.com/morluto/rea</link>
-      <description>[TypeScript] Reverse engineer anything with agents, from app behavior down to native binaries. (45,327 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
+      <description>[TypeScript] Reverse engineer anything with agents, from app behavior down to native binaries. (54,706 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/morluto/rea</guid>
     </item>
     <item>
-      <title>bilawalsidhu/gods-eye-view [JavaScript] — 1,895 stars today</title>
+      <title>bilawalsidhu/gods-eye-view [JavaScript] — 1,961 stars today</title>
       <link>https://github.com/bilawalsidhu/gods-eye-view</link>
-      <description>[JavaScript] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (1,895 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
+      <description>[JavaScript] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (1,961 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/bilawalsidhu/gods-eye-view</guid>
     </item>
     <item>
-      <title>mksglu/context-mode [TypeScript] — 246 stars today</title>
+      <title>debpalash/VoiceStudio [Python] — 1,691 stars today</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <description>[Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (1,691 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
+    </item>
+    <item>
+      <title>mksglu/context-mode [TypeScript] — 978 stars today</title>
       <link>https://github.com/mksglu/context-mode</link>
-      <description>[TypeScript] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. (246 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
+      <description>[TypeScript] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. (978 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
     </item>
     <item>
-      <title>storytold/artcraft [Rust] — 4,095 stars today</title>
-      <link>https://github.com/storytold/artcraft</link>
-      <description>[Rust] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (4,095 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
-    </item>
-    <item>
-      <title>open-webui/open-webui [Python] — 157 stars today</title>
-      <link>https://github.com/open-webui/open-webui</link>
-      <description>[Python] User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (157 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/open-webui/open-webui</guid>
-    </item>
-    <item>
-      <title>cathrynlavery/diagram-design [HTML] — 2,081 stars today</title>
+      <title>cathrynlavery/diagram-design [HTML] — 1,813 stars today</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
-      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. (2,081 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
+      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. (1,813 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
     </item>
     <item>
-      <title>lyogavin/airllm [Jupyter Notebook] — 879 stars today</title>
+      <title>vercel-labs/skills [TypeScript] — 187 stars today</title>
+      <link>https://github.com/vercel-labs/skills</link>
+      <description>[TypeScript] The open agent skills tool - npx skills (187 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vercel-labs/skills</guid>
+    </item>
+    <item>
+      <title>lyogavin/airllm [Jupyter Notebook] — 1,004 stars today</title>
       <link>https://github.com/lyogavin/airllm</link>
-      <description>[Jupyter Notebook] AirLLM 2.8T LLM inference with single 4GB GPU (879 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
+      <description>[Jupyter Notebook] AirLLM 2.8T LLM inference with single 4GB GPU (1,004 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/lyogavin/airllm</guid>
     </item>
     <item>
-      <title>microsoft/BitNet [C++] — 97 stars today</title>
-      <link>https://github.com/microsoft/BitNet</link>
-      <description>[C++] Official inference framework for 1-bit LLMs (97 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/microsoft/BitNet</guid>
+      <title>storytold/artcraft [Rust] — 4,078 stars today</title>
+      <link>https://github.com/storytold/artcraft</link>
+      <description>[Rust] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (4,078 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
     </item>
     <item>
-      <title>Alishahryar1/free-claude-code [Python] — 626 stars today</title>
-      <link>https://github.com/Alishahryar1/free-claude-code</link>
-      <description>[Python] Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) (626 stars today)</description>
-      <pubDate>Tue, 13 Oct 2026 08:25:53 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Alishahryar1/free-claude-code</guid>
+      <title>xtool-org/xtool [Swift] — 936 stars today</title>
+      <link>https://github.com/xtool-org/xtool</link>
+      <description>Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. (936 stars today)</description>
+      <pubDate>Tue, 13 Oct 2026 16:24:28 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/xtool-org/xtool</guid>
     </item>
   </channel>
 </rss>
