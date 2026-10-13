@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 16:24:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:31:24 GMT</lastBuildDate>
+    <item>
+      <title>Higgsfield takes AI video from 1 minute to over 10</title>
+      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+      <description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.</description>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
+    </item>
     <item>
       <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
       <link>https://openai.com/index/sophos</link>
@@ -138,13 +145,6 @@
       <description>Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.</description>
       <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/albertsons-reimagining-retail</guid>
-    </item>
-    <item>
-      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
-      <link>https://openai.com/index/the-den-family-social</link>
-      <description>As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/the-den-family-social</guid>
     </item>
   </channel>
 </rss>
