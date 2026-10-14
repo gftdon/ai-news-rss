@@ -5,7 +5,28 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:40:13 GMT</lastBuildDate>
+    <item>
+      <title>Amp puts AI agents to work beyond code with OpenAI models</title>
+      <link>https://openai.com/index/amp-beyond-coding</link>
+      <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/amp-beyond-coding</guid>
+    </item>
+    <item>
+      <title>SentinelOne cuts malware analysis from weeks to hours</title>
+      <link>https://openai.com/index/sentinelone</link>
+      <description>With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.</description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/sentinelone</guid>
+    </item>
+    <item>
+      <title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
+      <link>https://openai.com/index/third-moment-research</link>
+      <description>With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.</description>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
+    </item>
     <item>
       <title>The EU’s next chapter in AI is agentic</title>
       <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
@@ -21,18 +42,18 @@
       <guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
     </item>
     <item>
-      <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
-      <link>https://openai.com/index/sophos</link>
-      <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.</description>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/sophos</guid>
-    </item>
-    <item>
       <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
       <link>https://openai.com/index/asana-browser-agent</link>
       <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
       <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
+    </item>
+    <item>
+      <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
+      <link>https://openai.com/index/sophos</link>
+      <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.</description>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/sophos</guid>
     </item>
     <item>
       <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
@@ -124,27 +145,6 @@
       <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</description>
       <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
-    </item>
-    <item>
-      <title>A model guide for the GPT-6 family</title>
-      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-      <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.</description>
-      <pubDate>Fri, 02 Oct 2026 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
-    </item>
-    <item>
-      <title>Chatham scales its capital markets expertise with OpenAI</title>
-      <link>https://openai.com/index/chatham-financial</link>
-      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/chatham-financial</guid>
-    </item>
-    <item>
-      <title>The eternal complement</title>
-      <link>https://openai.com/index/the-eternal-complement</link>
-      <description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.</description>
-      <pubDate>Thu, 01 Oct 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/the-eternal-complement</guid>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,14 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:40:12 GMT</lastBuildDate>
+    <item>
+      <title>Preparing for the 2026 US midterms</title>
+      <link>https://www.anthropic.com/news/2026-us-midterms</link>
+      <description>[Policy] Preparing for the 2026 US midterms</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
+    </item>
     <item>
       <title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
       <link>https://www.anthropic.com/news/singapore-office-opening</link>
@@ -89,13 +96,6 @@
       <description>[Announcements] Partnering with Accenture on embedded evaluation</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
-    </item>
-    <item>
-      <title>Introducing the Life Sciences Verification Program</title>
-      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-      <description>[Announcements] Introducing the Life Sciences Verification Program</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/life-sciences-verification-program</guid>
     </item>
   </channel>
 </rss>
