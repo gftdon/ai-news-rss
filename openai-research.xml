@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:21:05 GMT</lastBuildDate>
+    <item>
+      <title>Teaching students to think and learn through questions</title>
+      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+      <description>Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.</description>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
+    </item>
     <item>
       <title>Amp puts AI agents to work beyond code with OpenAI models</title>
       <link>https://openai.com/index/amp-beyond-coding</link>
@@ -138,13 +145,6 @@
       <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.</description>
       <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-with-ironclad</guid>
-    </item>
-    <item>
-      <title>Our approach to EU text provenance rules</title>
-      <link>https://openai.com/index/eu-text-provenance</link>
-      <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</description>
-      <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
     </item>
   </channel>
 </rss>
