@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 22:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:59:02 GMT</lastBuildDate>
     <item>
       <title>Amp puts AI agents to work beyond code with OpenAI models</title>
       <link>https://openai.com/index/amp-beyond-coding</link>
@@ -26,6 +26,13 @@
       <description>With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.</description>
       <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
+    </item>
+    <item>
+      <title>How Block is building AI-powered security with OpenAI technology</title>
+      <link>https://openai.com/index/block-ai-powered-security</link>
+      <description>Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.</description>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/block-ai-powered-security</guid>
     </item>
     <item>
       <title>The EU’s next chapter in AI is agentic</title>
@@ -138,13 +145,6 @@
       <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</description>
       <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
-    </item>
-    <item>
-      <title>Building advertising for the way people use AI</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</description>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
     </item>
   </channel>
 </rss>
