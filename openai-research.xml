@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 18:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:40:07 GMT</lastBuildDate>
+    <item>
+      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+    </item>
     <item>
       <title>Bringing GPT-Rosalind to academic research labs</title>
       <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
@@ -70,18 +77,18 @@
       <guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
     </item>
     <item>
-      <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
-      <link>https://openai.com/index/asana-browser-agent</link>
-      <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
-    </item>
-    <item>
       <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
       <link>https://openai.com/index/sophos</link>
       <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.</description>
       <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/sophos</guid>
+    </item>
+    <item>
+      <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
+      <link>https://openai.com/index/asana-browser-agent</link>
+      <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
     </item>
     <item>
       <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
@@ -138,13 +145,6 @@
       <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
       <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/atlassian-partnership</guid>
-    </item>
-    <item>
-      <title>How Jump Trading is scaling quant research with ChatGPT</title>
-      <link>https://openai.com/index/jump-trading</link>
-      <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.</description>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/jump-trading</guid>
     </item>
   </channel>
 </rss>
