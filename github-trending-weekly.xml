@@ -5,75 +5,75 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 18:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:55:06 GMT</lastBuildDate>
     <item>
       <title>morluto/rea [TypeScript] — 248,962 stars this week</title>
       <link>https://github.com/morluto/rea</link>
       <description>[TypeScript] Reverse engineer anything with agents, from app behavior down to native binaries. (248,962 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/morluto/rea</guid>
     </item>
     <item>
       <title>storytold/artcraft [Rust] — 20,267 stars this week</title>
       <link>https://github.com/storytold/artcraft</link>
       <description>[Rust] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (20,267 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
     </item>
     <item>
       <title>boykopovar/AnyPS5 [C++] — 20,518 stars this week</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
       <description>[C++] Tool for automatic PS5 executables porting to Linux and Windows (20,518 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
     </item>
     <item>
       <title>cathrynlavery/diagram-design [HTML] — 9,024 stars this week</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. (9,024 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
     </item>
     <item>
       <title>anthropics/claude-plugins-official [Python] — 2,328 stars this week</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
       <description>[Python] Official, Anthropic-managed directory of high quality Claude Code Plugins. (2,328 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
     </item>
     <item>
       <title>heygen-com/hyperframes [TypeScript] — 5,601 stars this week</title>
       <link>https://github.com/heygen-com/hyperframes</link>
       <description>[TypeScript] Write HTML. Render video. Built for agents. (5,601 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
     </item>
     <item>
       <title>mksglu/context-mode [TypeScript] — 4,207 stars this week</title>
       <link>https://github.com/mksglu/context-mode</link>
       <description>[TypeScript] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. (4,207 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
     </item>
     <item>
       <title>NationalSecurityAgency/ghidra [Java] — 7,510 stars this week</title>
       <link>https://github.com/NationalSecurityAgency/ghidra</link>
       <description>[Java] Ghidra is a software reverse engineering (SRE) framework (7,510 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/NationalSecurityAgency/ghidra</guid>
     </item>
     <item>
       <title>mattpocock/skills [Shell] — 11,937 stars this week</title>
       <link>https://github.com/mattpocock/skills</link>
       <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (11,937 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
     <item>
       <title>ranxianglei/billion-context [TypeScript] — 779 stars this week</title>
       <link>https://github.com/ranxianglei/billion-context</link>
       <description>[TypeScript] A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need (779 stars this week)</description>
-      <pubDate>Sat, 17 Oct 2026 18:25:31 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 20:55:06 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ranxianglei/billion-context</guid>
     </item>
   </channel>
