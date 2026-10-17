@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 04:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:40:03 GMT</lastBuildDate>
     <item>
       <title>How Itaú is building generative AI for its entire customer base</title>
       <link>https://openai.com/index/itau-generative-ai</link>
@@ -19,6 +19,13 @@
       <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+    </item>
+    <item>
+      <title>Benefit Street Partners answers questions faster with Codex</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
     </item>
     <item>
       <title>Bringing GPT-Rosalind to academic research labs</title>
@@ -138,13 +145,6 @@
       <description>Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.</description>
       <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/radisson</guid>
-    </item>
-    <item>
-      <title>GPT-6 and Intelligent UI for everyone</title>
-      <link>https://openai.com/index/gpt-6-for-everyone</link>
-      <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-6-for-everyone</guid>
     </item>
   </channel>
 </rss>
