@@ -5,7 +5,14 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:29:41 GMT</lastBuildDate>
+    <item>
+      <title>Investing in the public benefit</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <description>[Announcements] Investing in the public benefit</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+    </item>
     <item>
       <title>An update on independent evaluators</title>
       <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
@@ -82,13 +89,6 @@
       <description>[Announcements] A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
-    </item>
-    <item>
-      <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
-      <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
-      <description>[Science] Claude discovers a novel enzyme system with CRISPR-like repeats</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
     </item>
     <item>
       <title>Introducing Claude Opus 5.5</title>
