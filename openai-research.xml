@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:55:19 GMT</lastBuildDate>
+    <item>
+      <title>Advancing coding in low‑resource programming languages</title>
+      <link>https://openai.com/index/low-resource-programming-languages</link>
+      <description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/low-resource-programming-languages</guid>
+    </item>
     <item>
       <title>How Itaú is building generative AI for its entire customer base</title>
       <link>https://openai.com/index/itau-generative-ai</link>
@@ -14,18 +21,18 @@
       <guid isPermaLink="true">https://openai.com/index/itau-generative-ai</guid>
     </item>
     <item>
-      <title>Benefit Street Partners answers questions faster with Codex</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
-    </item>
-    <item>
       <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
       <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
       <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+    </item>
+    <item>
+      <title>Benefit Street Partners answers questions faster with Codex</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
     </item>
     <item>
       <title>Bringing GPT-Rosalind to academic research labs</title>
@@ -138,13 +145,6 @@
       <description>College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.</description>
       <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/teens-learn-and-plan</guid>
-    </item>
-    <item>
-      <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
-      <link>https://openai.com/index/radisson</link>
-      <description>Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.</description>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/radisson</guid>
     </item>
   </channel>
 </rss>
