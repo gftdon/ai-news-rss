@@ -5,7 +5,42 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:26:37 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+      <description>From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.</description>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+    </item>
+    <item>
+      <title>OpenAI models are coming to Google Cloud</title>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+    </item>
+    <item>
+      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+      <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.</description>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
+    </item>
+    <item>
+      <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
+      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+      <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.</description>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
+    </item>
+    <item>
+      <title>Using thousands of AI agents to uncover new leads in biological data</title>
+      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+      <description>See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.</description>
+      <pubDate>Wed, 21 Oct 2026 04:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+    </item>
     <item>
       <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
       <link>https://openai.com/index/ted-taylor-restaurant</link>
@@ -42,18 +77,18 @@
       <guid isPermaLink="true">https://openai.com/index/itau-generative-ai</guid>
     </item>
     <item>
-      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-    </item>
-    <item>
       <title>Benefit Street Partners answers questions faster with Codex</title>
       <link>https://openai.com/index/benefit-street-partners</link>
       <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
+    </item>
+    <item>
+      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
     </item>
     <item>
       <title>Bringing GPT-Rosalind to academic research labs</title>
@@ -110,41 +145,6 @@
       <description>New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
-    </item>
-    <item>
-      <title>Higgsfield takes AI video from 1 minute to over 10</title>
-      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
-      <description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.</description>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
-    </item>
-    <item>
-      <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
-      <link>https://openai.com/index/asana-browser-agent</link>
-      <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
-    </item>
-    <item>
-      <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
-      <link>https://openai.com/index/sophos</link>
-      <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.</description>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/sophos</guid>
-    </item>
-    <item>
-      <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
-      <link>https://openai.com/index/oracle</link>
-      <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
-      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/oracle</guid>
-    </item>
-    <item>
-      <title>Pollo AI turns creative ideas into campaigns with OpenAI</title>
-      <link>https://openai.com/index/pollo-ai</link>
-      <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/pollo-ai</guid>
     </item>
   </channel>
 </rss>
