@@ -5,89 +5,89 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:42:59 GMT</lastBuildDate>
     <item>
       <title>cloudflare/security-audit-skill [JavaScript] — 1,997 stars today</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1,997 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
       <title>vllm-project/vllm [Python] — 439 stars today</title>
       <link>https://github.com/vllm-project/vllm</link>
       <description>[Python] A high-throughput and memory-efficient inference and serving engine for LLMs (439 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
     </item>
     <item>
       <title>stablyai/orca [TypeScript] — 1,543 stars today</title>
       <link>https://github.com/stablyai/orca</link>
       <description>[TypeScript] Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1,543 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
     </item>
     <item>
       <title>headroomlabs-ai/headroom [Python] — 477 stars today</title>
       <link>https://github.com/headroomlabs-ai/headroom</link>
       <description>[Python] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (477 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
     </item>
     <item>
       <title>DietrichGebert/ponytail [JavaScript] — 2,051 stars today</title>
       <link>https://github.com/DietrichGebert/ponytail</link>
       <description>[JavaScript] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2,051 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
     </item>
     <item>
       <title>Comfy-Org/ComfyUI [Python] — 914 stars today</title>
       <link>https://github.com/Comfy-Org/ComfyUI</link>
       <description>[Python] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. (914 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Comfy-Org/ComfyUI</guid>
     </item>
     <item>
       <title>supabase/supabase [TypeScript] — 509 stars today</title>
       <link>https://github.com/supabase/supabase</link>
       <description>[TypeScript] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (509 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
     </item>
     <item>
       <title>twentyhq/twenty [TypeScript] — 105 stars today</title>
       <link>https://github.com/twentyhq/twenty</link>
       <description>[TypeScript] The open alternative to Salesforce, designed for AI. (105 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/twentyhq/twenty</guid>
     </item>
     <item>
       <title>shiyu-coder/Kronos [Python] — 570 stars today</title>
       <link>https://github.com/shiyu-coder/Kronos</link>
       <description>[Python] Kronos: A Foundation Model for the Language of Financial Markets (570 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
     </item>
     <item>
       <title>strelov1/freehire [Go] — 396 stars today</title>
       <link>https://github.com/strelov1/freehire</link>
       <description>[Go] freehire — the open-source search engine for job seekers (396 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/strelov1/freehire</guid>
     </item>
     <item>
       <title>akitaonrails/ai-memory [Rust] — 303 stars today</title>
       <link>https://github.com/akitaonrails/ai-memory</link>
       <description>[Rust] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (303 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
     </item>
     <item>
       <title>Graphify-Labs/graphify [Python] — 1,434 stars today</title>
       <link>https://github.com/Graphify-Labs/graphify</link>
       <description>[Python] Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (1,434 stars today)</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:08 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 22:42:59 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
     </item>
   </channel>
