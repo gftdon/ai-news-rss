@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:26:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:34:07 GMT</lastBuildDate>
+    <item>
+      <title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
+      <link>https://openai.com/index/att-legal</link>
+      <description>AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.</description>
+      <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/att-legal</guid>
+    </item>
     <item>
       <title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
       <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
@@ -40,6 +47,13 @@
       <description>See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.</description>
       <pubDate>Wed, 21 Oct 2026 04:50:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+    </item>
+    <item>
+      <title>Democratic governance of frontier AI, part II: Empowering cyber defenders</title>
+      <link>https://openai.com/index/empowering-cyber-defenders</link>
+      <description>OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/empowering-cyber-defenders</guid>
     </item>
     <item>
       <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
@@ -77,18 +91,18 @@
       <guid isPermaLink="true">https://openai.com/index/itau-generative-ai</guid>
     </item>
     <item>
-      <title>Benefit Street Partners answers questions faster with Codex</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
-    </item>
-    <item>
       <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
       <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
       <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+    </item>
+    <item>
+      <title>Benefit Street Partners answers questions faster with Codex</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
     </item>
     <item>
       <title>Bringing GPT-Rosalind to academic research labs</title>
@@ -131,20 +145,6 @@
       <description>With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.</description>
       <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
-    </item>
-    <item>
-      <title>How Block is building AI-powered security with OpenAI technology</title>
-      <link>https://openai.com/index/block-ai-powered-security</link>
-      <description>Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.</description>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/block-ai-powered-security</guid>
-    </item>
-    <item>
-      <title>The EU’s next chapter in AI is agentic</title>
-      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-      <description>New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
     </item>
   </channel>
 </rss>
