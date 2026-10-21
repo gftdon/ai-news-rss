@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:17:55 GMT</lastBuildDate>
     <item>
       <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
       <link>https://openai.com/index/ted-taylor-restaurant</link>
       <description>An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.</description>
       <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/ted-taylor-restaurant</guid>
+    </item>
+    <item>
+      <title>Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
+      <link>https://openai.com/index/terminal-x</link>
+      <description>Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.</description>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/terminal-x</guid>
     </item>
     <item>
       <title>OpenAI acquires Orchestra Bio</title>
@@ -35,18 +42,18 @@
       <guid isPermaLink="true">https://openai.com/index/itau-generative-ai</guid>
     </item>
     <item>
-      <title>Benefit Street Partners answers questions faster with Codex</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
-    </item>
-    <item>
       <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
       <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
       <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+    </item>
+    <item>
+      <title>Benefit Street Partners answers questions faster with Codex</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
     </item>
     <item>
       <title>Bringing GPT-Rosalind to academic research labs</title>
@@ -138,13 +145,6 @@
       <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
       <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/pollo-ai</guid>
-    </item>
-    <item>
-      <title>LegalOn halves Codex costs while maintaining development speed</title>
-      <link>https://openai.com/index/legalon-halves-codex-costs</link>
-      <description>LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.</description>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/legalon-halves-codex-costs</guid>
     </item>
   </channel>
 </rss>
