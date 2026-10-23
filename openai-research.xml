@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:36:26 GMT</lastBuildDate>
     <item>
       <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
       <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
       <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</description>
       <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
+    </item>
+    <item>
+      <title>Securing our frontier model training environment</title>
+      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+      <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
     </item>
     <item>
       <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
@@ -138,13 +145,6 @@
       <description>With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.</description>
       <pubDate>Fri, 16 Oct 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/itau-generative-ai</guid>
-    </item>
-    <item>
-      <title>Benefit Street Partners answers questions faster with Codex</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
     </item>
   </channel>
 </rss>
