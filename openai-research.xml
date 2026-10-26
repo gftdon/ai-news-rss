@@ -5,13 +5,34 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:31:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:42:01 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT’s expanding world of work</title>
+      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+      <description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.</description>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
+    </item>
     <item>
       <title>How Fanatics and OpenAI streamline the fan experience</title>
       <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
       <description>Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.</description>
       <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/fanatics-streamline-fan-experience</guid>
+    </item>
+    <item>
+      <title>How Ultrafast cut incident investigation from hours to minutes at OpenAI</title>
+      <link>https://openai.com/index/openai-cut-incident-investigation</link>
+      <description>See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.</description>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-cut-incident-investigation</guid>
+    </item>
+    <item>
+      <title>Introducing GPT-6.1 Terra</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+      <description>Bringing fast and capable computer use to everyone</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-terra</guid>
     </item>
     <item>
       <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
@@ -124,27 +145,6 @@
       <description>An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.</description>
       <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/ted-taylor-restaurant</guid>
-    </item>
-    <item>
-      <title>Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
-      <link>https://openai.com/index/terminal-x</link>
-      <description>Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.</description>
-      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/terminal-x</guid>
-    </item>
-    <item>
-      <title>OpenAI acquires Orchestra Bio</title>
-      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
-      <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
-    </item>
-    <item>
-      <title>Advancing coding in low‑resource programming languages</title>
-      <link>https://openai.com/index/low-resource-programming-languages</link>
-      <description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.</description>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/low-resource-programming-languages</guid>
     </item>
   </channel>
 </rss>
