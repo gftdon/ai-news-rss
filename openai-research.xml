@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 18:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:26:13 GMT</lastBuildDate>
     <item>
       <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
       <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
       <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.</description>
       <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
+    </item>
+    <item>
+      <title>How Check Point accelerates vulnerability research with Daybreak</title>
+      <link>https://openai.com/index/check-point-daybreak</link>
+      <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
     </item>
     <item>
       <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
@@ -138,13 +145,6 @@
       <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
       <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
-    </item>
-    <item>
-      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
-      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
-      <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.</description>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
     </item>
   </channel>
 </rss>
