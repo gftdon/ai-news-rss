@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:27:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:18:25 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
+      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
+      <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.</description>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
+    </item>
     <item>
       <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
       <link>https://openai.com/index/greptile-code-review-codex-astra</link>
@@ -70,6 +77,13 @@
       <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
     </item>
     <item>
+      <title>Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live</title>
+      <link>https://openai.com/index/anima</link>
+      <description>Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/anima</guid>
+    </item>
+    <item>
       <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
       <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
       <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
@@ -131,20 +145,6 @@
       <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.</description>
       <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
-    </item>
-    <item>
-      <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
-      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
-      <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.</description>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
-    </item>
-    <item>
-      <title>Using thousands of AI agents to uncover new leads in biological data</title>
-      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-      <description>See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.</description>
-      <pubDate>Wed, 21 Oct 2026 04:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
     </item>
   </channel>
 </rss>
