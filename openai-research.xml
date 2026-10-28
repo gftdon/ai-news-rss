@@ -5,13 +5,20 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:51:28 GMT</lastBuildDate>
+    <item>
+      <title>The future of the firm</title>
+      <link>https://openai.com/index/the-future-of-the-firm</link>
+      <description>How AI might enter the org chart—beneath, beside, and between us.</description>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/the-future-of-the-firm</guid>
+    </item>
     <item>
       <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+      <link>https://openai.com/index/legora</link>
       <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
       <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+      <guid isPermaLink="true">https://openai.com/index/legora</guid>
     </item>
     <item>
       <title>Retell uses OpenAI models to help power 100M monthly calls</title>
@@ -138,13 +145,6 @@
       <description>How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.</description>
       <pubDate>Wed, 21 Oct 2026 21:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
-    </item>
-    <item>
-      <title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
-      <link>https://openai.com/index/att-legal</link>
-      <description>AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.</description>
-      <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/att-legal</guid>
     </item>
   </channel>
 </rss>
