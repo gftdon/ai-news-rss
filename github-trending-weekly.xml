@@ -5,82 +5,82 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:56:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:50:39 GMT</lastBuildDate>
     <item>
       <title>cloudflare/security-audit-skill [JavaScript] — 16,002 stars this week</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (16,002 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:55 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
       <title>AgriciDaniel/claude-seo [Python] — 3,516 stars this week</title>
       <link>https://github.com/AgriciDaniel/claude-seo</link>
       <description>[Python] Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. (3,516 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:55 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/AgriciDaniel/claude-seo</guid>
     </item>
     <item>
       <title>multica-ai/andrej-karpathy-skills — 4,293 stars this week</title>
       <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
       <description>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&apos;s observations on LLM coding pitfalls. (4,293 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:55 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/multica-ai/andrej-karpathy-skills</guid>
     </item>
     <item>
       <title>anthropics/knowledge-work-plugins [Python] — 2,612 stars this week</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
       <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (2,612 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:55 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
     </item>
     <item>
       <title>TauricResearch/TradingAgents [Python] — 5,322 stars this week</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
       <description>[Python] TradingAgents: Multi-Agents LLM Financial Trading Framework (5,322 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:56 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
     </item>
     <item>
       <title>pbakaus/impeccable [Rust] — 7,283 stars this week</title>
       <link>https://github.com/pbakaus/impeccable</link>
       <description>[Rust] The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (7,283 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:56 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
     </item>
     <item>
       <title>Graphify-Labs/graphify [Python] — 6,662 stars this week</title>
       <link>https://github.com/Graphify-Labs/graphify</link>
       <description>[Python] Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (6,662 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:56 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
     </item>
     <item>
       <title>Leonxlnx/taste-skill [JavaScript] — 3,940 stars this week</title>
       <link>https://github.com/Leonxlnx/taste-skill</link>
       <description>[JavaScript] Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (3,940 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:56 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Leonxlnx/taste-skill</guid>
     </item>
     <item>
       <title>ruvnet/ruflo [TypeScript] — 1,930 stars this week</title>
       <link>https://github.com/ruvnet/ruflo</link>
       <description>[TypeScript] 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated (1,930 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:56 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
     </item>
     <item>
       <title>anomalyco/opencode [TypeScript] — 3,498 stars this week</title>
       <link>https://github.com/anomalyco/opencode</link>
       <description>[TypeScript] The open source coding agent. (3,498 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:56 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anomalyco/opencode</guid>
     </item>
     <item>
       <title>jakubkrehel/skills [Markdown] — 776 stars this week</title>
       <link>https://github.com/jakubkrehel/skills</link>
       <description>[Markdown] A collection of agent skills that help you build great interfaces. (776 stars this week)</description>
-      <pubDate>Thu, 29 Oct 2026 02:56:56 GMT</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:50:39 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jakubkrehel/skills</guid>
     </item>
   </channel>
