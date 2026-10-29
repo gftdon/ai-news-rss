@@ -5,7 +5,28 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:31:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:24:18 GMT</lastBuildDate>
+    <item>
+      <title>An updated Model Spec for more capable and beneficial AI</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</description>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
+    </item>
+    <item>
+      <title>How we detect frontier model misalignment</title>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.</description>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+    </item>
+    <item>
+      <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
+      <description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.</description>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/ropes-gray-ai-diligence</guid>
+    </item>
     <item>
       <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
       <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -124,27 +145,6 @@
       <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
-    </item>
-    <item>
-      <title>Build more responsive apps with the Decisions API</title>
-      <link>https://openai.com/index/decisions-api</link>
-      <description>Fast, focused, low-cost decisions for any application.</description>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
-    </item>
-    <item>
-      <title>What FDE means at OpenAI</title>
-      <link>https://openai.com/index/forward-deployed-engineering-means</link>
-      <description>What forward deployed engineering means at OpenAI</description>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/forward-deployed-engineering-means</guid>
-    </item>
-    <item>
-      <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
-      <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
-      <description>Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/uber-chatgpt-work-rollout</guid>
     </item>
   </channel>
 </rss>
