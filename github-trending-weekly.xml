@@ -5,89 +5,82 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 01:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:22:34 GMT</lastBuildDate>
     <item>
       <title>cloudflare/security-audit-skill [JavaScript] — 14,320 stars this week</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (14,320 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
       <title>php/php-src [C] — 960 stars this week</title>
       <link>https://github.com/php/php-src</link>
       <description>[C] The PHP Interpreter (960 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/php/php-src</guid>
     </item>
     <item>
       <title>AgriciDaniel/claude-seo [Python] — 4,110 stars this week</title>
       <link>https://github.com/AgriciDaniel/claude-seo</link>
       <description>[Python] Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. (4,110 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/AgriciDaniel/claude-seo</guid>
     </item>
     <item>
       <title>pbakaus/impeccable [Rust] — 9,713 stars this week</title>
       <link>https://github.com/pbakaus/impeccable</link>
       <description>[Rust] The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (9,713 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
     </item>
     <item>
       <title>multica-ai/andrej-karpathy-skills — 4,250 stars this week</title>
       <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
       <description>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&apos;s observations on LLM coding pitfalls. (4,250 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/multica-ai/andrej-karpathy-skills</guid>
     </item>
     <item>
       <title>TauricResearch/TradingAgents [Python] — 5,557 stars this week</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
       <description>[Python] TradingAgents: Multi-Agents LLM Financial Trading Framework (5,557 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
-    </item>
-    <item>
-      <title>hugohe3/ppt-master [Python] — 4,980 stars this week</title>
-      <link>https://github.com/hugohe3/ppt-master</link>
-      <description>[Python] AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He (4,980 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/hugohe3/ppt-master</guid>
     </item>
     <item>
       <title>obra/superpowers [Shell] — 4,894 stars this week</title>
       <link>https://github.com/obra/superpowers</link>
       <description>[Shell] An agentic skills framework &amp; software development methodology that works. (4,894 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
     </item>
     <item>
       <title>anthropics/knowledge-work-plugins [Python] — 2,504 stars this week</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
       <description>[Python] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (2,504 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
     </item>
     <item>
       <title>Leonxlnx/taste-skill [JavaScript] — 4,359 stars this week</title>
       <link>https://github.com/Leonxlnx/taste-skill</link>
       <description>[JavaScript] Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (4,359 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Leonxlnx/taste-skill</guid>
     </item>
     <item>
       <title>jakubkrehel/skills [Markdown] — 980 stars this week</title>
       <link>https://github.com/jakubkrehel/skills</link>
       <description>[Markdown] A collection of agent skills that help you build great interfaces. (980 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jakubkrehel/skills</guid>
     </item>
     <item>
       <title>ruvnet/ruflo [TypeScript] — 1,854 stars this week</title>
       <link>https://github.com/ruvnet/ruflo</link>
       <description>[TypeScript] 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated (1,854 stars this week)</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:22:34 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
     </item>
   </channel>
