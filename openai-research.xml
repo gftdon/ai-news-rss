@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:29:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:40:10 GMT</lastBuildDate>
+    <item>
+      <title>Making it easier for websites to express AI training preferences</title>
+      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+      <description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.</description>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
+    </item>
+    <item>
+      <title>Community safety report and new protections for teens</title>
+      <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+      <description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.</description>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
+    </item>
     <item>
       <title>An updated Model Spec for more capable and beneficial AI</title>
       <link>https://openai.com/index/updated-model-spec</link>
@@ -26,6 +40,13 @@
       <description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.</description>
       <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/ropes-gray-ai-diligence</guid>
+    </item>
+    <item>
+      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
+      <link>https://openai.com/index/credit-saison</link>
+      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/credit-saison</guid>
     </item>
     <item>
       <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
@@ -124,27 +145,6 @@
       <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</description>
       <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
-    </item>
-    <item>
-      <title>Securing our frontier model training environment</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-    </item>
-    <item>
-      <title>Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live</title>
-      <link>https://openai.com/index/anima</link>
-      <description>Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/anima</guid>
-    </item>
-    <item>
-      <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-      <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
     </item>
   </channel>
 </rss>
