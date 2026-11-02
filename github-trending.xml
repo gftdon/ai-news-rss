@@ -5,118 +5,111 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:55:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 20:26:31 GMT</lastBuildDate>
     <item>
-      <title>thedotmack/claude-mem [TypeScript] — 1,526 stars today</title>
+      <title>vercel-labs/agent-desktop [Rust] — 2,243 stars today</title>
+      <link>https://github.com/vercel-labs/agent-desktop</link>
+      <description>[Rust] Computer use CLI for AI agents (2,243 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
+    </item>
+    <item>
+      <title>thedotmack/claude-mem [TypeScript] — 1,799 stars today</title>
       <link>https://github.com/thedotmack/claude-mem</link>
-      <description>[TypeScript] Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (1,526 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
+      <description>[TypeScript] Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (1,799 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
     </item>
     <item>
-      <title>lightpanda-io/browser [Zig] — 825 stars today</title>
-      <link>https://github.com/lightpanda-io/browser</link>
-      <description>[Zig] Lightpanda: the headless browser designed for AI and automation (825 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
+      <title>D4Vinci/Scrapling [Python] — 858 stars today</title>
+      <link>https://github.com/D4Vinci/Scrapling</link>
+      <description>[Python] 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don&apos;t be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev (858 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/D4Vinci/Scrapling</guid>
     </item>
     <item>
-      <title>shiyu-coder/Kronos [Python] — 630 stars today</title>
-      <link>https://github.com/shiyu-coder/Kronos</link>
-      <description>[Python] Kronos: A Foundation Model for the Language of Financial Markets (630 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
+      <title>hyprwm/Hyprland [C++] — 508 stars today</title>
+      <link>https://github.com/hyprwm/Hyprland</link>
+      <description>[C++] Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&apos;t sacrifice on its looks. (508 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/hyprwm/Hyprland</guid>
     </item>
     <item>
-      <title>pingdotgg/t3code [TypeScript] — 3,094 stars today</title>
-      <link>https://github.com/pingdotgg/t3code</link>
-      <description>[TypeScript] No description (3,094 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
-    </item>
-    <item>
-      <title>milind-soni/OpenMausBot [TypeScript] — 922 stars today</title>
-      <link>https://github.com/milind-soni/OpenMausBot</link>
-      <description>[TypeScript] Open-source Grok Bot alternative with a virtual machine that bots can use (922 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
-    </item>
-    <item>
-      <title>public-apis/public-apis [Python] — 324 stars today</title>
-      <link>https://github.com/public-apis/public-apis</link>
-      <description>[Python] A collective list of free APIs (324 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/public-apis/public-apis</guid>
-    </item>
-    <item>
-      <title>cjpais/Handy [Rust] — 339 stars today</title>
-      <link>https://github.com/cjpais/Handy</link>
-      <description>[Rust] A free, open source, and extensible speech-to-text application that works completely offline. (339 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
-    </item>
-    <item>
-      <title>Donchitos/Claude-Code-Game-Studios [Shell] — 967 stars today</title>
+      <title>Donchitos/Claude-Code-Game-Studios [Shell] — 1,380 stars today</title>
       <link>https://github.com/Donchitos/Claude-Code-Game-Studios</link>
-      <description>[Shell] Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (967 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
+      <description>[Shell] Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (1,380 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
     </item>
     <item>
-      <title>kornia/kornia [Python] — 101 stars today</title>
-      <link>https://github.com/kornia/kornia</link>
-      <description>[Python] 🐍 Geometric Computer Vision Library for Spatial AI (101 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/kornia/kornia</guid>
-    </item>
-    <item>
-      <title>beenuar/AiSOC [Python] — 446 stars today</title>
-      <link>https://github.com/beenuar/AiSOC</link>
-      <description>[Python] Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. (446 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/beenuar/AiSOC</guid>
-    </item>
-    <item>
-      <title>anomalyco/hex [Rust] — 1,179 stars today</title>
-      <link>https://github.com/anomalyco/hex</link>
-      <description>[Rust] Local voice dictation for mac, windows and linux (1,179 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/anomalyco/hex</guid>
-    </item>
-    <item>
-      <title>CopilotKit/OpenBot [TypeScript] — 175 stars today</title>
-      <link>https://github.com/CopilotKit/OpenBot</link>
-      <description>[TypeScript] Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. (175 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/CopilotKit/OpenBot</guid>
-    </item>
-    <item>
-      <title>togg53192-cmd/jailbreaks — 726 stars today</title>
-      <link>https://github.com/togg53192-cmd/jailbreaks</link>
-      <description>LIST OF ALL MY JAILBREAKS (726 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/togg53192-cmd/jailbreaks</guid>
-    </item>
-    <item>
-      <title>patchy631/ai-engineering-hub [Jupyter Notebook] — 1,191 stars today</title>
-      <link>https://github.com/patchy631/ai-engineering-hub</link>
-      <description>[Jupyter Notebook] In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (1,191 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/patchy631/ai-engineering-hub</guid>
-    </item>
-    <item>
-      <title>FlashML-org/FreeToken [Python] — 242 stars today</title>
+      <title>FlashML-org/FreeToken [Python] — 654 stars today</title>
       <link>https://github.com/FlashML-org/FreeToken</link>
-      <description>[Python] FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. (242 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
+      <description>[Python] FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. (654 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/FlashML-org/FreeToken</guid>
     </item>
     <item>
-      <title>hyprwm/Hyprland [C++] — 38 stars today</title>
-      <link>https://github.com/hyprwm/Hyprland</link>
-      <description>[C++] Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&apos;t sacrifice on its looks. (38 stars today)</description>
-      <pubDate>Mon, 02 Nov 2026 09:55:43 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/hyprwm/Hyprland</guid>
+      <title>pingdotgg/t3code [TypeScript] — 3,216 stars today</title>
+      <link>https://github.com/pingdotgg/t3code</link>
+      <description>[TypeScript] No description (3,216 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
+    </item>
+    <item>
+      <title>shiyu-coder/Kronos [Python] — 855 stars today</title>
+      <link>https://github.com/shiyu-coder/Kronos</link>
+      <description>[Python] Kronos: A Foundation Model for the Language of Financial Markets (855 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
+    </item>
+    <item>
+      <title>kornia/kornia [Python] — 412 stars today</title>
+      <link>https://github.com/kornia/kornia</link>
+      <description>[Python] 🐍 Geometric Computer Vision Library for Spatial AI (412 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/kornia/kornia</guid>
+    </item>
+    <item>
+      <title>JustVugg/colibri [C] — 655 stars today</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (655 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
+    </item>
+    <item>
+      <title>mattpocock/skills [Shell] — 968 stars today</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (968 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+    </item>
+    <item>
+      <title>max-sixty/worktrunk [Rust] — 136 stars today</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>[Rust] Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (136 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
+    </item>
+    <item>
+      <title>paperclipai/paperclip [TypeScript] — 451 stars today</title>
+      <link>https://github.com/paperclipai/paperclip</link>
+      <description>[TypeScript] The open-source app everyone uses to manage agents at work (451 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
+    </item>
+    <item>
+      <title>karpathy/nanochat [Python] — 325 stars today</title>
+      <link>https://github.com/karpathy/nanochat</link>
+      <description>[Python] The best ChatGPT that $100 can buy. (325 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/karpathy/nanochat</guid>
+    </item>
+    <item>
+      <title>p-e-w/heretic [Python] — 404 stars today</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <description>[Python] Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more (404 stars today)</description>
+      <pubDate>Mon, 02 Nov 2026 20:26:31 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
     </item>
   </channel>
 </rss>
