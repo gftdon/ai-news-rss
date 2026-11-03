@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 02:27:46 GMT</lastBuildDate>
+    <item>
+      <title>Scaling Git at OpenAI</title>
+      <link>https://openai.com/index/scaling-git-at-openai</link>
+      <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.</description>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
+    </item>
     <item>
       <title>Introducing the Grid Protectors Program</title>
       <link>https://openai.com/index/grid-protectors-program</link>
@@ -26,6 +33,13 @@
       <description>Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/qodo-codex-plugin</guid>
+    </item>
+    <item>
+      <title>OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <description>OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/dan-driscoll-joins-openai</guid>
     </item>
     <item>
       <title>Making it easier for websites to express AI training preferences</title>
@@ -131,20 +145,6 @@
       <description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.</description>
       <pubDate>Mon, 26 Oct 2026 14:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
-      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
-      <description>CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.</description>
-      <pubDate>Mon, 26 Oct 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
-    </item>
-    <item>
-      <title>ChatGPT’s expanding world of work</title>
-      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
-      <description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.</description>
-      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
     </item>
   </channel>
 </rss>
