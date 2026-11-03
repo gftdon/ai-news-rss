@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 10:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:46:43 GMT</lastBuildDate>
+    <item>
+      <title>Heimstaden is changing residential real estate management with AI</title>
+      <link>https://openai.com/index/heimstaden</link>
+      <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.</description>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
+    </item>
     <item>
       <title>Preparing our next security sprint to harden OpenAI</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
@@ -42,18 +49,18 @@
       <guid isPermaLink="true">https://openai.com/index/lifeval</guid>
     </item>
     <item>
-      <title>Qodo builds context into AI code review with Codex</title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <description>Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/qodo-codex-plugin</guid>
-    </item>
-    <item>
       <title>OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
       <link>https://openai.com/index/dan-driscoll-joins-openai</link>
       <description>OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/dan-driscoll-joins-openai</guid>
+    </item>
+    <item>
+      <title>Qodo builds context into AI code review with Codex</title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <description>Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/qodo-codex-plugin</guid>
     </item>
     <item>
       <title>Making it easier for websites to express AI training preferences</title>
@@ -138,13 +145,6 @@
       <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.</description>
       <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
-    </item>
-    <item>
-      <title>How Check Point accelerates vulnerability research with Daybreak</title>
-      <link>https://openai.com/index/check-point-daybreak</link>
-      <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
     </item>
   </channel>
 </rss>
