@@ -5,118 +5,111 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:43:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:39:26 GMT</lastBuildDate>
     <item>
       <title>NVIDIA/auto-ontology [Python] — 2,050 stars today</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
       <description>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. (2,050 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/NVIDIA/auto-ontology</guid>
     </item>
     <item>
-      <title>max-sixty/worktrunk [Rust] — 531 stars today</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <description>[Rust] Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (531 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-    </item>
-    <item>
-      <title>mattpocock/skills [Shell] — 1,379 stars today</title>
+      <title>mattpocock/skills [Shell] — 2,053 stars today</title>
       <link>https://github.com/mattpocock/skills</link>
-      <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (1,379 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
+      <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (2,053 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-    </item>
-    <item>
-      <title>floci-io/floci [Java] — 1,090 stars today</title>
-      <link>https://github.com/floci-io/floci</link>
-      <description>[Java] Light, fluffy, and always free - The AWS Local Emulator alternative (1,090 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/floci-io/floci</guid>
-    </item>
-    <item>
-      <title>thedotmack/claude-mem [TypeScript] — 1,172 stars today</title>
-      <link>https://github.com/thedotmack/claude-mem</link>
-      <description>[TypeScript] Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (1,172 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-    </item>
-    <item>
-      <title>vercel-labs/agent-desktop [Rust] — 2,470 stars today</title>
-      <link>https://github.com/vercel-labs/agent-desktop</link>
-      <description>[Rust] Computer use CLI for AI agents (2,470 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
-    </item>
-    <item>
-      <title>github/spec-kit [Python] — 808 stars today</title>
-      <link>https://github.com/github/spec-kit</link>
-      <description>[Python] 💫 Toolkit to help you get started with SDD or any other process! (808 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/github/spec-kit</guid>
-    </item>
-    <item>
-      <title>The-PR-Agent/pr-agent [Python] — 280 stars today</title>
-      <link>https://github.com/The-PR-Agent/pr-agent</link>
-      <description>[Python] 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (280 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/The-PR-Agent/pr-agent</guid>
-    </item>
-    <item>
-      <title>harry0703/MoneyPrinterTurbo [Python] — 617 stars today</title>
-      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-      <description>[Python] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. (617 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
     </item>
     <item>
       <title>garrytan/gstack [TypeScript] — 290 stars today</title>
       <link>https://github.com/garrytan/gstack</link>
       <description>[TypeScript] Use Garry Tan&apos;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (290 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
     </item>
     <item>
-      <title>FareedKhan-dev/kimi-k3-in-c [C] — 351 stars today</title>
-      <link>https://github.com/FareedKhan-dev/kimi-k3-in-c</link>
-      <description>A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. (351 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/FareedKhan-dev/kimi-k3-in-c</guid>
+      <title>Usagi-org/ai-goofish-monitor [Python] — 242 stars today</title>
+      <link>https://github.com/Usagi-org/ai-goofish-monitor</link>
+      <description>[Python] 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 (242 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Usagi-org/ai-goofish-monitor</guid>
     </item>
     <item>
-      <title>JiaFeiMiao-K-Cat/DiscImageStudio [C#] — 1,778 stars today</title>
-      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
-      <description>[C#] No description (1,778 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</guid>
-    </item>
-    <item>
-      <title>MichaelCade/90DaysOfDevOps [Shell] — 97 stars today</title>
-      <link>https://github.com/MichaelCade/90DaysOfDevOps</link>
-      <description>[Shell] This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. (97 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/MichaelCade/90DaysOfDevOps</guid>
-    </item>
-    <item>
-      <title>D4Vinci/Scrapling [Python] — 2,005 stars today</title>
+      <title>D4Vinci/Scrapling [Python] — 1,661 stars today</title>
       <link>https://github.com/D4Vinci/Scrapling</link>
-      <description>[Python] 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don&apos;t be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev (2,005 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
+      <description>[Python] 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don&apos;t be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev (1,661 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/D4Vinci/Scrapling</guid>
     </item>
     <item>
-      <title>Thysrael/Horizon [Python] — 121 stars today</title>
-      <link>https://github.com/Thysrael/Horizon</link>
-      <description>[Python] 📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达 (121 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Thysrael/Horizon</guid>
+      <title>vercel-labs/agent-desktop [Rust] — 2,173 stars today</title>
+      <link>https://github.com/vercel-labs/agent-desktop</link>
+      <description>[Rust] Computer use CLI for AI agents (2,173 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
+    </item>
+    <item>
+      <title>max-sixty/worktrunk [Rust] — 546 stars today</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>[Rust] Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (546 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
+    </item>
+    <item>
+      <title>lz4/lz4 [C] — 16 stars today</title>
+      <link>https://github.com/lz4/lz4</link>
+      <description>Extremely Fast Compression algorithm (16 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/lz4/lz4</guid>
+    </item>
+    <item>
+      <title>google/skills [Python] — 199 stars today</title>
+      <link>https://github.com/google/skills</link>
+      <description>[Python] Agent Skills for Google products and technologies (199 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/google/skills</guid>
+    </item>
+    <item>
+      <title>vercel-labs/agent-browser [Rust] — 132 stars today</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <description>[Rust] Browser automation CLI for AI agents (132 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
     </item>
     <item>
       <title>scenario-labs/skills [Python] — 224 stars today</title>
       <link>https://github.com/scenario-labs/skills</link>
       <description>[Python] Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. (224 stars today)</description>
-      <pubDate>Thu, 05 Nov 2026 03:43:31 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/scenario-labs/skills</guid>
+    </item>
+    <item>
+      <title>ConardLi/garden-skills [JavaScript] — 181 stars today</title>
+      <link>https://github.com/ConardLi/garden-skills</link>
+      <description>[JavaScript] ConardLi&apos;s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. (181 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ConardLi/garden-skills</guid>
+    </item>
+    <item>
+      <title>microsoft/VibeVoice [Python] — 214 stars today</title>
+      <link>https://github.com/microsoft/VibeVoice</link>
+      <description>[Python] Open-Source Frontier Voice AI (214 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
+    </item>
+    <item>
+      <title>floci-io/floci [Java] — 784 stars today</title>
+      <link>https://github.com/floci-io/floci</link>
+      <description>[Java] Light, fluffy, and always free - The AWS Local Emulator alternative (784 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/floci-io/floci</guid>
+    </item>
+    <item>
+      <title>JiaFeiMiao-K-Cat/DiscImageStudio [C#] — 1,778 stars today</title>
+      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
+      <description>[C#] No description (1,778 stars today)</description>
+      <pubDate>Thu, 05 Nov 2026 11:39:26 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</guid>
     </item>
   </channel>
 </rss>

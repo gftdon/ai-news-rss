@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:43:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:39:25 GMT</lastBuildDate>
+    <item>
+      <title>Setting a new standard for responsible AI infrastructure</title>
+      <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
+      <description>OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.</description>
+      <pubDate>Thu, 05 Nov 2026 02:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
+    </item>
     <item>
       <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
       <link>https://openai.com/index/openai-to-acquire-pierre</link>
@@ -70,18 +77,18 @@
       <guid isPermaLink="true">https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
     </item>
     <item>
-      <title>Preparing our next security sprint to harden OpenAI</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <description>OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.</description>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-    </item>
-    <item>
       <title>Rewarding defenders with bigger bug bounties</title>
       <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
       <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.</description>
       <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+    </item>
+    <item>
+      <title>Preparing our next security sprint to harden OpenAI</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <description>OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.</description>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
     </item>
     <item>
       <title>Scaling Git at OpenAI</title>
@@ -105,18 +112,18 @@
       <guid isPermaLink="true">https://openai.com/index/lifeval</guid>
     </item>
     <item>
-      <title>OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
-      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
-      <description>OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/dan-driscoll-joins-openai</guid>
-    </item>
-    <item>
       <title>Qodo builds context into AI code review with Codex</title>
       <link>https://openai.com/index/qodo-codex-plugin</link>
       <description>Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/qodo-codex-plugin</guid>
+    </item>
+    <item>
+      <title>OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <description>OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/dan-driscoll-joins-openai</guid>
     </item>
     <item>
       <title>Making it easier for websites to express AI training preferences</title>
@@ -138,13 +145,6 @@
       <description>OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/fair-use-benefits-everyone</guid>
-    </item>
-    <item>
-      <title>An updated Model Spec for more capable and beneficial AI</title>
-      <link>https://openai.com/index/updated-model-spec</link>
-      <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</description>
-      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
     </item>
   </channel>
 </rss>
