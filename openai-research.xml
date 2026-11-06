@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:57:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:51:05 GMT</lastBuildDate>
+    <item>
+      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
+      <link>https://openai.com/index/partnering-with-hacktron</link>
+      <description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.</description>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
+    </item>
+    <item>
+      <title>Measuring how AI agents handle everyday wet-lab science</title>
+      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+      <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
+    </item>
     <item>
       <title>Cult.fit builds operational muscle with Codex</title>
       <link>https://openai.com/index/cultfit-builds-with-codex</link>
@@ -112,13 +126,6 @@
       <guid isPermaLink="true">https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
     </item>
     <item>
-      <title>Rewarding defenders with bigger bug bounties</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.</description>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-    </item>
-    <item>
       <title>Preparing our next security sprint to harden OpenAI</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
       <description>OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.</description>
@@ -126,25 +133,18 @@
       <guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
     </item>
     <item>
+      <title>Rewarding defenders with bigger bug bounties</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.</description>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+    </item>
+    <item>
       <title>Scaling Git at OpenAI</title>
       <link>https://openai.com/index/scaling-git-at-openai</link>
       <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.</description>
       <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
-    </item>
-    <item>
-      <title>Introducing the Grid Protectors Program</title>
-      <link>https://openai.com/index/grid-protectors-program</link>
-      <description>OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.</description>
-      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
-    </item>
-    <item>
-      <title>LifeVal</title>
-      <link>https://openai.com/index/lifeval</link>
-      <description>Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.</description>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/lifeval</guid>
     </item>
   </channel>
 </rss>
