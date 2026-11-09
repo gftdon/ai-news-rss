@@ -5,69 +5,83 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:02:03 GMT</lastBuildDate>
     <item>
-      <title>sherlock-project/sherlock [Python] — 2,373 stars today</title>
-      <link>https://github.com/sherlock-project/sherlock</link>
-      <description>[Python] Hunt down social media accounts by username across social networks (2,373 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
-    </item>
-    <item>
-      <title>dsx-ai-factory/nvke [Go] — 345 stars today</title>
-      <link>https://github.com/dsx-ai-factory/nvke</link>
-      <description>[Go] NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. (345 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
-    </item>
-    <item>
-      <title>milind-soni/OpenMausBot [TypeScript] — 1,439 stars today</title>
-      <link>https://github.com/milind-soni/OpenMausBot</link>
-      <description>[TypeScript] Open-source Grok Bot alternative with a virtual machine that bots can use (1,439 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
-    </item>
-    <item>
-      <title>anthropics/claude-quickstarts [Python] — 32 stars today</title>
-      <link>https://github.com/anthropics/claude-quickstarts</link>
-      <description>[Python] A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API (32 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-quickstarts</guid>
-    </item>
-    <item>
-      <title>vercel-labs/agent-browser [Rust] — 815 stars today</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <description>[Rust] Browser automation CLI for AI agents (815 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-    </item>
-    <item>
-      <title>meta/astryx [TypeScript] — 875 stars today</title>
-      <link>https://github.com/meta/astryx</link>
-      <description>[TypeScript] An open source design system that&apos;s fully customizable and agent ready (875 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/meta/astryx</guid>
-    </item>
-    <item>
-      <title>anthropics/skills [Python] — 792 stars today</title>
+      <title>anthropics/skills [Python] — 1,052 stars today</title>
       <link>https://github.com/anthropics/skills</link>
-      <description>[Python] Public repository for Agent Skills (792 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
+      <description>[Python] Public repository for Agent Skills (1,052 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
     </item>
     <item>
-      <title>google-deepmind/mujoco [C++] — 41 stars today</title>
+      <title>meta/astryx [TypeScript] — 3,324 stars today</title>
+      <link>https://github.com/meta/astryx</link>
+      <description>[TypeScript] An open source design system that&apos;s fully customizable and agent ready (3,324 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/meta/astryx</guid>
+    </item>
+    <item>
+      <title>sherlock-project/sherlock [Python] — 4,294 stars today</title>
+      <link>https://github.com/sherlock-project/sherlock</link>
+      <description>[Python] Hunt down social media accounts by username across social networks (4,294 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
+    </item>
+    <item>
+      <title>google-deepmind/mujoco [C++] — 579 stars today</title>
       <link>https://github.com/google-deepmind/mujoco</link>
-      <description>[C++] Multi-Joint dynamics with Contact. A general purpose physics simulator. (41 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
+      <description>[C++] Multi-Joint dynamics with Contact. A general purpose physics simulator. (579 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/google-deepmind/mujoco</guid>
     </item>
     <item>
-      <title>ranxianglei/billion-context [TypeScript] — 460 stars today</title>
-      <link>https://github.com/ranxianglei/billion-context</link>
-      <description>[TypeScript] A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need (460 stars today)</description>
-      <pubDate>Mon, 09 Nov 2026 10:26:58 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ranxianglei/billion-context</guid>
+      <title>anthropics/claude-quickstarts [Python] — 560 stars today</title>
+      <link>https://github.com/anthropics/claude-quickstarts</link>
+      <description>[Python] A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API (560 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-quickstarts</guid>
+    </item>
+    <item>
+      <title>garrytan/gbrain [TypeScript] — 215 stars today</title>
+      <link>https://github.com/garrytan/gbrain</link>
+      <description>[TypeScript] Garry&apos;s Opinionated OpenClaw/Hermes Agent Brain (215 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/garrytan/gbrain</guid>
+    </item>
+    <item>
+      <title>vercel-labs/agent-browser [Rust] — 914 stars today</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <description>[Rust] Browser automation CLI for AI agents (914 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
+    </item>
+    <item>
+      <title>ruvnet/RuView [Rust] — 245 stars today</title>
+      <link>https://github.com/ruvnet/RuView</link>
+      <description>[Rust] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (245 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
+    </item>
+    <item>
+      <title>ZhuLinsen/daily_stock_analysis [Python] — 505 stars today</title>
+      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
+      <description>[Python] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (505 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
+    </item>
+    <item>
+      <title>homeassistant-ai/ha-mcp [Python] — 31 stars today</title>
+      <link>https://github.com/homeassistant-ai/ha-mcp</link>
+      <description>[Python] Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. (31 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/homeassistant-ai/ha-mcp</guid>
+    </item>
+    <item>
+      <title>milind-soni/OpenMausBot [TypeScript] — 1,589 stars today</title>
+      <link>https://github.com/milind-soni/OpenMausBot</link>
+      <description>[TypeScript] Open-source Grok Bot alternative with a virtual machine that bots can use (1,589 stars today)</description>
+      <pubDate>Mon, 09 Nov 2026 21:02:03 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
     </item>
   </channel>
 </rss>

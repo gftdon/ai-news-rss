@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:26:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:02:03 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
+      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+      <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</description>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+    </item>
+    <item>
+      <title>Kuken Industries searches 70 years of drawings in minutes</title>
+      <link>https://openai.com/index/kuken</link>
+      <description>Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.</description>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/kuken</guid>
+    </item>
     <item>
       <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
       <link>https://openai.com/index/partnering-with-hacktron</link>
@@ -131,20 +145,6 @@
       <description>OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.</description>
       <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-    </item>
-    <item>
-      <title>Rewarding defenders with bigger bug bounties</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.</description>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-    </item>
-    <item>
-      <title>Scaling Git at OpenAI</title>
-      <link>https://openai.com/index/scaling-git-at-openai</link>
-      <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.</description>
-      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
     </item>
   </channel>
 </rss>
