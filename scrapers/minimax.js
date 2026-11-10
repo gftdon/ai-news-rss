@@ -7,10 +7,14 @@
  *
  * Target page: https://www.minimax.io/blog
  * Structure:   Blog posts are rendered as <a> card links whose href
- *              starts with "/blog/". Each card contains:
- *                - <h3>             → post title
- *                - <span> YYYY-MM-DD → publication date
- *                - <article><div>   → description excerpt
+ *              starts with "/blog/". Since the Oct 2026 redesign each
+ *              card (a.BlogList_card__<hash>) contains:
+ *                - <h2>                 → post title (was <h3>)
+ *                - <time datetime=ISO>  → publication date
+ *                - no excerpt, so the description falls back to the title
+ *              Cards are recognised by having a heading plus a date, not by
+ *              class names, which are hashed and change between redesigns.
+ *              Header/menu links to the same posts have neither.
  *
  * Returns a feed descriptor compatible with rss-builder.
  */
@@ -60,50 +64,46 @@ async function scrape() {
 
   const $ = cheerio.load(html);
   const items = [];
+  const seen = new Set();
 
-  // Blog post cards are <a> elements with href starting with "/blog/"
-  // wrapped in the grid container. Each card has:
-  //   - a <section> with the card body
-  //   - a date <span> with text matching YYYY-MM-DD
-  //   - an <h3> with the post title
-  //   - an <article> containing a <div> with the description excerpt
   $('a[href^="/blog/"]').each((_i, el) => {
     const $el = $(el);
     const href = $el.attr('href');
 
-    // Skip if this is a nav link or not a card (cards have the
-    // "no-underline overflow-hidden" classes)
-    if (!$el.hasClass('no-underline') && !$el.hasClass('overflow-hidden')) {
-      return;
-    }
-
-    // Title — the <h3> inside the card
-    const titleEl = $el.find('h3').first();
-    const title = titleEl.text().trim();
+    // Title — the card heading (<h2> now, <h3> before the redesign).
+    // Menu links have no heading, so this also filters them out.
+    const title = $el.find('h2, h3').first().text().trim();
     if (!title) return;
+
+    // Date — <time datetime="ISO">, else a <time>/<span> reading YYYY-MM-DD
+    let pubDate = null;
+    const datetime = $el.find('time[datetime]').first().attr('datetime');
+    if (datetime && !isNaN(new Date(datetime).getTime())) {
+      pubDate = new Date(datetime);
+    } else {
+      $el.find('time, span').each((_j, node) => {
+        const text = $(node).text().trim();
+        if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
+          pubDate = new Date(text + 'T00:00:00Z');
+          return false; // break
+        }
+      });
+    }
+    if (!pubDate) return; // not a post card
 
     // Link — resolve relative to absolute
     const link = href.startsWith('http') ? href : new URL(href, BASE_URL).href;
+    if (seen.has(link)) return;
+    seen.add(link);
 
-    // Date — look for a <span> whose text matches YYYY-MM-DD
-    let pubDate = null;
-    $el.find('span').each((_j, span) => {
-      const text = $(span).text().trim();
-      if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
-        pubDate = new Date(text + 'T00:00:00Z');
-        return false; // break
-      }
-    });
-
-    // Description — the first <article> contains a <div> with excerpt text
-    const descEl = $el.find('article div').first();
-    const description = descEl.text().trim() || title;
+    // Description — cards currently carry no excerpt; use one if it returns
+    const description = $el.find('p').first().text().trim() || title;
 
     items.push({
       title,
       link,
       description,
-      pubDate: pubDate || new Date(),
+      pubDate,
     });
   });
 
