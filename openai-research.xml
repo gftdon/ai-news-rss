@@ -5,13 +5,27 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 21:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:31:22 GMT</lastBuildDate>
     <item>
       <title>ChatGPT Enterprise now available in AWS Marketplace</title>
       <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
       <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</description>
       <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+    </item>
+    <item>
+      <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+      <link>https://openai.com/index/control-room</link>
+      <description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.</description>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/control-room</guid>
+    </item>
+    <item>
+      <title>CodeRabbit scales agentic software development and ships 20x more</title>
+      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
+      <description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.</description>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/coderabbit-codex-daybreak</guid>
     </item>
     <item>
       <title>Kuken Industries searches 70 years of drawings in minutes</title>
@@ -131,20 +145,6 @@
       <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.</description>
       <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
-    </item>
-    <item>
-      <title>OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</title>
-      <link>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</link>
-      <description>Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
-    </item>
-    <item>
-      <title>Preparing our next security sprint to harden OpenAI</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <description>OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.</description>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
     </item>
   </channel>
 </rss>
