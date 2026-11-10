@@ -5,6 +5,132 @@
     <link>https://seed.bytedance.com/en</link>
     <description>Latest AI research papers from ByteDance Seed</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:10:44 GMT</lastBuildDate>
+    <item>
+      <title>Recycler: Cost-Free Latent Reasoning via Hidden State Recycling</title>
+      <link>https://seed.bytedance.com/en/public_papers/recycler-cost-free-latent-reasoning-via-hidden-state-recycling</link>
+      <description>Standard autoregressive decoding links successive steps only through sampled discrete tokens, discarding the continuous semantics encoded in previous hidden states. In contrast, recurrent multitoken prediction (MTP) heads propagate both token embeddings and hidden states across steps. Remarkably, an MTP head with only ∼ 2% of the backbone parameters achieves a loss comparable to that of a standalone model ∼ 25% its size, underscoring the value of continuous hidden state feedback. Motivated by...</description>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/recycler-cost-free-latent-reasoning-via-hidden-state-recycling</guid>
+    </item>
+    <item>
+      <title>Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression</title>
+      <link>https://seed.bytedance.com/en/public_papers/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression</link>
+      <description>Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression also introduces a new positional coordinate: a token&apos;s phase, or its position relative to compression-window boundaries. We uncover a systematic asymmetry in models using such compression: the same information can be easy to retrieve at one phase and difficult at another. We call this periodic va...</description>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression</guid>
+    </item>
+    <item>
+      <title>HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?</title>
+      <link>https://seed.bytedance.com/en/public_papers/harnessdev-can-llms-create-and-evolve-their-own-agent-harness</link>
+      <description>As agents move from research prototypes to deployed tools, their capability increasingly depends on model-external execution infrastructure, commonly termed the agent harness. Changing this harness while holding model weights fixed can substantially alter task performance. Current agent evaluations typically report downstream performance under a chosen harness, leaving a model&apos;s ability to develop the harness itself comparatively underexplored. We introduce HarnessDev, a benchmark that shifts...</description>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/harnessdev-can-llms-create-and-evolve-their-own-agent-harness</guid>
+    </item>
+    <item>
+      <title>S³Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?</title>
+      <link>https://seed.bytedance.com/en/public_papers/s-gym-can-llms-turn-self-testing-and-self-judging-into-self-improvement</link>
+      <description>Large language models (LLMs) increasingly interact with external environments and accumulate substantial behavioral experience, yet existing agent benchmarks largely evaluate them as fixed policies. It therefore remains unclear whether an agent can actively test its behavior, judge the resulting experience, and use that experience to improve future decisions. We introduce \textbf{S\textsuperscript{3}Gym}, an interactive benchmark for evaluating LLM self-improvement through three coupled capab...</description>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/s-gym-can-llms-turn-self-testing-and-self-judging-into-self-improvement</guid>
+    </item>
+    <item>
+      <title>Aspire: Can Models Self-Evolve from Vague Goals?</title>
+      <link>https://seed.bytedance.com/en/public_papers/aspire-can-models-self-evolve-from-vague-goals</link>
+      <description>Many important forms of human learning begin with a vague goal, such as &quot;become a better physicist&quot; or &quot;improve at research.&quot; Learners must interpret the goal, identify capability gaps, decide how to learn, and determine whether they have actually improved. In contrast, existing work on LLM self-evolution typically begins with tasks and evaluation metrics specified by humans, reducing self-evolution to optimizing an explicit objective rather than deciding what and how to learn. We introduce A...</description>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/aspire-can-models-self-evolve-from-vague-goals</guid>
+    </item>
+    <item>
+      <title>Chain-of-Experience for Continual LLM Improvement</title>
+      <link>https://seed.bytedance.com/en/public_papers/chain-of-experience-for-continual-llm-improvement</link>
+      <description>Humans continuously learn from experience, whereas conventional large language model (LLM) evaluations ignore the models&apos; ability to improve through inference-time interaction. In this paper, we study how LLMs learn from iterative experience at test time, a setting we refer to as Chain-of-Experience (CoE), where models accumulate experiential traces through iterative interactions with self or environmental feedback to form a continual improvement loop beyond zero-shot inference. We instantiat...</description>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/chain-of-experience-for-continual-llm-improvement</guid>
+    </item>
+    <item>
+      <title>Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents</title>
+      <link>https://seed.bytedance.com/en/public_papers/harness-if-evaluating-instruction-following-across-instruction-surfaces-in-coding-agents</link>
+      <description>When a coding agent obeys a rule, it may simply have been going to do that anyway. Existing instruction-following benchmarks cannot tell the difference: they concentrate rules in the user turn, while coding-agent benchmarks emphasize final task success. We introduce Harness-IF, which scores operational rules one at a time from execution evidence: 60 realistic multi-turn coding items drawn from a 642-rule library, 256 rules receiving verdicts, placed on the five configurable surfaces a deploye...</description>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/harness-if-evaluating-instruction-following-across-instruction-surfaces-in-coding-agents</guid>
+    </item>
+    <item>
+      <title>GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?</title>
+      <link>https://seed.bytedance.com/en/public_papers/gst-bench-can-vlms-develop-global-spatial-awareness-from-video</link>
+      <description>Spatial intelligence is fundamental to embodied agents, yet existing benchmarks focus on local spatial perception from single or few viewpoints, overlooking global spatial awareness over continuous, long-horizon visual streams. To address this limitation, we introduce the Global-Spatial-Temporal Benchmark (GST-Bench), a VQA benchmark for global spatial intelligence in video understanding, comprising human-verified questions derived from 6,790 minutes of synthetically generated video. It requi...</description>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/gst-bench-can-vlms-develop-global-spatial-awareness-from-video</guid>
+    </item>
+    <item>
+      <title>Sample-Efficient Learning from Agent Experience</title>
+      <link>https://seed.bytedance.com/en/public_papers/sample-efficient-learning-from-agent-experience</link>
+      <description>Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents&apos; intera...</description>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/sample-efficient-learning-from-agent-experience</guid>
+    </item>
+    <item>
+      <title>EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments</title>
+      <link>https://seed.bytedance.com/en/public_papers/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments</link>
+      <description>Pretraining scaling laws reveal that model capability improves predictably with data and compute. But learning from real world environments after deployment remains far less understood. Analyzing roughly 38,000 hours of agent interaction with the environment across 134 real world tasks, we find, to the best of our knowledge, the first evidence that overall performance during environment learning follows a log-sigmoid scaling law with remarkably high precision, reaching R^2 = 0.998. Across mod...</description>
+      <pubDate>Sun, 05 Jul 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments</guid>
+    </item>
+    <item>
+      <title>MSQA: A Natively Sourced Multilingual and Multicultural SimpleQA Benchmark</title>
+      <link>https://seed.bytedance.com/en/public_papers/msqa-a-natively-sourced-multilingual-and-multicultural-simpleqa-benchmark</link>
+      <description>Multilingual fluency often invites a stronger assumption: a model that can speak a user&apos;s language must also understand the culture encoded by that language. We call this the Illusion of Cultural Alignment. To test this assumption directly, we introduce MSQA, a benchmark of 1,064 natively sourced questions across 11 language groups, five cultural dimensions, and three difficulty tiers. Unlike translated benchmarks, MSQA targets locally grounded knowledge and reduces shortcuts from English-cen...</description>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/msqa-a-natively-sourced-multilingual-and-multicultural-simpleqa-benchmark</guid>
+    </item>
+    <item>
+      <title>Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity</title>
+      <link>https://seed.bytedance.com/en/public_papers/seed2-0-model-card-towards-intelligence-frontier-for-real-world-complexity</link>
+      <description>We present Seed2.0, a model series that takes a meaningful step toward solving complex, real-world tasks. Our approach begins with identifying users&apos; genuine needs and constructing a reliable, forward-looking evaluation system by selecting and abstracting benchmarks grounded in these needs and in realistic, complex scenarios. Guided by this evaluation system, Seed2.0 targets two persistent challenges, long-tail knowledge and complex instruction following, substantially improving the model&apos;s r...</description>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/seed2-0-model-card-towards-intelligence-frontier-for-real-world-complexity</guid>
+    </item>
+    <item>
+      <title>A Unified Generative Framework for Scalable Chemical Reaction Network Exploration</title>
+      <link>https://seed.bytedance.com/en/public_papers/a-unified-generative-framework-for-scalable-chemical-reaction-network-exploration</link>
+      <description>Chemical reaction networks (CRNs) are crucial for understanding reaction mechanisms and guiding chemical synthesis, yet the computational exploration remains limited by the combinatorial growth of chemical space, the reliability of reaction path screening, and the cost of evaluating thermodynamic and kinetic properties. Here, we present ByteCRN, an end-to-end framework for computational CRN exploration that combines chemically informed reaction enumeration with generative transition state mod...</description>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/a-unified-generative-framework-for-scalable-chemical-reaction-network-exploration</guid>
+    </item>
+    <item>
+      <title>Analytic Nonadiabatic Derivative Couplings Using Noncollinear Spin-Flip TDDFT</title>
+      <link>https://seed.bytedance.com/en/public_papers/analytic-nonadiabatic-derivative-couplings-using-noncollinear-spin-flip-tddft</link>
+      <description>Nonadiabatic molecular dynamics is an important tool for investigating chemical reaction mechanisms, particularly in photochemical processes. Its central challenge is to efficiently and accurately obtain, at the electronic-structure level, the energies, nuclear forces (gradients), and nonadiabatic derivative couplings (NADCs) associated with multiple potential-energy surfaces. We have previously developed a noncollinear spin-flip time-dependent density functional theory (SF-TDDFT) based on th...</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/analytic-nonadiabatic-derivative-couplings-using-noncollinear-spin-flip-tddft</guid>
+    </item>
+    <item>
+      <title>Towards stable and accurate electron dynamics via neural network based time-dependent variational Monte Carlo</title>
+      <link>https://seed.bytedance.com/en/public_papers/towards-stable-and-accurate-electron-dynamics-via-neural-network-based-time-dependent-variational-monte-carlo</link>
+      <description>Real-time dynamics of interacting electrons lies at the interface between quantum mechanics and non-equilibrium physics, governing the microscopic origin of ultrafast phenomena of molecules and nano-materials. Though neural network variational Monte Carlo has achieved unprecedented accuracy for stationary state calculations, its extension to real-time evolution remains challenging. In this work, we introduce the neural basis time-dependent variational Monte Carlo framework, which achieves sta...</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/towards-stable-and-accurate-electron-dynamics-via-neural-network-based-time-dependent-variational-monte-carlo</guid>
+    </item>
+    <item>
+      <title>MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation</title>
+      <link>https://seed.bytedance.com/en/public_papers/metapoint-unlocking-precise-spatial-control-in-agentic-visual-generation</link>
+      <description>Generative visual models fundamentally struggle with precise spatial control. This arises from a core disconnect: models can process textual descriptions of space but cannot directly map numerical coordinates onto the 2D image canvas. We introduce MetaPoint, a method that bridges this gap by representing a continuous 2D coordinate as a single, special token. Crucially, MetaPoint requires no new architectural components; it directly leverages the model&apos;s inherent positional encoding schemes to...</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/metapoint-unlocking-precise-spatial-control-in-agentic-visual-generation</guid>
+    </item>
+    <item>
+      <title>Task-Focused Memorization for Multimodal Agents</title>
+      <link>https://seed.bytedance.com/en/public_papers/task-focused-memorization-for-multimodal-agents</link>
+      <description>Long-term memory is essential for multimodal agents to build coherent experience, accumulate world knowledge, and achieve continual learning. However, constructing effective memory goes beyond memory module design and basic requirements such as accuracy and fidelity; the key challenge lies in determining what to memorize. Multimodal agents, such as embodied agents, continuously perceive, reason, and act in real or virtual environments, receiving an unbounded stream of multimodal observations....</description>
+      <pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/task-focused-memorization-for-multimodal-agents</guid>
+    </item>
+    <item>
+      <title>More Expressive Feedforward Layers: Part I. Token-Adaptive Mixing of Activations</title>
+      <link>https://seed.bytedance.com/en/public_papers/more-expressive-feedforward-layers-part-i-token-adaptive-mixing-of-activations</link>
+      <description>Feedforward network (FFN) layers account for a large fraction of parameters and nonlinear expressivity in Transformer-based large language models (LLMs). Despite the evolution from ReLU and GELU to gated variants such as SwiGLU, most FFN designs still use a single fixed activation function, applying the same nonlinear transformation to all tokens. In this work, we propose Mixture of Activations (MoA), a token-adaptive FFN design that mixes a dictionary of activation functions using lightweigh...</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/more-expressive-feedforward-layers-part-i-token-adaptive-mixing-of-activations</guid>
+    </item>
   </channel>
 </rss>

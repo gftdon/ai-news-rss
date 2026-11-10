@@ -5,6 +5,104 @@
     <link>https://www.minimax.io/blog</link>
     <description>Latest posts from MiniMax Blog</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:10:43 GMT</lastBuildDate>
+    <item>
+      <title>MiniMax M3.1 Flash: Redefining Agent Performance and Cost</title>
+      <link>https://www.minimax.io/blog/minimax-m31f</link>
+      <description>MiniMax M3.1 Flash: Redefining Agent Performance and Cost</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m31f</guid>
+    </item>
+    <item>
+      <title>Introducing MiniMax Code Mini App</title>
+      <link>https://www.minimax.io/blog/minimax-code-mini-app-1792650729</link>
+      <description>Introducing MiniMax Code Mini App</description>
+      <pubDate>Thu, 22 Oct 2026 06:32:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-code-mini-app-1792650729</guid>
+    </item>
+    <item>
+      <title>MiniMax Music 3.0: Next-Generation Open-Weights, Production-Ready &amp; Versatile Music Model</title>
+      <link>https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model</link>
+      <description>MiniMax Music 3.0: Next-Generation Open-Weights, Production-Ready &amp; Versatile Music Model</description>
+      <pubDate>Thu, 13 Aug 2026 13:33:59 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model</guid>
+    </item>
+    <item>
+      <title>MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities</title>
+      <link>https://www.minimax.io/blog/minimax-h3</link>
+      <description>MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3</guid>
+    </item>
+    <item>
+      <title>MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Evolutionary Search</title>
+      <link>https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</link>
+      <description>MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Evolutionary Search</description>
+      <pubDate>Tue, 09 Jun 2026 13:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</guid>
+    </item>
+    <item>
+      <title>MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All in One Model</title>
+      <link>https://www.minimax.io/blog/minimax-m3</link>
+      <description>MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All in One Model</description>
+      <pubDate>Sun, 31 May 2026 17:31:18 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m3</guid>
+    </item>
+    <item>
+      <title>MiniMax Agent Team: Built for Long-Running Tasks and Continuous Evolution</title>
+      <link>https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953</link>
+      <description>MiniMax Agent Team: Built for Long-Running Tasks and Continuous Evolution</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953</guid>
+    </item>
+    <item>
+      <title>Why Can&apos;t the MiniMax LLM Say &quot;Ma Jiaqi&quot;? Internal Investigation of Sparse Token Forgetting</title>
+      <link>https://www.minimax.io/blog/sparse-token-forgetting</link>
+      <description>Why Can&apos;t the MiniMax LLM Say &quot;Ma Jiaqi&quot;? Internal Investigation of Sparse Token Forgetting</description>
+      <pubDate>Mon, 25 May 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/sparse-token-forgetting</guid>
+    </item>
+    <item>
+      <title>MiniMax M2.7: Early Echoes of Self-Evolution</title>
+      <link>https://www.minimax.io/blog/minimax-m27</link>
+      <description>MiniMax M2.7: Early Echoes of Self-Evolution</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m27</guid>
+    </item>
+    <item>
+      <title>Forge: Scalable Agent RL Framework and Algorithm</title>
+      <link>https://www.minimax.io/blog/forge-scalable-agent-rl-en-1779896141</link>
+      <description>Forge: Scalable Agent RL Framework and Algorithm</description>
+      <pubDate>Sat, 14 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/forge-scalable-agent-rl-en-1779896141</guid>
+    </item>
+    <item>
+      <title>MiniMax M2.5: Built for Real-World Productivity.</title>
+      <link>https://www.minimax.io/blog/minimax-m25</link>
+      <description>MiniMax M2.5: Built for Real-World Productivity.</description>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m25</guid>
+    </item>
+    <item>
+      <title>A Deep Dive into the MiniMax-M2-her</title>
+      <link>https://www.minimax.io/blog/minimax-m2-her</link>
+      <description>A Deep Dive into the MiniMax-M2-her</description>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m2-her</guid>
+    </item>
+    <item>
+      <title>MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks</title>
+      <link>https://www.minimax.io/blog/minimax-m21</link>
+      <description>MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks</description>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m21</guid>
+    </item>
+    <item>
+      <title>MiniMax M2 &amp; Agent: Ingenious in Simplicity</title>
+      <link>https://www.minimax.io/blog/minimax-m2-en-1748600000</link>
+      <description>MiniMax M2 &amp; Agent: Ingenious in Simplicity</description>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m2-en-1748600000</guid>
+    </item>
   </channel>
 </rss>
