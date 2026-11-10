@@ -1,19 +1,22 @@
 /**
  * Anthropic news scraper.
  *
- * Scrapes the latest news from Anthropic's newsroom.
- * The site is built with Next.js and server-renders news items in the initial HTML.
+ * Scrapes the latest news from Anthropic's newsroom. The page is server-rendered,
+ * so every listing row is present in the initial HTML.
  *
- * CSS selectors derived from the actual SSR HTML structure:
- * - Publication list items: ul.PublicationList...list > li > a
- * - Title: span.PublicationList...title
- * - Date: time.PublicationList...date (format: "Jun 11, 2026")
- * - Category: span.PublicationList...subject
- * - Link: a.PublicationList...listItem[href="/news/xxx"]
+ * CSS-module class names on this site are hashed (e.g. `bxgyUW_row`) and the
+ * hash changes when Anthropic redesigns or rebuilds the page — the Oct 2026
+ * redesign replaced `PublicationList-module__…` and silently emptied the feed.
+ * So rows are found by semantic hooks instead:
+ * - Row:      li[data-listing-row]
+ * - Title:    first <h3>; link = its enclosing <a> (may be absolute, and may
+ *             live outside /news/, e.g. /claude-fable-and-mythos-5-2)
+ * - Date:     <time> (format: "Nov 9, 2026")
+ * - Summary:  first <p>
+ * - Category: a[class*="category"] (the "_category-link" suffix survives hashing)
  *
- * Also extracts featured items from the FeaturedGrid section. Featured
- * items may link outside /news/ (e.g. /claude-fable-and-mythos-5-1), so
- * links are selected by section, not by URL prefix.
+ * The featured tiles above the list are not parsed: the hero duplicates the
+ * first row, and the remaining tiles are undated evergreen /features pages.
  */
 
 'use strict';
@@ -64,51 +67,25 @@ function parse(html) {
   const items = [];
   const seen = new Set();
 
-  // Select by page section rather than URL prefix: the featured hero can
-  // live at a top-level path (e.g. /claude-fable-and-mythos-5-1) and would
-  // be dropped by an `a[href^="/news/"]` filter.
-  $('[class*="FeaturedGrid"] a[href], [class*="PublicationList"] a[href]').each((_i, el) => {
-    const $el = $(el);
-    const href = $el.attr('href');
-    if (!href || !href.startsWith('/') || href === '/news' || href === '/news/') return;
+  $('li[data-listing-row]').each((_i, el) => {
+    const $row = $(el);
 
-    // Find title — could be in h2, h4, or span with "title" in class
-    let title = '';
-    const titleEl = $el.find('h2, h4, [class*="title"]').first();
-    if (titleEl.length) {
-      title = titleEl.text().trim();
-    }
-    if (!title) {
-      // Try span elements
-      $el.find('span').each((_j, span) => {
-        const text = $(span).text().trim();
-        if (text.length > 15 && !title) {
-          title = text;
-        }
-      });
-    }
-    if (!title) return;
+    const $heading = $row.find('h3').first();
+    const title = $heading.text().trim();
+    const href = $heading.closest('a').attr('href');
+    if (!title || !href) return;
 
     const link = new URL(href, 'https://www.anthropic.com').href;
     if (seen.has(link)) return;
     seen.add(link);
 
-    // Find date from <time> element
-    let pubDate = new Date();
-    const timeEl = $el.find('time');
-    if (timeEl.length) {
-      const dateStr = timeEl.text().trim(); // "Jun 11, 2026"
-      const parsed = new Date(dateStr);
-      if (!isNaN(parsed.getTime())) {
-        pubDate = parsed;
-      }
-    }
+    // Leave pubDate unset rather than defaulting to "now": a scrape-time date
+    // makes the item look brand new on every run.
+    const parsed = new Date($row.find('time').first().text().trim());
+    const pubDate = isNaN(parsed.getTime()) ? undefined : parsed;
 
-    // Find description from <p> with "body" in class
-    const description = $el.find('p[class*="body"]').text().trim() || title;
-
-    // Find category
-    const category = $el.find('span[class*="subject"], span[class*="caption"]').first().text().trim();
+    const description = $row.find('p').first().text().trim() || title;
+    const category = $row.find('a[class*="category"]').first().text().trim();
 
     items.push({
       title,
@@ -118,9 +95,10 @@ function parse(html) {
     });
   });
 
-  // Newest first. Array.prototype.sort is stable, so items sharing a date
-  // keep their on-page order.
-  items.sort((a, b) => b.pubDate - a.pubDate);
+  // Newest first; undated rows sink to the end. Array.prototype.sort is
+  // stable, so items sharing a date keep their on-page order.
+  const time = (item) => (item.pubDate ? item.pubDate.getTime() : 0);
+  items.sort((a, b) => time(b) - time(a));
 
   return { ...FEED_META, items };
 }
