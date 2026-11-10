@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:43:10 GMT</lastBuildDate>
+    <item>
+      <title>Closing the AI guidance gap in education</title>
+      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+      <description>Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.</description>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
+    </item>
     <item>
       <title>ChatGPT Enterprise now available in AWS Marketplace</title>
       <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
@@ -138,13 +145,6 @@
       <description>Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.</description>
       <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
-    </item>
-    <item>
-      <title>Heimstaden is changing residential real estate management with AI</title>
-      <link>https://openai.com/index/heimstaden</link>
-      <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.</description>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,14 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:43:10 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic launches roadshow for proposed initial public offering</title>
+      <link>https://www.anthropic.com/news/roadshow-launch</link>
+      <description>[Announcements] Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/roadshow-launch</guid>
+    </item>
     <item>
       <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
       <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
@@ -166,13 +173,6 @@
       <description>[Partnerships] We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
-    </item>
-    <item>
-      <title>Introducing the Life Sciences Verification Program</title>
-      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-      <description>[Announcements] The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/life-sciences-verification-program</guid>
     </item>
   </channel>
 </rss>
