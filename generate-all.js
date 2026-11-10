@@ -5,13 +5,15 @@
  *
  * Main entry point: imports all scrapers, runs them concurrently,
  * and writes the resulting RSS XML files to the public/ directory.
+ * A scraper that returns 0 items or throws leaves its previous file in
+ * place and logs a warning (see lib/write-feed.js).
  */
 
 'use strict';
 
 const fs = require('fs');
 const path = require('path');
-const { buildRss } = require('./lib/rss-builder');
+const { writeFeed, warn } = require('./lib/write-feed');
 
 // Import all scrapers
 const scrapers = {
@@ -45,24 +47,23 @@ async function main() {
     entries.map(async ([name, scraper]) => {
       console.log(`\n--- Running ${name} scraper ---`);
       const feed = await scraper.scrape();
-      const xml = buildRss(feed);
-      const outputPath = path.join(OUTPUT_DIR, `${name}.xml`);
-      fs.writeFileSync(outputPath, xml, 'utf-8');
-      console.log(`[${name}] Wrote ${feed.items.length} items to ${outputPath}`);
-      return { name, itemCount: feed.items.length };
+      return writeFeed(name, feed, OUTPUT_DIR);
     })
   );
 
   // Summary
   console.log('\n=== Summary ===');
-  for (const result of results) {
-    if (result.status === 'fulfilled') {
-      const { name, itemCount } = result.value;
-      console.log(`  ✓ ${name}: ${itemCount} items`);
+  results.forEach((result, i) => {
+    const name = entries[i][0];
+    if (result.status === 'rejected') {
+      console.error(`  ✗ ${name}: ${result.reason}`);
+      warn(`Scraper failed (${name})`, `${name} threw; kept previous ${name}.xml. ${result.reason}`);
+    } else if (!result.value.written) {
+      console.log(`  ⚠ ${name}: 0 items — previous feed kept`);
     } else {
-      console.error(`  ✗ Error: ${result.reason}`);
+      console.log(`  ✓ ${name}: ${result.value.itemCount} items`);
     }
-  }
+  });
 
   console.log(`\nCompleted at ${new Date().toISOString()}`);
 }

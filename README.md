@@ -32,13 +32,15 @@ node generate-all.js
 
 Generated feeds are written to `public/` (e.g. `public/anthropic.xml`, `public/kimi.xml`, …) and deployed to GitHub Pages every 15 minutes by the workflow.
 
+If a scraper returns 0 items or throws, its feed is **not** overwritten: the previous file is kept (locally in `public/`, and on gh-pages via `keep_files: true`) and the run logs a warning — a `::warning` annotation on the workflow run summary in CI. An empty result almost always means the source site changed its markup or API, so treat the warning as "fix this scraper".
+
 ### Tests
 
 ```bash
 npm test
 ```
 
-Scraper tests run offline against saved HTML fixtures in `test/fixtures/` (Node's built-in test runner, no extra dependencies). When a source site changes its markup, refresh the fixture and adjust the scraper.
+Scraper tests run offline against saved HTML/JSON fixtures in `test/fixtures/` (Node's built-in test runner, no extra dependencies). When a source site changes its markup, refresh the fixture and adjust the scraper.
 
 ## Landing Page
 

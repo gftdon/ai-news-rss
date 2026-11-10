@@ -48,4 +48,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
+          # A scraper that returns 0 items or fails writes no file (public/*.xml
+          # is gitignored, so nothing is there in CI). Keep the existing gh-pages
+          # copy instead of deleting it, so subscribers get a stale feed, not a 404.
+          keep_files: true
           commit_message: 'chore: update RSS feeds [skip ci]'
