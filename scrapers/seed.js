@@ -6,6 +6,11 @@
  *
  * API endpoint: https://seed.bytedance.com/api/get_article_list_v2?article_type=1
  *
+ * Since ~Jul 2026 the API only returns papers (article_type=1) when the
+ * request carries `x-tt-locale: US`, as the site's own frontend sends.
+ * Without it the response is still "success" with `total` set, but
+ * `sub_article_list` is omitted — so the feed silently went empty.
+ *
  * Response structure:
  * {
  *   sub_article_list: [
@@ -53,6 +58,7 @@ async function scrape() {
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; AI-News-RSS/1.0)',
         'Accept': 'application/json',
+        'x-tt-locale': 'US',
       },
     });
     if (!res.ok) {
@@ -76,9 +82,11 @@ async function scrape() {
     if (!title) continue;
 
     const slug = content.TitleKey;
-    // Construct article URL — Seed uses /en/tech/{slug} for article pages
+    // Construct article URL — the site links papers as /en/public_papers/{slug}
+    // (formerly /en/tech/{slug}; the SPA answers 200 for any path, so the
+    // status code can't tell which is current)
     const link = slug
-      ? `https://seed.bytedance.com/en/tech/${slug}`
+      ? `https://seed.bytedance.com/en/public_papers/${slug}`
       : FEED_META.link;
 
     // Abstract may be very long — truncate for RSS description

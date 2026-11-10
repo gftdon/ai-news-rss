@@ -1,0 +1,61 @@
+{
+  "sub_article_list": [
+    {
+      "ArticleMeta": {
+        "PublishDate": 1792857600000
+      },
+      "ArticleSubContentEn": {
+        "Title": "Recycler: Cost-Free Latent Reasoning via Hidden State Recycling",
+        "Abstract": "Standard autoregressive decoding links successive steps only through sampled discrete tokens, discarding the continuous semantics encoded in previous hidden states. In contrast, recurrent multitoken prediction (MTP) heads propagate both token embeddings and hidden states across steps. Remarkably, an MTP head with only ∼ 2% of the backbone parameters achieves a loss comparable to that of a standalone model ∼ 25% its size, underscoring the value of continuous hidden state feedback. Motivated by this observation, we introduce Recycler, a simple and effective architecture\nthat feeds both embedding and the previous token’s hidden state through a lightweight adapter into the next step, preserving richer cross-step semantics with negligible decoding overhead. We develop a complete training and inference pipeline covering pretraining, SFT, continued pretraining and RL. Experiments demonstrate strong parameter efficiency, particularly in reasoning and mathematics. Although earlier integration yields larger gains, Recycler remains effective when introduced at later stages, outperforming models with 2–3× more parameters.",
+        "TitleKey": "recycler-cost-free-latent-reasoning-via-hidden-state-recycling"
+      }
+    },
+    {
+      "ArticleMeta": {
+        "PublishDate": 1790596800000
+      },
+      "ArticleSubContentEn": {
+        "Title": "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression",
+        "Abstract": "Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression also introduces a new positional coordinate: a token's phase, or its position relative to compression-window boundaries. We uncover a systematic asymmetry in models using such compression: the same information can be easy to retrieve at one phase and difficult at another. We call this periodic variation in retrieval performance phase sensitivity. In large open-weight models with such compression, long-context retrieval accuracy can differ by up to 40 percentage points across phases, revealing periodic weak spots that average benchmark scores can conceal. To investigate this behavior, we pretrain a family of transformers from scratch across multiple KV-compression designs, reproducing phase sensitivity across the variants. Mechanistic analysis using causal interventions in these models reveals phase specialization: different attention components contribute asymmetrically to retrieving information at different source phases. We further analyze idealized retrieval models, showing how gradient flow dynamics may favor sharp phase specialization. Evaluating models with chunked KV-cache compression thus requires measuring across compression phases: high average accuracy can coexist with systematic positional failures.",
+        "TitleKey": "periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression"
+      }
+    },
+    {
+      "ArticleMeta": {
+        "PublishDate": 1788264000000
+      },
+      "ArticleSubContentEn": {
+        "Title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?",
+        "Abstract": "As agents move from research prototypes to deployed tools, their capability increasingly depends on model-external execution infrastructure, commonly termed the agent harness. Changing this harness while holding model weights fixed can substantially alter task performance. Current agent evaluations typically report downstream performance under a chosen harness, leaving a model's ability to develop the harness itself comparatively underexplored. We introduce HarnessDev, a benchmark that shifts the unit of evaluation from task outputs to runnable infrastructure. HarnessDev covers two stages. In Creation, the agent starts from a minimal seed and a small number of cases, then builds a complete execution system. In Evolution, it starts from its own created harness and iteratively revises it using downstream execution feedback, with the goal of improving benchmark performance. We then evaluate each constructed harness on capability (task success on held-out benchmarks) and efficiency (execution-token cost). The reported Creation results cover six creator LLMs, four domains, and five downstream benchmarks totaling 2,207 unique downstream instances, with hidden evaluation tasks withheld from development. We find that generated harnesses remain substantially behind mature human-engineered references on code and on search and research, while matching or exceeding the selected references on writing and machine-learning experimentation, with large variation in execution cost. Evolution produces some performance gains, but they are unstable and transfer only partially to held-out tasks. Experiments with a fixed runtime model further show that the gains depend strongly on the model executing the harness, indicating limited transfer across models.",
+        "TitleKey": "harnessdev-can-llms-create-and-evolve-their-own-agent-harness"
+      }
+    },
+    {
+      "ArticleMeta": {
+        "PublishDate": 1788177600000
+      },
+      "ArticleSubContentEn": {
+        "Title": "S³Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?",
+        "Abstract": "Large language models (LLMs) increasingly interact with external environments and accumulate substantial behavioral experience, yet existing agent benchmarks largely evaluate them as fixed policies. It therefore remains unclear whether an agent can actively test its behavior, judge the resulting experience, and use that experience to improve future decisions. We introduce \\textbf{S\\textsuperscript{3}Gym}, an interactive benchmark for evaluating LLM self-improvement through three coupled capabilities: \\textbf{Self-Testing}, \\textbf{Self-Judging}, and \\textbf{Self-Improvement}. S$^3$Gym separates permissive exploration from strict held-out evaluation and instantiates this protocol in seven text-based games with executable environment verifiers. We evaluate three pathways for incorporating interaction experience: direct History ICL, score-conditioned Summary Memory, and parameter Training. Our experiments reveal that self-improvement is neither automatic nor uniform. Context-level experience improves performance for several model--game pairs, but the most effective pathway depends strongly on the task structure: summaries are beneficial when experience can be compressed into reusable strategic rules, yet often underperform raw history when success depends on precise, state-contingent information. Parameter training produces substantial gains on some tasks, but also exhibits unstable improvement and severe negative transfer on others. These findings show that recognizing successful actions is insufficient; agents must also transform feedback into executable and transferable policies. S$^3$Gym provides a unified framework for diagnosing this process and identifying the bottlenecks that prevent agents from translating interaction experience into reliable self-improvement.",
+        "TitleKey": "s-gym-can-llms-turn-self-testing-and-self-judging-into-self-improvement"
+      }
+    },
+    {
+      "ArticleMeta": {
+        "PublishDate": 1788177600000
+      },
+      "ArticleSubContentEn": {
+        "Title": "Aspire: Can Models Self-Evolve from Vague Goals?",
+        "Abstract": "Many important forms of human learning begin with a vague goal, such as \"become a better physicist\" or \"improve at research.\" Learners must interpret the goal, identify capability gaps, decide how to learn, and determine whether they have actually improved. In contrast, existing work on LLM self-evolution typically begins with tasks and evaluation metrics specified by humans, reducing self-evolution to optimizing an explicit objective rather than deciding what and how to learn. We introduce ASPIRE, a benchmark for vague-goal-driven self-evolution. ASPIRE provides only a natural-language capability goal while downstream evaluation tasks remain hidden. The agent must operationalize the goal by choosing data and update methods, constructing training and validation signals, and deciding when to evaluate. ASPIRE supports both model-weight and agent-harness evolution in a unified interactive environment and evaluates the resulting systems on a hidden, expert-authored set of 520 items spanning six goals. Our experiments show that vague goals redirect search effort toward goal interpretation. Current agents routinely complete training and harness-editing loops, but weight-level gains remain sparse and unstable, and the strongest evolved harness remains below the engineered Qwen-Agent reference. Agents often train on mismatched data and trust narrow self-evaluations, so local gains fail to transfer to hidden evaluation and continued search and training can erase earlier improvements.",
+        "TitleKey": "aspire-can-models-self-evolve-from-vague-goals"
+      }
+    }
+  ],
+  "next_page_token": "20",
+  "has_more": true,
+  "total": 247,
+  "BaseResp": {
+    "StatusMessage": "success",
+    "StatusCode": 0
+  }
+}
