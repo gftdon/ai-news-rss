@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:59:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:00:31 GMT</lastBuildDate>
+    <item>
+      <title>Gilbert + Tobin rethinks the business of law with AI</title>
+      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
+      <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
+    </item>
+    <item>
+      <title>ChatGPT Plus for veterans and servicemembers</title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-plus-for-veterans</guid>
+    </item>
     <item>
       <title>Helping caregivers use AI in everyday life</title>
       <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
@@ -33,6 +47,13 @@
       <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</description>
       <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/ai-effect-on-freelance-work</guid>
+    </item>
+    <item>
+      <title>Cogent and OpenAI build cyber defense factories for enterprises</title>
+      <link>https://openai.com/index/cogent-security</link>
+      <description>Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/cogent-security</guid>
     </item>
     <item>
       <title>ChatGPT Enterprise now available in AWS Marketplace</title>
@@ -124,27 +145,6 @@
       <description>OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.</description>
       <pubDate>Wed, 04 Nov 2026 14:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-pierre</guid>
-    </item>
-    <item>
-      <title>A thousand fewer paths to root</title>
-      <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-      <description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.</description>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
-    </item>
-    <item>
-      <title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
-      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
-      <description>Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.</description>
-      <pubDate>Wed, 04 Nov 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/daybreak-red-aws-govcloud</guid>
-    </item>
-    <item>
-      <title>Introducing Images 2.6</title>
-      <link>https://openai.com/index/introducing-images-2-6</link>
-      <description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-images-2-6</guid>
     </item>
   </channel>
 </rss>
