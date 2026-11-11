@@ -5,7 +5,7 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:28:29 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin rethinks the business of law with AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -19,6 +19,13 @@
       <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
       <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/chatgpt-plus-for-veterans</guid>
+    </item>
+    <item>
+      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
+      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
+      <description>JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/jiostar-vijay-seshadri</guid>
     </item>
     <item>
       <title>Helping caregivers use AI in everyday life</title>
@@ -40,6 +47,13 @@
       <description>New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.</description>
       <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
+    </item>
+    <item>
+      <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
+      <link>https://openai.com/index/singapore-airlines-travel-work</link>
+      <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/singapore-airlines-travel-work</guid>
     </item>
     <item>
       <title>Work at the Frontier: AI’s effect on freelance work</title>
@@ -131,20 +145,6 @@
       <description>OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.</description>
       <pubDate>Thu, 05 Nov 2026 02:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
-    </item>
-    <item>
-      <title>Franklin Templeton uses OpenAI to support investment research</title>
-      <link>https://openai.com/index/franklin-templeton</link>
-      <description>Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/franklin-templeton</guid>
-    </item>
-    <item>
-      <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
-      <link>https://openai.com/index/openai-to-acquire-pierre</link>
-      <description>OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.</description>
-      <pubDate>Wed, 04 Nov 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-pierre</guid>
     </item>
   </channel>
 </rss>

@@ -5,14 +5,7 @@
     <link>https://www.minimax.io/blog</link>
     <description>Latest posts from MiniMax Blog</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:00:31 GMT</lastBuildDate>
-    <item>
-      <title>MiniMax M3.1 Flash: Redefining Agent Performance and Cost</title>
-      <link>https://www.minimax.io/blog/minimax-m31f</link>
-      <description>MiniMax M3.1 Flash: Redefining Agent Performance and Cost</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m31f</guid>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 21:28:30 GMT</lastBuildDate>
     <item>
       <title>MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era</title>
       <link>https://www.minimax.io/blog/minimax-h3-image</link>
@@ -26,6 +19,13 @@
       <description>Introducing MiniMax Code Mini App</description>
       <pubDate>Thu, 22 Oct 2026 06:32:09 GMT</pubDate>
       <guid isPermaLink="true">https://www.minimax.io/blog/minimax-code-mini-app-1792650729</guid>
+    </item>
+    <item>
+      <title>MiniMax M3.1 Flash: Redefining Agent Performance and Cost</title>
+      <link>https://www.minimax.io/blog/minimax-m31f</link>
+      <description>MiniMax M3.1 Flash: Redefining Agent Performance and Cost</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-m31f</guid>
     </item>
     <item>
       <title>MiniMax Music 3.0: Next-Generation Open-Weights, Production-Ready &amp; Versatile Music Model</title>
