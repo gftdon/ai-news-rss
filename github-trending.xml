@@ -5,76 +5,97 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:26:08 GMT</lastBuildDate>
     <item>
-      <title>meta/astryx [TypeScript] — 2,776 stars today</title>
-      <link>https://github.com/meta/astryx</link>
-      <description>[TypeScript] An open source design system that&apos;s fully customizable and agent ready (2,776 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/meta/astryx</guid>
-    </item>
-    <item>
-      <title>ZhuLinsen/daily_stock_analysis [Python] — 278 stars today</title>
-      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
-      <description>[Python] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (278 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
-    </item>
-    <item>
-      <title>GoogleChrome/modern-web-guidance-src [TypeScript] — 159 stars today</title>
+      <title>GoogleChrome/modern-web-guidance-src [TypeScript] — 799 stars today</title>
       <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
-      <description>[TypeScript] No description (159 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
+      <description>[TypeScript] No description (799 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/GoogleChrome/modern-web-guidance-src</guid>
     </item>
     <item>
-      <title>shadcn/improve — 361 stars today</title>
-      <link>https://github.com/shadcn/improve</link>
-      <description>Use your most capable model to audit your codebase and write plans for cheaper models to execute. (361 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/shadcn/improve</guid>
-    </item>
-    <item>
-      <title>addyosmani/agent-skills [JavaScript] — 787 stars today</title>
-      <link>https://github.com/addyosmani/agent-skills</link>
-      <description>[JavaScript] Production-grade engineering skills for AI coding agents. (787 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
-    </item>
-    <item>
-      <title>vercel-labs/agent-browser [Rust] — 708 stars today</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <description>[Rust] Browser automation CLI for AI agents (708 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-    </item>
-    <item>
-      <title>we-promise/sure [Ruby] — 1,078 stars today</title>
-      <link>https://github.com/we-promise/sure</link>
-      <description>[Ruby] The personal finance app for everyone (by everyone) (1,078 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/we-promise/sure</guid>
-    </item>
-    <item>
-      <title>homeassistant-ai/ha-mcp [Python] — 645 stars today</title>
-      <link>https://github.com/homeassistant-ai/ha-mcp</link>
-      <description>[Python] Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. (645 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/homeassistant-ai/ha-mcp</guid>
-    </item>
-    <item>
-      <title>openai/codex-security [TypeScript] — 52 stars today</title>
+      <title>openai/codex-security [TypeScript] — 663 stars today</title>
       <link>https://github.com/openai/codex-security</link>
-      <description>OpenAI&apos;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (52 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
+      <description>OpenAI&apos;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (663 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/openai/codex-security</guid>
     </item>
     <item>
-      <title>TheAlgorithms/Java [Java] — 51 stars today</title>
-      <link>https://github.com/TheAlgorithms/Java</link>
-      <description>All Algorithms implemented in Java (51 stars today)</description>
-      <pubDate>Thu, 12 Nov 2026 10:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/TheAlgorithms/Java</guid>
+      <title>nvm-sh/nvm [Shell] — 107 stars today</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>[Shell] Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. (107 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/nvm-sh/nvm</guid>
+    </item>
+    <item>
+      <title>pookjw/HermesEnabler [Objective-C] — 390 stars today</title>
+      <link>https://github.com/pookjw/HermesEnabler</link>
+      <description>[Objective-C] Enable Hermès Watch Faces on any Apple Watch devices (390 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/pookjw/HermesEnabler</guid>
+    </item>
+    <item>
+      <title>we-promise/sure [Ruby] — 974 stars today</title>
+      <link>https://github.com/we-promise/sure</link>
+      <description>[Ruby] The personal finance app for everyone (by everyone) (974 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/we-promise/sure</guid>
+    </item>
+    <item>
+      <title>QwenLM/qwen-code [TypeScript] — 151 stars today</title>
+      <link>https://github.com/QwenLM/qwen-code</link>
+      <description>[TypeScript] An open-source AI coding agent that lives in your terminal. (151 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/QwenLM/qwen-code</guid>
+    </item>
+    <item>
+      <title>ashhart/TensorFold [Zig] — 94 stars today</title>
+      <link>https://github.com/ashhart/TensorFold</link>
+      <description>[Zig] LLM Inference Engine for Metal, CUDA and Vulkan. (94 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ashhart/TensorFold</guid>
+    </item>
+    <item>
+      <title>nodejs/node [JavaScript] — 133 stars today</title>
+      <link>https://github.com/nodejs/node</link>
+      <description>Node.js JavaScript runtime ✨🐢🚀✨ (133 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/nodejs/node</guid>
+    </item>
+    <item>
+      <title>addyosmani/agent-skills [JavaScript] — 812 stars today</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <description>[JavaScript] Production-grade engineering skills for AI coding agents. (812 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
+    </item>
+    <item>
+      <title>meta/astryx [TypeScript] — 1,789 stars today</title>
+      <link>https://github.com/meta/astryx</link>
+      <description>[TypeScript] An open source design system that&apos;s fully customizable and agent ready (1,789 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/meta/astryx</guid>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot [TypeScript] — 291 stars today</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <description>[TypeScript] Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. (291 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/CopilotKit/OpenBot</guid>
+    </item>
+    <item>
+      <title>Alishahryar1/free-claude-code [Python] — 461 stars today</title>
+      <link>https://github.com/Alishahryar1/free-claude-code</link>
+      <description>[Python] Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) (461 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Alishahryar1/free-claude-code</guid>
+    </item>
+    <item>
+      <title>ggml-org/llama.cpp [C++] — 287 stars today</title>
+      <link>https://github.com/ggml-org/llama.cpp</link>
+      <description>LLM inference in C/C++ (287 stars today)</description>
+      <pubDate>Thu, 12 Nov 2026 18:26:08 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp</guid>
     </item>
   </channel>
 </rss>
