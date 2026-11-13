@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:00:34 GMT</lastBuildDate>
+    <item>
+      <title>Introducing ChatGPT Wallet</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+    </item>
     <item>
       <title>Supporting research on AI and children’s safety</title>
       <link>https://openai.com/index/children-first-declaration</link>
@@ -138,13 +145,6 @@
       <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.</description>
       <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-cyber</guid>
-    </item>
-    <item>
-      <title>Merge builds product and business tools with OpenAI technology</title>
-      <link>https://openai.com/index/merge-builds-with-openai</link>
-      <description>Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.</description>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/merge-builds-with-openai</guid>
     </item>
   </channel>
 </rss>
