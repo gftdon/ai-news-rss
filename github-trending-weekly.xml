@@ -5,110 +5,110 @@
     <link>https://github.com/trending?since=weekly</link>
     <description>Weekly trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:52:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:17:19 GMT</lastBuildDate>
     <item>
       <title>sherlock-project/sherlock [Python] — 13,364 stars this week</title>
       <link>https://github.com/sherlock-project/sherlock</link>
       <description>[Python] Hunt down social media accounts by username across social networks (13,364 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
     </item>
     <item>
       <title>anthropics/skills [Python] — 6,169 stars this week</title>
       <link>https://github.com/anthropics/skills</link>
       <description>[Python] Public repository for Agent Skills (6,169 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
     </item>
     <item>
       <title>milind-soni/OpenMausBot [TypeScript] — 7,763 stars this week</title>
       <link>https://github.com/milind-soni/OpenMausBot</link>
       <description>[TypeScript] Open-source Grok Bot alternative with a virtual machine that bots can use (7,763 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
     </item>
     <item>
       <title>vercel-labs/agent-browser [Rust] — 4,360 stars this week</title>
       <link>https://github.com/vercel-labs/agent-browser</link>
       <description>[Rust] Browser automation CLI for AI agents (4,360 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
     </item>
     <item>
       <title>google/elephant-goldfish-model [Python] — 5,560 stars this week</title>
       <link>https://github.com/google/elephant-goldfish-model</link>
       <description>[Python] Open-source plugin for designing and reviewing software with agents (5,560 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/google/elephant-goldfish-model</guid>
     </item>
     <item>
       <title>ZhuLinsen/daily_stock_analysis [Python] — 3,778 stars this week</title>
       <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
       <description>[Python] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (3,778 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
     </item>
     <item>
       <title>NVIDIA/auto-ontology [Python] — 4,108 stars this week</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
       <description>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. (4,108 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/NVIDIA/auto-ontology</guid>
     </item>
     <item>
       <title>google-deepmind/mujoco [C++] — 1,764 stars this week</title>
       <link>https://github.com/google-deepmind/mujoco</link>
       <description>[C++] Multi-Joint dynamics with Contact. A general purpose physics simulator. (1,764 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/google-deepmind/mujoco</guid>
     </item>
     <item>
       <title>mattpocock/skills [Shell] — 7,599 stars this week</title>
       <link>https://github.com/mattpocock/skills</link>
       <description>[Shell] Skills for Real Engineers. Straight from my .agents directory. (7,599 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
     </item>
     <item>
       <title>addyosmani/agent-skills [JavaScript] — 3,502 stars this week</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>[JavaScript] Production-grade engineering skills for AI coding agents. (3,502 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
     </item>
     <item>
       <title>cloudflare/security-audit-skill [JavaScript] — 8,829 stars this week</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <description>[JavaScript] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (8,829 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
     </item>
     <item>
       <title>zed-industries/zed [Rust] — 2,117 stars this week</title>
       <link>https://github.com/zed-industries/zed</link>
       <description>[Rust] Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2,117 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/zed-industries/zed</guid>
     </item>
     <item>
       <title>anthropics/claude-quickstarts [Python] — 1,731 stars this week</title>
       <link>https://github.com/anthropics/claude-quickstarts</link>
       <description>[Python] A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API (1,731 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/anthropics/claude-quickstarts</guid>
     </item>
     <item>
       <title>vercel-labs/agent-desktop [Rust] — 5,408 stars this week</title>
       <link>https://github.com/vercel-labs/agent-desktop</link>
       <description>[Rust] Computer use CLI for AI agents (5,408 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
     </item>
     <item>
       <title>lobehub/lobehub [TypeScript] — 1,126 stars this week</title>
       <link>https://github.com/lobehub/lobehub</link>
       <description>[TypeScript] 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. (1,126 stars this week)</description>
-      <pubDate>Sat, 14 Nov 2026 00:52:11 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 07:17:19 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
     </item>
   </channel>
