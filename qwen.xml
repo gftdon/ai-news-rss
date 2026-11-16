@@ -5,7 +5,14 @@
     <link>https://qwen.ai/research</link>
     <description>Latest research and model releases from Qwen (Alibaba Cloud)</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 01:56:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:31:30 GMT</lastBuildDate>
+    <item>
+      <title>Qwen4-Max: Your New Teammate Has Arrived</title>
+      <link>https://qwen.ai/blog?id=qwen4-max</link>
+      <description>Today, we are introducing Qwen4-Max, your new AI teammate for work, creativity, and discovery. Qwen4-Max is built on the new Qwen4 architecture, with a 2.4-trillion-parameter backbone, native vision capabilities, and a one-million-token context window. Qwen4-Max advances real-world productivity t...</description>
+      <pubDate>Mon, 16 Nov 2026 02:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen4-max</guid>
+    </item>
     <item>
       <title>Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</title>
       <link>https://qwen.ai/blog?id=qwen-image-2.1</link>
@@ -138,13 +145,6 @@
       <description>.katex-display &gt; .katex { font-size: 1.1em; } .katex { font-size: 1.1em; } table .katex { font-size: 1.1em; } Following the release of Qwen3-Next, Gated Delta Network (GDN) has become the workhorse attention layer across the Qwen family — from Qwen3-Next-80B-A3B all the way to the subsequent Qwen...</description>
       <pubDate>Tue, 28 Apr 2026 02:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://qwen.ai/blog?id=flashqla</guid>
-    </item>
-    <item>
-      <title>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</title>
-      <link>https://qwen.ai/blog?id=qwen3.6-27b</link>
-      <description>Following the launch of Qwen3.6-Plus and Qwen3.6-35B-A3B, we are excited to open-source Qwen3.6-27B — a dense 27-billion-parameter multimodal model at the scale the community has been asking for most. Still supporting both multimodal thinking and non-thinking modes, Qwen3.6-27B delivers flagship-...</description>
-      <pubDate>Wed, 22 Apr 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.6-27b</guid>
     </item>
   </channel>
 </rss>
