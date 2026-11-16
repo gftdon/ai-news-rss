@@ -5,7 +5,63 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:49:17 GMT</lastBuildDate>
+    <item>
+      <title>Broadening access to AI for scientists</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+    </item>
+    <item>
+      <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <description>New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.</description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
+    </item>
+    <item>
+      <title>Science at the Frontier: How scientists use ChatGPT</title>
+      <link>https://openai.com/index/science-at-the-frontier</link>
+      <description>Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/science-at-the-frontier</guid>
+    </item>
+    <item>
+      <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
+      <link>https://openai.com/index/lvmh-media-division-partnership</link>
+      <description>LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.</description>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/lvmh-media-division-partnership</guid>
+    </item>
+    <item>
+      <title>Our first phase of embedded assessments</title>
+      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+      <description>OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+    </item>
+    <item>
+      <title>Advancing computer-use agents for healthcare teams</title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <description>OpenAI research/release: Advancing computer-use agents for healthcare teams</description>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+    </item>
+    <item>
+      <title>More ways to move care forward with ChatGPT for Healthcare</title>
+      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+      <description>Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.</description>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+    </item>
+    <item>
+      <title>The King’s Trust and OpenAI launch £1m partnership</title>
+      <link>https://openai.com/index/the-kings-trust-and-openai</link>
+      <description>The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/the-kings-trust-and-openai</guid>
+    </item>
     <item>
       <title>A step toward defining the Standard Model on a lattice</title>
       <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
@@ -89,62 +145,6 @@
       <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</description>
       <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/ai-effect-on-freelance-work</guid>
-    </item>
-    <item>
-      <title>Cogent and OpenAI build cyber defense factories for enterprises</title>
-      <link>https://openai.com/index/cogent-security</link>
-      <description>Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/cogent-security</guid>
-    </item>
-    <item>
-      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
-      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-      <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</description>
-      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
-    </item>
-    <item>
-      <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
-      <link>https://openai.com/index/control-room</link>
-      <description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.</description>
-      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/control-room</guid>
-    </item>
-    <item>
-      <title>CodeRabbit scales agentic software development and ships 20x more</title>
-      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
-      <description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.</description>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/coderabbit-codex-daybreak</guid>
-    </item>
-    <item>
-      <title>Kuken Industries searches 70 years of drawings in minutes</title>
-      <link>https://openai.com/index/kuken</link>
-      <description>Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.</description>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/kuken</guid>
-    </item>
-    <item>
-      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
-      <link>https://openai.com/index/partnering-with-hacktron</link>
-      <description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.</description>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
-    </item>
-    <item>
-      <title>Measuring how AI agents handle everyday wet-lab science</title>
-      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-      <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
-    </item>
-    <item>
-      <title>Cult.fit builds operational muscle with Codex</title>
-      <link>https://openai.com/index/cultfit-builds-with-codex</link>
-      <description>Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.</description>
-      <pubDate>Thu, 05 Nov 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/cultfit-builds-with-codex</guid>
     </item>
   </channel>
 </rss>
