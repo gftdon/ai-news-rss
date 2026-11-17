@@ -5,7 +5,14 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 02:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:14:58 GMT</lastBuildDate>
+    <item>
+      <title>Strengthening NATO and allied cyber defenses with AI</title>
+      <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+      <description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+    </item>
     <item>
       <title>Broadening access to AI for scientists</title>
       <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
@@ -42,18 +49,18 @@
       <guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
     </item>
     <item>
-      <title>Advancing computer-use agents for healthcare teams</title>
-      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
-      <description>OpenAI research/release: Advancing computer-use agents for healthcare teams</description>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
-    </item>
-    <item>
       <title>More ways to move care forward with ChatGPT for Healthcare</title>
       <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
       <description>Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.</description>
       <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+    </item>
+    <item>
+      <title>Advancing computer-use agents for healthcare teams</title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <description>OpenAI research/release: Advancing computer-use agents for healthcare teams</description>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
     </item>
     <item>
       <title>The King’s Trust and OpenAI launch £1m partnership</title>
@@ -138,13 +145,6 @@
       <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
       <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/singapore-airlines-travel-work</guid>
-    </item>
-    <item>
-      <title>Work at the Frontier: AI’s effect on freelance work</title>
-      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
-      <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</description>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/ai-effect-on-freelance-work</guid>
     </item>
   </channel>
 </rss>
