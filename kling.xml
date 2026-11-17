@@ -5,11 +5,18 @@
     <link>https://klingai.com/release-note/release-history</link>
     <description>Latest release notes and updates from Kling AI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:55:56 GMT</lastBuildDate>
     <item>
       <title>⭐ 重磅</title>
+      <link>https://klingai.com/release-note/release-history#2026-11-17</link>
+      <description>⭐ 重磅 • Kling Image 4.0 正式上线！ • 真实、清晰、准确。单张画面更出彩，成套创作更连贯。</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://klingai.com/release-note/release-history#2026-11-17</guid>
+    </item>
+    <item>
+      <title>2026-11-17</title>
       <link>https://klingai.com/release-note/release-history#2026-10-15</link>
-      <description>⭐ 重磅 • Kling 4.0 全面升级！ • 全能班底，你和可灵。 • 2026-06-17 • 可灵 3.0 系列模型迎来升级！ • 可灵 3.0 Turbo 正式发布，可灵 3.0 Omni 视频编辑能力升级。 • 2026-04-23 • 可灵AI支持原生4K直出，媲美院线级质感！ • 全球首个原生4K直出的视频模型，可灵AI开启院线级质感时代！ • 2026-03-16</description>
+      <description>2026-11-17 • ⭐ 重磅 • Kling Image 4.0 正式上线！ • 真实、清晰、准确。单张画面更出彩，成套创作更连贯。 • ⭐ 重磅 • Kling 4.0 全面升级！ • 全能班底，你和可灵。 • 2026-06-17 • 可灵 3.0 系列模型迎来升级！ • 可灵 3.0 Turbo 正式发布，可灵 3.0 Omni 视频编辑能力升级。</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://klingai.com/release-note/release-history#2026-10-15</guid>
     </item>
@@ -61,13 +68,6 @@
       <description>⭐ 重磅 • 灵动画布-Agent模式重磅上线！一键分镜，轻松出片 • 灵动画布-Agent模式重磅上线，智能分镜 + 镜头多角度拓展，短片创作一步到位；多轮对话编辑+一键批量生成，让创作效率直线飙升！</description>
       <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://klingai.com/release-note/release-history#2026-01-29</guid>
-    </item>
-    <item>
-      <title>可灵图片 O1 模型文生图全面升级，参考生图一致性保持更佳！</title>
-      <link>https://klingai.com/release-note/release-history#2026-01-05</link>
-      <description>可灵图片 O1 模型文生图全面升级，参考生图一致性保持更佳！ • 可灵图片 O1 模型全面更新，文生图影调出色，画面质量全面提升；图生图场景下参考图保持明显提升。</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://klingai.com/release-note/release-history#2026-01-05</guid>
     </item>
   </channel>
 </rss>

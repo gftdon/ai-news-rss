@@ -5,13 +5,34 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:55:44 GMT</lastBuildDate>
+    <item>
+      <title>Introducing GPT-6.2 Astra and Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+      <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.</description>
+      <pubDate>Tue, 17 Nov 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
+    </item>
     <item>
       <title>Strengthening NATO and allied cyber defenses with AI</title>
       <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
       <description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+    </item>
+    <item>
+      <title>Introducing OpenAI for Chile</title>
+      <link>https://openai.com/index/introducing-openai-for-chile</link>
+      <description>OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-openai-for-chile</guid>
+    </item>
+    <item>
+      <title>Astra for Law leads in legal intelligence</title>
+      <link>https://openai.com/index/astra-law-6-2</link>
+      <description>Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
     </item>
     <item>
       <title>Broadening access to AI for scientists</title>
@@ -49,18 +70,18 @@
       <guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
     </item>
     <item>
-      <title>More ways to move care forward with ChatGPT for Healthcare</title>
-      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
-      <description>Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.</description>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
-    </item>
-    <item>
       <title>Advancing computer-use agents for healthcare teams</title>
       <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
       <description>OpenAI research/release: Advancing computer-use agents for healthcare teams</description>
       <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+    </item>
+    <item>
+      <title>More ways to move care forward with ChatGPT for Healthcare</title>
+      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+      <description>Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.</description>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
     </item>
     <item>
       <title>The King’s Trust and OpenAI launch £1m partnership</title>
@@ -124,27 +145,6 @@
       <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.</description>
       <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
-    </item>
-    <item>
-      <title>Introducing Businesses in ChatGPT</title>
-      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
-      <description>Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.</description>
-      <pubDate>Tue, 10 Nov 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-businesses-chatgpt</guid>
-    </item>
-    <item>
-      <title>Closing the AI guidance gap in education</title>
-      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
-      <description>New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.</description>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
-    </item>
-    <item>
-      <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
-      <link>https://openai.com/index/singapore-airlines-travel-work</link>
-      <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/singapore-airlines-travel-work</guid>
     </item>
   </channel>
 </rss>
