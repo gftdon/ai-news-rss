@@ -5,13 +5,20 @@
     <link>https://www.minimax.io/blog</link>
     <description>Latest posts from MiniMax Blog</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:47:37 GMT</lastBuildDate>
     <item>
       <title>MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era</title>
       <link>https://www.minimax.io/blog/minimax-h3-image</link>
       <description>MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era</description>
       <pubDate>Tue, 10 Nov 2026 16:23:20 GMT</pubDate>
       <guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-image</guid>
+    </item>
+    <item>
+      <title>Practical cryptanalysis with MiniMax&apos;s latest Internal Model</title>
+      <link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
+      <description>Practical cryptanalysis with MiniMax&apos;s latest Internal Model</description>
+      <pubDate>Fri, 20 Nov 2026 06:41:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
     </item>
     <item>
       <title>Introducing MiniMax Code Mini App</title>

@@ -5,7 +5,77 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:47:37 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence</link>
+      <description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/perplexity-and-intelligence</guid>
+    </item>
+    <item>
+      <title>Combatting adversarial distillation</title>
+      <link>https://openai.com/index/combatting-adversarial-distillation</link>
+      <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
+      <pubDate>Fri, 20 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/combatting-adversarial-distillation</guid>
+    </item>
+    <item>
+      <title>Can AI help scientists identify promising drug candidates?</title>
+      <link>https://openai.com/index/introducing-medchembench</link>
+      <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-medchembench</guid>
+    </item>
+    <item>
+      <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
+      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+      <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.</description>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+    </item>
+    <item>
+      <title>The Silent Consensus</title>
+      <link>https://openai.com/index/the-silent-consensus</link>
+      <description>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.</description>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/the-silent-consensus</guid>
+    </item>
+    <item>
+      <title>Research acceleration: The jagged frontier</title>
+      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
+      <description>OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/research-acceleration-jagged-frontier</guid>
+    </item>
+    <item>
+      <title>Inside the Codex sandbox</title>
+      <link>https://openai.com/index/inside-the-codex-sandbox</link>
+      <description>See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/inside-the-codex-sandbox</guid>
+    </item>
+    <item>
+      <title>Managing frontier AI risk: From training to deployment</title>
+      <link>https://openai.com/index/managing-frontier-ai-risk</link>
+      <description>OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.</description>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/managing-frontier-ai-risk</guid>
+    </item>
+    <item>
+      <title>Advancing chip design with OpenAI models</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+      <description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+    </item>
+    <item>
+      <title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+      <description>Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+    </item>
     <item>
       <title>Introducing GPT-6.2 Astra and Sol</title>
       <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
@@ -28,18 +98,18 @@
       <guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
     </item>
     <item>
-      <title>Astra for Law leads in legal intelligence</title>
-      <link>https://openai.com/index/astra-law-6-2</link>
-      <description>Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
-    </item>
-    <item>
       <title>Introducing OpenAI for Chile</title>
       <link>https://openai.com/index/introducing-openai-for-chile</link>
       <description>OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-openai-for-chile</guid>
+    </item>
+    <item>
+      <title>Astra for Law leads in legal intelligence</title>
+      <link>https://openai.com/index/astra-law-6-2</link>
+      <description>Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
     </item>
     <item>
       <title>Broadening access to AI for scientists</title>
@@ -75,76 +145,6 @@
       <description>OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.</description>
       <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
-    </item>
-    <item>
-      <title>More ways to move care forward with ChatGPT for Healthcare</title>
-      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
-      <description>Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.</description>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
-    </item>
-    <item>
-      <title>Advancing computer-use agents for healthcare teams</title>
-      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
-      <description>OpenAI research/release: Advancing computer-use agents for healthcare teams</description>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
-    </item>
-    <item>
-      <title>The King’s Trust and OpenAI launch £1m partnership</title>
-      <link>https://openai.com/index/the-kings-trust-and-openai</link>
-      <description>The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/the-kings-trust-and-openai</guid>
-    </item>
-    <item>
-      <title>A step toward defining the Standard Model on a lattice</title>
-      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-      <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.</description>
-      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
-    </item>
-    <item>
-      <title>Our new blog for science</title>
-      <link>https://openai.com/index/our-new-blog-for-science</link>
-      <description>The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.</description>
-      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
-    </item>
-    <item>
-      <title>Introducing ChatGPT Wallet</title>
-      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
-    </item>
-    <item>
-      <title>Supporting research on AI and children’s safety</title>
-      <link>https://openai.com/index/children-first-declaration</link>
-      <description>OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/children-first-declaration</guid>
-    </item>
-    <item>
-      <title>Gilbert + Tobin rethinks the business of law with AI</title>
-      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-      <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
-    </item>
-    <item>
-      <title>ChatGPT Plus for veterans and servicemembers</title>
-      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-plus-for-veterans</guid>
-    </item>
-    <item>
-      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
-      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
-      <description>JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/jiostar-vijay-seshadri</guid>
     </item>
   </channel>
 </rss>

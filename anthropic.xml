@@ -5,7 +5,21 @@
     <link>https://www.anthropic.com/news</link>
     <description>Latest news, announcements, and research from Anthropic</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:47:36 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement</title>
+      <link>https://www.anthropic.com/news/ipo-close</link>
+      <description>[Announcements] Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/ipo-close</guid>
+    </item>
+    <item>
+      <title>Anthropic prices initial public offering</title>
+      <link>https://www.anthropic.com/news/anthropic-prices-initial-public-offering</link>
+      <description>[Announcements] Today Anthropic, PBC priced its initial public offering of its Class A common stock.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-prices-initial-public-offering</guid>
+    </item>
     <item>
       <title>Anthropic launches roadshow for proposed initial public offering</title>
       <link>https://www.anthropic.com/news/roadshow-launch</link>
@@ -159,20 +173,6 @@
       <description>[Announcements] Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.anthropic.com/claude-opus-5-5</guid>
-    </item>
-    <item>
-      <title>The Situation Report</title>
-      <link>https://www.anthropic.com/features/ebola-response</link>
-      <description>[Features] A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/features/ebola-response</guid>
-    </item>
-    <item>
-      <title>Partnering with Accenture on embedded evaluation</title>
-      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-      <description>[Partnerships] We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
     </item>
   </channel>
 </rss>

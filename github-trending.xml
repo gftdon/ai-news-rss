@@ -5,111 +5,118 @@
     <link>https://github.com/trending?since=daily</link>
     <description>Daily trending repositories on GitHub</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:47:38 GMT</lastBuildDate>
     <item>
-      <title>elementalsouls/Claude-BugHunter [Python] — 1,005 stars today</title>
+      <title>elementalsouls/Claude-BugHunter [Python] — 1,716 stars today</title>
       <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <description>[Python] A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. (1,005 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
+      <description>[Python] A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. (1,716 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
     </item>
     <item>
-      <title>mvanhorn/last30days-skill [Python] — 696 stars today</title>
-      <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>[Python] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (696 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
-    </item>
-    <item>
-      <title>alibaba/open-code-review [Go] — 763 stars today</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <description>[Go] Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (763 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
-    </item>
-    <item>
-      <title>Tencent/LoopForge [Go] — 591 stars today</title>
-      <link>https://github.com/Tencent/LoopForge</link>
-      <description>[Go] Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. (591 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
-    </item>
-    <item>
-      <title>dream-num/univer [TypeScript] — 1,774 stars today</title>
-      <link>https://github.com/dream-num/univer</link>
-      <description>[TypeScript] Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. (1,774 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
-    </item>
-    <item>
-      <title>getarcaneapp/arcane [Go] — 618 stars today</title>
-      <link>https://github.com/getarcaneapp/arcane</link>
-      <description>[Go] Modern Docker Management, Designed for Everyone (618 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/getarcaneapp/arcane</guid>
-    </item>
-    <item>
-      <title>google-labs-code/stitch-skills [TypeScript] — 350 stars today</title>
-      <link>https://github.com/google-labs-code/stitch-skills</link>
-      <description>[TypeScript] A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. (350 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/google-labs-code/stitch-skills</guid>
-    </item>
-    <item>
-      <title>cursor/plugins [TypeScript] — 201 stars today</title>
-      <link>https://github.com/cursor/plugins</link>
-      <description>[TypeScript] Cursor plugin specification and official plugins (201 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
-    </item>
-    <item>
-      <title>obra/superpowers [Shell] — 1,917 stars today</title>
+      <title>obra/superpowers [Shell] — 788 stars today</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (1,917 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
+      <description>[Shell] An agentic skills framework &amp; software development methodology that works. (788 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
     </item>
     <item>
-      <title>ag-ui-protocol/ag-ui [TypeScript] — 1,445 stars today</title>
-      <link>https://github.com/ag-ui-protocol/ag-ui</link>
-      <description>[TypeScript] AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (1,445 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/ag-ui-protocol/ag-ui</guid>
+      <title>HKUDS/CLI-Anything [Python] — 699 stars today</title>
+      <link>https://github.com/HKUDS/CLI-Anything</link>
+      <description>[Python] &quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/ (699 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
     </item>
     <item>
-      <title>backnotprop/plannotator [TypeScript] — 691 stars today</title>
-      <link>https://github.com/backnotprop/plannotator</link>
-      <description>[TypeScript] The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. (691 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/backnotprop/plannotator</guid>
-    </item>
-    <item>
-      <title>sveltejs/svelte [JavaScript] — 477 stars today</title>
-      <link>https://github.com/sveltejs/svelte</link>
-      <description>[JavaScript] web development for the rest of us (477 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/sveltejs/svelte</guid>
-    </item>
-    <item>
-      <title>affaan-m/ECC [JavaScript] — 883 stars today</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <description>[JavaScript] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (883 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-    </item>
-    <item>
-      <title>jingyaogong/minimind [Python] — 192 stars today</title>
+      <title>jingyaogong/minimind [Python] — 473 stars today</title>
       <link>https://github.com/jingyaogong/minimind</link>
-      <description>[Python] 🧠 Train a 64M-parameter LLM from scratch in just 2h! (192 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
+      <description>[Python] 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. (473 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
       <guid isPermaLink="true">https://github.com/jingyaogong/minimind</guid>
     </item>
     <item>
-      <title>google-research/paper-orchestra [Python] — 1,072 stars today</title>
-      <link>https://github.com/google-research/paper-orchestra</link>
-      <description>[Python] PaperOrchestra is a multi-agent framework for automated AI research paper writing. (1,072 stars today)</description>
-      <pubDate>Wed, 18 Nov 2026 02:31:31 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/google-research/paper-orchestra</guid>
+      <title>cursor/plugins [TypeScript] — 294 stars today</title>
+      <link>https://github.com/cursor/plugins</link>
+      <description>[TypeScript] Cursor plugin specification and official plugins (294 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
+    </item>
+    <item>
+      <title>firecrawl/firecrawl [TypeScript] — 915 stars today</title>
+      <link>https://github.com/firecrawl/firecrawl</link>
+      <description>[TypeScript] Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. (915 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/firecrawl/firecrawl</guid>
+    </item>
+    <item>
+      <title>nginx/nginx [C] — 163 stars today</title>
+      <link>https://github.com/nginx/nginx</link>
+      <description>[C] The official NGINX Open Source repository. (163 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/nginx/nginx</guid>
+    </item>
+    <item>
+      <title>openvinotoolkit/openvino [C++] — 158 stars today</title>
+      <link>https://github.com/openvinotoolkit/openvino</link>
+      <description>[C++] OpenVINO™ is an open source toolkit for optimizing and deploying AI inference (158 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/openvinotoolkit/openvino</guid>
+    </item>
+    <item>
+      <title>cathrynlavery/diagram-design [HTML] — 518 stars today</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <description>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. (518 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
+    </item>
+    <item>
+      <title>mvanhorn/last30days-skill [Python] — 668 stars today</title>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <description>[Python] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (668 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
+    </item>
+    <item>
+      <title>google-labs-code/stitch-skills [TypeScript] — 494 stars today</title>
+      <link>https://github.com/google-labs-code/stitch-skills</link>
+      <description>[TypeScript] A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. (494 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/google-labs-code/stitch-skills</guid>
+    </item>
+    <item>
+      <title>mjmirza/app-store-compliance [Shell] — 621 stars today</title>
+      <link>https://github.com/mjmirza/app-store-compliance</link>
+      <description>[Shell] Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents. (621 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/mjmirza/app-store-compliance</guid>
+    </item>
+    <item>
+      <title>Tracer-Cloud/opensre [Python] — 399 stars today</title>
+      <link>https://github.com/Tracer-Cloud/opensre</link>
+      <description>[Python] The open-source agent for CI/CD reliability. (399 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/Tracer-Cloud/opensre</guid>
+    </item>
+    <item>
+      <title>toeverything/AFFiNE [TypeScript] — 542 stars today</title>
+      <link>https://github.com/toeverything/AFFiNE</link>
+      <description>[TypeScript] There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. (542 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/toeverything/AFFiNE</guid>
+    </item>
+    <item>
+      <title>XiaoYouChR/Ghost-Downloader-3 [Python] — 701 stars today</title>
+      <link>https://github.com/XiaoYouChR/Ghost-Downloader-3</link>
+      <description>[Python] The only downloader you need. 下载器的集大成者。 (701 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/XiaoYouChR/Ghost-Downloader-3</guid>
+    </item>
+    <item>
+      <title>zhouxiaoka/autoclip [Python] — 641 stars today</title>
+      <link>https://github.com/zhouxiaoka/autoclip</link>
+      <description>[Python] AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing. (641 stars today)</description>
+      <pubDate>Mon, 23 Nov 2026 04:47:38 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/zhouxiaoka/autoclip</guid>
     </item>
   </channel>
 </rss>

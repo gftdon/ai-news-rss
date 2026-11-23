@@ -5,7 +5,14 @@
     <link>https://seed.bytedance.com/en</link>
     <description>Latest AI research papers from ByteDance Seed</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:47:37 GMT</lastBuildDate>
+    <item>
+      <title>PhysLoop: Harnessing LLMs&apos; Physics Awareness for Self-Improving Video Generation Models</title>
+      <link>https://seed.bytedance.com/en/public_papers/physloop-harnessing-llms-physics-awareness-for-self-improving-video-generation-models</link>
+      <description>Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos. We present PhysLoop, a unified harness designed t...</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/physloop-harnessing-llms-physics-awareness-for-self-improving-video-generation-models</guid>
+    </item>
     <item>
       <title>Recycler: Cost-Free Latent Reasoning via Hidden State Recycling</title>
       <link>https://seed.bytedance.com/en/public_papers/recycler-cost-free-latent-reasoning-via-hidden-state-recycling</link>
@@ -131,13 +138,6 @@
       <description>When a coding agent obeys a rule, it may simply have been going to do that anyway. Existing instruction-following benchmarks cannot tell the difference: they concentrate rules in the user turn, while coding-agent benchmarks emphasize final task success. We introduce Harness-IF, which scores operational rules one at a time from execution evidence: 60 realistic multi-turn coding items drawn from a 642-rule library, 256 rules receiving verdicts, placed on the five configurable surfaces a deploye...</description>
       <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/harness-if-evaluating-instruction-following-across-instruction-surfaces-in-coding-agents</guid>
-    </item>
-    <item>
-      <title>GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?</title>
-      <link>https://seed.bytedance.com/en/public_papers/gst-bench-can-vlms-develop-global-spatial-awareness-from-video</link>
-      <description>Spatial intelligence is fundamental to embodied agents, yet existing benchmarks focus on local spatial perception from single or few viewpoints, overlooking global spatial awareness over continuous, long-horizon visual streams. To address this limitation, we introduce the Global-Spatial-Temporal Benchmark (GST-Bench), a VQA benchmark for global spatial intelligence in video understanding, comprising human-verified questions derived from 6,790 minutes of synthetically generated video. It requi...</description>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/gst-bench-can-vlms-develop-global-spatial-awareness-from-video</guid>
     </item>
   </channel>
 </rss>
