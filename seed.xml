@@ -5,14 +5,7 @@
     <link>https://seed.bytedance.com/en</link>
     <description>Latest AI research papers from ByteDance Seed</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 04:53:39 GMT</lastBuildDate>
-    <item>
-      <title>PhysLoop: Harnessing LLMs&apos; Physics Awareness for Self-Improving Video Generation Models</title>
-      <link>https://seed.bytedance.com/en/public_papers/physloop-harnessing-llms-physics-awareness-for-self-improving-video-generation-models</link>
-      <description>Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos. We present PhysLoop, a unified harness designed t...</description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seed.bytedance.com/en/public_papers/physloop-harnessing-llms-physics-awareness-for-self-improving-video-generation-models</guid>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 15:46:11 GMT</lastBuildDate>
     <item>
       <title>Recycler: Cost-Free Latent Reasoning via Hidden State Recycling</title>
       <link>https://seed.bytedance.com/en/public_papers/recycler-cost-free-latent-reasoning-via-hidden-state-recycling</link>
