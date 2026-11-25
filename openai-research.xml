@@ -5,7 +5,21 @@
     <link>https://openai.com/research/index/release/</link>
     <description>Latest research papers and model releases from OpenAI</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:11:11 GMT</lastBuildDate>
+    <item>
+      <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
+      <description>GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.</description>
+      <pubDate>Tue, 24 Nov 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</guid>
+    </item>
+    <item>
+      <title>Searching for distant planets with Astra</title>
+      <link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
+      <description>See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.</description>
+      <pubDate>Tue, 24 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
+    </item>
     <item>
       <title>OpenAI and Cisco introduce Shirudo</title>
       <link>https://openai.com/index/introducing-shirudo</link>
@@ -105,18 +119,18 @@
       <guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
     </item>
     <item>
-      <title>Astra for Law leads in legal intelligence</title>
-      <link>https://openai.com/index/astra-law-6-2</link>
-      <description>Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
-    </item>
-    <item>
       <title>Introducing OpenAI for Chile</title>
       <link>https://openai.com/index/introducing-openai-for-chile</link>
       <description>OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/introducing-openai-for-chile</guid>
+    </item>
+    <item>
+      <title>Astra for Law leads in legal intelligence</title>
+      <link>https://openai.com/index/astra-law-6-2</link>
+      <description>Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
     </item>
     <item>
       <title>Broadening access to AI for scientists</title>
@@ -131,20 +145,6 @@
       <description>New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.</description>
       <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
-    </item>
-    <item>
-      <title>Science at the Frontier: How scientists use ChatGPT</title>
-      <link>https://openai.com/index/science-at-the-frontier</link>
-      <description>Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.</description>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/science-at-the-frontier</guid>
-    </item>
-    <item>
-      <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
-      <link>https://openai.com/index/lvmh-media-division-partnership</link>
-      <description>LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.</description>
-      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/lvmh-media-division-partnership</guid>
     </item>
   </channel>
 </rss>
